@@ -1,0 +1,159 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_45,Process_19,2022-03-01T03:46:32+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar, Open planning tool,Event_216
+1,Recording_45,Process_19,2022-03-01T03:46:35+00:00,Select menu option in window,"Menu Item 'More added apps Toolbar' in Pane 'General  ...  Teams, Main Window'", Open planning tool,Event_216
+2,Recording_45,Process_19,2022-03-01T03:46:42+00:00,Populate text field in window,"Edit 'Search for apps' in Pane 'General  ...  Teams, Main Window'; Text:'project'", Open planning tool,Event_216
+3,Recording_45,Process_19,2022-03-01T03:46:53+00:00,Press button in window,"Button in Pane 'General  ...  Teams, Main Window'", Open planning tool,Event_216
+4,Recording_45,Process_19,2022-03-01T03:46:56+00:00,Select menu option in window,"Menu Item 'OnePlan' in Pane 'General  ...  Teams, Main Window'", Open planning tool,Event_216
+5,Recording_45,Process_19,2022-03-01T03:47:08+00:00,Click UI element in window,"Hyperlink 'Change Group' in Pane 'General  ...  Teams, Main Window'", Open planning tool,Event_216
+6,Recording_45,Process_19,2022-03-01T03:47:14+00:00,Select menu option in window,"Menu Item '--Select Group--' in Pane 'General  ...  Teams, Main Window'", Open planning tool,Event_216
+7,Recording_45,Process_19,2022-03-01T03:47:22+00:00,Click UI element in window,"Hyperlink 'Create a New Trial' in Pane 'General  ...  Teams, Main Window'", Open planning tool,Event_216
+8,Recording_45,Process_19,2022-03-01T03:47:30+00:00,Click UI element in window,"Hyperlink 'Continue' in Pane 'General  ...  Teams, Main Window'", Open planning tool,Event_216
+9,Recording_45,Process_19,2022-03-01T03:47:38+00:00,Select menu option in window,"Menu Item in Pane 'General  ...  Teams, Main Window'",Download the data file of all task,Event_217
+10,Recording_45,Process_19,2022-03-01T03:47:57+00:00,Click UI element in window,"Pane 3 in Pane 'General  ...  Teams, Main Window'",Download the data file of all task,Event_217
+11,Recording_45,Process_19,2022-03-01T03:48:16+00:00,Press button in window,File Explorer - 1 running window in Quick Launch Bar,Download the data file of all task,Event_217
+12,Recording_45,Process_19,2022-03-01T03:48:20+00:00,Click UI element in window,Edit 'Name' in Window 'Downloads',Download the data file of all task,Event_217
+13,Recording_45,Process_19,2022-03-01T03:48:27+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Wor ...  View] - Excel\'']['Button \'Enable Editing\''],Download the data file of all task,Event_217
+14,Recording_45,Process_19,2022-03-01T03:48:30+00:00,Press button in window,Button 'File Tab' in Window 'WorkPlan_Taskdistributionofnewproject.csv - Excel',Download the data file of all task,Event_217
+15,Recording_45,Process_19,2022-03-01T03:48:34+00:00,Select tab in window,Tab Item 'Save As' in Window 'WorkPlan_Taskdistributionofnewproject.csv - Excel',Download the data file of all task,Event_217
+16,Recording_45,Process_19,2022-03-01T03:48:37+00:00,Press button in window,Button 'Downloads' in Window 'WorkPlan_Taskdistributionofnewproject.csv - Excel',Download the data file of all task,Event_217
+17,Recording_45,Process_19,2022-03-01T03:48:54+00:00,Populate text field in window,Edit 'File name:' in Window 'WorkPlan_Taskdistributionofnewproject.csv - Excel'; Text:'WorkPlan for new project',Download the data file of all task,Event_217
+18,Recording_45,Process_19,2022-03-01T03:48:58+00:00,Set drop-down list value in window,Combo Box 'Save as type:' in Window 'WorkPlan_Taskdistributionofnewproject.csv - Excel',Download the data file of all task,Event_217
+19,Recording_45,Process_19,2022-03-01T03:49:02+00:00,Press button in window,Button 'Save' in Window 'WorkPlan_Taskdistributionofnewproject.csv - Excel',Download the data file of all task,Event_217
+20,Recording_45,Process_19,2022-03-01T03:49:04+00:00,Press button in window,Button 'Yes' in Window 'WorkPlan for new project - Excel',Download the data file of all task,Event_217
+21,Recording_45,Process_19,2022-03-01T03:49:10+00:00,Press button in window,Button 'Close' in Window 'WorkPlan for new project - Excel',Download the data file of all task,Event_217
+22,Recording_45,Process_19,2022-03-01T03:49:12+00:00,Press button in window,Button 'Save' in Window 'WorkPlan for new project - Excel',Download the data file of all task,Event_217
+23,Recording_45,Process_19,2022-03-01T03:49:14+00:00,Press button in window,Button 'Save' in Window 'WorkPlan for new project - Excel',Download the data file of all task,Event_217
+24,Recording_45,Process_19,2022-03-01T03:49:17+00:00,Press button in window,Button 'Save' in Window 'WorkPlan for new project - Excel',Download the data file of all task,Event_217
+25,Recording_45,Process_19,2022-03-01T03:49:19+00:00,Populate text field in window,Edit 'Search box' in Window 'Search'; Text:'sql',Go to SQL server,Event_218
+26,Recording_45,Process_19,2022-03-01T03:49:25+00:00,Click UI element in window,List Item 'Microsoft  ...  to switch preview' in Window 'Search',Go to SQL server,Event_218
+27,Recording_45,Process_19,2022-03-01T03:49:36+00:00,Press button in window,Button 'Connect' in Window 'Microsoft SQL Server Management Studio',Go to SQL server,Event_218
+28,Recording_45,Process_19,2022-03-01T03:49:49+00:00,Click UI element in window,Tree Item 'Databases' in Window 'Microsoft SQL Server Management Studio',Add the data file,Event_219
+29,Recording_45,Process_19,2022-03-01T03:49:56+00:00,Click UI element in window,Tree Item 'sqlpowerbi' in Window 'Microsoft SQL Server Management Studio',Add the data file,Event_219
+30,Recording_45,Process_19,2022-03-01T03:50:09+00:00,Click UI element in window,Tool Bar 'TasksDropDown' in Window 'Microsoft SQL Server Management Studio',Add the data file,Event_219
+31,Recording_45,Process_19,2022-03-01T03:50:13+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Next >\''],Add the data file,Event_219
+32,Recording_45,Process_19,2022-03-01T03:50:29+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Browse Button\''],Add the data file,Event_219
+33,Recording_45,Process_19,2022-03-01T03:50:35+00:00,Click UI element in window,UIAutomation.ClickElement:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Edit \'Name\'']ClickType:UIAutomation.ClickType.LeftClickOffsetX:-33OffsetY:-2MousePositionRelativeToElement:UIAutomation.RectangleEdgePoint.MiddleCenter,Add the data file,Event_219
+34,Recording_45,Process_19,2022-03-01T03:50:37+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Open\''],Add the data file,Event_219
+35,Recording_45,Process_19,2022-03-01T03:50:43+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Next >\''],Add the data file,Event_219
+36,Recording_45,Process_19,2022-03-01T03:50:49+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Next >\''],Add the data file,Event_219
+37,Recording_45,Process_19,2022-03-01T03:50:53+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Next >\''],Add the data file,Event_219
+38,Recording_45,Process_19,2022-03-01T03:50:57+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Finish\''],Add the data file,Event_219
+39,Recording_45,Process_19,2022-03-01T03:51:04+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Close\''],Add the data file,Event_219
+40,Recording_45,Process_19,2022-03-01T03:51:10+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Go to the project tracking tool,Event_220
+41,Recording_45,Process_19,2022-03-01T03:51:13+00:00,Select menu option in window,"Menu Item 'More added apps Toolbar' in Pane 'General  ...  Teams, Main Window'",Go to the project tracking tool,Event_220
+42,Recording_45,Process_19,2022-03-01T03:51:17+00:00,Populate text field in window,"Edit 'Search for apps' in Pane 'General  ...  Teams, Main Window'; Text:'pro'",Go to the project tracking tool,Event_220
+43,Recording_45,Process_19,2022-03-01T03:51:29+00:00,Select menu option in window,"Menu Item 'App searching results ' in Pane 'General  ...  Teams, Main Window'",Go to the project tracking tool,Event_220
+44,Recording_45,Process_19,2022-03-01T03:51:35+00:00,Press button in window,"Button 'Add to a team' in Pane 'General  ...  Teams, Main Window'",Go to the project tracking tool,Event_220
+45,Recording_45,Process_19,2022-03-01T03:51:55+00:00,Populate text field in window,"Edit 'Type a team or channel name' in Pane 'General  ...  Teams, Main Window'; Text:'p'",Go to the project tracking tool,Event_220
+46,Recording_45,Process_19,2022-03-01T03:52:00+00:00,Select menu option in window,"Menu Item 2 in Pane 'General  ...  Teams, Main Window'",Go to the project tracking tool,Event_220
+47,Recording_45,Process_19,2022-03-01T03:52:03+00:00,Press button in window,"Button 'Set up a tab' in Pane 'General  ...  Teams, Main Window'",Go to the project tracking tool,Event_220
+48,Recording_45,Process_19,2022-03-01T03:52:12+00:00,Click UI element in window,"List Item in Pane 'General  ...  Teams, Main Window'",Go to the project tracking tool,Event_220
+49,Recording_45,Process_19,2022-03-01T03:52:15+00:00,Press button in window,"Button 'Save' in Pane 'General  ...  Teams, Main Window'",Go to the project tracking tool,Event_220
+50,Recording_45,Process_19,2022-03-01T03:52:28+00:00,Drag and drop UI element in window,"Group 'Grid view' in Pane 'General  ...  Teams, Main Window'",Update the status of assigned task,Event_221
+51,Recording_45,Process_19,2022-03-01T03:52:31+00:00,Click UI element in window,"Data Item '%  ...  Header % complete' in Pane 'General  ...  Teams, Main Window'",Update the status of assigned task,Event_221
+52,Recording_45,Process_19,2022-03-01T03:52:34+00:00,Populate text field in window,"Edit in Pane 'General  ...  Teams, Main Window'; Text:'100'",Update the status of assigned task,Event_221
+53,Recording_45,Process_19,2022-03-01T03:52:36+00:00,Click UI element in window,"Group 'Grid view' in Pane 'General  ...  Teams, Main Window'",Update the status of assigned task,Event_221
+54,Recording_45,Process_19,2022-03-01T03:52:38+00:00,Drag and drop UI element in window,"Group 'Grid view' in Pane 'General  ...  Teams, Main Window'",Update the status of assigned task,Event_221
+55,Recording_45,Process_19,2022-03-01T03:52:49+00:00,Click UI element in window,"Tree Item 'Name Q &  ...  of 4. Column 3 of 8' in Pane 'General  ...  Teams, Main Window'",Update the status of assigned task,Event_221
+0,Recording_46,Process_19,2022-03-01T04:08:46+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar,Go to the planning tool,Event_222
+1,Recording_46,Process_19,2022-03-01T04:08:48+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher',Go to the planning tool,Event_222
+2,Recording_46,Process_19,2022-03-01T04:08:57+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Person 1'; Text:'Zoho planner',Go to the planning tool,Event_222
+3,Recording_46,Process_19,2022-03-01T04:08:58+00:00,Send keys,TextToSend:'{Return}',Go to the planning tool,Event_222
+4,Recording_46,Process_19,2022-03-01T04:09:01+00:00,Click UI element in window,Hyperlink ' Project  ...  › project-planning' in Pane 'New Tab - Google Chrome - Person 1',Go to the planning tool,Event_222
+5,Recording_46,Process_19,2022-03-01T04:09:06+00:00,Click UI element in window,Hyperlink 'ACCESS ZOHO PROJECTS' in Pane 'New Tab - Google Chrome - Person 1',Go to the planning tool,Event_222
+6,Recording_46,Process_19,2022-03-01T04:09:12+00:00,Click UI element in window,Hyperlink 'Action plan to on-board Project A' in Pane 'New Tab - Google Chrome - Person 1',Go to the planning tool,Event_222
+7,Recording_46,Process_19,2022-03-01T04:09:21+00:00,Click UI element in window,Text '' in Pane 'New Tab - Google Chrome - Person 1',Export the tasks file,Event_223
+8,Recording_46,Process_19,2022-03-01T04:09:35+00:00,Click UI element in window,Text 'Export Tasks' in Pane 'New Tab - Google Chrome - Person 1',Export the tasks file,Event_223
+9,Recording_46,Process_19,2022-03-01T04:09:41+00:00,Click UI element in window,Hyperlink 'XLS' in Pane 'New Tab - Google Chrome - Person 1',Export the tasks file,Event_223
+10,Recording_46,Process_19,2022-03-01T04:09:43+00:00,Click UI element in window,Edit in Pane 'New Tab - Google Chrome - Person 1',Export the tasks file,Event_223
+11,Recording_46,Process_19,2022-03-01T04:09:48+00:00,Press button in window,Button 'Export' in Pane 'New Tab - Google Chrome - Person 1',Export the tasks file,Event_223
+12,Recording_46,Process_19,2022-03-01T04:09:53+00:00,Press button in window,Button 'Yes' in Pane 'New Tab - Google Chrome - Person 1',Export the tasks file,Event_223
+13,Recording_46,Process_19,2022-03-01T04:09:57+00:00,Press button in window,Button 'Yes' in Pane 'New Tab - Google Chrome - Person 1',Export the tasks file,Event_223
+14,Recording_46,Process_19,2022-03-01T04:10:06+00:00,Click UI element in window,Hyperlink 'Download' in Pane 'New Tab - Google Chrome - Person 1',Export the tasks file,Event_223
+15,Recording_46,Process_19,2022-03-01T04:10:23+00:00,Press button in window,File Explorer in Quick Launch Bar,Export the tasks file,Event_223
+16,Recording_46,Process_19,2022-03-01T04:10:29+00:00,Click UI element in window,Tree Item 'Downloads (pinned)' in Window 'File Explorer',Export the tasks file,Event_223
+17,Recording_46,Process_19,2022-03-01T04:10:34+00:00,Click UI element in window,Edit 'Name' in Window 'Downloads',Export the tasks file,Event_223
+18,Recording_46,Process_19,2022-03-01T04:10:38+00:00,Select menu option in window,Menu Item 'Extract All...' in ContextMenu,Export the tasks file,Event_223
+19,Recording_46,Process_19,2022-03-01T04:10:46+00:00,Press button in window,Button 'Extract' in Window 'Extract Compressed (Zipped) Folders',Export the tasks file,Event_223
+20,Recording_46,Process_19,2022-03-01T04:10:54+00:00,Populate text field in window,Edit 'Password:' in Window '0% complete'; Text:P'password_secret_text',Export the tasks file,Event_223
+21,Recording_46,Process_19,2022-03-01T04:10:59+00:00,Press button in window,Button 'OK' in Window '0% complete',Export the tasks file,Event_223
+22,Recording_46,Process_19,2022-03-01T04:11:03+00:00,Click UI element in window,Edit 'Name' in Window 'task_export_112718000000025949',Export the tasks file,Event_223
+23,Recording_46,Process_19,2022-03-01T04:11:08+00:00,Press button in window,Button 'Type here to search' in TaskBar,Open SQL server,Event_224
+24,Recording_46,Process_19,2022-03-01T04:11:12+00:00,Populate text field in window,Edit 'Search box' in Window 'Search'; Text:'sql',Open SQL server,Event_224
+25,Recording_46,Process_19,2022-03-01T04:11:16+00:00,Click UI element in window,List Item 'Microsoft  ...  to switch preview' in Window 'Search',Open SQL server,Event_224
+26,Recording_46,Process_19,2022-03-01T04:11:36+00:00,Press button in window,Button 'Connect' in Window 'Microsoft SQL Server Management Studio',Open SQL server,Event_224
+27,Recording_46,Process_19,2022-03-01T04:11:50+00:00,Click UI element in window,Tree Item 'Databases' in Window 'Microsoft SQL Server Management Studio',Import the data file of all task,Event_225
+28,Recording_46,Process_19,2022-03-01T04:11:54+00:00,Click UI element in window,Tree Item 'Databases' in Window 'Microsoft SQL Server Management Studio',Import the data file of all task,Event_225
+29,Recording_46,Process_19,2022-03-01T04:11:59+00:00,Click UI element in window,Tree Item 'sqlpowerbi' in Window 'Microsoft SQL Server Management Studio',Import the data file of all task,Event_225
+30,Recording_46,Process_19,2022-03-01T04:12:07+00:00,Click UI element in window,Tool Bar 'Context Menu' in Window 'Microsoft SQL Server Management Studio',Import the data file of all task,Event_225
+31,Recording_46,Process_19,2022-03-01T04:12:10+00:00,Click UI element in window,Tool Bar 'TasksDropDown' in Window 'Microsoft SQL Server Management Studio',Import the data file of all task,Event_225
+32,Recording_46,Process_19,2022-03-01T04:12:19+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Next >\''],Import the data file of all task,Event_225
+33,Recording_46,Process_19,2022-03-01T04:12:34+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Browse Button\''],Import the data file of all task,Event_225
+34,Recording_46,Process_19,2022-03-01T04:12:40+00:00,Click UI element in window,UIAutomation.ClickElement:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Tree Item \'Downloads\'']ClickType:UIAutomation.ClickType.LeftClickOffsetX:8OffsetY:-1MousePositionRelativeToElement:UIAutomation.RectangleEdgePoint.MiddleLeft,Import the data file of all task,Event_225
+35,Recording_46,Process_19,2022-03-01T04:12:43+00:00,Click UI element in window,UIAutomation.ClickElement:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Edit \'Name\'']ClickType:UIAutomation.ClickType.DoubleClickOffsetX:25OffsetY:-2MousePositionRelativeToElement:UIAutomation.RectangleEdgePoint.MiddleLeft,Import the data file of all task,Event_225
+36,Recording_46,Process_19,2022-03-01T04:12:45+00:00,Click UI element in window,UIAutomation.ClickElement:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Edit \'Name\' 2']ClickType:UIAutomation.ClickType.LeftClickOffsetX:38OffsetY:-3MousePositionRelativeToElement:UIAutomation.RectangleEdgePoint.MiddleLeft,Import the data file of all task,Event_225
+37,Recording_46,Process_19,2022-03-01T04:12:47+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Open\''],Import the data file of all task,Event_225
+38,Recording_46,Process_19,2022-03-01T04:12:51+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Next >\''],Import the data file of all task,Event_225
+39,Recording_46,Process_19,2022-03-01T04:12:57+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Next >\''],Import the data file of all task,Event_225
+40,Recording_46,Process_19,2022-03-01T04:13:00+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Next >\''],Import the data file of all task,Event_225
+41,Recording_46,Process_19,2022-03-01T04:13:03+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Finish\''],Import the data file of all task,Event_225
+42,Recording_46,Process_19,2022-03-01T04:13:10+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Close\''],Import the data file of all task,Event_225
+43,Recording_46,Process_19,2022-03-01T04:13:22+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar, Open the roadmap app,Event_226
+44,Recording_46,Process_19,2022-03-01T04:13:26+00:00,Press button in window,"Button 'Add a tab' in Pane 'General  ...  Teams, Main Window'", Open the roadmap app,Event_226
+45,Recording_46,Process_19,2022-03-01T04:13:30+00:00,Click UI element in window,"List Item 'Trello' in Pane 'General  ...  Teams, Main Window'", Open the roadmap app,Event_226
+46,Recording_46,Process_19,2022-03-01T04:13:38+00:00,Click UI element in window,"List Item in Pane 'General  ...  Teams, Main Window'", Open the roadmap app,Event_226
+47,Recording_46,Process_19,2022-03-01T04:13:40+00:00,Press button in window,"Button 'Save' in Pane 'General  ...  Teams, Main Window'", Open the roadmap app,Event_226
+48,Recording_46,Process_19,2022-03-01T04:13:57+00:00,Click UI element in window,"Text 'Prepared a  ...  on SQAL Server' in Pane 'General  ...  Teams, Main Window'",Move the running task to Finish bucket,Event_227
+49,Recording_46,Process_19,2022-03-01T04:14:00+00:00,Send keys,TextToSend:'{Escape}',Move the running task to Finish bucket,Event_227
+50,Recording_46,Process_19,2022-03-01T04:14:01+00:00,Click UI element in window,"Text 'Prepared a  ...  on SQAL Server' in Pane 'General  ...  Teams, Main Window'",Move the running task to Finish bucket,Event_227
+51,Recording_46,Process_19,2022-03-01T04:14:13+00:00,Click UI element in window,"Hyperlink 'Move' in Pane 'General  ...  Teams, Main Window'",Move the running task to Finish bucket,Event_227
+52,Recording_46,Process_19,2022-03-01T04:14:16+00:00,Click UI element in window,"Combo Box in Pane 'General  ...  Teams, Main Window'",Move the running task to Finish bucket,Event_227
+53,Recording_46,Process_19,2022-03-01T04:14:18+00:00,Click UI element in window,"Document 'Chrome_RenderWidgetHostHWND' in Pane 'General  ...  Teams, Main Window'",Move the running task to Finish bucket,Event_227
+54,Recording_46,Process_19,2022-03-01T04:14:27+00:00,Click UI element in window,"Hyperlink 'Change cover' in Pane 'General  ...  Teams, Main Window'",Move the running task to Finish bucket,Event_227
+55,Recording_46,Process_19,2022-03-01T04:14:32+00:00,Press button in window,"Button 'Move' in Pane 'General  ...  Teams, Main Window'",Move the running task to Finish bucket,Event_227
+56,Recording_46,Process_19,2022-03-01T04:14:39+00:00,Click UI element in window,"Edit 'Done' in Pane 'General  ...  Teams, Main Window'",Move the running task to Finish bucket,Event_227
+0,Recording_65,Process_19,2022-02-28T10:44:00+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Login to planning tool,Event_327
+1,Recording_65,Process_19,2022-02-28T10:44:02+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Watchlist - Distill — Mozilla Firefox',Login to planning tool,Event_327
+2,Recording_65,Process_19,2022-02-28T10:44:06+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'o365',Login to planning tool,Event_327
+3,Recording_65,Process_19,2022-02-28T10:44:06+00:00,Send keys,TextToSend:'{Return}',Login to planning tool,Event_327
+4,Recording_65,Process_19,2022-02-28T10:44:10+00:00,Click UI element in window,Hyperlink 'Office  ... office.com' in Window 'o365 - Google Search — Mozilla Firefox',Login to planning tool,Event_327
+5,Recording_65,Process_19,2022-02-28T10:44:24+00:00,Click UI element in window,Hyperlink 'Planner' in Window 'Microsoft Office Home — Mozilla Firefox',Login to planning tool,Event_327
+6,Recording_65,Process_19,2022-02-28T10:44:30+00:00,Click UI element in window,"List Item 'New project ,' in Window 'Hub - Planner — Mozilla Firefox'",Login to planning tool,Event_327
+7,Recording_65,Process_19,2022-02-28T10:44:34+00:00,Select menu option in window,Menu Item 'More' in Window 'New project - Planner — Mozilla Firefox',Get the data file of all task,Event_328
+8,Recording_65,Process_19,2022-02-28T10:44:37+00:00,Select menu option in window,Menu Item 'Export plan to Excel' in Window 'New project - Planner — Mozilla Firefox',Get the data file of all task,Event_328
+9,Recording_65,Process_19,2022-02-28T10:44:42+00:00,Click UI element in window,Combo Box in Window 'New project - Planner — Mozilla Firefox',Get the data file of all task,Event_328
+10,Recording_65,Process_19,2022-02-28T10:44:47+00:00,Press button in window,Button 'OK' in Window 'New project - Planner — Mozilla Firefox',Get the data file of all task,Event_328
+11,Recording_65,Process_19,2022-02-28T10:44:53+00:00,Press button in window,File Explorer - 1 running window in Quick Launch Bar,Get the data file of all task,Event_328
+12,Recording_65,Process_19,2022-02-28T10:44:56+00:00,Click UI element in window,Tree Item 'Downloads' in Window 'Guideline',Get the data file of all task,Event_328
+13,Recording_65,Process_19,2022-02-28T10:44:59+00:00,Click UI element in window,Edit 'Name' in Window 'Downloads',Get the data file of all task,Event_328
+14,Recording_65,Process_19,2022-02-28T10:45:04+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'New project .xlsx  [Protected View] - Excel\'']['Button \'Enable Editing\''],Get the data file of all task,Event_328
+15,Recording_65,Process_19,2022-02-28T10:45:13+00:00,Press button in window,Button 'File Tab' in Window 'New project .xlsx - Excel',Get the data file of all task,Event_328
+16,Recording_65,Process_19,2022-02-28T10:45:15+00:00,Select tab in window,Tab Item 'Save As' in Window 'New project .xlsx - Excel',Get the data file of all task,Event_328
+17,Recording_65,Process_19,2022-02-28T10:45:21+00:00,Press button in window,Button 'Downloads' in Window 'New project .xlsx - Excel',Get the data file of all task,Event_328
+18,Recording_65,Process_19,2022-02-28T10:45:43+00:00,Set drop-down list value in window,Combo Box 'Save as type:' in Window 'New project .xlsx - Excel',Get the data file of all task,Event_328
+19,Recording_65,Process_19,2022-02-28T10:45:46+00:00,Press button in window,Button 'Save' in Window 'New project .xlsx - Excel',Get the data file of all task,Event_328
+20,Recording_65,Process_19,2022-02-28T10:46:06+00:00,Press button in window,Button 'Type here to search' in TaskBar,Go to SQL server,Event_329
+21,Recording_65,Process_19,2022-02-28T10:46:08+00:00,Populate text field in window,Edit 'Search box' in Window 'Search'; Text:'sql',Go to SQL server,Event_329
+22,Recording_65,Process_19,2022-02-28T10:46:12+00:00,Click UI element in window,List Item 'Microsoft  ...  to switch preview' in Window 'Search',Go to SQL server,Event_329
+23,Recording_65,Process_19,2022-02-28T10:46:28+00:00,Press button in window,Button 'Connect' in Window 'Microsoft SQL Server Management Studio',Go to SQL server,Event_329
+24,Recording_65,Process_19,2022-02-28T10:46:41+00:00,Click UI element in window,Tree Item 'Databases' in Window 'Microsoft SQL Server Management Studio',Go to SQL server,Event_329
+25,Recording_65,Process_19,2022-02-28T10:46:46+00:00,Drag and drop UI element in window,Tree Item 'sqlpowerbi' in Window 'Microsoft SQL Server Management Studio',Upload the data file of tasks,Event_330
+26,Recording_65,Process_19,2022-02-28T10:47:41+00:00,Click UI element in window,Tree Item 'sqlpowerbi' in Window 'Microsoft SQL Server Management Studio',Upload the data file of tasks,Event_330
+27,Recording_65,Process_19,2022-02-28T10:47:45+00:00,Click UI element in window,Tool Bar 'Context Menu' in Window 'Microsoft SQL Server Management Studio',Upload the data file of tasks,Event_330
+28,Recording_65,Process_19,2022-02-28T10:47:50+00:00,Click UI element in window,Tool Bar 'TasksDropDown' in Window 'Microsoft SQL Server Management Studio',Upload the data file of tasks,Event_330
+29,Recording_65,Process_19,2022-02-28T10:47:54+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Next >\''],Upload the data file of tasks,Event_330
+30,Recording_65,Process_19,2022-02-28T10:48:08+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Browse Button\''],Upload the data file of tasks,Event_330
+31,Recording_65,Process_19,2022-02-28T10:48:10+00:00,Click UI element in window,UIAutomation.ClickElement:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Edit \'Name\'']ClickType:UIAutomation.ClickType.LeftClickOffsetX:31OffsetY:1MousePositionRelativeToElement:UIAutomation.RectangleEdgePoint.MiddleLeft,Upload the data file of tasks,Event_330
+32,Recording_65,Process_19,2022-02-28T10:48:12+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Open\''],Upload the data file of tasks,Event_330
+33,Recording_65,Process_19,2022-02-28T10:48:15+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Next >\''],Upload the data file of tasks,Event_330
+34,Recording_65,Process_19,2022-02-28T10:48:18+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Next >\''],Upload the data file of tasks,Event_330
+35,Recording_65,Process_19,2022-02-28T10:48:21+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Next >\''],Upload the data file of tasks,Event_330
+36,Recording_65,Process_19,2022-02-28T10:48:23+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Finish\''],Upload the data file of tasks,Event_330
+37,Recording_65,Process_19,2022-02-28T10:48:28+00:00,Press button in window,UIAutomation.PressButtonButton:appmask['Window \'Import Flat File \'sqlpowerbi\'\'']['Button \'Close\''],Upload the data file of tasks,Event_330
+38,Recording_65,Process_19,2022-02-28T10:48:35+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Login to project tracker,Event_331
+39,Recording_65,Process_19,2022-02-28T10:48:38+00:00,Select tab in window,Tab Item 'Microsoft Office Home' in Window 'New project - Planner — Mozilla Firefox',Login to project tracker,Event_331
+40,Recording_65,Process_19,2022-02-28T10:48:40+00:00,Select menu option in window,Menu Item 'App launcher' in Window 'Microsoft Office Home — Mozilla Firefox',Login to project tracker,Event_331
+41,Recording_65,Process_19,2022-02-28T10:48:46+00:00,Click UI element in window,Hyperlink 'Project' in Window 'Microsoft Office Home — Mozilla Firefox',Login to project tracker,Event_331
+42,Recording_65,Process_19,2022-02-28T10:48:58+00:00,Press button in window,Button 'Project Update' in Window 'Project — Mozilla Firefox',close the status of assigned task,Event_332
+43,Recording_65,Process_19,2022-02-28T10:49:07+00:00,Click UI element in window,Tree Item 'Name  ...  of 2. Column 3 of 8' in Window 'Project Update — Mozilla Firefox',close the status of assigned task,Event_332
+44,Recording_65,Process_19,2022-02-28T10:49:09+00:00,Set checkbox state in window,Check Box 'Mark as completed' in Window 'Project Update — Mozilla Firefox',close the status of assigned task,Event_332

@@ -1,0 +1,115 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_7,Process_6,2022-02-21T11:21:22+00:00,Press button in window,"Action Center, 1 new notification in System Tray",Verify the notification about preparing roadmap is received,Event_26
+1,Recording_7,Process_6,2022-02-21T11:21:27+00:00,Click UI element in window,Text 'Please create a roadmap for data collection activity' in Window 'Action center',Verify the notification about preparing roadmap is received,Event_26
+2,Recording_7,Process_6,2022-02-21T11:21:30+00:00,Click UI element in window,Text 'Please create a roadmap for data collection activity' in Pane 'Skype',Verify the notification about preparing roadmap is received,Event_26
+3,Recording_7,Process_6,2022-02-21T11:21:34+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Login to roadmap app,Event_27
+4,Recording_7,Process_6,2022-02-21T11:21:37+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Untitled project — Mozilla Firefox',Login to roadmap app,Event_27
+5,Recording_7,Process_6,2022-02-21T11:21:40+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'o365',Login to roadmap app,Event_27
+6,Recording_7,Process_6,2022-02-21T11:21:40+00:00,Send keys,TextToSend:'{Return}',Login to roadmap app,Event_27
+7,Recording_7,Process_6,2022-02-21T11:21:53+00:00,Click UI element in window,Hyperlink 'Office  ... office.com' in Window 'o365 - Google Search — Mozilla Firefox',Login to roadmap app,Event_27
+8,Recording_7,Process_6,2022-02-21T11:22:03+00:00,Click UI element in window,Hyperlink 'Project' in Window 'Microsoft Office Home — Mozilla Firefox',Login to roadmap app,Event_27
+9,Recording_7,Process_6,2022-02-21T11:22:15+00:00,Select menu option in window,Menu Item 'Press enter to create a project. Press alt + down for more options' in Window 'Project — Mozilla Firefox',Prepare the roadmap,Event_28
+10,Recording_7,Process_6,2022-02-21T11:22:20+00:00,Click UI element in window,Edit 'Add new task' in Window 'Untitled project — Mozilla Firefox',Prepare the roadmap,Event_28
+11,Recording_7,Process_6,2022-02-21T11:22:25+00:00,Click UI element in window,Tree Item 'Add new  ...  of 1. Column 3 of 7' in Window 'Untitled project — Mozilla Firefox',Prepare the roadmap,Event_28
+12,Recording_7,Process_6,2022-02-21T11:22:30+00:00,Populate text field in window,Edit 'Add New Row' in Window 'Untitled project — Mozilla Firefox'; Text:'Data collection task',Prepare the roadmap,Event_28
+13,Recording_7,Process_6,2022-02-21T11:22:33+00:00,Click UI element in window,Data Item 'Add new  ...  Header Assigned to' in Window 'Untitled project — Mozilla Firefox',Prepare the roadmap,Event_28
+14,Recording_7,Process_6,2022-02-21T11:22:34+00:00,Click UI element in window,Text '' in Window 'Untitled project — Mozilla Firefox',Prepare the roadmap,Event_28
+15,Recording_7,Process_6,2022-02-21T11:22:39+00:00,Populate text field in window,Edit 'Enter text to search.' in Window 'Untitled project — Mozilla Firefox'; Text:'Name',Prepare the roadmap,Event_28
+16,Recording_7,Process_6,2022-02-21T11:22:43+00:00,Click UI element in window,List Item 'Name Surname' in Window 'Untitled project — Mozilla Firefox',Prepare the roadmap,Event_28
+17,Recording_7,Process_6,2022-02-21T11:22:46+00:00,Press button in window,Button 'Add a group' in Window 'Untitled project — Mozilla Firefox',Prepare the roadmap,Event_28
+18,Recording_7,Process_6,2022-02-21T11:22:48+00:00,Select tab in window,"Tab Item 'Tab 2 of 2, Add to a group' in Window 'Untitled project — Mozilla Firefox'",Prepare the roadmap,Event_28
+19,Recording_7,Process_6,2022-02-21T11:22:50+00:00,Click UI element in window,UI Custom 'Select group' in Window 'Untitled project — Mozilla Firefox',Prepare the roadmap,Event_28
+20,Recording_7,Process_6,2022-02-21T11:22:57+00:00,Click UI element in window,"UI Custom 'Project RoadMap, Public' in Window 'Untitled project — Mozilla Firefox'",Prepare the roadmap,Event_28
+21,Recording_7,Process_6,2022-02-21T11:22:59+00:00,Press button in window,Button 'Add and assign' in Window 'Untitled project — Mozilla Firefox',Prepare the roadmap,Event_28
+22,Recording_7,Process_6,2022-02-21T11:23:04+00:00,Click UI element in window,Edit 'Duration' in Window 'Untitled project — Mozilla Firefox',Prepare the roadmap,Event_28
+23,Recording_7,Process_6,2022-02-21T11:23:08+00:00,Click UI element in window,Data Item 'Add new  ...  Header Duration' in Window 'Untitled project — Mozilla Firefox',Prepare the roadmap,Event_28
+24,Recording_7,Process_6,2022-02-21T11:23:09+00:00,Populate text field in window,Edit in Window 'Untitled project — Mozilla Firefox'; Text:'3',Prepare the roadmap,Event_28
+25,Recording_7,Process_6,2022-02-21T11:23:12+00:00,Send keys,TextToSend:'{Return}',Prepare the roadmap,Event_28
+26,Recording_7,Process_6,2022-02-21T11:23:22+00:00,Press button in window,"System Clock, 04:53 PM, ‎21-‎02-‎2022 in System Tray",Open the calendar and set event,Event_29
+27,Recording_7,Process_6,2022-02-21T11:23:28+00:00,Click UI element in window,Data Item '24' in Window 'Date and Time Usernamermation',Open the calendar and set event,Event_29
+28,Recording_7,Process_6,2022-02-21T11:23:48+00:00,Populate text field in window,Edit 'Add an event or reminder' in Window 'Date and Time Usernamermation'; Text:'discussion regarding data collection task',Open the calendar and set event,Event_29
+29,Recording_7,Process_6,2022-02-21T11:23:53+00:00,Press button in window,Button 'Save' in Window 'Date and Time Usernamermation',Open the calendar and set event,Event_29
+0,Recording_8,Process_6,2022-02-21T11:22:09+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Check notification regarding data collection roadmap,Event_30
+1,Recording_8,Process_6,2022-02-21T11:22:15+00:00,Click UI element in window,List Item 'Process  ...  - Microsoft​ Edge' in List 'Task Switcher',Check notification regarding data collection roadmap,Event_30
+2,Recording_8,Process_6,2022-02-21T11:22:19+00:00,Press button in window,Button 'New Tab' in Window 'Process  ...  - Microsoft​ Edge',Check notification regarding data collection roadmap,Event_30
+3,Recording_8,Process_6,2022-02-21T11:22:24+00:00,Press button in window,"Button 'Email Notifier, 2' in Window 'New tab and  ...  - Microsoft​ Edge'",Check notification regarding data collection roadmap,Event_30
+4,Recording_8,Process_6,2022-02-21T11:22:27+00:00,Click UI element in window,Data Item '2' in Window 'New tab and  ...  - Microsoft​ Edge',Check notification regarding data collection roadmap,Event_30
+5,Recording_8,Process_6,2022-02-21T11:22:38+00:00,Click UI element in window,Group ' Unread From:  ...  Mail for Windows.' in Window '(2 unread) -  ...  - Microsoft​ Edge',Check notification regarding data collection roadmap,Event_30
+6,Recording_8,Process_6,2022-02-21T11:22:54+00:00,Click UI element in window,Group 'D_F m_Z12nDQf P_Z1A2bQX I_52qC ab_CI' in Window 'kru ...  - Microsoft​ Edge',Check notification regarding data collection roadmap,Event_30
+7,Recording_8,Process_6,2022-02-21T11:23:03+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Open the roadmap tool,Event_31
+8,Recording_8,Process_6,2022-02-21T11:23:06+00:00,Press button in window,"Button 'Teams Toolbar' in Pane 'Name Surname | Microsoft Teams, Main Window'",Open the roadmap tool,Event_31
+9,Recording_8,Process_6,2022-02-21T11:23:17+00:00,Click UI element in window,"Hyperlink 'General More options' in Pane 'Name Surname | Microsoft Teams, Main Window'",Open the roadmap tool,Event_31
+10,Recording_8,Process_6,2022-02-21T11:23:24+00:00,Press button in window,"Button 'Add a tab' in Pane 'Name Surname | Microsoft Teams, Main Window'",Open the roadmap tool,Event_31
+11,Recording_8,Process_6,2022-02-21T11:23:36+00:00,Populate text field in window,"Edit 'Search' in Pane 'Name Surname | Microsoft Teams, Main Window'; Text:'Project'",Open the roadmap tool,Event_31
+12,Recording_8,Process_6,2022-02-21T11:23:40+00:00,Click UI element in window,"List Item 'Project' in Pane 'Name Surname | Microsoft Teams, Main Window'",Open the roadmap tool,Event_31
+13,Recording_8,Process_6,2022-02-21T11:23:47+00:00,Press button in window,"Button 'Create new project' in Pane 'Name Surname | Microsoft Teams, Main Window'",Create a roadmap for data collection,Event_32
+14,Recording_8,Process_6,2022-02-21T11:23:59+00:00,Populate text field in window,"Edit 'Name your project' in Pane 'Name Surname | Microsoft Teams, Main Window'; Text:'Data collection'",Create a roadmap for data collection,Event_32
+15,Recording_8,Process_6,2022-02-21T11:24:03+00:00,Press button in window,"Button 'Save' in Pane 'Name Surname | Microsoft Teams, Main Window'",Create a roadmap for data collection,Event_32
+16,Recording_8,Process_6,2022-02-21T11:24:19+00:00,Click UI element in window,"Text 'Add new task' in Pane 'Name Surname | Microsoft Teams, Main Window'",Create a roadmap for data collection,Event_32
+17,Recording_8,Process_6,2022-02-21T11:24:23+00:00,Click UI element in window,"Tree Item 'Add new  ...  of 1. Column 3 of 7' in Pane 'Name Surname | Microsoft Teams, Main Window'",Create a roadmap for data collection,Event_32
+18,Recording_8,Process_6,2022-02-21T11:24:40+00:00,Populate text field in window,"Edit 'Add New Row' in Pane 'Name Surname | Microsoft Teams, Main Window'; Text:'Prepare the format of data collection and share it'",Create a roadmap for data collection,Event_32
+19,Recording_8,Process_6,2022-02-21T11:24:44+00:00,Click UI element in window,"Text 'Assigned to' in Pane 'Name Surname | Microsoft Teams, Main Window'",Create a roadmap for data collection,Event_32
+20,Recording_8,Process_6,2022-02-21T11:24:49+00:00,Populate text field in window,"Edit 'Enter text to search. ' in Pane 'Name Surname | Microsoft Teams, Main Window'; Text:'sun'",Create a roadmap for data collection,Event_32
+21,Recording_8,Process_6,2022-02-21T11:24:51+00:00,Click UI element in window,"List Item 'Name Surname ' in Pane 'Name Surname | Microsoft Teams, Main Window'",Create a roadmap for data collection,Event_32
+22,Recording_8,Process_6,2022-02-21T11:24:55+00:00,Click UI element in window,"Text 'Duration' in Pane 'Name Surname | Microsoft Teams, Main Window'",Create a roadmap for data collection,Event_32
+23,Recording_8,Process_6,2022-02-21T11:24:59+00:00,Populate text field in window,"Edit in Pane 'Name Surname | Microsoft Teams, Main Window'; Text:'2'",Create a roadmap for data collection,Event_32
+24,Recording_8,Process_6,2022-02-21T11:25:08+00:00,Click UI element in window,"Data Item 'Add new  ...  Header Add column' in Pane 'Name Surname | Microsoft Teams, Main Window'",Create a roadmap for data collection,Event_32
+25,Recording_8,Process_6,2022-02-21T11:25:35+00:00,Press button in window,Button '21' in Window 'kru ...  - Microsoft​ Edge',Go to the calendar and Set event,Event_33
+26,Recording_8,Process_6,2022-02-21T11:25:40+00:00,Click UI element in window,Hyperlink 'Calendar full view' in Window 'kru ...  - Microsoft​ Edge',Go to the calendar and Set event,Event_33
+27,Recording_8,Process_6,2022-02-21T11:25:57+00:00,Click UI element in window,Group 'W_6D6F H_A F_Z2p4aGt' in Window 'htt ...  - Microsoft​ Edge',Go to the calendar and Set event,Event_33
+28,Recording_8,Process_6,2022-02-21T11:25:59+00:00,Select menu option in window,Menu Item 'New event' in Window 'htt ...  - Microsoft​ Edge',Go to the calendar and Set event,Event_33
+29,Recording_8,Process_6,2022-02-21T11:26:01+00:00,Click UI element in window,Group 'ybar ...  _yb_1pao2' in Window 'htt ...  - Microsoft​ Edge',Go to the calendar and Set event,Event_33
+30,Recording_8,Process_6,2022-02-21T11:26:10+00:00,Populate text field in window,Edit 'Event title' in Window 'htt ...  - Microsoft​ Edge'; Text:'Dta collection discussion',Go to the calendar and Set event,Event_33
+31,Recording_8,Process_6,2022-02-21T11:26:15+00:00,Click UI element in window,Edit '5:00 PM' in Window 'htt ...  - Microsoft​ Edge',Go to the calendar and Set event,Event_33
+32,Recording_8,Process_6,2022-02-21T11:26:23+00:00,Click UI element in window,Hyperlink '2:30 PM' in Window 'htt ...  - Microsoft​ Edge',Go to the calendar and Set event,Event_33
+33,Recording_8,Process_6,2022-02-21T11:26:25+00:00,Click UI element in window,Edit '6:00 PM' in Window 'htt ...  - Microsoft​ Edge',Go to the calendar and Set event,Event_33
+34,Recording_8,Process_6,2022-02-21T11:26:30+00:00,Click UI element in window,Hyperlink '3:30 PM' in Window 'htt ...  - Microsoft​ Edge',Go to the calendar and Set event,Event_33
+35,Recording_8,Process_6,2022-02-21T11:26:35+00:00,Click UI element in window,Edit 'Description' in Window 'htt ...  - Microsoft​ Edge',Go to the calendar and Set event,Event_33
+36,Recording_8,Process_6,2022-02-21T11:26:52+00:00,Populate text field in window,Edit 'Description' 2 in Window 'htt ...  - Microsoft​ Edge'; Text:'Discussion about data collection format',Go to the calendar and Set event,Event_33
+37,Recording_8,Process_6,2022-02-21T11:26:54+00:00,Click UI element in window,Edit 'Busy' in Window 'htt ...  - Microsoft​ Edge',Go to the calendar and Set event,Event_33
+38,Recording_8,Process_6,2022-02-21T11:26:57+00:00,Click UI element in window,Hyperlink 'Free' in Window 'htt ...  - Microsoft​ Edge',Go to the calendar and Set event,Event_33
+39,Recording_8,Process_6,2022-02-21T11:27:01+00:00,Press button in window,Button 'Save' in Window 'htt ...  - Microsoft​ Edge',Go to the calendar and Set event,Event_33
+0,Recording_27,Process_6,2022-02-21T11:12:32+00:00,Click UI element in window,UI Custom in Pane 'Microsoft Teams Notification',Check notification received for preparing roadmap of data collection,Event_123
+1,Recording_27,Process_6,2022-02-21T11:12:50+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Go to the roadmap app,Event_124
+2,Recording_27,Process_6,2022-02-21T11:12:55+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Go to the roadmap app,Event_124
+3,Recording_27,Process_6,2022-02-21T11:12:59+00:00,Press button in window,Button 'Teams Toolbar' in Pane 'Microsoft Teams Notification',Go to the roadmap app,Event_124
+4,Recording_27,Process_6,2022-02-21T11:13:05+00:00,Click UI element in window,Hyperlink 'Profile  ...  More options' in Pane 'Microsoft Teams Notification',Go to the roadmap app,Event_124
+5,Recording_27,Process_6,2022-02-21T11:13:10+00:00,Press button in window,Button 'Add a tab' in Pane 'Microsoft Teams Notification',Go to the roadmap app,Event_124
+6,Recording_27,Process_6,2022-02-21T11:13:14+00:00,Click UI element in window,List Item 'Trello' in Pane 'Microsoft Teams Notification',Go to the roadmap app,Event_124
+7,Recording_27,Process_6,2022-02-21T11:13:21+00:00,Click UI element in window,Text 'Demo' in Pane 'Microsoft Teams Notification',Go to the roadmap app,Event_124
+8,Recording_27,Process_6,2022-02-21T11:13:25+00:00,Click UI element in window,List Item in Pane 'Microsoft Teams Notification',Go to the roadmap app,Event_124
+9,Recording_27,Process_6,2022-02-21T11:13:27+00:00,Press button in window,Button 'Save' in Pane 'Microsoft Teams Notification',Go to the roadmap app,Event_124
+10,Recording_27,Process_6,2022-02-21T11:13:38+00:00,Click UI element in window,Hyperlink 'Add a card' in Pane 'Microsoft Teams Notification',Generate a data collection roadmap for new project,Event_125
+11,Recording_27,Process_6,2022-02-21T11:13:49+00:00,Populate text field in window,Edit 'Enter a title for this card…' in Pane 'Microsoft Teams Notification'; Text:'Roadmap for Data collection of new project',Generate a data collection roadmap for new project,Event_125
+12,Recording_27,Process_6,2022-02-21T11:13:52+00:00,Press button in window,Button 'Add card' in Pane 'Microsoft Teams Notification',Generate a data collection roadmap for new project,Event_125
+13,Recording_27,Process_6,2022-02-21T11:13:55+00:00,Click UI element in window,Text 'Roadmap for Data collection of new project' in Pane 'Microsoft Teams Notification',Generate a data collection roadmap for new project,Event_125
+14,Recording_27,Process_6,2022-02-21T11:13:57+00:00,Click UI element in window,Text 'Roadmap for Data collection of new project' in Pane 'Microsoft Teams Notification',Generate a data collection roadmap for new project,Event_125
+15,Recording_27,Process_6,2022-02-21T11:14:06+00:00,Populate text field in window,Edit 'Add a more detailed description…' in Pane 'Microsoft Teams Notification'; Text:'Prepare the format for data collection',Generate a data collection roadmap for new project,Event_125
+16,Recording_27,Process_6,2022-02-21T11:14:07+00:00,Send keys,TextToSend:'{Return}',Generate a data collection roadmap for new project,Event_125
+17,Recording_27,Process_6,2022-02-21T11:14:21+00:00,Populate text field in window,"Edit 'Add a more detailed description…' in Pane 'Microsoft Teams Notification'; Text:'''Prepare the format for data collection
+Discuss with Team the basic concept of data collection'''",Generate a data collection roadmap for new project,Event_125
+18,Recording_27,Process_6,2022-02-21T11:14:21+00:00,Send keys,TextToSend:'{Return}',Generate a data collection roadmap for new project,Event_125
+19,Recording_27,Process_6,2022-02-21T11:14:32+00:00,Populate text field in window,"Edit 'Add a more detailed description…' in Pane 'Microsoft Teams Notification'; Text:'''Prepare the format for data collection
+Discuss with Team the basic concept of data collection
+share the format with Team'''",Generate a data collection roadmap for new project,Event_125
+20,Recording_27,Process_6,2022-02-21T11:14:37+00:00,Press button in window,Button 'Save' 2 in Pane 'Microsoft Teams Notification',Generate a data collection roadmap for new project,Event_125
+21,Recording_27,Process_6,2022-02-21T11:14:45+00:00,Press button in window,Button 'ClockIcon Dates' 2 in Pane 'Microsoft Teams Notification',Generate a data collection roadmap for new project,Event_125
+22,Recording_27,Process_6,2022-02-21T11:15:01+00:00,Click UI element in window,Data Item '25' in Pane 'Microsoft Teams Notification',Generate a data collection roadmap for new project,Event_125
+23,Recording_27,Process_6,2022-02-21T11:15:07+00:00,Click UI element in window,Text '' in Pane 'Microsoft Teams Notification',Generate a data collection roadmap for new project,Event_125
+24,Recording_27,Process_6,2022-02-21T11:15:17+00:00,Click UI element in window,Pane 2 in Pane 'Microsoft Teams Notification',Generate a data collection roadmap for new project,Event_125
+25,Recording_27,Process_6,2022-02-21T11:15:18+00:00,Click UI element in window,Pane 2 in Pane 'Microsoft Teams Notification',Generate a data collection roadmap for new project,Event_125
+26,Recording_27,Process_6,2022-02-21T11:15:28+00:00,Press button in window,Button 'Save' 3 in Pane 'Microsoft Teams Notification',Generate a data collection roadmap for new project,Event_125
+27,Recording_27,Process_6,2022-02-21T11:15:37+00:00,Click UI element in window,Text '' in Pane 'Microsoft Teams Notification',Generate a data collection roadmap for new project,Event_125
+28,Recording_27,Process_6,2022-02-21T11:15:49+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar,Set the Event in the calendar,Event_126
+29,Recording_27,Process_6,2022-02-21T11:15:53+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher',Set the Event in the calendar,Event_126
+30,Recording_27,Process_6,2022-02-21T11:15:56+00:00,Press button in window,Button 'Google apps' in Pane 'New Tab - Google Chrome - Name',Set the Event in the calendar,Event_126
+31,Recording_27,Process_6,2022-02-21T11:15:59+00:00,Click UI element in window,Document in Pane 'New Tab - Google Chrome - Name',Set the Event in the calendar,Event_126
+32,Recording_27,Process_6,2022-02-21T11:16:05+00:00,Click UI element in window,Group in Pane 'New Tab - Google Chrome - Name',Set the Event in the calendar,Event_126
+33,Recording_27,Process_6,2022-02-21T11:16:13+00:00,Click UI element in window,Data Item '28' in Pane 'New Tab - Google Chrome - Name',Set the Event in the calendar,Event_126
+34,Recording_27,Process_6,2022-02-21T11:16:18+00:00,Select menu option in window,Menu Item 'Create' in Pane 'New Tab - Google Chrome - Name',Set the Event in the calendar,Event_126
+35,Recording_27,Process_6,2022-02-21T11:16:23+00:00,Select menu option in window,Menu Item 'Event' in Pane 'New Tab - Google Chrome - Name',Set the Event in the calendar,Event_126
+36,Recording_27,Process_6,2022-02-21T11:16:31+00:00,Press button in window,"Button 'Monday, February 28 5:00pm – 6:00pm Time zone·Does not repeat' in Pane 'New Tab - Google Chrome - Name'",Set the Event in the calendar,Event_126
+37,Recording_27,Process_6,2022-02-21T11:16:37+00:00,Click UI element in window,List Item '4:45pm' in Pane 'New Tab - Google Chrome - Name',Set the Event in the calendar,Event_126
+38,Recording_27,Process_6,2022-02-21T11:16:39+00:00,Click UI element in window,Edit 'End time' in Pane 'New Tab - Google Chrome - Name',Set the Event in the calendar,Event_126
+39,Recording_27,Process_6,2022-02-21T11:16:44+00:00,Click UI element in window,List Item '12:30pm (45 mins)' in Pane 'New Tab - Google Chrome - Name',Set the Event in the calendar,Event_126
+40,Recording_27,Process_6,2022-02-21T11:16:53+00:00,Press button in window,Button 'Save' in Pane 'New Tab - Google Chrome - Name',Set the Event in the calendar,Event_126

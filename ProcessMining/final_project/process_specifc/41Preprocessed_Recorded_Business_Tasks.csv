@@ -1,0 +1,92 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_105,Process_41,2022-02-17T09:52:32+00:00,Select menu option in window,Firefox - 2 running windows in Quick Launch Bar,Open the converter,Event_490
+1,Recording_105,Process_41,2022-02-17T09:52:35+00:00,Click UI element in window,List Item 'Mozilla Firefox (Private Browsing)' in List 'Task Switcher',Open the converter,Event_490
+2,Recording_105,Process_41,2022-02-17T09:52:48+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox (Private Browsing)'; Text:'adobe converter',Open the converter,Event_490
+3,Recording_105,Process_41,2022-02-17T09:52:49+00:00,Send keys,TextToSend:'{Return}',Open the converter,Event_490
+4,Recording_105,Process_41,2022-02-17T09:52:53+00:00,Click UI element in window,Hyperlink 'Convert  ...  › convert-pdf' 2 in Window 'adobe  ...  (Private Browsing)' 2,Open the converter,Event_490
+5,Recording_105,Process_41,2022-02-17T09:53:19+00:00,Press button in window,Button 'Convert' in Window 'Convert PDFs  ...  (Private Browsing)',Open the converter,Event_490
+6,Recording_105,Process_41,2022-02-17T09:53:21+00:00,Click UI element in window,Hyperlink 'PDF to Word' in Window 'Convert PDFs  ...  (Private Browsing)',Open the converter,Event_490
+7,Recording_105,Process_41,2022-02-17T09:53:26+00:00,Press button in window,Button 'Convert PDF to Word' in Window 'Convert PDF  ...  (Private Browsing)',Browse the PDF file,Event_491
+8,Recording_105,Process_41,2022-02-17T09:53:28+00:00,Click UI element in window,Edit 'Name' in Window 'Convert PDF  ...  (Private Browsing)',Browse the PDF file,Event_491
+9,Recording_105,Process_41,2022-02-17T09:53:30+00:00,Press button in window,Button 'Open' in Window 'Convert PDF  ...  (Private Browsing)',Browse the PDF file,Event_491
+10,Recording_105,Process_41,2022-02-17T09:53:46+00:00,Press button in window,Button 'Download' in Window 'Convert PDF  ...  (Private Browsing)',Convert it to document format,Event_492
+11,Recording_105,Process_41,2022-02-17T09:53:50+00:00,Select radio button in window,Radio Button 'Save File' in Window 'Convert PDF  ...  (Private Browsing)',Convert it to document format,Event_492
+12,Recording_105,Process_41,2022-02-17T09:53:52+00:00,Press button in window,Button 'OK' in Window 'Convert PDF  ...  (Private Browsing)',Convert it to document format,Event_492
+13,Recording_105,Process_41,2022-02-17T09:53:58+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Convert PDF  ...  (Private Browsing)',Login to cloud storage,Event_493
+14,Recording_105,Process_41,2022-02-17T09:54:02+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox (Private Browsing)'; Text:'o365',Login to cloud storage,Event_493
+15,Recording_105,Process_41,2022-02-17T09:54:02+00:00,Send keys,TextToSend:'{Return}',Login to cloud storage,Event_493
+16,Recording_105,Process_41,2022-02-17T09:54:05+00:00,Click UI element in window,Hyperlink 'Office  ... office.com' in Window 'o365 -  ...  (Private Browsing)',Login to cloud storage,Event_493
+17,Recording_105,Process_41,2022-02-17T09:54:11+00:00,Click UI element in window,Hyperlink 'Sign in' in Window 'Office 365  ...  (Private Browsing)',Login to cloud storage,Event_493
+18,Recording_105,Process_41,2022-02-17T09:54:19+00:00,Click UI element in window,List Item 'Email@Domain From this website' in List,Login to cloud storage,Event_493
+19,Recording_105,Process_41,2022-02-17T09:54:21+00:00,Press button in window,Button 'Next' in Window 'Sign in to  ...  (Private Browsing)',Login to cloud storage,Event_493
+20,Recording_105,Process_41,2022-02-17T09:54:24+00:00,Press button in window,Button 'Next' in Window 'Sign in to  ...  (Private Browsing)',Login to cloud storage,Event_493
+21,Recording_105,Process_41,2022-02-17T09:54:26+00:00,Press button in window,Button 'Next' in Window 'Sign in to  ...  (Private Browsing)',Login to cloud storage,Event_493
+22,Recording_105,Process_41,2022-02-17T09:54:33+00:00,Click UI element in window,Hyperlink 'OneDrive' in Window 'Microsoft  ...  (Private Browsing)',Login to cloud storage,Event_493
+23,Recording_105,Process_41,2022-02-17T09:54:42+00:00,Select menu option in window,Menu Item 'Upload' in Window 'My files -  ...  (Private Browsing)',Upload the word format of covid-19 guideline and add new clause,Event_494
+24,Recording_105,Process_41,2022-02-17T09:54:46+00:00,Select menu option in window,MenuItem: Upload in Window 'My files -  ...  (Private Browsing)',Upload the word format of covid-19 guideline and add new clause,Event_494
+25,Recording_105,Process_41,2022-02-17T09:54:49+00:00,Click UI element in window,Edit 'Name' in Window 'My files -  ...  (Private Browsing)',Upload the word format of covid-19 guideline and add new clause,Event_494
+26,Recording_105,Process_41,2022-02-17T09:54:51+00:00,Press button in window,Button 'Open' in Window 'My files -  ...  (Private Browsing)',Upload the word format of covid-19 guideline and add new clause,Event_494
+27,Recording_105,Process_41,2022-02-17T09:55:00+00:00,Click UI element in window,Hyperlink 'Covid-19 guideline(1).docx' in Window 'My files -  ...  (Private Browsing)',Upload the word format of covid-19 guideline and add new clause,Event_494
+28,Recording_105,Process_41,2022-02-17T09:55:06+00:00,Click UI element in window,Edit 'Guideline' in Window 'Covid-19  ...  (Private Browsing)',Upload the word format of covid-19 guideline and add new clause,Event_494
+29,Recording_105,Process_41,2022-02-17T09:55:08+00:00,Send keys,TextToSend:'{LMenu}(){Return}',Upload the word format of covid-19 guideline and add new clause,Event_494
+30,Recording_105,Process_41,2022-02-17T09:55:13+00:00,Click UI element in window,UI Custom in Window 'Covid-19  ...  (Private Browsing)',Upload the word format of covid-19 guideline and add new clause,Event_494
+31,Recording_105,Process_41,2022-02-17T09:55:14+00:00,Send keys,TextToSend:'{Return}{LShiftKey}(W)ash your hand frrequently.',Upload the word format of covid-19 guideline and add new clause,Event_494
+0,Recording_130,Process_41,2022-02-17T09:53:14+00:00,Press button in window,PDF Converter Pro - Free - 1 running window in Quick Launch Bar,Go to the content conversion app,Event_590
+1,Recording_130,Process_41,2022-02-17T09:53:17+00:00,Click UI element in window,"List Item 'From PDF' in Window 'PDF  ...  RTF, XPS, Images'",Go to the content conversion app,Event_590
+2,Recording_130,Process_41,2022-02-17T09:53:19+00:00,Press button in window,"Button 'Button' in Window 'PDF  ...  RTF, XPS, Images'"," To convert the PDF format of covid-19 guideline, browse it in conversion tool",Event_591
+3,Recording_130,Process_41,2022-02-17T09:53:25+00:00,Click UI element in window,"Tree Item 'Documents (pinned)' in Window 'PDF  ...  RTF, XPS, Images'"," To convert the PDF format of covid-19 guideline, browse it in conversion tool",Event_591
+4,Recording_130,Process_41,2022-02-17T09:53:27+00:00,Click UI element in window,"Edit 'Name' in Window 'PDF  ...  RTF, XPS, Images'"," To convert the PDF format of covid-19 guideline, browse it in conversion tool",Event_591
+5,Recording_130,Process_41,2022-02-17T09:53:28+00:00,Click UI element in window,"Edit 'Name' 2 in Window 'PDF  ...  RTF, XPS, Images'"," To convert the PDF format of covid-19 guideline, browse it in conversion tool",Event_591
+6,Recording_130,Process_41,2022-02-17T09:53:34+00:00,Press button in window,"Button '...' in Window 'PDF  ...  RTF, XPS, Images'",Store the PDF format to word document,Event_592
+7,Recording_130,Process_41,2022-02-17T09:53:35+00:00,Expand/collapse tree node in window,"Tree Item 'This PC' in Window 'PDF  ...  RTF, XPS, Images'",Store the PDF format to word document,Event_592
+8,Recording_130,Process_41,2022-02-17T09:53:37+00:00,Expand/collapse tree node in window,"Tree Item 'Documents' in Window 'PDF  ...  RTF, XPS, Images'",Store the PDF format to word document,Event_592
+9,Recording_130,Process_41,2022-02-17T09:53:39+00:00,Click UI element in window,"Tree Item 'Documents' in Window 'PDF  ...  RTF, XPS, Images'",Store the PDF format to word document,Event_592
+10,Recording_130,Process_41,2022-02-17T09:53:41+00:00,Expand/collapse tree node in window,"Tree Item 'Documents' in Window 'PDF  ...  RTF, XPS, Images'",Store the PDF format to word document,Event_592
+11,Recording_130,Process_41,2022-02-17T09:53:42+00:00,Click UI element in window,"Edit 'TextBox' in Window 'PDF  ...  RTF, XPS, Images'",Store the PDF format to word document,Event_592
+12,Recording_130,Process_41,2022-02-17T09:53:45+00:00,Set drop-down list value in window,"Combo Box 'ComboBox' in Window 'PDF  ...  RTF, XPS, Images'",Store the PDF format to word document,Event_592
+13,Recording_130,Process_41,2022-02-17T09:53:48+00:00,Press button in window,"Button 'Button' 2 in Window 'PDF  ...  RTF, XPS, Images'",Store the PDF format to word document,Event_592
+14,Recording_130,Process_41,2022-02-17T09:53:54+00:00,Click UI element in window,UIAutomation.ClickElement:appmask['Window \'01_January\'22\'']['Edit \'Name\'']ClickType:UIAutomation.ClickType.LeftClickOffsetX:70OffsetY:-2MousePositionRelativeToElement:UIAutomation.RectangleEdgePoint.MiddleLeft,Store the PDF format to word document,Event_592
+15,Recording_130,Process_41,2022-02-17T09:54:01+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar, Go to cloud storage,Event_593
+16,Recording_130,Process_41,2022-02-17T09:54:05+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher', Go to cloud storage,Event_593
+17,Recording_130,Process_41,2022-02-17T09:54:08+00:00,Press button in window,Button 'SharePoint' in Pane 'New Tab - Google Chrome - Name', Go to cloud storage,Event_593
+18,Recording_130,Process_41,2022-02-17T09:54:11+00:00,Click UI element in window,Hyperlink 'Project RoadMap' in Pane 'New Tab - Google Chrome - Name', Go to cloud storage,Event_593
+19,Recording_130,Process_41,2022-02-17T09:54:15+00:00,Click UI element in window,Hyperlink 'Documents' in Pane 'New Tab - Google Chrome - Name', Go to cloud storage,Event_593
+20,Recording_130,Process_41,2022-02-17T09:54:19+00:00,Select menu option in window,Menu Item 'Upload' in Pane 'New Tab - Google Chrome - Name',Upload the word document file and modify it,Event_594
+21,Recording_130,Process_41,2022-02-17T09:54:21+00:00,Click UI element in window,Group in Pane 'New Tab - Google Chrome - Name',Upload the word document file and modify it,Event_594
+22,Recording_130,Process_41,2022-02-17T09:54:25+00:00,Click UI element in window,Edit 'Name' in Pane 'New Tab - Google Chrome - Name',Upload the word document file and modify it,Event_594
+23,Recording_130,Process_41,2022-02-17T09:54:36+00:00,Click UI element in window,Data Item 'New  ...  people Show actions' in Pane 'New Tab - Google Chrome - Name',Upload the word document file and modify it,Event_594
+24,Recording_130,Process_41,2022-02-17T09:54:38+00:00,Click UI element in window,Hyperlink 'Covid-19 guideline-20220217151803.docx' in Pane 'New Tab - Google Chrome - Name',Upload the word document file and modify it,Event_594
+25,Recording_130,Process_41,2022-02-17T09:54:42+00:00,Click UI element in window,Document 'Chrome Legacy Window' in Pane 'New Tab - Google Chrome - Name',Upload the word document file and modify it,Event_594
+26,Recording_130,Process_41,2022-02-17T09:54:47+00:00,Click UI element in window,Group 2 in Pane 'New Tab - Google Chrome - Name',Upload the word document file and modify it,Event_594
+27,Recording_130,Process_41,2022-02-17T09:54:49+00:00,Send keys,TextToSend:'{Return}{Return}{LShiftKey}(N)w{Back}eed to sit two people only on single table{Return}',Upload the word document file and modify it,Event_594
+28,Recording_130,Process_41,2022-02-17T09:55:16+00:00,Select tab in window,Tab Item 'Covid-19 guideline-20220217151803.docx' in Pane 'New Tab - Google Chrome - Name',Upload the word document file and modify it,Event_594
+0,Recording_131,Process_41,2022-02-17T09:47:23+00:00,Press button in window,Nebula PDF Converter Pro in Quick Launch Bar,Open file formating tool,Event_595
+1,Recording_131,Process_41,2022-02-17T09:47:28+00:00,Press button in window,Button '' in Window 'Nebula PDF Converter Pro',Open file formating tool,Event_595
+2,Recording_131,Process_41,2022-02-17T09:47:31+00:00,Click UI element in window,List Item 'PDFConverter.ViewModels.ToolListUsername' in Window 'Nebula PDF Converter Pro',Open file formating tool,Event_595
+3,Recording_131,Process_41,2022-02-17T09:47:34+00:00,Press button in window,Button 'Button' in Window 'Nebula PDF Converter Pro',Upload the Covid-19 guideline which is in PDF format,Event_596
+4,Recording_131,Process_41,2022-02-17T09:47:38+00:00,Click UI element in window,Tree Item 'Desktop' in Window 'Nebula PDF Converter Pro',Upload the Covid-19 guideline which is in PDF format,Event_596
+5,Recording_131,Process_41,2022-02-17T09:47:40+00:00,Click UI element in window,Edit 'Name' in Window 'Nebula PDF Converter Pro',Upload the Covid-19 guideline which is in PDF format,Event_596
+6,Recording_131,Process_41,2022-02-17T09:47:44+00:00,Press button in window,Button 'Open' in Window 'Nebula PDF Converter Pro',Upload the Covid-19 guideline which is in PDF format,Event_596
+7,Recording_131,Process_41,2022-02-17T09:47:52+00:00,Press button in window,Button 'Browser...' in Window 'Nebula PDF Converter Pro',Save it to word format,Event_597
+8,Recording_131,Process_41,2022-02-17T09:47:56+00:00,Click UI element in window,Tree Item 'Desktop' 2 in Window 'Nebula PDF Converter Pro',Save it to word format,Event_597
+9,Recording_131,Process_41,2022-02-17T09:47:58+00:00,Press button in window,Button 'Select Folder' in Window 'Nebula PDF Converter Pro',Save it to word format,Event_597
+10,Recording_131,Process_41,2022-02-17T09:48:08+00:00,Press button in window,Button 'Convert' in Window 'Nebula PDF Converter Pro',Save it to word format,Event_597
+11,Recording_131,Process_41,2022-02-17T09:48:19+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Open the cloud storage,Event_598
+12,Recording_131,Process_41,2022-02-17T09:48:23+00:00,Click UI element in window,List Item 'New tab  ...  - Microsoft​ Edge' in List 'Task Switcher',Open the cloud storage,Event_598
+13,Recording_131,Process_41,2022-02-17T09:48:33+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'office 365',Open the cloud storage,Event_598
+14,Recording_131,Process_41,2022-02-17T09:48:34+00:00,Send keys,TextToSend:'{Return}',Open the cloud storage,Event_598
+15,Recording_131,Process_41,2022-02-17T09:48:38+00:00,Click UI element in window,Hyperlink 'Office 365 login' in Window 'office 365 -  ...  - Microsoft​ Edge',Open the cloud storage,Event_598
+16,Recording_131,Process_41,2022-02-17T09:48:44+00:00,Click UI element in window,Hyperlink 'SharePoint' in Window 'Microsoft  ...  - Microsoft​ Edge',Open the cloud storage,Event_598
+17,Recording_131,Process_41,2022-02-17T09:48:53+00:00,Click UI element in window,Hyperlink 'Project RoadMap' in Window 'SharePoint  ...  - Microsoft​ Edge', Import the guideline and edit it,Event_599
+18,Recording_131,Process_41,2022-02-17T09:49:04+00:00,Select menu option in window,Menu Item 'New' in Window 'Project  ...  - Microsoft​ Edge', Import the guideline and edit it,Event_599
+19,Recording_131,Process_41,2022-02-17T09:49:09+00:00,Click UI element in window,Hyperlink 'Documents' in Window 'Project  ...  - Microsoft​ Edge', Import the guideline and edit it,Event_599
+20,Recording_131,Process_41,2022-02-17T09:49:14+00:00,Select menu option in window,Menu Item 'New' in Window 'Project  ...  - Microsoft​ Edge' 2, Import the guideline and edit it,Event_599
+21,Recording_131,Process_41,2022-02-17T09:49:21+00:00,Select menu option in window,Menu Item 'Upload' in Window 'Project  ...  - Microsoft​ Edge' 2, Import the guideline and edit it,Event_599
+22,Recording_131,Process_41,2022-02-17T09:49:23+00:00,Select menu option in window,MenuItem: Upload in Window 'Project  ...  - Microsoft​ Edge' 2, Import the guideline and edit it,Event_599
+23,Recording_131,Process_41,2022-02-17T09:49:28+00:00,Click UI element in window,Tree Item 'Desktop' in Window 'Project  ...  - Microsoft​ Edge' 2, Import the guideline and edit it,Event_599
+24,Recording_131,Process_41,2022-02-17T09:49:41+00:00,Click UI element in window,Edit 'Name' in Window 'Project  ...  - Microsoft​ Edge' 2, Import the guideline and edit it,Event_599
+25,Recording_131,Process_41,2022-02-17T09:49:43+00:00,Press button in window,Button 'Open' in Window 'Project  ...  - Microsoft​ Edge' 2, Import the guideline and edit it,Event_599
+26,Recording_131,Process_41,2022-02-17T09:49:52+00:00,Click UI element in window,Hyperlink 'Covid-19 guideline-20220217151803.docx' in Window 'Project  ...  - Microsoft​ Edge' 2, Import the guideline and edit it,Event_599
+27,Recording_131,Process_41,2022-02-17T09:50:03+00:00,Click UI element in window,Group 'Document Contents' in Window 'Covid-19  ...  - Microsoft​ Edge', Import the guideline and edit it,Event_599
+28,Recording_131,Process_41,2022-02-17T09:50:05+00:00,Send keys,TextToSend:'{Return}{LShiftKey}(G)et {LShiftKey}()vaccinated and {LShiftKey}(B)oosted as soon as you are eligible', Import the guideline and edit it,Event_599
+29,Recording_131,Process_41,2022-02-17T09:50:46+00:00,Click UI element in window,Group 'Document Contents' in Window 'Covid-19  ...  - Microsoft​ Edge', Import the guideline and edit it,Event_599

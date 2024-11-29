@@ -1,0 +1,94 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_91,Process_33,2022-02-16T06:42:04+00:00,Click UI element in window,List Item 'Process  ...  - Microsoft​ Edge' in List 'Task Switcher',Open the note taking app,Event_431
+1,Recording_91,Process_33,2022-02-16T06:42:07+00:00,Select tab in window,Tab Item 'New tab' in Window 'Process  ...  - Microsoft​ Edge',Open the note taking app,Event_431
+2,Recording_91,Process_33,2022-02-16T06:42:11+00:00,Click UI element in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge',Open the note taking app,Event_431
+3,Recording_91,Process_33,2022-02-16T06:42:18+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'evernote login',Open the note taking app,Event_431
+4,Recording_91,Process_33,2022-02-16T06:42:19+00:00,Send keys,TextToSend:'{Return}',Open the note taking app,Event_431
+5,Recording_91,Process_33,2022-02-16T06:42:22+00:00,Click UI element in window,Hyperlink 'Welcome Back - Evernote' in Window 'evernote  ...  - Microsoft​ Edge',Open the note taking app,Event_431
+6,Recording_91,Process_33,2022-02-16T06:42:34+00:00,Click UI element in window,Hyperlink 'Notebooks' in Window 'Home -  ...  - Microsoft​ Edge',Locate the noted points and verify the points,Event_432
+7,Recording_91,Process_33,2022-02-16T06:42:38+00:00,Press button in window,Button 'Feedback Points of field survey (1)' in Window 'Notebooks -  ...  - Microsoft​ Edge',Locate the noted points and verify the points,Event_432
+8,Recording_91,Process_33,2022-02-16T06:42:50+00:00,Drag and drop UI element in window,Edit 'Start writing or drag files here' in Window 'Feedback  ...  - Microsoft​ Edge',Locate the noted points and verify the points,Event_432
+9,Recording_91,Process_33,2022-02-16T06:42:53+00:00,Populate text field in window,"Edit 'Start writing or drag files here' 2 in Window 'Feedback  ...  - Microsoft​ Edge'; Text:'''1. Difficultly in searching objects
+
+
+2. Atmosphre issue
+
+
+3. customer points
+
+
+4. customer and client objectives
+
+
+5. Project goals'''",Locate the noted points and verify the points,Event_432
+10,Recording_91,Process_33,2022-02-16T06:42:56+00:00,Press button in window,Button 'New Tab' in Window 'Feedback  ...  - Microsoft​ Edge',Login to the web-based collaborative platform,Event_433
+11,Recording_91,Process_33,2022-02-16T06:43:03+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge' 2; Text:'confluence login',Login to the web-based collaborative platform,Event_433
+12,Recording_91,Process_33,2022-02-16T06:43:04+00:00,Send keys,TextToSend:'{Return}',Login to the web-based collaborative platform,Event_433
+13,Recording_91,Process_33,2022-02-16T06:43:09+00:00,Click UI element in window,Hyperlink 'Log in with Atlassian account' in Window 'confluence  ...  - Microsoft​ Edge',Login to the web-based collaborative platform,Event_433
+14,Recording_91,Process_33,2022-02-16T06:43:20+00:00,Click UI element in window,Hyperlink 'Name Surname Confluence' in Window 'Atlassian |  ...  - Microsoft​ Edge',Login to the web-based collaborative platform,Event_433
+15,Recording_91,Process_33,2022-02-16T06:43:26+00:00,Press button in window,Button 'Create' in Window 'Name Surname  ...  - Microsoft​ Edge',"To discuss the feedback survey points with Team mates, note down the points  in document",Event_434
+16,Recording_91,Process_33,2022-02-16T06:43:49+00:00,Populate text field in window,Edit 'Page title' in Window 'Add Page -  ...  - Microsoft​ Edge'; Text:'Feedback Points of feedback survey',"To discuss the feedback survey points with Team mates, note down the points  in document",Event_434
+17,Recording_91,Process_33,2022-02-16T06:43:51+00:00,Click UI element in window,Edit 'Main content area' in Window 'Add Page -  ...  - Microsoft​ Edge',"To discuss the feedback survey points with Team mates, note down the points  in document",Event_434
+18,Recording_91,Process_33,2022-02-16T06:43:54+00:00,Populate text field in window,"Edit 'Main content area' in Window 'Add Page -  ...  - Microsoft​ Edge' 2; Text:'''Difficultly in searching objects
+
+
+
+
+Atmosphre issue
+
+
+
+
+customer points
+
+
+
+
+customer and client objectives
+
+
+
+
+Project goals'''","To discuss the feedback survey points with Team mates, note down the points  in document",Event_434
+0,Recording_120,Process_33,2022-02-16T06:44:01+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar, Login to note taking app,Event_554
+1,Recording_120,Process_33,2022-02-16T06:44:04+00:00,Press button in window,Button 'New Tab' in Pane 'Process  ...  Chrome - Person 1', Login to note taking app,Event_554
+2,Recording_120,Process_33,2022-02-16T06:44:07+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'Process  ...  Chrome - Person 1'; Text:'zoho notebook', Login to note taking app,Event_554
+3,Recording_120,Process_33,2022-02-16T06:44:09+00:00,Send keys,TextToSend:'{Return}', Login to note taking app,Event_554
+4,Recording_120,Process_33,2022-02-16T06:44:13+00:00,Click UI element in window,Hyperlink ' Note  ...  › notebook' in Pane 'Process  ...  Chrome - Person 1', Login to note taking app,Event_554
+5,Recording_120,Process_33,2022-02-16T06:44:18+00:00,Click UI element in window,Hyperlink 'ACCESS ZOHO NOTEBOOK' in Pane 'Process  ...  Chrome - Person 1', Login to note taking app,Event_554
+6,Recording_120,Process_33,2022-02-16T06:44:22+00:00,Click UI element in window,Text 'All Notes' in Pane 'Process  ...  Chrome - Person 1', Find the file having feedback survey points and copy the points,Event_555
+7,Recording_120,Process_33,2022-02-16T06:44:25+00:00,Click UI element in window,Text 'Field survey feedback points' in Pane 'Process  ...  Chrome - Person 1', Find the file having feedback survey points and copy the points,Event_555
+8,Recording_120,Process_33,2022-02-16T06:44:30+00:00,Drag and drop UI element in window,Group in Text 'Notebooks' in Pane 'Process  ...  Chrome - Person 1', Find the file having feedback survey points and copy the points,Event_555
+9,Recording_120,Process_33,2022-02-16T06:44:32+00:00,Send keys,TextToSend:'{LControlKey}({C})', Find the file having feedback survey points and copy the points,Event_555
+10,Recording_120,Process_33,2022-02-16T06:44:37+00:00,Click UI element in window,Document 'Notebook' in Pane 'Process  ...  Chrome - Person 1', Find the file having feedback survey points and copy the points,Event_555
+11,Recording_120,Process_33,2022-02-16T06:44:46+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher', Go to collaborative tool,Event_556
+12,Recording_120,Process_33,2022-02-16T06:44:51+00:00,Press button in window,Button 'SharePoint' in Pane 'Process  ...  Chrome - Person 1', Go to collaborative tool,Event_556
+13,Recording_120,Process_33,2022-02-16T06:44:55+00:00,Click UI element in window,Hyperlink 'Project RoadMap' in Pane 'Process  ...  Chrome - Person 1', Go to collaborative tool,Event_556
+14,Recording_120,Process_33,2022-02-16T06:45:03+00:00,Click UI element in window,Hyperlink 'Documents' in Pane 'Process  ...  Chrome - Person 1', Go to collaborative tool,Event_556
+15,Recording_120,Process_33,2022-02-16T06:45:09+00:00,Select menu option in window,Menu Item 'New' in Pane 'Process  ...  Chrome - Person 1',Prepare the document for feedback survey points,Event_557
+16,Recording_120,Process_33,2022-02-16T06:45:11+00:00,Click UI element in window,Group 2 in Pane 'Process  ...  Chrome - Person 1',Prepare the document for feedback survey points,Event_557
+17,Recording_120,Process_33,2022-02-16T06:45:18+00:00,Press button in window,Button 'Document4 -Saved' in Pane 'Process  ...  Chrome - Person 1',Prepare the document for feedback survey points,Event_557
+18,Recording_120,Process_33,2022-02-16T06:45:34+00:00,Click UI element in window,MenuItem: Undo in Pane 'Process  ...  Chrome - Person 1',Prepare the document for feedback survey points,Event_557
+19,Recording_120,Process_33,2022-02-16T06:45:47+00:00,Populate text field in window,Edit 'File Name' in Pane 'Process  ...  Chrome - Person 1'; Text:'Field survey feedback points',Prepare the document for feedback survey points,Event_557
+20,Recording_120,Process_33,2022-02-16T06:45:49+00:00,Send keys,TextToSend:'{Return}{LControlKey}({V})',Prepare the document for feedback survey points,Event_557
+21,Recording_120,Process_33,2022-02-16T06:46:02+00:00,Click UI element in window,Button 'Close' in Pane 'Process  ...  Chrome - Person 1',Prepare the document for feedback survey points,Event_557
+0,Recording_121,Process_33,2022-02-16T06:46:52+00:00,Press button in window,Button 'Type here to search' in TaskBar,Go to the personal note taking app,Event_558
+1,Recording_121,Process_33,2022-02-16T06:46:54+00:00,Populate text field in window,Edit 'Search box' in Window 'Search'; Text:'onenote',Go to the personal note taking app,Event_558
+2,Recording_121,Process_33,2022-02-16T06:47:02+00:00,Click UI element in window,List Item 'Open' in Window 'Search',Go to the personal note taking app,Event_558
+3,Recording_121,Process_33,2022-02-16T06:47:08+00:00,Press button in window,Button 'Click to  ...  OneNote Notebooks' in Window 'Untitled page - OneNote',Locate the desire file and copy the points,Event_559
+4,Recording_121,Process_33,2022-02-16T06:47:13+00:00,Press button in window,Button 'Notebook  ...  Status: syncing' in Window 'Untitled page - OneNote',Locate the desire file and copy the points,Event_559
+5,Recording_121,Process_33,2022-02-16T06:47:19+00:00,Drag and drop UI element in window,Edit '5. Project goals' in Edit '1. Difficultly in searching objects' in Window 'FIELD SURVEY FEEDBACK - OneNote',Locate the desire file and copy the points,Event_559
+6,Recording_121,Process_33,2022-02-16T06:47:24+00:00,Click UI element in window,Edit '1. Difficultly in searching objects' in Window 'FIELD SURVEY FEEDBACK - OneNote',Locate the desire file and copy the points,Event_559
+7,Recording_121,Process_33,2022-02-16T06:47:28+00:00,Select menu option in window,Menu Item 'Copy' in Window 'FIELD SURVEY FEEDBACK - OneNote',Locate the desire file and copy the points,Event_559
+8,Recording_121,Process_33,2022-02-16T06:47:35+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Go to the collaborative platform,Event_560
+9,Recording_121,Process_33,2022-02-16T06:47:41+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'o365',Go to the collaborative platform,Event_560
+10,Recording_121,Process_33,2022-02-16T06:47:43+00:00,Send keys,TextToSend:'{Return}',Go to the collaborative platform,Event_560
+11,Recording_121,Process_33,2022-02-16T06:47:47+00:00,Click UI element in window,Hyperlink 'Office  ... office.com' in Window 'o365 - Google Search — Mozilla Firefox',Go to the collaborative platform,Event_560
+12,Recording_121,Process_33,2022-02-16T06:47:54+00:00,Click UI element in window,Hyperlink 'SharePoint' in Window 'Microsoft Office Home — Mozilla Firefox',Go to the collaborative platform,Event_560
+13,Recording_121,Process_33,2022-02-16T06:48:05+00:00,Click UI element in window,Hyperlink 'Site Project RoadMap.' in Window 'SharePoint — Mozilla Firefox',Go to the collaborative platform,Event_560
+14,Recording_121,Process_33,2022-02-16T06:48:35+00:00,Click UI element in window,Hyperlink 'Documents' in Window 'Project RoadMap - Home — Mozilla Firefox',Go to the collaborative platform,Event_560
+15,Recording_121,Process_33,2022-02-16T06:48:44+00:00,Select menu option in window,Menu Item 'New' in Window 'Project  ...  — Mozilla Firefox',Create a document to discuss with Team Members,Event_561
+16,Recording_121,Process_33,2022-02-16T06:48:52+00:00,Select menu option in window,MenuItem: New in Window 'Project  ...  — Mozilla Firefox',Create a document to discuss with Team Members,Event_561
+17,Recording_121,Process_33,2022-02-16T06:48:59+00:00,Click UI element in window,UI Custom 'Document Contents' in Window 'Document4.docx — Mozilla Firefox',Create a document to discuss with Team Members,Event_561
+18,Recording_121,Process_33,2022-02-16T06:49:31+00:00,Click UI element in window,UI Custom in Window 'Document4.docx — Mozilla Firefox',Create a document to discuss with Team Members,Event_561
+19,Recording_121,Process_33,2022-02-16T06:49:32+00:00,Send keys,TextToSend:'{LControlKey}({V})',Create a document to discuss with Team Members,Event_561

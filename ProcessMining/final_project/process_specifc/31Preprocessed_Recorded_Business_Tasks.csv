@@ -1,0 +1,99 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_87,Process_31,2022-02-15T04:00:04+00:00,Press button in window,OneNote 2013 - 1 running window in Quick Launch Bar,Go to the note taking app,Event_417
+1,Recording_87,Process_31,2022-02-15T04:00:07+00:00,Press button in window,Button 'File Tab' in Window 'Untitled page - OneNote', Prepare a Handy guide on ongoing projecct,Event_418
+2,Recording_87,Process_31,2022-02-15T04:00:10+00:00,Select tab in window,Tab Item 'New' in Window 'Untitled page - OneNote', Prepare a Handy guide on ongoing projecct,Event_418
+3,Recording_87,Process_31,2022-02-15T04:00:12+00:00,Select tab in window,Tab Item 'Computer' in Window 'Untitled page - OneNote', Prepare a Handy guide on ongoing projecct,Event_418
+4,Recording_87,Process_31,2022-02-15T04:00:18+00:00,Populate text field in window,Edit 'Enter a notebook name:' in Window 'Untitled page - OneNote'; Text:'Handy Guide', Prepare a Handy guide on ongoing projecct,Event_418
+5,Recording_87,Process_31,2022-02-15T04:00:34+00:00,Press button in window,Button 'Create Notebook' in Window 'Untitled page - OneNote', Prepare a Handy guide on ongoing projecct,Event_418
+6,Recording_87,Process_31,2022-02-15T04:00:46+00:00,Click UI element in window,Tree 'Outline' in Window 'Untitled page - OneNote', Prepare a Handy guide on ongoing projecct,Event_418
+7,Recording_87,Process_31,2022-02-15T04:00:48+00:00,Send keys,TextToSend:'{LShiftKey}(ABC P)roject{Return}{LShiftKey}(F)ollow all steps{Return}work on domains first', Prepare a Handy guide on ongoing projecct,Event_418
+8,Recording_87,Process_31,2022-02-15T04:01:16+00:00,Press button in window,Button 'File Tab' in Window 'Untitled page - OneNote', Prepare a Handy guide on ongoing projecct,Event_418
+9,Recording_87,Process_31,2022-02-15T04:01:21+00:00,Select tab in window,Tab Item 'Export' in Window 'ABC Project - OneNote', Prepare a Handy guide on ongoing projecct,Event_418
+10,Recording_87,Process_31,2022-02-15T04:01:37+00:00,Click UI element in window,List Item 'PDF (*.pdf)' in Window 'ABC Project - OneNote', Prepare a Handy guide on ongoing projecct,Event_418
+11,Recording_87,Process_31,2022-02-15T04:01:43+00:00,Press button in window,Button 'Export...' in Window 'ABC Project - OneNote', Prepare a Handy guide on ongoing projecct,Event_418
+12,Recording_87,Process_31,2022-02-15T04:01:48+00:00,Press button in window,Button 'Save' in Window 'ABC Project - OneNote', Prepare a Handy guide on ongoing projecct,Event_418
+13,Recording_87,Process_31,2022-02-15T04:01:54+00:00,Press button in window,Google Chrome - 1 running window in Quick Launch Bar,Convert the Handy guide format to document format ,Event_419
+14,Recording_87,Process_31,2022-02-15T04:01:57+00:00,Press button in window,Button 'New Tab' in Pane 'Convert PDF to  ...  Chrome - Person 1',Convert the Handy guide format to document format ,Event_419
+15,Recording_87,Process_31,2022-02-15T04:02:00+00:00,Click UI element in window,Edit 'Address and search bar' in Pane 'Convert PDF to  ...  Chrome - Person 1',Convert the Handy guide format to document format ,Event_419
+16,Recording_87,Process_31,2022-02-15T04:02:03+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'Convert PDF to  ...  Chrome - Person 1'; Text:'adobe convert pdf to word',Convert the Handy guide format to document format ,Event_419
+17,Recording_87,Process_31,2022-02-15T04:02:07+00:00,Send keys,TextToSend:'{Return}',Convert the Handy guide format to document format ,Event_419
+18,Recording_87,Process_31,2022-02-15T04:02:12+00:00,Click UI element in window,Hyperlink ' Convert  ...  › pdf-to-word' in Pane 'Convert PDF to  ...  Chrome - Person 1',Convert the Handy guide format to document format ,Event_419
+19,Recording_87,Process_31,2022-02-15T04:02:21+00:00,Press button in window,Button 'Convert' in Pane 'Convert PDF to  ...  Chrome - Person 1',Convert the Handy guide format to document format ,Event_419
+20,Recording_87,Process_31,2022-02-15T04:02:37+00:00,Click UI element in window,Document 'Convert  ...  Acrobat (India)' in Pane 'Convert PDF to  ...  Chrome - Person 1',Convert the Handy guide format to document format ,Event_419
+21,Recording_87,Process_31,2022-02-15T04:02:42+00:00,Press button in window,Button 'Convert PDF to Word' in Pane 'Convert PDF to  ...  Chrome - Person 1',Convert the Handy guide format to document format ,Event_419
+22,Recording_87,Process_31,2022-02-15T04:02:51+00:00,Click UI element in window,Tree Item 'Documents' in Pane 'Convert PDF to  ...  Chrome - Person 1',Convert the Handy guide format to document format ,Event_419
+23,Recording_87,Process_31,2022-02-15T04:02:57+00:00,Click UI element in window,Edit 'Name' in Pane 'Convert PDF to  ...  Chrome - Person 1',Convert the Handy guide format to document format ,Event_419
+24,Recording_87,Process_31,2022-02-15T04:03:00+00:00,Click UI element in window,Edit 'Name' 2 in Pane 'Convert PDF to  ...  Chrome - Person 1',Convert the Handy guide format to document format ,Event_419
+25,Recording_87,Process_31,2022-02-15T04:03:02+00:00,Click UI element in window,Edit 'Name' 3 in Pane 'Convert PDF to  ...  Chrome - Person 1',Convert the Handy guide format to document format ,Event_419
+26,Recording_87,Process_31,2022-02-15T04:03:04+00:00,Press button in window,Button 'Open' in Pane 'Convert PDF to  ...  Chrome - Person 1',Convert the Handy guide format to document format ,Event_419
+27,Recording_87,Process_31,2022-02-15T04:03:20+00:00,Press button in window,Button 'Download' in Pane 'Convert PDF to  ...  Chrome - Person 1',Convert the Handy guide format to document format ,Event_419
+0,Recording_88,Process_31,2022-02-15T04:02:49+00:00,Press button in window,Google Chrome - 1 running window in Quick Launch Bar,Login to note taking app,Event_420
+1,Recording_88,Process_31,2022-02-15T04:02:51+00:00,Press button in window,Button 'New Tab' in Pane 'Process  ...  Chrome - Name',Login to note taking app,Event_420
+2,Recording_88,Process_31,2022-02-15T04:02:55+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'Process  ...  Chrome - Name'; Text:'zoho notebook',Login to note taking app,Event_420
+3,Recording_88,Process_31,2022-02-15T04:02:58+00:00,Send keys,TextToSend:'{Return}',Login to note taking app,Event_420
+4,Recording_88,Process_31,2022-02-15T04:03:02+00:00,Click UI element in window,Hyperlink ' Note  ...  › notebook' in Pane 'Process  ...  Chrome - Name',Login to note taking app,Event_420
+5,Recording_88,Process_31,2022-02-15T04:03:07+00:00,Click UI element in window,Hyperlink 'ACCESS ZOHO NOTEBOOK' in Pane 'Process  ...  Chrome - Name',Login to note taking app,Event_420
+6,Recording_88,Process_31,2022-02-15T04:03:11+00:00,Click UI element in window,Text 'Notebook' in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+7,Recording_88,Process_31,2022-02-15T04:03:18+00:00,Click UI element in window,Text 'Open' in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+8,Recording_88,Process_31,2022-02-15T04:03:27+00:00,Click UI element in window,Text 'All Notes' in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+9,Recording_88,Process_31,2022-02-15T04:03:28+00:00,Click UI element in window,Text 'Title' in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+10,Recording_88,Process_31,2022-02-15T04:03:29+00:00,Click UI element in window,Text 'All Notes' in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+11,Recording_88,Process_31,2022-02-15T04:03:34+00:00,Send keys,TextToSend:'{LShiftKey}(H)andy {RShiftKey}(G)uide for {RShiftKey}(X)yz {LShiftKey}({Back}{Back}){Back}{LShiftKey}(YZ ){LShiftKey}(){LShiftKey}(P)roject',"To prepare a Handy guide on running projecct, create a note",Event_421
+12,Recording_88,Process_31,2022-02-15T04:03:53+00:00,Click UI element in window,Group in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+13,Recording_88,Process_31,2022-02-15T04:03:55+00:00,Send keys,TextToSend:'1. {LShiftKey}(F)or{Back}cus on context{Return}{Return}',"To prepare a Handy guide on running projecct, create a note",Event_421
+14,Recording_88,Process_31,2022-02-15T04:04:11+00:00,Click UI element in window,Group in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+15,Recording_88,Process_31,2022-02-15T04:04:12+00:00,Send keys,TextToSend:'2. {RShiftKey}(R)eview the website{Return}3. search the keyphg{Back}rases on website{Return}4. {LShiftKey}(B)ased on keyphrase compare context',"To prepare a Handy guide on running projecct, create a note",Event_421
+16,Recording_88,Process_31,2022-02-15T04:05:03+00:00,Click UI element in window,Text 'Handy Guide for XYZ Project' in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+17,Recording_88,Process_31,2022-02-15T04:05:08+00:00,Click UI element in window,Document 'Notebook' in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+18,Recording_88,Process_31,2022-02-15T04:05:12+00:00,Click UI element in window,List Item 'Print' in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+19,Recording_88,Process_31,2022-02-15T04:05:16+00:00,Click UI element in window,Combo Box in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+20,Recording_88,Process_31,2022-02-15T04:05:18+00:00,Click UI element in window,Document 'Notebook' in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+21,Recording_88,Process_31,2022-02-15T04:05:21+00:00,Press button in window,Button 'Save' in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+22,Recording_88,Process_31,2022-02-15T04:05:26+00:00,Click UI element in window,Edit 'Name' in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+23,Recording_88,Process_31,2022-02-15T04:05:27+00:00,Click UI element in window,Edit 'Name' in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+24,Recording_88,Process_31,2022-02-15T04:05:33+00:00,Drag and drop UI element in window,Text 'File name:' in Edit 'File name:' in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+25,Recording_88,Process_31,2022-02-15T04:05:49+00:00,Populate text field in window,Edit 'File name:' in Pane 'Process  ...  Chrome - Name'; Text:'Handyd guide for XYZ Project.pdf',"To prepare a Handy guide on running projecct, create a note",Event_421
+26,Recording_88,Process_31,2022-02-15T04:05:52+00:00,Press button in window,Button 'Save' 2 in Pane 'Process  ...  Chrome - Name',"To prepare a Handy guide on running projecct, create a note",Event_421
+27,Recording_88,Process_31,2022-02-15T04:06:02+00:00,Press button in window,PDF Converter Pro - Free - 1 running window in Quick Launch Bar,Change the format Handy guide to document format and save it.,Event_422
+28,Recording_88,Process_31,2022-02-15T04:06:06+00:00,Press button in window,"Button 'Button' in Window 'PDF  ...  RTF, XPS, Images'",Change the format Handy guide to document format and save it.,Event_422
+29,Recording_88,Process_31,2022-02-15T04:06:08+00:00,Click UI element in window,"Edit 'Name' in Window 'PDF  ...  RTF, XPS, Images'",Change the format Handy guide to document format and save it.,Event_422
+30,Recording_88,Process_31,2022-02-15T04:06:09+00:00,Click UI element in window,"Edit 'Name' 2 in Window 'PDF  ...  RTF, XPS, Images'",Change the format Handy guide to document format and save it.,Event_422
+31,Recording_88,Process_31,2022-02-15T04:06:18+00:00,Press button in window,"Button '...' in Window 'PDF  ...  RTF, XPS, Images'",Change the format Handy guide to document format and save it.,Event_422
+32,Recording_88,Process_31,2022-02-15T04:06:22+00:00,Expand/collapse tree node in window,"Tree Item 'This PC' in Window 'PDF  ...  RTF, XPS, Images'",Change the format Handy guide to document format and save it.,Event_422
+33,Recording_88,Process_31,2022-02-15T04:06:24+00:00,Expand/collapse tree node in window,"Tree Item 'Desktop' in Window 'PDF  ...  RTF, XPS, Images'",Change the format Handy guide to document format and save it.,Event_422
+34,Recording_88,Process_31,2022-02-15T04:06:26+00:00,Click UI element in window,"Tree Item 'XYZ Project' in Window 'PDF  ...  RTF, XPS, Images'",Change the format Handy guide to document format and save it.,Event_422
+35,Recording_88,Process_31,2022-02-15T04:06:32+00:00,Press button in window,"Tree Item 'XYZ Project' in Window 'PDF  ...  RTF, XPS, Images'",Change the format Handy guide to document format and save it.,Event_422
+36,Recording_88,Process_31,2022-02-15T04:06:36+00:00,Press button in window,"Button 'Button' 2 in Window 'PDF  ...  RTF, XPS, Images'",Change the format Handy guide to document format and save it.,Event_422
+37,Recording_88,Process_31,2022-02-15T04:06:40+00:00,Click UI element in window,Edit 'Name' in Window 'XYZ Project',Change the format Handy guide to document format and save it.,Event_422
+38,Recording_88,Process_31,2022-02-15T04:06:42+00:00,Click UI element in window,Edit 'Name' in Window 'XYZ Project',Change the format Handy guide to document format and save it.,Event_422
+0,Recording_89,Process_31,2022-02-15T04:58:59+00:00,Press button in window,Microsoft Edge (2) - 1 running window in Quick Launch Bar,Open the note taking app,Event_423
+1,Recording_89,Process_31,2022-02-15T04:59:02+00:00,Press button in window,Button 'New Tab' in Window 'Process  ...  - Microsoft​ Edge',Open the note taking app,Event_423
+2,Recording_89,Process_31,2022-02-15T04:59:05+00:00,Click UI element in window,Edit 'Address and search bar' in Window 'Process  ...  - Microsoft​ Edge',Open the note taking app,Event_423
+3,Recording_89,Process_31,2022-02-15T04:59:10+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'evernote',Open the note taking app,Event_423
+4,Recording_89,Process_31,2022-02-15T04:59:10+00:00,Send keys,TextToSend:'{Return}',Open the note taking app,Event_423
+5,Recording_89,Process_31,2022-02-15T04:59:13+00:00,Click UI element in window,Hyperlink 'Best Note  ...  Notes with Evernote' in Window 'evernote -  ...  - Microsoft​ Edge',Open the note taking app,Event_423
+6,Recording_89,Process_31,2022-02-15T04:59:18+00:00,Click UI element in window,Hyperlink 'Log In' in Window 'Best Note  ...  - Microsoft​ Edge',Open the note taking app,Event_423
+7,Recording_89,Process_31,2022-02-15T04:59:26+00:00,Press button in window,Button 'Create new note' in Window 'Home -  ...  - Microsoft​ Edge',Make a note for a Handy guide on running project,Event_424
+8,Recording_89,Process_31,2022-02-15T04:59:44+00:00,Populate text field in window,Edit 'Title' in Window 'Notes -  ...  - Microsoft​ Edge'; Text:'Handy Guide for ABC Project',Make a note for a Handy guide on running project,Event_424
+9,Recording_89,Process_31,2022-02-15T05:00:00+00:00,Populate text field in window,Edit 'Start writing or drag files here' in Window 'Notes -  ...  - Microsoft​ Edge'; Text:'Follow the labeling sequence',Make a note for a Handy guide on running project,Event_424
+10,Recording_89,Process_31,2022-02-15T05:00:02+00:00,Send keys,TextToSend:'{Return}',Make a note for a Handy guide on running project,Event_424
+11,Recording_89,Process_31,2022-02-15T05:00:29+00:00,Populate text field in window,"Edit 'Start writing or drag files here' in Window 'Notes -  ...  - Microsoft​ Edge'; Text:'''Follow the labeling sequence
+Deepdive or search more article related to domain'''",Make a note for a Handy guide on running project,Event_424
+12,Recording_89,Process_31,2022-02-15T05:00:30+00:00,Send keys,TextToSend:'{Return}',Make a note for a Handy guide on running project,Event_424
+13,Recording_89,Process_31,2022-02-15T05:00:41+00:00,Populate text field in window,"Edit 'Start writing or drag files here' in Window 'Notes -  ...  - Microsoft​ Edge'; Text:'''Follow the labeling sequence
+Deepdive or search more article related to domain
+Mark all label correctly'''",Make a note for a Handy guide on running project,Event_424
+14,Recording_89,Process_31,2022-02-15T05:00:45+00:00,Press button in window,Button 't1xBIaGnPV83ohiwoIvp jevFnoxrSpSgGE8bqPSs undefined' in Window 'Notes -  ...  - Microsoft​ Edge',Make a note for a Handy guide on running project,Event_424
+15,Recording_89,Process_31,2022-02-15T05:00:51+00:00,Select menu option in window,Menu Item 'Print…' in Window 'Notes -  ...  - Microsoft​ Edge',Make a note for a Handy guide on running project,Event_424
+16,Recording_89,Process_31,2022-02-15T05:00:56+00:00,Press button in window,Button 'Print' in Window 'Notes -  ...  - Microsoft​ Edge',Make a note for a Handy guide on running project,Event_424
+17,Recording_89,Process_31,2022-02-15T05:01:01+00:00,Click UI element in window,Tree Item 'Desktop' in Window 'Notes -  ...  - Microsoft​ Edge',Make a note for a Handy guide on running project,Event_424
+18,Recording_89,Process_31,2022-02-15T05:01:04+00:00,Click UI element in window,Edit 'Name' in Window 'Notes -  ...  - Microsoft​ Edge',Make a note for a Handy guide on running project,Event_424
+19,Recording_89,Process_31,2022-02-15T05:01:14+00:00,Populate text field in window,Edit 'File name:' in Window 'Notes -  ...  - Microsoft​ Edge'; Text:'Handy Guide1',Make a note for a Handy guide on running project,Event_424
+20,Recording_89,Process_31,2022-02-15T05:01:17+00:00,Press button in window,Button 'Save' in Window 'Notes -  ...  - Microsoft​ Edge',Make a note for a Handy guide on running project,Event_424
+21,Recording_89,Process_31,2022-02-15T05:01:24+00:00,Press button in window,Nebula PDF Converter Pro - 1 running window in Quick Launch Bar,Change and Save the Handy guide note to word format,Event_425
+22,Recording_89,Process_31,2022-02-15T05:01:27+00:00,Click UI element in window,List Item 'PDFConverter.ViewModels.ToolListUsername' in Window 'Nebula PDF Converter Pro',Change and Save the Handy guide note to word format,Event_425
+23,Recording_89,Process_31,2022-02-15T05:01:29+00:00,Press button in window,Button 'Button' in Window 'Nebula PDF Converter Pro',Change and Save the Handy guide note to word format,Event_425
+24,Recording_89,Process_31,2022-02-15T05:01:37+00:00,Click UI element in window,Edit 'Name' in Window 'Nebula PDF Converter Pro',Change and Save the Handy guide note to word format,Event_425
+25,Recording_89,Process_31,2022-02-15T05:01:41+00:00,Click UI element in window,Edit 'Name' in Window 'Nebula PDF Converter Pro',Change and Save the Handy guide note to word format,Event_425
+26,Recording_89,Process_31,2022-02-15T05:01:43+00:00,Press button in window,Button 'Open' in Window 'Nebula PDF Converter Pro',Change and Save the Handy guide note to word format,Event_425
+27,Recording_89,Process_31,2022-02-15T05:01:56+00:00,Press button in window,Button 'Convert' in Window 'Nebula PDF Converter Pro',Change and Save the Handy guide note to word format,Event_425

@@ -1,0 +1,114 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_106,Process_42,2022-02-17T11:00:56+00:00,Select menu option in window,Firefox - 2 running windows in Quick Launch Bar,Open the company's active directory,Event_495
+1,Recording_106,Process_42,2022-02-17T11:00:58+00:00,Click UI element in window,List Item 'Mozilla Firefox (Private Browsing)' in List 'Task Switcher',Open the company's active directory,Event_495
+2,Recording_106,Process_42,2022-02-17T11:01:00+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Mozilla Firefox (Private Browsing)',Open the company's active directory,Event_495
+3,Recording_106,Process_42,2022-02-17T11:01:07+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox (Private Browsing)'; Text:'o365',Open the company's active directory,Event_495
+4,Recording_106,Process_42,2022-02-17T11:01:08+00:00,Send keys,TextToSend:'{Return}',Open the company's active directory,Event_495
+5,Recording_106,Process_42,2022-02-17T11:01:13+00:00,Click UI element in window,Hyperlink 'Office  ... office.com' in Window 'o365 -  ...  (Private Browsing)',Open the company's active directory,Event_495
+6,Recording_106,Process_42,2022-02-17T11:01:21+00:00,Select menu option in window,Menu Item 'App launcher' in Window 'Microsoft  ...  (Private Browsing)',Open the company's active directory,Event_495
+7,Recording_106,Process_42,2022-02-17T11:01:24+00:00,Click UI element in window,Hyperlink 'Admin' in Window 'Microsoft  ...  (Private Browsing)',Open the company's active directory,Event_495
+8,Recording_106,Process_42,2022-02-17T11:01:35+00:00,Select menu option in window,Menu Item 'Users' in Window 'Microsoft  ...  (Private Browsing)' 2,Add the newly appointed employees,Event_496
+9,Recording_106,Process_42,2022-02-17T11:01:38+00:00,Select menu option in window,Menu Item 'Active users' in Window 'Microsoft  ...  (Private Browsing)' 2,Add the newly appointed employees,Event_496
+10,Recording_106,Process_42,2022-02-17T11:01:45+00:00,Select menu option in window,Menu Item 'Add a  ...  key to add a user' in Window 'Microsoft  ...  (Private Browsing)' 3,Add the newly appointed employees,Event_496
+11,Recording_106,Process_42,2022-02-17T11:01:54+00:00,Populate text field in window,Edit 'First name' in Window 'Microsoft  ...  (Private Browsing)' 3; Text:'NAME',Add the newly appointed employees,Event_496
+12,Recording_106,Process_42,2022-02-17T11:02:00+00:00,Populate text field in window,Edit 'Last name' in Window 'Microsoft  ...  (Private Browsing)' 3; Text:'NAME',Add the newly appointed employees,Event_496
+13,Recording_106,Process_42,2022-02-17T11:02:02+00:00,Click UI element in window,Edit 'Display name *' in Window 'Microsoft  ...  (Private Browsing)' 3,Add the newly appointed employees,Event_496
+14,Recording_106,Process_42,2022-02-17T11:02:07+00:00,Populate text field in window,Edit 'Username *' in Window 'Microsoft  ...  (Private Browsing)' 3; Text:'poobht',Add the newly appointed employees,Event_496
+15,Recording_106,Process_42,2022-02-17T11:02:12+00:00,Press button in window,Button 'Next' in Window 'Microsoft  ...  (Private Browsing)' 3,Add the newly appointed employees,Event_496
+16,Recording_106,Process_42,2022-02-17T11:02:15+00:00,Click UI element in window,Group 'licenses ‎0‎ menu required' in Window 'Microsoft  ...  (Private Browsing)' 3,Add the newly appointed employees,Event_496
+17,Recording_106,Process_42,2022-02-17T11:02:17+00:00,Click UI element in window,Group 'licenses ‎0‎ menu required' in Window 'Microsoft  ...  (Private Browsing)' 3,Add the newly appointed employees,Event_496
+18,Recording_106,Process_42,2022-02-17T11:02:22+00:00,Press button in window,Button 'Next' in Window 'Microsoft  ...  (Private Browsing)' 3,Add the newly appointed employees,Event_496
+19,Recording_106,Process_42,2022-02-17T11:02:25+00:00,Press button in window,Button 'Next' in Window 'Microsoft  ...  (Private Browsing)' 3,Add the newly appointed employees,Event_496
+20,Recording_106,Process_42,2022-02-17T11:02:27+00:00,Press button in window,Button 'Finish adding' in Window 'Microsoft  ...  (Private Browsing)' 3,Add the newly appointed employees,Event_496
+21,Recording_106,Process_42,2022-02-17T11:02:35+00:00,Press button in window,Button 'Close' in Window 'Microsoft  ...  (Private Browsing)' 3,Add the newly appointed employees,Event_496
+22,Recording_106,Process_42,2022-02-17T11:02:38+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Microsoft  ...  (Private Browsing)' 3,Go to online form app,Event_497
+23,Recording_106,Process_42,2022-02-17T11:02:43+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox (Private Browsing)'; Text:'microsoft form',Go to online form app,Event_497
+24,Recording_106,Process_42,2022-02-17T11:02:45+00:00,Send keys,TextToSend:'{Return}',Go to online form app,Event_497
+25,Recording_106,Process_42,2022-02-17T11:02:49+00:00,Click UI element in window,Hyperlink 'Microsoft  ... office.com' in Window 'microsoft  ...  (Private Browsing)' 4,Go to online form app,Event_497
+26,Recording_106,Process_42,2022-02-17T11:03:00+00:00,Click UI element in window,Hyperlink 'Open  ...  By Name Surname.' in Window 'Microsoft  ...  (Private Browsing)' 5,Go to online form app,Event_497
+27,Recording_106,Process_42,2022-02-17T11:03:06+00:00,Press button in window,Button 'Share' in Window 'Survey Form  ...  (Private Browsing)',Share the survey form to new joinee,Event_498
+28,Recording_106,Process_42,2022-02-17T11:03:11+00:00,Click UI element in window,UI Custom in Window 'Survey Form  ...  (Private Browsing)',Share the survey form to new joinee,Event_498
+29,Recording_106,Process_42,2022-02-17T11:03:13+00:00,Press button in window,Button 'Copy' in Window 'Survey Form  ...  (Private Browsing)',Share the survey form to new joinee,Event_498
+30,Recording_106,Process_42,2022-02-17T11:03:16+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Survey Form  ...  (Private Browsing)',Share the survey form to new joinee,Event_498
+31,Recording_106,Process_42,2022-02-17T11:03:20+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox (Private Browsing)'; Text:'teams',Share the survey form to new joinee,Event_498
+32,Recording_106,Process_42,2022-02-17T11:03:21+00:00,Send keys,TextToSend:'{Return}',Share the survey form to new joinee,Event_498
+33,Recording_106,Process_42,2022-02-17T11:03:28+00:00,Click UI element in window,Hyperlink 'Group  ...  group-chat-software' in Window 'teams -  ...  (Private Browsing)',Share the survey form to new joinee,Event_498
+34,Recording_106,Process_42,2022-02-17T11:03:32+00:00,Click UI element in window,Hyperlink 'Sign in and get started with Teams.' in Window 'Group Chat  ...  (Private Browsing)',Share the survey form to new joinee,Event_498
+35,Recording_106,Process_42,2022-02-17T11:03:58+00:00,Populate text field in window,Edit 'To:' in Window 'Chat |  ...  (Private Browsing)'; Text:'poooja',Share the survey form to new joinee,Event_498
+36,Recording_106,Process_42,2022-02-17T11:04:06+00:00,Select menu option in window,Menu Item 'NAME NAME POOBHT' in Window 'Chat |  ...  (Private Browsing)',Share the survey form to new joinee,Event_498
+37,Recording_106,Process_42,2022-02-17T11:04:14+00:00,Click UI element in window,"Edit 'Type a new message, editing' in Window 'Chat |  ...  (Private Browsing)'",Share the survey form to new joinee,Event_498
+38,Recording_106,Process_42,2022-02-17T11:04:18+00:00,Populate text field in window,"Edit 'Type a new message, editing' in Window '(1) NAME  ...  (Private Browsing)'; Text:'https://forms.office.com/Pages/ResponsePage.aspx?id='",Share the survey form to new joinee,Event_498
+39,Recording_106,Process_42,2022-02-17T11:04:34+00:00,Press button in window,Button 'Send' in Window '(1) NAME  ...  (Private Browsing)',Share the survey form to new joinee,Event_498
+0,Recording_107,Process_42,2022-02-17T11:37:15+00:00,Press button in window,Button 'Zoho Admin Panel - Zoho Directory' in Pane 'Zoho Admin  ...  Chrome - Name',Go to the Company's employee record tool,Event_499
+1,Recording_107,Process_42,2022-02-17T11:37:17+00:00,Click UI element in window,Text '' in Pane 'Zoho Admin  ...  Chrome - Name',Go to the Company's employee record tool,Event_499
+2,Recording_107,Process_42,2022-02-17T11:37:22+00:00,Press button in window,Button 'Add User' 3 in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+3,Recording_107,Process_42,2022-02-17T11:37:26+00:00,Populate text field in window,Edit 'Name' 2 in Pane 'Zoho Admin  ...  Chrome - Name'; Text:'Nameesh',Add new joinee to the record tool,Event_500
+4,Recording_107,Process_42,2022-02-17T11:37:28+00:00,Click UI element in window,Text 'Zoho' in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+5,Recording_107,Process_42,2022-02-17T11:37:30+00:00,Populate text field in window,Edit 'Smith' 2 in Pane 'Zoho Admin  ...  Chrome - Name'; Text:'Surname',Add new joinee to the record tool,Event_500
+6,Recording_107,Process_42,2022-02-17T11:37:32+00:00,Click UI element in window,Edit 'Smith' 2 in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+7,Recording_107,Process_42,2022-02-17T11:37:44+00:00,Populate text field in window,Edit 'Email@Domain' 2 in Pane 'Zoho Admin  ...  Chrome - Name'; Text:'Email@Domain',Add new joinee to the record tool,Event_500
+8,Recording_107,Process_42,2022-02-17T11:37:49+00:00,Press button in window,Button 'Add' in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+9,Recording_107,Process_42,2022-02-17T11:37:56+00:00,Press button in window,Button 'Done' in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+10,Recording_107,Process_42,2022-02-17T11:38:01+00:00,Press button in window,Button '' 2 in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+11,Recording_107,Process_42,2022-02-17T11:38:35+00:00,Click UI element in window,Text '' in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+12,Recording_107,Process_42,2022-02-17T11:38:57+00:00,Select menu option in window,Menu Item 'View site Usernamermation' in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+13,Recording_107,Process_42,2022-02-17T11:39:03+00:00,Click UI element in window,Text '' in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+14,Recording_107,Process_42,2022-02-17T11:39:09+00:00,Press button in window,Button 'Approve' in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+15,Recording_107,Process_42,2022-02-17T11:39:11+00:00,Click UI element in window,Group 4 in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+16,Recording_107,Process_42,2022-02-17T11:39:12+00:00,Click UI element in window,Text 'Manager' in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+17,Recording_107,Process_42,2022-02-17T11:39:15+00:00,Click UI element in window,Hyperlink 'Select Profile ' in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+18,Recording_107,Process_42,2022-02-17T11:39:16+00:00,Click UI element in window,List in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+19,Recording_107,Process_42,2022-02-17T11:39:17+00:00,Press button in window,Button 'Done' in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+20,Recording_107,Process_42,2022-02-17T11:39:18+00:00,Press button in window,Button 'Assign (1)' in Pane 'Zoho Admin  ...  Chrome - Name',Add new joinee to the record tool,Event_500
+21,Recording_107,Process_42,2022-02-17T11:39:23+00:00,Press button in window,Button 'New Tab' in Pane 'Zoho Admin  ...  Chrome - Name', open the online form app,Event_501
+22,Recording_107,Process_42,2022-02-17T11:39:25+00:00,Click UI element in window,Edit 'Address and search bar' in Pane 'Zoho Admin  ...  Chrome - Name', open the online form app,Event_501
+23,Recording_107,Process_42,2022-02-17T11:39:27+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'Zoho Admin  ...  Chrome - Name'; Text:'zoho forms', open the online form app,Event_501
+24,Recording_107,Process_42,2022-02-17T11:39:28+00:00,Click UI element in window,Pane 2 in Pane 'Zoho Admin  ...  Chrome - Name', open the online form app,Event_501
+25,Recording_107,Process_42,2022-02-17T11:39:31+00:00,Click UI element in window,Hyperlink ' Form  ... om › forms' in Pane 'Zoho Admin  ...  Chrome - Name', open the online form app,Event_501
+26,Recording_107,Process_42,2022-02-17T11:39:35+00:00,Click UI element in window,Hyperlink 'ACCESS ZOHO FORMS' in Pane 'Zoho Admin  ...  Chrome - Name', open the online form app,Event_501
+27,Recording_107,Process_42,2022-02-17T11:39:42+00:00,Click UI element in window,Hyperlink 'Yearly Leave Survey' in Pane 'Zoho Admin  ...  Chrome - Name', open the online form app,Event_501
+28,Recording_107,Process_42,2022-02-17T11:39:48+00:00,Select tab in window,Tab Item 'Zoho Forms' in Pane 'Zoho Admin  ...  Chrome - Name', open the online form app,Event_501
+29,Recording_107,Process_42,2022-02-17T11:39:50+00:00,Click UI element in window,List Item in Pane 'Zoho Admin  ...  Chrome - Name', open the online form app,Event_501
+30,Recording_107,Process_42,2022-02-17T11:39:55+00:00,Click UI element in window,Hyperlink '' in Pane 'Zoho Admin  ...  Chrome - Name', open the online form app,Event_501
+31,Recording_107,Process_42,2022-02-17T11:39:58+00:00,Drag and drop UI element in window,Edit in Pane 'Zoho Admin  ...  Chrome - Name', open the online form app,Event_501
+32,Recording_107,Process_42,2022-02-17T11:39:58+00:00,Send keys,TextToSend:'{LControlKey}({C})', open the online form app,Event_501
+33,Recording_107,Process_42,2022-02-17T11:40:19+00:00,Press button in window,Button 'New Tab' in Pane 'Zoho Admin  ...  Chrome - Name', Send the survey form to newly appointed employee,Event_502
+34,Recording_107,Process_42,2022-02-17T11:40:21+00:00,Press button in window,Button 'Zoho Admin Panel - Zoho Directory' in Pane 'Zoho Admin  ...  Chrome - Name', Send the survey form to newly appointed employee,Event_502
+35,Recording_107,Process_42,2022-02-17T11:40:30+00:00,Click UI element in window,Text '' in Pane 'Zoho Admin  ...  Chrome - Name', Send the survey form to newly appointed employee,Event_502
+36,Recording_107,Process_42,2022-02-17T11:40:32+00:00,Click UI element in window,Text 'Applications' 2 in Pane 'Zoho Admin  ...  Chrome - Name', Send the survey form to newly appointed employee,Event_502
+37,Recording_107,Process_42,2022-02-17T11:40:36+00:00,Populate text field in window,"Edit 'Search Contacts, Chats & Channels' in Pane 'Zoho Admin  ...  Chrome - Name'; Text:'Namee'", Send the survey form to newly appointed employee,Event_502
+38,Recording_107,Process_42,2022-02-17T11:40:46+00:00,Click UI element in window,Group in Pane 'Zoho Admin  ...  Chrome - Name', Send the survey form to newly appointed employee,Event_502
+39,Recording_107,Process_42,2022-02-17T11:40:48+00:00,Press button in window,Button 'Choose Files' in Pane 'Zoho Admin  ...  Chrome - Name', Send the survey form to newly appointed employee,Event_502
+40,Recording_107,Process_42,2022-02-17T11:40:49+00:00,Populate text field in window,Edit 2 in Pane 'Zoho Admin  ...  Chrome - Name'; Text:'https://forms.zohopublic.in/projectroadmap/form/LeaveSurvey/formperma/ENCODED_VALUE', Send the survey form to newly appointed employee,Event_502
+41,Recording_107,Process_42,2022-02-17T11:40:55+00:00,Send keys,TextToSend:'{Return}', Send the survey form to newly appointed employee,Event_502
+0,Recording_108,Process_42,2022-02-17T10:57:16+00:00,Select menu option in window,Microsoft Edge (2) - 3 running windows in Quick Launch Bar,Login to the company's active directory,Event_503
+1,Recording_108,Process_42,2022-02-17T10:57:19+00:00,Click UI element in window,List Item 'New tab  ...  - Microsoft​ Edge' in List 'Task Switcher',Login to the company's active directory,Event_503
+2,Recording_108,Process_42,2022-02-17T10:57:31+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'admin.microsoft.com',Login to the company's active directory,Event_503
+3,Recording_108,Process_42,2022-02-17T10:57:32+00:00,Send keys,TextToSend:'{Return}',Login to the company's active directory,Event_503
+4,Recording_108,Process_42,2022-02-17T10:57:38+00:00,Select menu option in window,Menu Item 'Users' in Window 'Microsoft  ...  - Microsoft​ Edge',Add the new joinee,Event_504
+5,Recording_108,Process_42,2022-02-17T10:57:40+00:00,Select menu option in window,Menu Item 'Active users' in Window 'Microsoft  ...  - Microsoft​ Edge' 2,Add the new joinee,Event_504
+6,Recording_108,Process_42,2022-02-17T10:57:45+00:00,Select menu option in window,Menu Item 'Add a  ...  key to add a user' in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Add the new joinee,Event_504
+7,Recording_108,Process_42,2022-02-17T10:57:55+00:00,Populate text field in window,Edit 'First name' in Window 'Microsoft  ...  - Microsoft​ Edge' 3; Text:'Krutik',Add the new joinee,Event_504
+8,Recording_108,Process_42,2022-02-17T10:57:57+00:00,Click UI element in window,Edit 'Last name' in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Add the new joinee,Event_504
+9,Recording_108,Process_42,2022-02-17T10:58:00+00:00,Populate text field in window,Edit 'Last name' 2 in Window 'Microsoft  ...  - Microsoft​ Edge' 3; Text:'Nath',Add the new joinee,Event_504
+10,Recording_108,Process_42,2022-02-17T10:58:03+00:00,Click UI element in window,Edit 'Display name *' in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Add the new joinee,Event_504
+11,Recording_108,Process_42,2022-02-17T10:58:04+00:00,Click UI element in window,Edit 'Username *' in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Add the new joinee,Event_504
+12,Recording_108,Process_42,2022-02-17T10:58:09+00:00,Populate text field in window,Edit 'Username *' 2 in Window 'Microsoft  ...  - Microsoft​ Edge' 3; Text:'kurnat',Add the new joinee,Event_504
+13,Recording_108,Process_42,2022-02-17T10:58:18+00:00,Press button in window,Button 'Next' in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Add the new joinee,Event_504
+14,Recording_108,Process_42,2022-02-17T10:58:24+00:00,Click UI element in window,Text 'ms-Checkbox-label label-984' in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Add the new joinee,Event_504
+15,Recording_108,Process_42,2022-02-17T10:58:28+00:00,Click UI element in window,Text 'ms-Checkbox-label label-984' 2 in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Add the new joinee,Event_504
+16,Recording_108,Process_42,2022-02-17T10:58:31+00:00,Press button in window,Button 'Next' 2 in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Add the new joinee,Event_504
+17,Recording_108,Process_42,2022-02-17T10:58:38+00:00,Press button in window,Button 'expand Roles menu' in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Add the new joinee,Event_504
+18,Recording_108,Process_42,2022-02-17T10:58:41+00:00,Click UI element in window,Text 'ms-ChoiceField-field is-checked field-961' in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Add the new joinee,Event_504
+19,Recording_108,Process_42,2022-02-17T10:58:46+00:00,Press button in window,Button 'Next' 2 in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Add the new joinee,Event_504
+20,Recording_108,Process_42,2022-02-17T10:58:50+00:00,Press button in window,Button 'Finish adding' in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Add the new joinee,Event_504
+21,Recording_108,Process_42,2022-02-17T10:59:00+00:00,Press button in window,Button 'New Tab' in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Login to the online form app,Event_505
+22,Recording_108,Process_42,2022-02-17T10:59:07+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge' 2; Text:'microsoft form',Login to the online form app,Event_505
+23,Recording_108,Process_42,2022-02-17T10:59:08+00:00,Send keys,TextToSend:'{Return}',Login to the online form app,Event_505
+24,Recording_108,Process_42,2022-02-17T10:59:12+00:00,Click UI element in window,Hyperlink 'Microsoft Forms' in Window 'microsoft  ...  - Microsoft​ Edge' 4,Login to the online form app,Event_505
+25,Recording_108,Process_42,2022-02-17T10:59:23+00:00,Click UI element in window,Hyperlink 'Open  ...  Has 0 responses.' in Window 'Microsoft  ...  - Microsoft​ Edge' 5,Copy the link of survey form and share it to joinee,Event_506
+26,Recording_108,Process_42,2022-02-17T10:59:27+00:00,Press button in window,Button 'Share' in Window 'Survey Form  ...  - Microsoft​ Edge',Copy the link of survey form and share it to joinee,Event_506
+27,Recording_108,Process_42,2022-02-17T10:59:34+00:00,Select tab in window,Tab Item 'Email' in Window 'Survey Form  ...  - Microsoft​ Edge',Copy the link of survey form and share it to joinee,Event_506
+28,Recording_108,Process_42,2022-02-17T11:00:15+00:00,Populate text field in window,Edit 'To: ' in Window 'Inbox - Outlook ‎- Mail'; Text:'Email@Domain',Copy the link of survey form and share it to joinee,Event_506
+29,Recording_108,Process_42,2022-02-17T11:00:17+00:00,Click UI element in window,List Item 'Use this  ... rosoft.com' in Window 'Inbox - Outlook ‎- Mail',Copy the link of survey form and share it to joinee,Event_506
+30,Recording_108,Process_42,2022-02-17T11:00:24+00:00,Press button in window,Button 'Send' in Window 'Inbox - Outlook ‎- Mail',Copy the link of survey form and share it to joinee,Event_506

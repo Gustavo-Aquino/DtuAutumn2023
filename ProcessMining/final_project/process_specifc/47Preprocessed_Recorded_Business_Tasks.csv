@@ -1,0 +1,64 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_141,Process_47,2021-12-15T05:41:47+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar,Open cloud storage.,Event_647
+1,Recording_141,Process_47,2021-12-15T05:41:50+00:00,Click UI element in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Person 1',Open cloud storage.,Event_647
+2,Recording_141,Process_47,2021-12-15T05:41:54+00:00,Click UI element in window,Pane in Pane 'New Tab - Google Chrome - Person 1',Open cloud storage.,Event_647
+3,Recording_141,Process_47,2021-12-15T05:41:58+00:00,Click UI element in window,Hyperlink ' Office  ... office.com' in Pane 'New Tab - Google Chrome - Person 1',Open cloud storage.,Event_647
+4,Recording_141,Process_47,2021-12-15T05:42:02+00:00,Click UI element in window,Hyperlink 'OneDrive' in Pane 'New Tab - Google Chrome - Person 1',Open cloud storage.,Event_647
+5,Recording_141,Process_47,2021-12-15T05:42:06+00:00,Click UI element in window,Hyperlink 'Project Demo' in Pane 'New Tab - Google Chrome - Person 1',Locate spreadsheet in which the meeting points are mentioned.,Event_648
+6,Recording_141,Process_47,2021-12-15T05:42:10+00:00,Click UI element in window,Hyperlink 'Minutes of Meeting.xlsx' in Pane 'New Tab - Google Chrome - Person 1',Locate spreadsheet in which the meeting points are mentioned.,Event_648
+7,Recording_141,Process_47,2021-12-15T05:42:14+00:00,Click UI element in window,Image in Pane 'New Tab - Google Chrome - Person 1',Locate spreadsheet in which the meeting points are mentioned.,Event_648
+8,Recording_141,Process_47,2021-12-15T05:42:19+00:00,Click UI element in window,Image in Pane 'New Tab - Google Chrome - Person 1',Locate spreadsheet in which the meeting points are mentioned.,Event_648
+9,Recording_141,Process_47,2021-12-15T05:42:42+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Open note taking app through messaging app.,Event_649
+10,Recording_141,Process_47,2021-12-15T05:42:48+00:00,Click UI element in window,"Pane in Pane 'General  ...  Teams, Main Window'",Open note taking app through messaging app.,Event_649
+11,Recording_141,Process_47,2021-12-15T05:43:02+00:00,Click UI element in window,"List Item 'OneNote' in Pane 'General  ...  Teams, Main Window'",Open note taking app through messaging app.,Event_649
+12,Recording_141,Process_47,2021-12-15T05:43:07+00:00,Click UI element in window,"Group 'Create New Notebook' in Pane 'General  ...  Teams, Main Window'",Open note taking app through messaging app.,Event_649
+13,Recording_141,Process_47,2021-12-15T05:43:12+00:00,Populate text field in window,"Edit 'Create New Notebook' in Pane 'General  ...  Teams, Main Window'; Text:'New note'",Open note taking app through messaging app.,Event_649
+14,Recording_141,Process_47,2021-12-15T05:43:19+00:00,Click UI element in window,"Button 'Save' in Pane 'General  ...  Teams, Main Window'",Open note taking app through messaging app.,Event_649
+15,Recording_141,Process_47,2021-12-15T05:43:39+00:00,Click UI element in window,"Group 'Page Contents' in Pane 'General  ...  Teams, Main Window'",Note down the feedback points in note taking app.,Event_650
+16,Recording_141,Process_47,2021-12-15T05:43:43+00:00,Send keys,TextToSend:'{LControlKey}({V})',Note down the feedback points in note taking app.,Event_650
+17,Recording_141,Process_47,2021-12-15T05:43:50+00:00,Click UI element in window,"Text 'Open in Browser' in Pane 'General  ...  Teams, Main Window'",Share the same with respective team members.,Event_651
+18,Recording_141,Process_47,2021-12-15T05:44:08+00:00,Press button in window,Button 'Sign in with  ...  or school account.' in Window 'Sign in to  ...  - Microsoft​ Edge',Share the same with respective team members.,Event_651
+19,Recording_141,Process_47,2021-12-15T05:44:44+00:00,Click UI element in window,Button 'Share' in Window 'New note - Personal - Microsoft​ Edge',Share the same with respective team members.,Event_651
+20,Recording_141,Process_47,2021-12-15T05:44:55+00:00,Send keys,TextToSend:'Name',Share the same with respective team members.,Event_651
+21,Recording_141,Process_47,2021-12-15T05:46:13+00:00,Click UI element in window,List Item 'Name Surname' in Window 'New note - Personal - Microsoft​ Edge',Share the same with respective team members.,Event_651
+22,Recording_141,Process_47,2021-12-15T05:46:17+00:00,Press button in window,Button 'Send' in Window 'New note - Personal - Microsoft​ Edge',Share the same with respective team members.,Event_651
+0,Recording_142,Process_47,2021-12-15T05:49:08+00:00,Press button in window,Google Chrome - 1 running window in Quick Launch Bar,Open cloud storage,Event_652
+1,Recording_142,Process_47,2021-12-15T05:49:11+00:00,Click UI element in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Person 1',Open cloud storage,Event_652
+2,Recording_142,Process_47,2021-12-15T05:49:24+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Person 1'; Text:'o365',Open cloud storage,Event_652
+3,Recording_142,Process_47,2021-12-15T05:49:26+00:00,Send keys,TextToSend:'{Return}',Open cloud storage,Event_652
+4,Recording_142,Process_47,2021-12-15T05:49:28+00:00,Click UI element in window,Hyperlink ' Office  ... office.com' in Pane 'New Tab - Google Chrome - Person 1',Open cloud storage,Event_652
+5,Recording_142,Process_47,2021-12-15T05:49:35+00:00,Click UI element in window,Hyperlink 'OneDrive' in Pane 'New Tab - Google Chrome - Person 1',Open cloud storage,Event_652
+6,Recording_142,Process_47,2021-12-15T05:49:40+00:00,Click UI element in window,Hyperlink 'Project Demo' in Pane 'New Tab - Google Chrome - Person 1', Locate spreadsheet in which the meeting points are mentioned.,Event_653
+7,Recording_142,Process_47,2021-12-15T05:49:44+00:00,Click UI element in window,Hyperlink 'Minutes of Meeting (1).xlsx' in Pane 'New Tab - Google Chrome - Person 1', Locate spreadsheet in which the meeting points are mentioned.,Event_653
+8,Recording_142,Process_47,2021-12-15T05:49:55+00:00,Click UI element in window,Image in Pane 'New Tab - Google Chrome - Person 1', Locate spreadsheet in which the meeting points are mentioned.,Event_653
+9,Recording_142,Process_47,2021-12-15T05:50:13+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar, Open note taking app through messaging app,Event_654
+10,Recording_142,Process_47,2021-12-15T05:50:18+00:00,Select menu option in window,"Menu Item 'More added apps Toolbar' in Pane 'General  ...  Teams, Main Window'", Open note taking app through messaging app,Event_654
+11,Recording_142,Process_47,2021-12-15T05:50:24+00:00,Click UI element in window,"Image 'OneNote app icon' in Pane 'General  ...  Teams, Main Window'", Open note taking app through messaging app,Event_654
+12,Recording_142,Process_47,2021-12-15T05:50:36+00:00,Click UI element in window,"Group 'Page Contents' in Pane 'General  ...  Teams, Main Window'",Note down the feedback points in note taking app.,Event_655
+13,Recording_142,Process_47,2021-12-15T05:50:39+00:00,Send keys,TextToSend:'{LControlKey}({V})',Note down the feedback points in note taking app.,Event_655
+14,Recording_142,Process_47,2021-12-15T05:52:30+00:00,Press button in window,Button 'Share' in Pane 'New Tab - Google Chrome - Person 1',Share the same with respective team members,Event_656
+15,Recording_142,Process_47,2021-12-15T05:52:36+00:00,Click UI element in window,Combo Box 'Enter a  ...  to share with.' in Pane 'New Tab - Google Chrome - Person 1',Share the same with respective team members,Event_656
+16,Recording_142,Process_47,2021-12-15T05:52:38+00:00,Send keys,TextToSend:'Name',Share the same with respective team members,Event_656
+17,Recording_142,Process_47,2021-12-15T05:52:46+00:00,Click UI element in window,List Item 'Name Surname' in Pane 'New Tab - Google Chrome - Person 1',Share the same with respective team members,Event_656
+18,Recording_142,Process_47,2021-12-15T05:52:53+00:00,Click UI element in window,Button 'Send' in Pane 'New Tab - Google Chrome - Person 1',Share the same with respective team members,Event_656
+0,Recording_144,Process_47,2021-12-15T06:52:58+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar,Open cloud storage,Event_662
+1,Recording_144,Process_47,2021-12-15T06:53:04+00:00,Click UI element in window,List Item 'Microsoft Office Home - Google Chrome' in List 'Task Switcher',Open cloud storage,Event_662
+2,Recording_144,Process_47,2021-12-15T06:53:07+00:00,Click UI element in window,Hyperlink 'OneDrive' in Pane 'Microsoft Office Home - Google Chrome - Person 1',Open cloud storage,Event_662
+3,Recording_144,Process_47,2021-12-15T06:53:14+00:00,Click UI element in window,Hyperlink 'Project Demo' in Pane 'Microsoft Office Home - Google Chrome - Person 1',Locate spreadsheet in which the meeting points are mentioned,Event_663
+4,Recording_144,Process_47,2021-12-15T06:53:19+00:00,Click UI element in window,Hyperlink 'Minutes of Meeting.xlsx' in Pane 'Microsoft Office Home - Google Chrome - Person 1',Locate spreadsheet in which the meeting points are mentioned,Event_663
+5,Recording_144,Process_47,2021-12-15T06:53:25+00:00,Click UI element in window,Pane 'Microsoft Office Home - Google Chrome - Person 1',Locate spreadsheet in which the meeting points are mentioned,Event_663
+6,Recording_144,Process_47,2021-12-15T06:53:28+00:00,Click UI element in window,Pane 'Microsoft Office Home - Google Chrome - Person 1',Locate spreadsheet in which the meeting points are mentioned,Event_663
+7,Recording_144,Process_47,2021-12-15T06:53:41+00:00,Click UI element in window,Text 'Copy' in Pane 'Microsoft Office Home - Google Chrome - Person 1',Locate spreadsheet in which the meeting points are mentioned,Event_663
+8,Recording_144,Process_47,2021-12-15T06:53:56+00:00,Click UI element in window,Microsoft Teams - 1 running window in Quick Launch Bar,Open note taking app through messaging app,Event_664
+9,Recording_144,Process_47,2021-12-15T06:54:02+00:00,Select menu option in window,"Menu Item 'More added apps Toolbar' in Pane 'General  ...  Teams, Main Window'",Open note taking app through messaging app,Event_664
+10,Recording_144,Process_47,2021-12-15T06:54:11+00:00,Click UI element in window,"List Item 'OneNote  ...  more actions' in Pane 'General  ...  Teams, Main Window'",Open note taking app through messaging app,Event_664
+11,Recording_144,Process_47,2021-12-15T06:54:22+00:00,Click UI element in window,"Hyperlink 'Click  ...  a new section.' in Pane 'General  ...  Teams, Main Window'",Open note taking app through messaging app,Event_664
+12,Recording_144,Process_47,2021-12-15T06:54:35+00:00,Populate text field in window,"Edit 'Enter a section name:' in Pane 'General  ...  Teams, Main Window'; Text:'New guideline'",Open note taking app through messaging app,Event_664
+13,Recording_144,Process_47,2021-12-15T06:54:44+00:00,Drag and drop UI element in window,"Button 'OK' in Edit 'Enter a section name:' in Pane 'General  ...  Teams, Main Window'",Open note taking app through messaging app,Event_664
+14,Recording_144,Process_47,2021-12-15T06:54:47+00:00,Click UI element in window,"Group 'Click here or press ENTER to create a new section.' in Pane 'General  ...  Teams, Main Window'",Note down the feedback points in note taking app,Event_665
+15,Recording_144,Process_47,2021-12-15T06:54:49+00:00,Send keys,TextToSend:'{LControlKey}({V})',Note down the feedback points in note taking app,Event_665
+16,Recording_144,Process_47,2021-12-15T06:54:57+00:00,Click UI element in window,"Menu Item 'Open in Browser' in Pane 'General  ...  Teams, Main Window'",Note down the feedback points in note taking app,Event_665
+17,Recording_144,Process_47,2021-12-15T06:55:42+00:00,Press button in window,Button 'Share' in Window 'My Notebook  ...  - Microsoft​ Edge',Share the same with respective team members,Event_666
+18,Recording_144,Process_47,2021-12-15T06:55:48+00:00,Click UI element in window,Combo Box 'Enter a  ...  to share with.' in Window 'My Notebook  ...  - Microsoft​ Edge',Share the same with respective team members,Event_666
+19,Recording_144,Process_47,2021-12-15T06:55:51+00:00,Send keys,TextToSend:'{RShiftKey}(R)obin',Share the same with respective team members,Event_666
+20,Recording_144,Process_47,2021-12-15T06:56:09+00:00,Click UI element in window,List Item 'Name Surname' in Window 'My Notebook  ...  - Microsoft​ Edge',Share the same with respective team members,Event_666

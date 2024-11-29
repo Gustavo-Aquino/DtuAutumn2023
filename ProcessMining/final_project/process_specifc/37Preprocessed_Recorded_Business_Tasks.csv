@@ -1,0 +1,79 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_96,Process_37,2022-02-17T04:21:24+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Open the spreadsheet having the monthly performance details,Event_447
+1,Recording_96,Process_37,2022-02-17T04:21:27+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Process advisor | Power Automate — Mozilla Firefox',Open the spreadsheet having the monthly performance details,Event_447
+2,Recording_96,Process_37,2022-02-17T04:21:30+00:00,Drag and drop UI element in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox',Open the spreadsheet having the monthly performance details,Event_447
+3,Recording_96,Process_37,2022-02-17T04:21:35+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'o365',Open the spreadsheet having the monthly performance details,Event_447
+4,Recording_96,Process_37,2022-02-17T04:21:36+00:00,Send keys,TextToSend:'{Return}',Open the spreadsheet having the monthly performance details,Event_447
+5,Recording_96,Process_37,2022-02-17T04:21:40+00:00,Click UI element in window,Hyperlink 'Office  ... office.com' in Window 'o365 - Google Search — Mozilla Firefox',Open the spreadsheet having the monthly performance details,Event_447
+6,Recording_96,Process_37,2022-02-17T04:21:46+00:00,Click UI element in window,Hyperlink 'SharePoint' in Window 'Microsoft Office Home — Mozilla Firefox',Open the spreadsheet having the monthly performance details,Event_447
+7,Recording_96,Process_37,2022-02-17T04:21:54+00:00,Click UI element in window,Hyperlink 'Site Project RoadMap.' in Window 'SharePoint — Mozilla Firefox',Open the spreadsheet having the monthly performance details,Event_447
+8,Recording_96,Process_37,2022-02-17T04:22:08+00:00,Click UI element in window,Hyperlink 'Shared  ...  than a minute ago' in Window 'Project RoadMap - Home — Mozilla Firefox',Open the spreadsheet having the monthly performance details,Event_447
+9,Recording_96,Process_37,2022-02-17T04:22:21+00:00,Select tab in window,Tab Item 'New Tab' in Window 'Mozilla Firefox',Login to cloud storage,Event_448
+10,Recording_96,Process_37,2022-02-17T04:22:26+00:00,Click UI element in window,Hyperlink 'OneDrive' in Window 'Microsoft Office Home — Mozilla Firefox',Login to cloud storage,Event_448
+11,Recording_96,Process_37,2022-02-17T04:22:38+00:00,Select menu option in window,Menu Item 'New' in Window 'My files - OneDrive — Mozilla Firefox',Create a report document,Event_449
+12,Recording_96,Process_37,2022-02-17T04:22:48+00:00,Select menu option in window,MenuItem: New in Window 'My files - OneDrive — Mozilla Firefox',Create a report document,Event_449
+13,Recording_96,Process_37,2022-02-17T04:22:58+00:00,Select tab in window,Window 'Document.docx — Mozilla Firefox',Create a report document,Event_449
+14,Recording_96,Process_37,2022-02-17T04:23:05+00:00,Drag and drop UI element in window,UI Custom in Window 'Performancde  ...  — Mozilla Firefox',Copy the data and chart from speadsheet to document,Event_450
+15,Recording_96,Process_37,2022-02-17T04:23:05+00:00,Send keys,TextToSend:'{LControlKey}({C})',Copy the data and chart from speadsheet to document,Event_450
+16,Recording_96,Process_37,2022-02-17T04:23:09+00:00,Select tab in window,Tab Item 'Document.docx' in Window 'Performancde  ...  — Mozilla Firefox',Copy the data and chart from speadsheet to document,Event_450
+17,Recording_96,Process_37,2022-02-17T04:23:11+00:00,Click UI element in window,UI Custom in Window 'Document.docx — Mozilla Firefox',Copy the data and chart from speadsheet to document,Event_450
+18,Recording_96,Process_37,2022-02-17T04:23:12+00:00,Send keys,TextToSend:'{LControlKey}({V})',Copy the data and chart from speadsheet to document,Event_450
+19,Recording_96,Process_37,2022-02-17T04:23:19+00:00,Select tab in window,Window 'Document.docx — Mozilla Firefox',Copy the data and chart from speadsheet to document,Event_450
+20,Recording_96,Process_37,2022-02-17T04:23:21+00:00,Click UI element in window,UI Custom 2 in Window 'Performancde  ...  — Mozilla Firefox',Copy the data and chart from speadsheet to document,Event_450
+21,Recording_96,Process_37,2022-02-17T04:23:23+00:00,Click UI element in window,UI Custom 2 in Window 'Performancde  ...  — Mozilla Firefox',Copy the data and chart from speadsheet to document,Event_450
+22,Recording_96,Process_37,2022-02-17T04:23:23+00:00,Send keys,TextToSend:'{LControlKey}()',Copy the data and chart from speadsheet to document,Event_450
+23,Recording_96,Process_37,2022-02-17T04:23:28+00:00,Click UI element in window,Pane in Window 'Mozilla Firefox',Copy the data and chart from speadsheet to document,Event_450
+24,Recording_96,Process_37,2022-02-17T04:23:34+00:00,Select tab in window,Tab Item 'Document.docx' in Window 'Performancde  ...  — Mozilla Firefox',Copy the data and chart from speadsheet to document,Event_450
+25,Recording_96,Process_37,2022-02-17T04:23:38+00:00,Click UI element in window,UI Custom 'Document Contents' in Window 'Document.docx — Mozilla Firefox',Copy the data and chart from speadsheet to document,Event_450
+26,Recording_96,Process_37,2022-02-17T04:23:38+00:00,Send keys,TextToSend:'{LControlKey}({V})',Copy the data and chart from speadsheet to document,Event_450
+0,Recording_127,Process_37,2022-02-17T04:26:29+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'office 365', Open the monthly performancde sheet,Event_577
+1,Recording_127,Process_37,2022-02-17T04:26:29+00:00,Send keys,TextToSend:'{Return}', Open the monthly performancde sheet,Event_577
+2,Recording_127,Process_37,2022-02-17T04:26:33+00:00,Click UI element in window,Hyperlink 'Office 365 login' in Window 'office 365 -  ...  - Microsoft​ Edge', Open the monthly performancde sheet,Event_577
+3,Recording_127,Process_37,2022-02-17T04:26:40+00:00,Click UI element in window,Hyperlink 'OneDrive' in Window 'Microsoft  ...  - Microsoft​ Edge', Open the monthly performancde sheet,Event_577
+4,Recording_127,Process_37,2022-02-17T04:26:51+00:00,Click UI element in window,Window 'My files -  ...  - Microsoft​ Edge', Open the monthly performancde sheet,Event_577
+5,Recording_127,Process_37,2022-02-17T04:26:59+00:00,Click UI element in window,Image 'ewr-sheettable' in Window 'Performancde  ...  - Microsoft​ Edge', Open the monthly performancde sheet,Event_577
+6,Recording_127,Process_37,2022-02-17T04:27:07+00:00,Select tab in window,Window 'Performancde  ...  - Microsoft​ Edge', Open the monthly performancde sheet,Event_577
+7,Recording_127,Process_37,2022-02-17T04:27:11+00:00,Click UI element in window,Hyperlink 'SharePoint' in Window 'Microsoft  ...  - Microsoft​ Edge' 2,Go to the cloud storage,Event_578
+8,Recording_127,Process_37,2022-02-17T04:27:24+00:00,Press button in window,Button 'My files' in Window 'SharePoint  ...  - Microsoft​ Edge',Prepare the Monthly Performance report,Event_579
+9,Recording_127,Process_37,2022-02-17T04:27:40+00:00,Click UI element in window,Group 'Project RoadMap' in Window 'SharePoint  ...  - Microsoft​ Edge',Prepare the Monthly Performance report,Event_579
+10,Recording_127,Process_37,2022-02-17T04:27:47+00:00,Click UI element in window,Hyperlink 'Documents' in Window 'Project  ...  - Microsoft​ Edge',Prepare the Monthly Performance report,Event_579
+11,Recording_127,Process_37,2022-02-17T04:27:52+00:00,Select menu option in window,Menu Item 'New' in Window 'Project  ...  - Microsoft​ Edge' 2,Prepare the Monthly Performance report,Event_579
+12,Recording_127,Process_37,2022-02-17T04:27:59+00:00,Select menu option in window,MenuItem: New New in Window 'Project  ...  - Microsoft​ Edge' 2,Prepare the Monthly Performance report,Event_579
+13,Recording_127,Process_37,2022-02-17T04:28:10+00:00,Select tab in window,Window 'Doc ...  - Microsoft​ Edge',Prepare the Monthly Performance report,Event_579
+14,Recording_127,Process_37,2022-02-17T04:28:13+00:00,Drag and drop UI element in window,Image 'ewr-sheettable' in Window 'Performancde  ...  - Microsoft​ Edge',Note down the data and chart from the spreadsheet,Event_580
+15,Recording_127,Process_37,2022-02-17T04:28:16+00:00,Populate text field in window,Edit 'grid' in Window 'Performancde  ...  - Microsoft​ Edge' 2; Text:'',Note down the data and chart from the spreadsheet,Event_580
+16,Recording_127,Process_37,2022-02-17T04:28:19+00:00,Select tab in window,Window 'Performancde  ...  - Microsoft​ Edge' 2,Note down the data and chart from the spreadsheet,Event_580
+17,Recording_127,Process_37,2022-02-17T04:28:20+00:00,Send keys,TextToSend:'{LControlKey}({V})',Note down the data and chart from the spreadsheet,Event_580
+18,Recording_127,Process_37,2022-02-17T04:28:26+00:00,Select tab in window,Window 'Doc ...  - Microsoft​ Edge',Note down the data and chart from the spreadsheet,Event_580
+19,Recording_127,Process_37,2022-02-17T04:28:28+00:00,Click UI element in window,Image 'MSChart-ChartRoot' in Window 'Performancde  ...  - Microsoft​ Edge' 2,Note down the data and chart from the spreadsheet,Event_580
+20,Recording_127,Process_37,2022-02-17T04:28:33+00:00,Click UI element in window,Image 'MSChart-ChartRoot' in Window 'Performancde  ...  - Microsoft​ Edge' 2,Note down the data and chart from the spreadsheet,Event_580
+21,Recording_127,Process_37,2022-02-17T04:28:36+00:00,Click UI element in window,Image 'MSChart-ChartRoot' in Window 'Performancde  ...  - Microsoft​ Edge' 2,Note down the data and chart from the spreadsheet,Event_580
+22,Recording_127,Process_37,2022-02-17T04:28:38+00:00,Populate text field in window,Edit 'grid' in Window 'Performancde  ...  - Microsoft​ Edge' 2; Text:'',Note down the data and chart from the spreadsheet,Event_580
+23,Recording_127,Process_37,2022-02-17T04:28:40+00:00,Click UI element in window,Image 'MSChart-ChartRoot' in Window 'Performancde  ...  - Microsoft​ Edge' 2,Note down the data and chart from the spreadsheet,Event_580
+24,Recording_127,Process_37,2022-02-17T04:28:42+00:00,Populate text field in window,Edit 'grid' in Window 'Performancde  ...  - Microsoft​ Edge' 2; Text:'',Note down the data and chart from the spreadsheet,Event_580
+25,Recording_127,Process_37,2022-02-17T04:28:45+00:00,Select tab in window,Window 'Performancde  ...  - Microsoft​ Edge' 2,Note down the data and chart from the spreadsheet,Event_580
+26,Recording_127,Process_37,2022-02-17T04:28:47+00:00,Send keys,TextToSend:'{Return}{LControlKey}({V})',Note down the data and chart from the spreadsheet,Event_580
+0,Recording_128,Process_37,2022-02-17T05:09:09+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar, Go to the online spreadsheet having monthly performance data,Event_581
+1,Recording_128,Process_37,2022-02-17T05:09:13+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher', Go to the online spreadsheet having monthly performance data,Event_581
+2,Recording_128,Process_37,2022-02-17T05:09:19+00:00,Press button in window,Button 'My files - OneDrive' in Pane 'New Tab - Google Chrome - Person 1', Go to the online spreadsheet having monthly performance data,Event_581
+3,Recording_128,Process_37,2022-02-17T05:09:24+00:00,Click UI element in window,Hyperlink 'Performancde Data.xlsx' in Pane 'New Tab - Google Chrome - Person 1', Go to the online spreadsheet having monthly performance data,Event_581
+4,Recording_128,Process_37,2022-02-17T05:09:34+00:00,Click UI element in window,Button 'New Tab' in Pane 'New Tab - Google Chrome - Person 1',Open the cloud storage,Event_582
+5,Recording_128,Process_37,2022-02-17T05:09:38+00:00,Click UI element in window,Button 'SharePoint' in Pane 'New Tab - Google Chrome - Person 1',Open the cloud storage,Event_582
+6,Recording_128,Process_37,2022-02-17T05:09:44+00:00,Click UI element in window,Hyperlink 'Project RoadMap' in Pane 'New Tab - Google Chrome - Person 1',Open the cloud storage,Event_582
+7,Recording_128,Process_37,2022-02-17T05:09:49+00:00,Click UI element in window,Hyperlink 'Documents' in Pane 'New Tab - Google Chrome - Person 1',Open the cloud storage,Event_582
+8,Recording_128,Process_37,2022-02-17T05:09:57+00:00,Click UI element in window,Menu Item 'New' in Pane 'New Tab - Google Chrome - Person 1',Create a report of Monthly Performance in document,Event_583
+9,Recording_128,Process_37,2022-02-17T05:10:00+00:00,Click UI element in window,Group in Pane 'New Tab - Google Chrome - Person 1',Create a report of Monthly Performance in document,Event_583
+10,Recording_128,Process_37,2022-02-17T05:10:08+00:00,Press button in window,Button 'Document6' in Pane 'New Tab - Google Chrome - Person 1',Create a report of Monthly Performance in document,Event_583
+11,Recording_128,Process_37,2022-02-17T05:10:20+00:00,Populate text field in window,Edit 'File Name' in Pane 'New Tab - Google Chrome - Person 1'; Text:'',Create a report of Monthly Performance in document,Event_583
+12,Recording_128,Process_37,2022-02-17T05:10:22+00:00,Click UI element in window,Button 'Format Painter' in Pane 'New Tab - Google Chrome - Person 1',Create a report of Monthly Performance in document,Event_583
+13,Recording_128,Process_37,2022-02-17T05:10:29+00:00,Populate text field in window,Edit 'File Name' in Pane 'New Tab - Google Chrome - Person 1'; Text:'Performance Data',Create a report of Monthly Performance in document,Event_583
+14,Recording_128,Process_37,2022-02-17T05:10:31+00:00,Send keys,TextToSend:'{Return}',Create a report of Monthly Performance in document,Event_583
+15,Recording_128,Process_37,2022-02-17T05:10:52+00:00,Click UI element in window,Tab Item 'Performancde Data.xlsx' in Pane 'New Tab - Google Chrome - Person 1',Copy the data and chart from the spreadsheet,Event_584
+16,Recording_128,Process_37,2022-02-17T05:11:04+00:00,Click UI element in window,Image in Pane 'New Tab - Google Chrome - Person 1',Copy the data and chart from the spreadsheet,Event_584
+17,Recording_128,Process_37,2022-02-17T05:11:06+00:00,Populate text field in window,Pane 'New Tab - Google Chrome - Person 1'; Text:'',Copy the data and chart from the spreadsheet,Event_584
+18,Recording_128,Process_37,2022-02-17T05:11:20+00:00,Click UI element in window,Tab Item 'Performance Data1' in Pane 'New Tab - Google Chrome - Person 1',Copy the data and chart from the spreadsheet,Event_584
+19,Recording_128,Process_37,2022-02-17T05:11:21+00:00,Send keys,TextToSend:'{LControlKey}({V})',Copy the data and chart from the spreadsheet,Event_584
+20,Recording_128,Process_37,2022-02-17T05:12:24+00:00,Click UI element in window,Image 2 in Pane 'New Tab - Google Chrome - Person 1',Copy the data and chart from the spreadsheet,Event_584
+21,Recording_128,Process_37,2022-02-17T05:12:25+00:00,Click UI element in window,Image 3 in Pane 'New Tab - Google Chrome - Person 1',Copy the data and chart from the spreadsheet,Event_584
+22,Recording_128,Process_37,2022-02-17T05:13:00+00:00,Click UI element in window,Tab Item 'Performance Data1' in Pane 'New Tab - Google Chrome - Person 1',Copy the data and chart from the spreadsheet,Event_584
+23,Recording_128,Process_37,2022-02-17T05:13:02+00:00,Send keys,TextToSend:'{LControlKey}({V})',Copy the data and chart from the spreadsheet,Event_584

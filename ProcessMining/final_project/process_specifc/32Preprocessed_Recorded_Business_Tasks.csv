@@ -1,0 +1,85 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_90,Process_32,2022-02-16T04:17:54+00:00,Click UI element in window,List Item '🔎  ...  - Microsoft​ Edge' in List 'Task Switcher',Login to the form making app,Event_426
+1,Recording_90,Process_32,2022-02-16T04:17:58+00:00,Click UI element in window,Hyperlink 'Microsoft Forms' in Window '🔎 microsoft  ...  - Microsoft​ Edge',Login to the form making app,Event_426
+2,Recording_90,Process_32,2022-02-16T04:18:07+00:00,Populate text field in window,Edit 'Search your  ...  bar as you type.' in Window 'Microsoft  ...  - Microsoft​ Edge'; Text:'Leave',Search the Leave Application form and save it in PDF format,Event_427
+3,Recording_90,Process_32,2022-02-16T04:18:12+00:00,Click UI element in window,Edit 'Search your  ...  bar as you type.' in Window 'Microsoft  ...  - Microsoft​ Edge',Search the Leave Application form and save it in PDF format,Event_427
+4,Recording_90,Process_32,2022-02-16T04:18:19+00:00,Click UI element in window,Hyperlink 'Open  ...  Has 0 responses.' in Window 'Microsoft  ...  - Microsoft​ Edge',Search the Leave Application form and save it in PDF format,Event_427
+5,Recording_90,Process_32,2022-02-16T04:18:24+00:00,Press button in window,Button 'More form settings' in Window 'Leave  ...  - Microsoft​ Edge',Search the Leave Application form and save it in PDF format,Event_427
+6,Recording_90,Process_32,2022-02-16T04:18:27+00:00,Select menu option in window,Menu Item 'Print Form' in Window 'Leave  ...  - Microsoft​ Edge',Search the Leave Application form and save it in PDF format,Event_427
+7,Recording_90,Process_32,2022-02-16T04:18:32+00:00,Press button in window,Button 'Print' in Window 'Leave  ...  - Microsoft​ Edge' 2,Search the Leave Application form and save it in PDF format,Event_427
+8,Recording_90,Process_32,2022-02-16T04:18:40+00:00,Click UI element in window,Tree Item 'Downloads' in Window 'Leave  ...  - Microsoft​ Edge',Search the Leave Application form and save it in PDF format,Event_427
+9,Recording_90,Process_32,2022-02-16T04:19:09+00:00,Populate text field in window,Edit 'File name:' in Window 'Leave  ...  - Microsoft​ Edge'; Text:'Leave application form',Search the Leave Application form and save it in PDF format,Event_427
+10,Recording_90,Process_32,2022-02-16T04:19:11+00:00,Press button in window,Button 'Save' in Window 'Leave  ...  - Microsoft​ Edge' 2,Search the Leave Application form and save it in PDF format,Event_427
+11,Recording_90,Process_32,2022-02-16T04:19:17+00:00,Press button in window,Nebula PDF Converter Pro - 1 running window in Quick Launch Bar,Open the document converter app,Event_428
+12,Recording_90,Process_32,2022-02-16T04:19:20+00:00,Click UI element in window,List Item 'PDFConverter.ViewModels.ToolListUsername' in Window 'Nebula PDF Converter Pro',Open the document converter app,Event_428
+13,Recording_90,Process_32,2022-02-16T04:19:24+00:00,Press button in window,Button 'Button' in Window 'Nebula PDF Converter Pro',Upload the Leave Application form,Event_429
+14,Recording_90,Process_32,2022-02-16T04:19:28+00:00,Click UI element in window,Tree Item 'Documents' in Window 'Nebula PDF Converter Pro',Upload the Leave Application form,Event_429
+15,Recording_90,Process_32,2022-02-16T04:19:33+00:00,Click UI element in window,Tree Item 'Downloads' in Window 'Nebula PDF Converter Pro',Upload the Leave Application form,Event_429
+16,Recording_90,Process_32,2022-02-16T04:19:39+00:00,Click UI element in window,Edit 'Name' in Window 'Nebula PDF Converter Pro',Upload the Leave Application form,Event_429
+17,Recording_90,Process_32,2022-02-16T04:19:43+00:00,Press button in window,Button 'Open' in Window 'Nebula PDF Converter Pro',Upload the Leave Application form,Event_429
+18,Recording_90,Process_32,2022-02-16T04:19:51+00:00,Press button in window,Button 'Browser...' in Window 'Nebula PDF Converter Pro',Upload the Leave Application form,Event_429
+19,Recording_90,Process_32,2022-02-16T04:19:56+00:00,Click UI element in window,Tree Item 'Desktop (pinned)' in Window 'Nebula PDF Converter Pro',Upload the Leave Application form,Event_429
+20,Recording_90,Process_32,2022-02-16T04:20:00+00:00,Press button in window,Button 'Select Folder' in Window 'Nebula PDF Converter Pro',Upload the Leave Application form,Event_429
+21,Recording_90,Process_32,2022-02-16T04:20:04+00:00,Press button in window,Button 'Convert' in Window 'Nebula PDF Converter Pro',Save it to word format,Event_430
+0,Recording_118,Process_32,2022-02-16T04:19:13+00:00,Press button in window,Google Chrome - 1 running window in Quick Launch Bar,Open the online form application,Event_544
+1,Recording_118,Process_32,2022-02-16T04:19:16+00:00,Press button in window,Button 'New Tab' in Pane 'Process  ...  Chrome - Person 1',Open the online form application,Event_544
+2,Recording_118,Process_32,2022-02-16T04:19:26+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'Process  ...  Chrome - Person 1'; Text:'Zoho forms',Open the online form application,Event_544
+3,Recording_118,Process_32,2022-02-16T04:19:27+00:00,Send keys,TextToSend:'{Return}',Open the online form application,Event_544
+4,Recording_118,Process_32,2022-02-16T04:19:30+00:00,Click UI element in window,Hyperlink ' Form  ... om › forms' in Pane 'Process  ...  Chrome - Person 1',Open the online form application,Event_544
+5,Recording_118,Process_32,2022-02-16T04:19:36+00:00,Click UI element in window,Hyperlink 'ACCESS ZOHO FORMS' in Pane 'Process  ...  Chrome - Person 1',Open the online form application,Event_544
+6,Recording_118,Process_32,2022-02-16T04:19:40+00:00,Click UI element in window,Text '' in Pane 'Process  ...  Chrome - Person 1',Find the Leave application form and download it ,Event_545
+7,Recording_118,Process_32,2022-02-16T04:19:41+00:00,Click UI element in window,Text '' in Pane 'Process  ...  Chrome - Person 1',Find the Leave application form and download it ,Event_545
+8,Recording_118,Process_32,2022-02-16T04:19:45+00:00,Populate text field in window,Edit 'Search' in Pane 'Process  ...  Chrome - Person 1'; Text:'Leave',Find the Leave application form and download it ,Event_545
+9,Recording_118,Process_32,2022-02-16T04:19:47+00:00,Send keys,TextToSend:'{Return}',Find the Leave application form and download it ,Event_545
+10,Recording_118,Process_32,2022-02-16T04:19:50+00:00,Click UI element in window,Hyperlink 'Leave Application Form' in Pane 'Process  ...  Chrome - Person 1',Find the Leave application form and download it ,Event_545
+11,Recording_118,Process_32,2022-02-16T04:19:56+00:00,Send keys,TextToSend:'{P}',Find the Leave application form and download it ,Event_545
+12,Recording_118,Process_32,2022-02-16T04:19:59+00:00,Click UI element in window,Combo Box in Pane 'Process  ...  Chrome - Person 1',Find the Leave application form and download it ,Event_545
+13,Recording_118,Process_32,2022-02-16T04:20:02+00:00,Press button in window,Button 'Save' in Pane 'Process  ...  Chrome - Person 1',Find the Leave application form and download it ,Event_545
+14,Recording_118,Process_32,2022-02-16T04:20:09+00:00,Click UI element in window,Tree Item 'Desktop' in Pane 'Process  ...  Chrome - Person 1',Find the Leave application form and download it ,Event_545
+15,Recording_118,Process_32,2022-02-16T04:20:11+00:00,Click UI element in window,Edit 'Name' in Pane 'Process  ...  Chrome - Person 1',Find the Leave application form and download it ,Event_545
+16,Recording_118,Process_32,2022-02-16T04:20:19+00:00,Populate text field in window,Edit 'File name:' in Pane 'Process  ...  Chrome - Person 1'; Text:'Leave Application form',Find the Leave application form and download it ,Event_545
+17,Recording_118,Process_32,2022-02-16T04:20:22+00:00,Press button in window,Button 'Save' 2 in Pane 'Process  ...  Chrome - Person 1',Find the Leave application form and download it ,Event_545
+18,Recording_118,Process_32,2022-02-16T04:20:28+00:00,Press button in window,PDF Converter Pro - Free - 1 running window in Quick Launch Bar,Go to the content conversion app,Event_546
+19,Recording_118,Process_32,2022-02-16T04:20:32+00:00,Click UI element in window,"List Item 'From PDF' in Window 'PDF  ...  RTF, XPS, Images'",Go to the content conversion app,Event_546
+20,Recording_118,Process_32,2022-02-16T04:20:38+00:00,Press button in window,"Button '...' in Window 'PDF  ...  RTF, XPS, Images'","To convert the PDF format of Leave Application form, browse it in conversion tool",Event_547
+21,Recording_118,Process_32,2022-02-16T04:20:41+00:00,Expand/collapse tree node in window,"Tree Item 'This PC' in Window 'PDF  ...  RTF, XPS, Images'","To convert the PDF format of Leave Application form, browse it in conversion tool",Event_547
+22,Recording_118,Process_32,2022-02-16T04:20:43+00:00,Expand/collapse tree node in window,"Tree Item 'Desktop' in Window 'PDF  ...  RTF, XPS, Images'","To convert the PDF format of Leave Application form, browse it in conversion tool",Event_547
+23,Recording_118,Process_32,2022-02-16T04:20:47+00:00,Click UI element in window,"Tree Item 'Forms' in Window 'PDF  ...  RTF, XPS, Images'","To convert the PDF format of Leave Application form, browse it in conversion tool",Event_547
+24,Recording_118,Process_32,2022-02-16T04:20:49+00:00,Click UI element in window,"Tree Item 'Forms' in Window 'PDF  ...  RTF, XPS, Images'","To convert the PDF format of Leave Application form, browse it in conversion tool",Event_547
+25,Recording_118,Process_32,2022-02-16T04:20:51+00:00,Press button in window,"Button 'OK' in Window 'PDF  ...  RTF, XPS, Images'","To convert the PDF format of Leave Application form, browse it in conversion tool",Event_547
+26,Recording_118,Process_32,2022-02-16T04:20:55+00:00,Set drop-down list value in window,"Combo Box 'ComboBox' in Window 'PDF  ...  RTF, XPS, Images'","To convert the PDF format of Leave Application form, browse it in conversion tool",Event_547
+27,Recording_118,Process_32,2022-02-16T04:20:59+00:00,Press button in window,"Button 'Button' in Window 'PDF  ...  RTF, XPS, Images'","To convert the PDF format of Leave Application form, browse it in conversion tool",Event_547
+28,Recording_118,Process_32,2022-02-16T04:21:01+00:00,Click UI element in window,"Edit 'Name' in Window 'PDF  ...  RTF, XPS, Images'","To convert the PDF format of Leave Application form, browse it in conversion tool",Event_547
+29,Recording_118,Process_32,2022-02-16T04:21:05+00:00,Click UI element in window,"Edit 'Name' in Window 'PDF  ...  RTF, XPS, Images'","To convert the PDF format of Leave Application form, browse it in conversion tool",Event_547
+30,Recording_118,Process_32,2022-02-16T04:21:08+00:00,Press button in window,"Button 'Open' in Window 'PDF  ...  RTF, XPS, Images'","To convert the PDF format of Leave Application form, browse it in conversion tool",Event_547
+31,Recording_118,Process_32,2022-02-16T04:21:09+00:00,Click UI element in window,"Button 'Open' in Window 'PDF  ...  RTF, XPS, Images'","To convert the PDF format of Leave Application form, browse it in conversion tool",Event_547
+32,Recording_118,Process_32,2022-02-16T04:21:16+00:00,Click UI element in window,"DataGrid 'DataGrid' in Window 'PDF  ...  RTF, XPS, Images'","To convert the PDF format of Leave Application form, browse it in conversion tool",Event_547
+33,Recording_118,Process_32,2022-02-16T04:21:19+00:00,Press button in window,"Button 'Button' 2 in Window 'PDF  ...  RTF, XPS, Images'",Store the PDF format to word document,Event_548
+34,Recording_118,Process_32,2022-02-16T04:21:29+00:00,Click UI element in window,Edit 'Name' in Window 'Forms',Store the PDF format to word document,Event_548
+35,Recording_118,Process_32,2022-02-16T04:21:33+00:00,Click UI element in window,Edit 'Name' in Window 'Forms',Store the PDF format to word document,Event_548
+0,Recording_119,Process_32,2022-02-16T04:53:20+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Go to the online form app,Event_549
+1,Recording_119,Process_32,2022-02-16T04:53:26+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'Google.com/',Go to the online form app,Event_549
+2,Recording_119,Process_32,2022-02-16T04:53:27+00:00,Send keys,TextToSend:'{Return}',Go to the online form app,Event_549
+3,Recording_119,Process_32,2022-02-16T04:53:31+00:00,Press button in window,Button 'Google apps' in Window 'Google — Mozilla Firefox',Go to the online form app,Event_549
+4,Recording_119,Process_32,2022-02-16T04:53:36+00:00,Click UI element in window,Hyperlink 'Forms' in Window 'Google — Mozilla Firefox',Go to the online form app,Event_549
+5,Recording_119,Process_32,2022-02-16T04:53:42+00:00,Click UI element in window,List Item 'Leave  ...  Popup button.' in Window 'Google Forms — Mozilla Firefox',Locate and save Leave Application form,Event_550
+6,Recording_119,Process_32,2022-02-16T04:53:48+00:00,Select menu option in window,Menu Item 'More' in Window 'Leave Survey - Google Forms — Mozilla Firefox',Locate and save Leave Application form,Event_550
+7,Recording_119,Process_32,2022-02-16T04:53:52+00:00,Select menu option in window,Menu Item 'Print' in Window 'Leave Survey - Google Forms — Mozilla Firefox',Locate and save Leave Application form,Event_550
+8,Recording_119,Process_32,2022-02-16T04:53:56+00:00,Click UI element in window,Combo Box 'Destination' in Window 'Leave Survey — Mozilla Firefox',Locate and save Leave Application form,Event_550
+9,Recording_119,Process_32,2022-02-16T04:53:58+00:00,Click UI element in window,Combo Box 'Destination',Locate and save Leave Application form,Event_550
+10,Recording_119,Process_32,2022-02-16T04:54:07+00:00,Press button in window,Button 'Print' in Window 'Leave Survey — Mozilla Firefox',Locate and save Leave Application form,Event_550
+11,Recording_119,Process_32,2022-02-16T04:54:14+00:00,Populate text field in window,Edit 'File name:' in Window 'Leave Survey — Mozilla Firefox'; Text:'Leave Form',Locate and save Leave Application form,Event_550
+12,Recording_119,Process_32,2022-02-16T04:54:18+00:00,Press button in window,Button 'Save' in Window 'Leave Survey — Mozilla Firefox',Locate and save Leave Application form,Event_550
+13,Recording_119,Process_32,2022-02-16T04:54:22+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Leave Survey — Mozilla Firefox',Open the converter,Event_551
+14,Recording_119,Process_32,2022-02-16T04:54:29+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'Adobe converrter',Open the converter,Event_551
+15,Recording_119,Process_32,2022-02-16T04:54:30+00:00,Send keys,TextToSend:'{Return}',Open the converter,Event_551
+16,Recording_119,Process_32,2022-02-16T04:54:35+00:00,Click UI element in window,Hyperlink 'Convert  ...  › convert-pdf' in Window 'Adobe converrter - Google Search — Mozilla Firefox',Open the converter,Event_551
+17,Recording_119,Process_32,2022-02-16T04:54:45+00:00,Select tab in window,Tab Item 'Convert' in Window 'Adobe Acrobat — Mozilla Firefox',Open the converter,Event_551
+18,Recording_119,Process_32,2022-02-16T04:54:51+00:00,Click UI element in window,UI Custom in Window 'Adobe Acrobat Convert — Mozilla Firefox',Open the converter,Event_551
+19,Recording_119,Process_32,2022-02-16T04:54:55+00:00,Click UI element in window,Hyperlink 'Add a file from your device' in Window 'Adobe Acrobat Convert — Mozilla Firefox', Browse the saved PDF file of Leave Application form,Event_552
+20,Recording_119,Process_32,2022-02-16T04:54:59+00:00,Click UI element in window,Edit 'Name' in Window 'Adobe Acrobat Convert — Mozilla Firefox', Browse the saved PDF file of Leave Application form,Event_552
+21,Recording_119,Process_32,2022-02-16T04:55:02+00:00,Press button in window,Button 'Open' in Window 'Adobe Acrobat Convert — Mozilla Firefox', Browse the saved PDF file of Leave Application form,Event_552
+22,Recording_119,Process_32,2022-02-16T04:55:09+00:00,Press button in window,Button 'Export to DOCX' in Window 'Adobe Acrobat Convert — Mozilla Firefox',Convert it to document format,Event_553
+23,Recording_119,Process_32,2022-02-16T04:55:34+00:00,Press button in window,Button 'Download file' in Window 'Adobe Acrobat Convert — Mozilla Firefox',Convert it to document format,Event_553
+24,Recording_119,Process_32,2022-02-16T04:56:00+00:00,Select radio button in window,Radio Button 'Save File' in Window 'Adobe Acrobat Convert — Mozilla Firefox',Convert it to document format,Event_553
+25,Recording_119,Process_32,2022-02-16T04:56:03+00:00,Press button in window,Button 'OK' in Window 'Adobe Acrobat Convert — Mozilla Firefox',Convert it to document format,Event_553

@@ -1,0 +1,104 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_6,Process_5,2022-02-21T10:53:33+00:00,Press button in window,Name RKH - Chrome - 1 running window in Quick Launch Bar,Check the message received from Manager,Event_21
+1,Recording_6,Process_5,2022-02-21T10:53:39+00:00,Click UI element in window,Hyperlink 'Available  ...  More options' in Pane 'Name Surname |  ...  Chrome - Name RKH',Check the message received from Manager,Event_21
+2,Recording_6,Process_5,2022-02-21T10:53:42+00:00,Click UI element in window,Group 'Can you  ...  Today at 4:23 PM.' in Pane 'Name Surname |  ...  Chrome - Name RKH',Check the message received from Manager,Event_21
+3,Recording_6,Process_5,2022-02-21T10:53:53+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Login to collaborative tool,Event_22
+4,Recording_6,Process_5,2022-02-21T10:53:57+00:00,Click UI element in window,List Item '(7  ...  - Microsoft​ Edge' in List 'Task Switcher',Login to collaborative tool,Event_22
+5,Recording_6,Process_5,2022-02-21T10:54:01+00:00,Press button in window,Button 'New Tab' in Window '(7 unread) -  ...  - Microsoft​ Edge',Login to collaborative tool,Event_22
+6,Recording_6,Process_5,2022-02-21T10:54:10+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'sharepoint login',Login to collaborative tool,Event_22
+7,Recording_6,Process_5,2022-02-21T10:54:10+00:00,Send keys,TextToSend:'{Return}',Login to collaborative tool,Event_22
+8,Recording_6,Process_5,2022-02-21T10:54:14+00:00,Click UI element in window,Hyperlink 'Office 365 login' in Window 'sharepoint  ...  - Microsoft​ Edge',Login to collaborative tool,Event_22
+9,Recording_6,Process_5,2022-02-21T10:54:21+00:00,Press button in window,Button 'App launcher' in Window 'Microsoft  ...  - Microsoft​ Edge',Login to collaborative tool,Event_22
+10,Recording_6,Process_5,2022-02-21T10:54:26+00:00,Press button in window,Button 'All apps' in Window 'Microsoft  ...  - Microsoft​ Edge',Login to collaborative tool,Event_22
+11,Recording_6,Process_5,2022-02-21T10:54:32+00:00,Populate text field in window,Edit 'Search all of  ...  bar as you type.' in Window 'Microsoft  ...  - Microsoft​ Edge'; Text:'sharepoint',Login to collaborative tool,Event_22
+12,Recording_6,Process_5,2022-02-21T10:54:35+00:00,Click UI element in window,Hyperlink 'SharePoint' in Window 'Microsoft  ...  - Microsoft​ Edge',Login to collaborative tool,Event_22
+13,Recording_6,Process_5,2022-02-21T10:54:41+00:00,Click UI element in window,Hyperlink 'Project RoadMap' in Window 'SharePoint  ...  - Microsoft​ Edge' 2,Locate the document require to send to Operation department,Event_23
+14,Recording_6,Process_5,2022-02-21T10:54:50+00:00,Click UI element in window,Hyperlink 'Shared  ...  31 minutes ago' in Window 'Project  ...  - Microsoft​ Edge',Locate the document require to send to Operation department,Event_23
+15,Recording_6,Process_5,2022-02-21T10:54:56+00:00,Press button in window,Button 'File' in Window 'Firefighting  ...  - Microsoft​ Edge', Export the document,Event_24
+16,Recording_6,Process_5,2022-02-21T10:55:00+00:00,Click UI element in window,List Item 'Print' in Window 'Firefighting  ...  - Microsoft​ Edge', Export the document,Event_24
+17,Recording_6,Process_5,2022-02-21T10:55:02+00:00,Click UI element in window,List Item 'Print Print this document.' in Window 'Firefighting  ...  - Microsoft​ Edge', Export the document,Event_24
+18,Recording_6,Process_5,2022-02-21T10:55:08+00:00,Press button in window,Button 'Print' in Window 'Firefighting  ...  - Microsoft​ Edge', Export the document,Event_24
+19,Recording_6,Process_5,2022-02-21T10:55:11+00:00,Click UI element in window,Tree Item 'Desktop' in Window 'Firefighting  ...  - Microsoft​ Edge', Export the document,Event_24
+20,Recording_6,Process_5,2022-02-21T10:55:24+00:00,Populate text field in window,Edit 'File name:' in Window 'Firefighting  ...  - Microsoft​ Edge'; Text:'Fire fighting mock drill', Export the document,Event_24
+21,Recording_6,Process_5,2022-02-21T10:55:27+00:00,Press button in window,Button 'Save' in Window 'Firefighting  ...  - Microsoft​ Edge', Export the document,Event_24
+22,Recording_6,Process_5,2022-02-21T10:55:33+00:00,Press button in window,Button 'New Tab' in Window '(7 unread) -  ...  - Microsoft​ Edge',Send the document to Manager via mail,Event_25
+23,Recording_6,Process_5,2022-02-21T10:55:38+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge' 2; Text:'yahoo mail',Send the document to Manager via mail,Event_25
+24,Recording_6,Process_5,2022-02-21T10:55:41+00:00,Send keys,TextToSend:'{Return}',Send the document to Manager via mail,Event_25
+25,Recording_6,Process_5,2022-02-21T10:55:45+00:00,Click UI element in window,Hyperlink 'Yahoo Mail' in Window 'yahoo mail -  ...  - Microsoft​ Edge',Send the document to Manager via mail,Event_25
+26,Recording_6,Process_5,2022-02-21T10:55:50+00:00,Press button in window,Button 'Compose' in Window '(7 unread) -  ...  - Microsoft​ Edge' 2,Send the document to Manager via mail,Event_25
+27,Recording_6,Process_5,2022-02-21T10:55:52+00:00,Click UI element in window,Combo Box ' ...  D_X p_a L_0 B_0' in Window '(7 unread) -  ...  - Microsoft​ Edge' 2,Send the document to Manager via mail,Event_25
+28,Recording_6,Process_5,2022-02-21T10:55:53+00:00,Send keys,TextToSend:'Namede',Send the document to Manager via mail,Event_25
+29,Recording_6,Process_5,2022-02-21T10:56:17+00:00,Populate text field in window,Edit 'Subject' in Window '(7 unread) -  ...  - Microsoft​ Edge' 2; Text:'Regarding fire fighting mock drill',Send the document to Manager via mail,Event_25
+30,Recording_6,Process_5,2022-02-21T10:56:23+00:00,Populate text field in window,"Edit 'Message body' in Window '(7 unread) -  ...  - Microsoft​ Edge' 2; Text:'Hello,'",Send the document to Manager via mail,Event_25
+31,Recording_6,Process_5,2022-02-21T10:56:24+00:00,Send keys,TextToSend:'{Return}',Send the document to Manager via mail,Event_25
+32,Recording_6,Process_5,2022-02-21T10:56:25+00:00,Populate text field in window,"Edit 'Message body' in Window '(7 unread) -  ...  - Microsoft​ Edge' 2; Text:'''Hello,
+PFA'''",Send the document to Manager via mail,Event_25
+33,Recording_6,Process_5,2022-02-21T10:56:29+00:00,Press button in window,Button 'Attach files' in Window '(7 unread) -  ...  - Microsoft​ Edge' 2,Send the document to Manager via mail,Event_25
+34,Recording_6,Process_5,2022-02-21T10:56:31+00:00,Select menu option in window,Menu Item 'Attach files from computer' in Window '(7 unread) -  ...  - Microsoft​ Edge' 2,Send the document to Manager via mail,Event_25
+35,Recording_6,Process_5,2022-02-21T10:56:33+00:00,Click UI element in window,Tree Item 'Desktop' in Window '(7 unread) -  ...  - Microsoft​ Edge' 2,Send the document to Manager via mail,Event_25
+36,Recording_6,Process_5,2022-02-21T10:56:35+00:00,Click UI element in window,Edit 'Name' in Window '(7 unread) -  ...  - Microsoft​ Edge' 2,Send the document to Manager via mail,Event_25
+37,Recording_6,Process_5,2022-02-21T10:56:44+00:00,Press button in window,Button 'Open' in Window '(7 unread) -  ...  - Microsoft​ Edge' 2,Send the document to Manager via mail,Event_25
+38,Recording_6,Process_5,2022-02-21T10:56:53+00:00,Press button in window,Button 'Send' in Window '(7 unread) -  ...  - Microsoft​ Edge' 2,Send the document to Manager via mail,Event_25
+0,Recording_25,Process_5,2022-02-21T10:30:57+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Locate the message sent by manager via messaging app,Event_113
+1,Recording_25,Process_5,2022-02-21T10:31:00+00:00,Press button in window,"Button '1 chat with new messages more options' in Pane 'General  ...  Teams, Main Window'",Locate the message sent by manager via messaging app,Event_113
+2,Recording_25,Process_5,2022-02-21T10:31:04+00:00,Click UI element in window,"Hyperlink 'Profile  ...  chat More options' in Pane 'General  ...  Teams, Main Window'",Locate the message sent by manager via messaging app,Event_113
+3,Recording_25,Process_5,2022-02-21T10:31:09+00:00,Click UI element in window,"Text 'Can you please  ...  your sharepoint?' in Pane 'General  ...  Teams, Main Window'",Locate the message sent by manager via messaging app,Event_113
+4,Recording_25,Process_5,2022-02-21T10:31:18+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Open the web-based collaborative platform,Event_114
+5,Recording_25,Process_5,2022-02-21T10:31:23+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'o365',Open the web-based collaborative platform,Event_114
+6,Recording_25,Process_5,2022-02-21T10:31:24+00:00,Send keys,TextToSend:'{Return}',Open the web-based collaborative platform,Event_114
+7,Recording_25,Process_5,2022-02-21T10:31:27+00:00,Click UI element in window,Hyperlink 'Office  ... office.com' in Window 'o365 - Google Search — Mozilla Firefox',Open the web-based collaborative platform,Event_114
+8,Recording_25,Process_5,2022-02-21T10:31:37+00:00,Click UI element in window,Hyperlink 'SharePoint' in Window 'Microsoft Office Home — Mozilla Firefox',Open the web-based collaborative platform,Event_114
+9,Recording_25,Process_5,2022-02-21T10:31:40+00:00,Click UI element in window,Hyperlink 'Project RoadMap' in Window 'SharePoint — Mozilla Firefox',Search the document that need to share ,Event_115
+10,Recording_25,Process_5,2022-02-21T10:31:45+00:00,Click UI element in window,Hyperlink 'Documents' in Window 'Project RoadMap - Home — Mozilla Firefox',Search the document that need to share ,Event_115
+11,Recording_25,Process_5,2022-02-21T10:31:57+00:00,Press button in window,Button 'Show actions' in Window 'Project  ...  — Mozilla Firefox',Get the document,Event_116
+12,Recording_25,Process_5,2022-02-21T10:32:25+00:00,Click UI element in window,Data Item 'Field  ...  people Show actions' in Window 'Project  ...  — Mozilla Firefox',Get the document,Event_116
+13,Recording_25,Process_5,2022-02-21T10:32:28+00:00,Select radio button in window,Radio Button 'Save File' in Window 'Project  ...  — Mozilla Firefox',Get the document,Event_116
+14,Recording_25,Process_5,2022-02-21T10:32:30+00:00,Press button in window,Button 'OK' in Window 'Project  ...  — Mozilla Firefox',Get the document,Event_116
+15,Recording_25,Process_5,2022-02-21T10:32:43+00:00,Press button in window,Outlook 2013 - 1 running window in Quick Launch Bar,Send Mail to manager via mail with attached document,Event_117
+16,Recording_25,Process_5,2022-02-21T10:32:48+00:00,Press button in window,Button 'New Email' in Window 'Inbox - Email@Domain - Outlook',Send Mail to manager via mail with attached document,Event_117
+17,Recording_25,Process_5,2022-02-21T10:32:50+00:00,Click UI element in window,Document 'To' in Window 'Untitled - Message (HTML) ',Send Mail to manager via mail with attached document,Event_117
+18,Recording_25,Process_5,2022-02-21T10:32:52+00:00,Send keys,TextToSend:'kru',Send Mail to manager via mail with attached document,Event_117
+19,Recording_25,Process_5,2022-02-21T10:32:56+00:00,Click UI element in window,Text 'Email@Domain' in Window 'Untitled - Message (HTML) ',Send Mail to manager via mail with attached document,Event_117
+20,Recording_25,Process_5,2022-02-21T10:33:07+00:00,Populate text field in window,Edit 'Subject' in Window 'Untitled - Message (HTML) '; Text:'Mockdrill Document',Send Mail to manager via mail with attached document,Event_117
+21,Recording_25,Process_5,2022-02-21T10:33:13+00:00,Click UI element in window,Document 'Mockdrill Document - Message' in Window 'Untitled - Message (HTML) ',Send Mail to manager via mail with attached document,Event_117
+22,Recording_25,Process_5,2022-02-21T10:33:13+00:00,Send keys,"TextToSend:'{LShiftKey}(H)ello,{Return}{LShiftKey}(P)lease find the mockdrill documnet{Back}{Back}{Back}ent'",Send Mail to manager via mail with attached document,Event_117
+23,Recording_25,Process_5,2022-02-21T10:33:33+00:00,Select tab in window,Tab Item 'Insert' in Window 'Mockdrill Document - Message (HTML) ',Send Mail to manager via mail with attached document,Event_117
+24,Recording_25,Process_5,2022-02-21T10:33:35+00:00,Press button in window,Button 'Attach File' in Window 'Mockdrill Document - Message (HTML) ',Send Mail to manager via mail with attached document,Event_117
+25,Recording_25,Process_5,2022-02-21T10:33:38+00:00,Click UI element in window,Edit 'Name' in Window 'Mockdrill Document - Message (HTML) ',Send Mail to manager via mail with attached document,Event_117
+26,Recording_25,Process_5,2022-02-21T10:33:42+00:00,Click UI element in window,Split Button 'Insert' in Window 'Mockdrill Document - Message (HTML) ',Send Mail to manager via mail with attached document,Event_117
+27,Recording_25,Process_5,2022-02-21T10:33:49+00:00,Press button in window,Button 'Send' in Window 'Mockdrill Document - Message (HTML) ',Send Mail to manager via mail with attached document,Event_117
+0,Recording_26,Process_5,2022-02-21T10:34:15+00:00,Press button in window,Skype in Quick Launch Bar, Go to messaging app and check the message sent by Manager about sharing document,Event_118
+1,Recording_26,Process_5,2022-02-21T10:34:18+00:00,Press button in window,"Button 'NameKUMAR Surname, Active now, chat, Can you please send me the mockdrill doucment from your sharepoint?, 3:11 PM, No new messages, selected' in Pane 'Skype'", Go to messaging app and check the message sent by Manager about sharing document,Event_118
+2,Recording_26,Process_5,2022-02-21T10:34:20+00:00,Click UI element in window,Text 'Can you please  ...  your sharepoint?' in Pane 'Skype', Go to messaging app and check the message sent by Manager about sharing document,Event_118
+3,Recording_26,Process_5,2022-02-21T10:34:23+00:00,Click UI element in window,Group 'NameKUMAR  ...  sent at 3:11 PM.' in Pane 'Skype', Go to messaging app and check the message sent by Manager about sharing document,Event_118
+4,Recording_26,Process_5,2022-02-21T10:34:29+00:00,Select menu option in window,Google Chrome - 3 running windows in Quick Launch Bar,Go to collaborative platform,Event_119
+5,Recording_26,Process_5,2022-02-21T10:34:32+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher',Go to collaborative platform,Event_119
+6,Recording_26,Process_5,2022-02-21T10:34:34+00:00,Press button in window,Button 'SharePoint' in Pane 'New Tab - Google Chrome - Name',Go to collaborative platform,Event_119
+7,Recording_26,Process_5,2022-02-21T10:34:36+00:00,Click UI element in window,Hyperlink 'Project RoadMap' in Pane 'New Tab - Google Chrome - Name',Go to collaborative platform,Event_119
+8,Recording_26,Process_5,2022-02-21T10:34:40+00:00,Click UI element in window,Hyperlink 'Documents' in Pane 'New Tab - Google Chrome - Name',Go to collaborative platform,Event_119
+9,Recording_26,Process_5,2022-02-21T10:34:54+00:00,Set checkbox state in window,Check Box 'Firefighting mockdrill agenda.docx' in Pane 'New Tab - Google Chrome - Name',Find the document stored on collaborative plaform ,Event_120
+10,Recording_26,Process_5,2022-02-21T10:34:57+00:00,Click UI element in window,Data Item 'New  ...  people Show actions' in Pane 'New Tab - Google Chrome - Name',Find the document stored on collaborative plaform ,Event_120
+11,Recording_26,Process_5,2022-02-21T10:35:01+00:00,Press button in window,Button 'Show actions' in Pane 'New Tab - Google Chrome - Name', Download the document ,Event_121
+12,Recording_26,Process_5,2022-02-21T10:35:06+00:00,Click UI element in window,Data Item 'Yesterday at 10:52 PM' in Pane 'New Tab - Google Chrome - Name', Download the document ,Event_121
+13,Recording_26,Process_5,2022-02-21T10:35:12+00:00,Press button in window,Button 'New Tab' in Pane 'New Tab - Google Chrome - Name', Mail the document to Manager,Event_122
+14,Recording_26,Process_5,2022-02-21T10:35:15+00:00,Click UI element in window,Hyperlink 'Gmail' in Pane 'New Tab - Google Chrome - Name', Mail the document to Manager,Event_122
+15,Recording_26,Process_5,2022-02-21T10:35:19+00:00,Press button in window,Button 'Compose' in Pane 'New Tab - Google Chrome - Name', Mail the document to Manager,Event_122
+16,Recording_26,Process_5,2022-02-21T10:35:21+00:00,Click UI element in window,"Text 'Hi, Nameesh  ...  151, GST Road,' in Pane 'New Tab - Google Chrome - Name'", Mail the document to Manager,Event_122
+17,Recording_26,Process_5,2022-02-21T10:35:22+00:00,Send keys,TextToSend:'Name', Mail the document to Manager,Event_122
+18,Recording_26,Process_5,2022-02-21T10:35:25+00:00,Click UI element in window,"Hyperlink 'Project  ...  awdata H ello , PFA' in Pane 'New Tab - Google Chrome - Name'", Mail the document to Manager,Event_122
+19,Recording_26,Process_5,2022-02-21T10:35:27+00:00,Click UI element in window,Text 'VADODARA Name  ... ’s NewHelp' in Pane 'New Tab - Google Chrome - Name', Mail the document to Manager,Event_122
+20,Recording_26,Process_5,2022-02-21T10:35:35+00:00,Populate text field in window,Edit 'Subject' in Pane 'New Tab - Google Chrome - Name'; Text:'Agenda for Fire fighting', Mail the document to Manager,Event_122
+21,Recording_26,Process_5,2022-02-21T10:35:40+00:00,Select menu option in window,Menu Item 'Attach files' in Pane 'New Tab - Google Chrome - Name', Mail the document to Manager,Event_122
+22,Recording_26,Process_5,2022-02-21T10:35:43+00:00,Click UI element in window,Tree Item 'Downloads' in Pane 'New Tab - Google Chrome - Name', Mail the document to Manager,Event_122
+23,Recording_26,Process_5,2022-02-21T10:35:45+00:00,Click UI element in window,Edit 'Name' in Pane 'New Tab - Google Chrome - Name', Mail the document to Manager,Event_122
+24,Recording_26,Process_5,2022-02-21T10:35:47+00:00,Press button in window,Button 'Open' in Pane 'New Tab - Google Chrome - Name', Mail the document to Manager,Event_122
+25,Recording_26,Process_5,2022-02-21T10:35:51+00:00,Populate text field in window,"Edit 'Message Body' in Pane 'New Tab - Google Chrome - Name'; Text:'Hi,'", Mail the document to Manager,Event_122
+26,Recording_26,Process_5,2022-02-21T10:35:52+00:00,Send keys,TextToSend:'{Return}', Mail the document to Manager,Event_122
+27,Recording_26,Process_5,2022-02-21T10:36:12+00:00,Populate text field in window,"Edit 'Message Body' in Pane 'New Tab - Google Chrome - Name'; Text:'''Hi,
+Please find the attached document having fire fighting agenda for mock drill.'''", Mail the document to Manager,Event_122
+28,Recording_26,Process_5,2022-02-21T10:36:14+00:00,Send keys,TextToSend:'{Return}', Mail the document to Manager,Event_122
+29,Recording_26,Process_5,2022-02-21T10:36:21+00:00,Populate text field in window,"Edit 'Message Body' in Pane 'New Tab - Google Chrome - Name'; Text:'''Hi,
+Please find the attached document having fire fighting agenda for mock drill.
+Let me know if you have any questions.'''", Mail the document to Manager,Event_122
+30,Recording_26,Process_5,2022-02-21T10:36:22+00:00,Send keys,TextToSend:'{Return}', Mail the document to Manager,Event_122
+31,Recording_26,Process_5,2022-02-21T10:36:26+00:00,Press button in window,Button 'Send ‪(Ctrl-Enter)‬' in Pane 'New Tab - Google Chrome - Name', Mail the document to Manager,Event_122

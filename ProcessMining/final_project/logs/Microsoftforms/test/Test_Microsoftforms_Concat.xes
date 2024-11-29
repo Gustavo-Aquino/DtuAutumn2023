@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This file has been generated with the OpenXES library. It conforms -->
+<!-- to the XML serialization of the XES standard for log storage and -->
+<!-- management. -->
+<!-- XES standard version: 1.0 -->
+<!-- OpenXES library version: 1.0RC7 -->
+<!-- OpenXES is available from http://www.openxes.org/ -->
+<log xes.version="1.0" xes.features="nested-attributes" openxes.version="1.0RC7">
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<classifier name="Event Name" keys="concept:name"/>
+	<classifier name="(Event Name AND Lifecycle transition)" keys="concept:name lifecycle:transition"/>
+	<string key="concept:name" value="XES Event Log"/>
+	<trace>
+		<string key="concept:name" value="Recording_106"/>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PopulateTextField TextField: appmask[&apos;Window \\&apos;Mozilla Firefox (Private Browsing)\\&apos;&apos;][&apos;Edit \\&apos;Search with Google or enter address\\&apos;&apos;] Text: &apos;microsoft form&apos; Mode: UIAutomation.PopulateTextMode.Replace ClickType: UIAutomation.PopulateMouseClickType.SingleClick\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:02:43.000+01:00"/>
+			<float key="NextStepId" value="25.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Mozilla Firefox (Private Browsing)"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="23"/>
+			<string key="concept:name" value="Populate text field in window|firefox"/>
+			<string key="label_EventName" value="Go to online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Edit &apos;Search with Google or enter address&apos; in Window &apos;Mozilla Firefox (Private Browsing)&apos;; Text:&apos;microsoft form&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_497"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&apos;WAIT 2\n&apos;, &quot;MouseAndKeyboard.SendKeys TextToSend: &apos;{Return}&apos;\n&quot;]"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="24"/>
+			<string key="concept:name" value="Send keys|"/>
+			<string key="label_EventName" value="Go to online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="TextToSend:&apos;{Return}&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_497"/>
+			<date key="time:timestamp" value="2022-02-17T12:02:45.000+01:00"/>
+			<float key="NextStepId" value="26.0"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Window \\&apos;microsoft  ...  (Private Browsing)\\&apos; 4&apos;][&apos;Hyperlink \\&apos;Microsoft  ... office.com\\&apos;&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: -57 OffsetY: 1 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.MiddleCenter\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:02:49.000+01:00"/>
+			<float key="NextStepId" value="27.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="microsoft form - Google Search — Mozilla Firefox (Private Browsing)"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="25"/>
+			<string key="concept:name" value="Click UI element in window|firefox"/>
+			<string key="label_EventName" value="Go to online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Hyperlink &apos;Microsoft  ... office.com&apos; in Window &apos;microsoft  ...  (Private Browsing)&apos; 4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_497"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Window \\&apos;Microsoft  ...  (Private Browsing)\\&apos; 5&apos;][&apos;Hyperlink \\&apos;Open  ...  By Name Surname.\\&apos;&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: -26 OffsetY: 22 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.MiddleCenter\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:03:00.000+01:00"/>
+			<float key="NextStepId" value="28.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Microsoft Forms — Mozilla Firefox (Private Browsing)"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="26"/>
+			<string key="concept:name" value="Click UI element in window|firefox"/>
+			<string key="label_EventName" value="Go to online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Hyperlink &apos;Open  ...  By Name Surname.&apos; in Window &apos;Microsoft  ...  (Private Browsing)&apos; 5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_497"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PressButton Button: appmask[&apos;Window \\&apos;Survey Form  ...  (Private Browsing)\\&apos;&apos;][&apos;Button \\&apos;Share\\&apos;&apos;]\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:03:06.000+01:00"/>
+			<float key="NextStepId" value="29.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Survey Form (Edit) Microsoft Forms — Mozilla Firefox (Private Browsing)"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="27"/>
+			<string key="concept:name" value="Press button in window|firefox"/>
+			<string key="label_EventName" value="Share the survey form to new joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Button &apos;Share&apos; in Window &apos;Survey Form  ...  (Private Browsing)&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_498"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Window \\&apos;Survey Form  ...  (Private Browsing)\\&apos;&apos;][&apos;UI Custom&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: -85 OffsetY: -9 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.MiddleRight\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:03:11.000+01:00"/>
+			<float key="NextStepId" value="30.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Survey Form (Edit) Microsoft Forms — Mozilla Firefox (Private Browsing)"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="28"/>
+			<string key="concept:name" value="Click UI element in window|firefox"/>
+			<string key="label_EventName" value="Share the survey form to new joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="UI Custom in Window &apos;Survey Form  ...  (Private Browsing)&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_498"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PressButton Button: appmask[&apos;Window \\&apos;Survey Form  ...  (Private Browsing)\\&apos;&apos;][&apos;Button \\&apos;Copy\\&apos;&apos;]\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:03:13.000+01:00"/>
+			<float key="NextStepId" value="31.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Survey Form (Edit) Microsoft Forms — Mozilla Firefox (Private Browsing)"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="29"/>
+			<string key="concept:name" value="Press button in window|firefox"/>
+			<string key="label_EventName" value="Share the survey form to new joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Button &apos;Copy&apos; in Window &apos;Survey Form  ...  (Private Browsing)&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_498"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PressButton Button: appmask[&apos;Window \\&apos;Survey Form  ...  (Private Browsing)\\&apos;&apos;][&apos;Button \\&apos;Open a new tab (Ctrl+T)\\&apos;&apos;]\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:03:16.000+01:00"/>
+			<float key="NextStepId" value="32.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Survey Form (Edit) Microsoft Forms — Mozilla Firefox (Private Browsing)"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="30"/>
+			<string key="concept:name" value="Press button in window|firefox"/>
+			<string key="label_EventName" value="Share the survey form to new joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Button &apos;Open a new tab (Ctrl+T)&apos; in Window &apos;Survey Form  ...  (Private Browsing)&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_498"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PopulateTextField TextField: appmask[&apos;Window \\&apos;Mozilla Firefox (Private Browsing)\\&apos;&apos;][&apos;Edit \\&apos;Search with Google or enter address\\&apos;&apos;] Text: &apos;teams&apos; Mode: UIAutomation.PopulateTextMode.Replace ClickType: UIAutomation.PopulateMouseClickType.SingleClick\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:03:20.000+01:00"/>
+			<float key="NextStepId" value="33.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Mozilla Firefox (Private Browsing)"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="31"/>
+			<string key="concept:name" value="Populate text field in window|firefox"/>
+			<string key="label_EventName" value="Share the survey form to new joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Edit &apos;Search with Google or enter address&apos; in Window &apos;Mozilla Firefox (Private Browsing)&apos;; Text:&apos;teams&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_498"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&apos;WAIT 2\n&apos;, &quot;MouseAndKeyboard.SendKeys TextToSend: &apos;{Return}&apos;\n&quot;]"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="32"/>
+			<string key="concept:name" value="Send keys|"/>
+			<string key="label_EventName" value="Share the survey form to new joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="TextToSend:&apos;{Return}&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_498"/>
+			<date key="time:timestamp" value="2022-02-17T12:03:21.000+01:00"/>
+			<float key="NextStepId" value="34.0"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Window \\&apos;teams -  ...  (Private Browsing)\\&apos;&apos;][&apos;Hyperlink \\&apos;Group  ...  group-chat-software\\&apos;&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: 123 OffsetY: -1 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.MiddleLeft\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:03:28.000+01:00"/>
+			<float key="NextStepId" value="35.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="teams - Google Search — Mozilla Firefox (Private Browsing)"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="33"/>
+			<string key="concept:name" value="Click UI element in window|firefox"/>
+			<string key="label_EventName" value="Share the survey form to new joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Hyperlink &apos;Group  ...  group-chat-software&apos; in Window &apos;teams -  ...  (Private Browsing)&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_498"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Window \\&apos;Group Chat  ...  (Private Browsing)\\&apos;&apos;][&apos;Hyperlink \\&apos;Sign in and get started with Teams.\\&apos;&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: -20 OffsetY: 7 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.TopCenter\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:03:32.000+01:00"/>
+			<float key="NextStepId" value="36.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Group Chat Software - Free Chat for Teams | Microsoft Teams — Mozilla Firefox (Private Browsing)"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="34"/>
+			<string key="concept:name" value="Click UI element in window|firefox"/>
+			<string key="label_EventName" value="Share the survey form to new joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Hyperlink &apos;Sign in and get started with Teams.&apos; in Window &apos;Group Chat  ...  (Private Browsing)&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_498"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PopulateTextField TextField: appmask[&apos;Window \\&apos;Chat |  ...  (Private Browsing)\\&apos;&apos;][&apos;Edit \\&apos;To:\\&apos;&apos;] Text: &apos;poooja&apos; Mode: UIAutomation.PopulateTextMode.Replace ClickType: UIAutomation.PopulateMouseClickType.SingleClick\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:03:58.000+01:00"/>
+			<float key="NextStepId" value="37.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Chat | Microsoft Teams — Mozilla Firefox (Private Browsing)"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="35"/>
+			<string key="concept:name" value="Populate text field in window|firefox"/>
+			<string key="label_EventName" value="Share the survey form to new joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Edit &apos;To:&apos; in Window &apos;Chat |  ...  (Private Browsing)&apos;; Text:&apos;poooja&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_498"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.SelectMenuOption Control: appmask[&apos;Window \\&apos;Chat |  ...  (Private Browsing)\\&apos;&apos;][&apos;Menu Item \\&apos;NAME NAME POOBHT\\&apos;&apos;]\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:04:06.000+01:00"/>
+			<float key="NextStepId" value="38.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Chat | Microsoft Teams — Mozilla Firefox (Private Browsing)"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="36"/>
+			<string key="concept:name" value="Select menu option in window|firefox"/>
+			<string key="label_EventName" value="Share the survey form to new joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Menu Item &apos;NAME NAME POOBHT&apos; in Window &apos;Chat |  ...  (Private Browsing)&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_498"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Window \\&apos;Chat |  ...  (Private Browsing)\\&apos;&apos;][&apos;Edit \\&apos;Type a new message, editing\\&apos;&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: 84 OffsetY: -3 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.MiddleLeft\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:04:14.000+01:00"/>
+			<float key="NextStepId" value="39.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Chat | Microsoft Teams — Mozilla Firefox (Private Browsing)"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="37"/>
+			<string key="concept:name" value="Click UI element in window|firefox"/>
+			<string key="label_EventName" value="Share the survey form to new joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Edit &apos;Type a new message, editing&apos; in Window &apos;Chat |  ...  (Private Browsing)&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_498"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PopulateTextField TextField: appmask[&apos;Window \\&apos;(1) NAME  ...  (Private Browsing)\\&apos;&apos;][&apos;Edit \\&apos;Type a new message, editing\\&apos;&apos;] Text: &apos;https://forms.office.com/Pages/ResponsePage.aspx?id=&apos; Mode: UIAutomation.PopulateTextMode.Replace ClickType: UIAutomation.PopulateMouseClickType.SingleClick\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:04:18.000+01:00"/>
+			<float key="NextStepId" value="40.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="(1) NAME NAME | Microsoft Teams — Mozilla Firefox (Private Browsing)"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="38"/>
+			<string key="concept:name" value="Populate text field in window|firefox"/>
+			<string key="label_EventName" value="Share the survey form to new joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Edit &apos;Type a new message, editing&apos; in Window &apos;(1) NAME  ...  (Private Browsing)&apos;; Text:&apos;https://forms.office.com/Pages/ResponsePage.aspx?id=&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_498"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PressButton Button: appmask[&apos;Window \\&apos;(1) NAME  ...  (Private Browsing)\\&apos;&apos;][&apos;Button \\&apos;Send\\&apos;&apos;]\n&quot;, &apos;# End of autogenerated actions using the desktop recorder\n&apos;]"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="(1) NAME NAME | Microsoft Teams — Mozilla Firefox (Private Browsing)"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="39"/>
+			<string key="concept:name" value="Press button in window|firefox"/>
+			<string key="label_EventName" value="Share the survey form to new joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Button &apos;Send&apos; in Window &apos;(1) NAME  ...  (Private Browsing)&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_498"/>
+			<date key="time:timestamp" value="2022-02-17T12:04:34.000+01:00"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Recording_107"/>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PopulateTextField TextField: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Edit \\&apos;Address and search bar\\&apos;&apos;] Text: &apos;zoho forms&apos; Mode: UIAutomation.PopulateTextMode.Replace ClickType: UIAutomation.PopulateMouseClickType.SingleClick\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:39:27.000+01:00"/>
+			<float key="NextStepId" value="27.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="23"/>
+			<string key="concept:name" value="Populate text field in window|chrome"/>
+			<string key="label_EventName" value="open the online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Edit &apos;Address and search bar&apos; in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;; Text:&apos;zoho forms&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_501"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Pane 2&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: 3 OffsetY: 2 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.MiddleCenter\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:39:28.000+01:00"/>
+			<float key="NextStepId" value="28.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="24"/>
+			<string key="concept:name" value="Click UI element in window|chrome"/>
+			<string key="label_EventName" value="open the online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Pane 2 in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_501"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Hyperlink \\&apos; Form  ... om › forms\\&apos;&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: 66 OffsetY: -1 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.MiddleLeft\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:39:31.000+01:00"/>
+			<float key="NextStepId" value="29.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="25"/>
+			<string key="concept:name" value="Click UI element in window|chrome"/>
+			<string key="label_EventName" value="open the online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Hyperlink &apos; Form  ... om › forms&apos; in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_501"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Hyperlink \\&apos;ACCESS ZOHO FORMS\\&apos;&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: -36 OffsetY: 1 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.MiddleCenter\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:39:35.000+01:00"/>
+			<float key="NextStepId" value="30.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="26"/>
+			<string key="concept:name" value="Click UI element in window|chrome"/>
+			<string key="label_EventName" value="open the online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Hyperlink &apos;ACCESS ZOHO FORMS&apos; in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_501"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Hyperlink \\&apos;Yearly Leave Survey\\&apos;&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: 4 OffsetY: 3 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.MiddleLeft\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:39:42.000+01:00"/>
+			<float key="NextStepId" value="31.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="27"/>
+			<string key="concept:name" value="Click UI element in window|chrome"/>
+			<string key="label_EventName" value="open the online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Hyperlink &apos;Yearly Leave Survey&apos; in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_501"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.SelectTab Tab: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Tab Item \\&apos;Zoho Forms\\&apos;&apos;]\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:39:48.000+01:00"/>
+			<float key="NextStepId" value="32.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="28"/>
+			<string key="concept:name" value="Select tab in window|chrome"/>
+			<string key="label_EventName" value="open the online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Tab Item &apos;Zoho Forms&apos; in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_501"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;List Item&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: 25 OffsetY: -4 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.MiddleLeft\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:39:50.000+01:00"/>
+			<float key="NextStepId" value="33.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="29"/>
+			<string key="concept:name" value="Click UI element in window|chrome"/>
+			<string key="label_EventName" value="open the online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="List Item in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_501"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Hyperlink \\&apos;\ue908\\&apos;&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: -6 OffsetY: -11 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.BottomCenter\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:39:55.000+01:00"/>
+			<float key="NextStepId" value="34.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="30"/>
+			<string key="concept:name" value="Click UI element in window|chrome"/>
+			<string key="label_EventName" value="open the online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Hyperlink &apos;&apos; in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_501"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.DragAndDropElement MouseDownOffsetY: 3 MouseDownOffsetX: 196 RectangleEdgePointForMouseDown: UIAutomation.RectangleEdgePoint.MiddleLeft ControlToDrag: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Edit&apos;] MouseUpOffsetY: 19 MouseUpOffsetX: 11 RectangleEdgePointForMouseUp: UIAutomation.RectangleEdgePoint.MiddleLeft ControlToDropOver: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Edit&apos;] ClickType: UIAutomation.DragAndDropClickType.LeftClick\n&quot;, &apos;WAIT 2\n&apos;, &quot;MouseAndKeyboard.SendKeys TextToSend: &apos;{LControlKey}({C})&apos;\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:39:58.000+01:00"/>
+			<float key="NextStepId" value="35.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="31"/>
+			<string key="concept:name" value="Drag and drop UI element in window|chrome"/>
+			<string key="label_EventName" value="open the online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Edit in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_501"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.DragAndDropElement MouseDownOffsetY: 3 MouseDownOffsetX: 196 RectangleEdgePointForMouseDown: UIAutomation.RectangleEdgePoint.MiddleLeft ControlToDrag: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Edit&apos;] MouseUpOffsetY: 19 MouseUpOffsetX: 11 RectangleEdgePointForMouseUp: UIAutomation.RectangleEdgePoint.MiddleLeft ControlToDropOver: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Edit&apos;] ClickType: UIAutomation.DragAndDropClickType.LeftClick\n&quot;, &apos;WAIT 2\n&apos;, &quot;MouseAndKeyboard.SendKeys TextToSend: &apos;{LControlKey}({C})&apos;\n&quot;]"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="32"/>
+			<string key="concept:name" value="Send keys|"/>
+			<string key="label_EventName" value="open the online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="TextToSend:&apos;{LControlKey}({C})&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_501"/>
+			<date key="time:timestamp" value="2022-02-17T12:39:58.000+01:00"/>
+			<float key="NextStepId" value="36.0"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PressButton Button: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Button \\&apos;New Tab\\&apos;&apos;]\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:40:19.000+01:00"/>
+			<float key="NextStepId" value="37.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="33"/>
+			<string key="concept:name" value="Press button in window|chrome"/>
+			<string key="label_EventName" value="Send the survey form to newly appointed employee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Button &apos;New Tab&apos; in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_502"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PressButton Button: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Button \\&apos;Zoho Admin Panel - Zoho Directory\\&apos;&apos;]\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:40:21.000+01:00"/>
+			<float key="NextStepId" value="38.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="34"/>
+			<string key="concept:name" value="Press button in window|chrome"/>
+			<string key="label_EventName" value="Send the survey form to newly appointed employee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Button &apos;Zoho Admin Panel - Zoho Directory&apos; in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_502"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Text \\&apos;\ue905\\&apos;&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: -2 OffsetY: 0 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.MiddleCenter\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:40:30.000+01:00"/>
+			<float key="NextStepId" value="39.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="35"/>
+			<string key="concept:name" value="Click UI element in window|chrome"/>
+			<string key="label_EventName" value="Send the survey form to newly appointed employee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Text &apos;&apos; in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_502"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Text \\&apos;Applications\\&apos; 2&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: 14 OffsetY: 1 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.TopLeft\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:40:32.000+01:00"/>
+			<float key="NextStepId" value="40.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="36"/>
+			<string key="concept:name" value="Click UI element in window|chrome"/>
+			<string key="label_EventName" value="Send the survey form to newly appointed employee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Text &apos;Applications&apos; 2 in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_502"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PopulateTextField TextField: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Edit \\&apos;Search Contacts, Chats &amp; Channels\\&apos;&apos;] Text: &apos;Namee&apos; Mode: UIAutomation.PopulateTextMode.Replace ClickType: UIAutomation.PopulateMouseClickType.SingleClick\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:40:36.000+01:00"/>
+			<float key="NextStepId" value="41.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="37"/>
+			<string key="concept:name" value="Populate text field in window|chrome"/>
+			<string key="label_EventName" value="Send the survey form to newly appointed employee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Edit &apos;Search Contacts, Chats &amp; Channels&apos; in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;; Text:&apos;Namee&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_502"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Group&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: 55 OffsetY: 3 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.TopLeft\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:40:46.000+01:00"/>
+			<float key="NextStepId" value="42.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="38"/>
+			<string key="concept:name" value="Click UI element in window|chrome"/>
+			<string key="label_EventName" value="Send the survey form to newly appointed employee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Group in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_502"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PressButton Button: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Button \\&apos;Choose Files\\&apos;&apos;]\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:40:48.000+01:00"/>
+			<float key="NextStepId" value="43.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="39"/>
+			<string key="concept:name" value="Press button in window|chrome"/>
+			<string key="label_EventName" value="Send the survey form to newly appointed employee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Button &apos;Choose Files&apos; in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_502"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PopulateTextField TextField: appmask[&apos;Pane \\&apos;Zoho Admin  ...  Chrome - Name\\&apos;&apos;][&apos;Edit 2&apos;] Text: &apos;https://forms.zohopublic.in/projectroadmap/form/LeaveSurvey/formperma/ENCODED_VALUE&apos; Mode: UIAutomation.PopulateTextMode.Replace ClickType: UIAutomation.PopulateMouseClickType.SingleClick\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:40:49.000+01:00"/>
+			<float key="NextStepId" value="44.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Zoho Admin Panel - Zoho Directory - Google Chrome - Name"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="40"/>
+			<string key="concept:name" value="Populate text field in window|chrome"/>
+			<string key="label_EventName" value="Send the survey form to newly appointed employee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Edit 2 in Pane &apos;Zoho Admin  ...  Chrome - Name&apos;; Text:&apos;https://forms.zohopublic.in/projectroadmap/form/LeaveSurvey/formperma/ENCODED_VALUE&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_502"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&apos;WAIT 2\n&apos;, &quot;MouseAndKeyboard.SendKeys TextToSend: &apos;{Return}&apos;\n&quot;, &apos;# End of autogenerated actions using the desktop recorder\n&apos;]"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="41"/>
+			<string key="concept:name" value="Send keys|"/>
+			<string key="label_EventName" value="Send the survey form to newly appointed employee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="TextToSend:&apos;{Return}&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_502"/>
+			<date key="time:timestamp" value="2022-02-17T12:40:55.000+01:00"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Recording_108"/>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PressButton Button: appmask[&apos;Window \\&apos;Microsoft  ...  - Microsoft\u200b Edge\\&apos; 3&apos;][&apos;Button \\&apos;New Tab\\&apos;&apos;]\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T11:59:00.000+01:00"/>
+			<float key="NextStepId" value="24.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Microsoft 365 admin center - Active users and 1 more page - [InPrivate] - Microsoft​ Edge"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="21"/>
+			<string key="concept:name" value="Press button in window|msedge"/>
+			<string key="label_EventName" value="Login to the online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Button &apos;New Tab&apos; in Window &apos;Microsoft  ...  - Microsoft​ Edge&apos; 3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_505"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PopulateTextField TextField: appmask[&apos;Window \\&apos;New tab and  ...  - Microsoft\u200b Edge\\&apos; 2&apos;][&apos;Edit \\&apos;Address and search bar\\&apos;&apos;] Text: &apos;microsoft form&apos; Mode: UIAutomation.PopulateTextMode.Replace ClickType: UIAutomation.PopulateMouseClickType.SingleClick\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T11:59:07.000+01:00"/>
+			<float key="NextStepId" value="25.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="New tab and 2 more pages - [InPrivate] - Microsoft​ Edge"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="22"/>
+			<string key="concept:name" value="Populate text field in window|msedge"/>
+			<string key="label_EventName" value="Login to the online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Edit &apos;Address and search bar&apos; in Window &apos;New tab and  ...  - Microsoft​ Edge&apos; 2; Text:&apos;microsoft form&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_505"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&apos;WAIT 2\n&apos;, &quot;MouseAndKeyboard.SendKeys TextToSend: &apos;{Return}&apos;\n&quot;]"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="23"/>
+			<string key="concept:name" value="Send keys|"/>
+			<string key="label_EventName" value="Login to the online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="TextToSend:&apos;{Return}&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_505"/>
+			<date key="time:timestamp" value="2022-02-17T11:59:08.000+01:00"/>
+			<float key="NextStepId" value="26.0"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Window \\&apos;microsoft  ...  - Microsoft\u200b Edge\\&apos; 4&apos;][&apos;Hyperlink \\&apos;Microsoft Forms\\&apos;&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: -41 OffsetY: 0 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.MiddleRight\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T11:59:12.000+01:00"/>
+			<float key="NextStepId" value="27.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="microsoft form - Search and 2 more pages - [InPrivate] - Microsoft​ Edge"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="24"/>
+			<string key="concept:name" value="Click UI element in window|msedge"/>
+			<string key="label_EventName" value="Login to the online form app"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Hyperlink &apos;Microsoft Forms&apos; in Window &apos;microsoft  ...  - Microsoft​ Edge&apos; 4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_505"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Window \\&apos;Microsoft  ...  - Microsoft\u200b Edge\\&apos; 5&apos;][&apos;Hyperlink \\&apos;Open  ...  Has 0 responses.\\&apos;&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: -83 OffsetY: -54 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.BottomRight\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T11:59:23.000+01:00"/>
+			<float key="NextStepId" value="28.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Microsoft Forms and 3 more pages - [InPrivate] - Microsoft​ Edge"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="25"/>
+			<string key="concept:name" value="Click UI element in window|msedge"/>
+			<string key="label_EventName" value="Copy the link of survey form and share it to joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Hyperlink &apos;Open  ...  Has 0 responses.&apos; in Window &apos;Microsoft  ...  - Microsoft​ Edge&apos; 5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_506"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PressButton Button: appmask[&apos;Window \\&apos;Survey Form  ...  - Microsoft\u200b Edge\\&apos;&apos;][&apos;Button \\&apos;Share\\&apos;&apos;]\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T11:59:27.000+01:00"/>
+			<float key="NextStepId" value="29.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Survey Form (Edit) Microsoft Forms and 3 more pages - [InPrivate] - Microsoft​ Edge"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="26"/>
+			<string key="concept:name" value="Press button in window|msedge"/>
+			<string key="label_EventName" value="Copy the link of survey form and share it to joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Button &apos;Share&apos; in Window &apos;Survey Form  ...  - Microsoft​ Edge&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_506"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.SelectTab Tab: appmask[&apos;Window \\&apos;Survey Form  ...  - Microsoft\u200b Edge\\&apos;&apos;][&apos;Tab Item \\&apos;Email\\&apos;&apos;]\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T11:59:34.000+01:00"/>
+			<float key="NextStepId" value="30.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Survey Form (Edit) Microsoft Forms and 3 more pages - [InPrivate] - Microsoft​ Edge"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="27"/>
+			<string key="concept:name" value="Select tab in window|msedge"/>
+			<string key="label_EventName" value="Copy the link of survey form and share it to joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Tab Item &apos;Email&apos; in Window &apos;Survey Form  ...  - Microsoft​ Edge&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_506"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PopulateTextField TextField: appmask[&apos;Window \\&apos;Inbox - Outlook \u200e- Mail\\&apos;&apos;][&apos;Edit \\&apos;To: \\&apos;&apos;] Text: &apos;Email@Domain&apos; Mode: UIAutomation.PopulateTextMode.Replace ClickType: UIAutomation.PopulateMouseClickType.SingleClick\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:00:15.000+01:00"/>
+			<float key="NextStepId" value="31.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Inbox - Outlook ‎- Mail"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="28"/>
+			<string key="concept:name" value="Populate text field in window|ApplicationFrameHost"/>
+			<string key="label_EventName" value="Copy the link of survey form and share it to joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Edit &apos;To: &apos; in Window &apos;Inbox - Outlook ‎- Mail&apos;; Text:&apos;Email@Domain&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_506"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.Click Element: appmask[&apos;Window \\&apos;Inbox - Outlook \u200e- Mail\\&apos;&apos;][&apos;List Item \\&apos;Use this  ... rosoft.com\\&apos;&apos;] ClickType: UIAutomation.ClickType.LeftClick OffsetX: 39 OffsetY: 3 MousePositionRelativeToElement: UIAutomation.RectangleEdgePoint.MiddleCenter\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-17T12:00:17.000+01:00"/>
+			<float key="NextStepId" value="32.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Inbox - Outlook ‎- Mail"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="29"/>
+			<string key="concept:name" value="Click UI element in window|ApplicationFrameHost"/>
+			<string key="label_EventName" value="Copy the link of survey form and share it to joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="List Item &apos;Use this  ... rosoft.com&apos; in Window &apos;Inbox - Outlook ‎- Mail&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_506"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PressButton Button: appmask[&apos;Window \\&apos;Inbox - Outlook \u200e- Mail\\&apos;&apos;][&apos;Button \\&apos;Send\\&apos;&apos;]\n&quot;, &apos;# End of autogenerated actions using the desktop recorder\n&apos;]"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Inbox - Outlook ‎- Mail"/>
+			<string key="Process_Name" value="Office365users/Microsoftforms"/>
+			<int key="StepId" value="30"/>
+			<string key="concept:name" value="Press button in window|ApplicationFrameHost"/>
+			<string key="label_EventName" value="Copy the link of survey form and share it to joinee"/>
+			<string key="ProcessId" value="Process_42"/>
+			<string key="StepDescription" value="Button &apos;Send&apos; in Window &apos;Inbox - Outlook ‎- Mail&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_506"/>
+			<date key="time:timestamp" value="2022-02-17T12:00:24.000+01:00"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Recording_34"/>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PressButton Button: appmask[&apos;Window \\&apos;Untitled form - Google Forms — Mozilla Firefox\\&apos;&apos;][&apos;Button \\&apos;Add No\\&apos;&apos;]\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-22T10:19:15.000+01:00"/>
+			<float key="NextStepId" value="30.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Untitled form - Google Forms — Mozilla Firefox"/>
+			<string key="Process_Name" value="Microsoftforms/rss/planner"/>
+			<int key="StepId" value="28"/>
+			<string key="concept:name" value="Press button in window|firefox"/>
+			<string key="label_EventName" value="Create a form for Employee&apos;s feedback on new cafeteria"/>
+			<string key="ProcessId" value="Process_10"/>
+			<string key="StepDescription" value="Button &apos;Add No&apos; in Window &apos;Untitled form - Google Forms — Mozilla Firefox&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_163"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Recording_58"/>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PressButton Button: appmask[&apos;Quick Launch Bar&apos;][&apos;Firefox&apos;]\n&quot;]"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="Process_Name" value="Microsoftforms/dynamicscrmonline"/>
+			<int key="StepId" value="0"/>
+			<string key="concept:name" value="Press button in window|"/>
+			<string key="label_EventName" value="Login to the online form application"/>
+			<string key="ProcessId" value="Process_15"/>
+			<string key="StepDescription" value="Firefox in Quick Launch Bar"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_291"/>
+			<date key="time:timestamp" value="2022-02-28T05:22:57.000+01:00"/>
+			<float key="NextStepId" value="2.0"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&quot;UIAutomation.PopulateTextField TextField: appmask[&apos;Window \\&apos;Mozilla Firefox\\&apos;&apos;][&apos;Edit \\&apos;Search with Google or enter address\\&apos;&apos;] Text: &apos;googleforrms&apos; Mode: UIAutomation.PopulateTextMode.Replace ClickType: UIAutomation.PopulateMouseClickType.SingleClick\n&quot;]"/>
+			<date key="time:timestamp" value="2022-02-28T05:23:05.000+01:00"/>
+			<float key="NextStepId" value="3.0"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="ApplicationParentWindowName" value="Mozilla Firefox"/>
+			<string key="Process_Name" value="Microsoftforms/dynamicscrmonline"/>
+			<int key="StepId" value="1"/>
+			<string key="concept:name" value="Populate text field in window|firefox"/>
+			<string key="label_EventName" value="Login to the online form application"/>
+			<string key="ProcessId" value="Process_15"/>
+			<string key="StepDescription" value="Edit &apos;Search with Google or enter address&apos; in Window &apos;Mozilla Firefox&apos;; Text:&apos;googleforrms&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_291"/>
+		</event>
+		<event>
+			<string key="AutomationStep" value="[&apos;WAIT 2\n&apos;, &quot;MouseAndKeyboard.SendKeys TextToSend: &apos;{Return}&apos;\n&quot;]"/>
+			<string key="Connectors" value="Microsoftforms"/>
+			<string key="Process_Name" value="Microsoftforms/dynamicscrmonline"/>
+			<int key="StepId" value="2"/>
+			<string key="concept:name" value="Send keys|"/>
+			<string key="label_EventName" value="Login to the online form application"/>
+			<string key="ProcessId" value="Process_15"/>
+			<string key="StepDescription" value="TextToSend:&apos;{Return}&apos;"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="label_EventId" value="Event_291"/>
+			<date key="time:timestamp" value="2022-02-28T05:23:06.000+01:00"/>
+			<float key="NextStepId" value="4.0"/>
+		</event>
+	</trace>
+</log>

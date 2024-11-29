@@ -1,0 +1,171 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_109,Process_43,2022-02-18T04:50:46+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar,Login to cloud storage ,Event_507
+1,Recording_109,Process_43,2022-02-18T04:50:49+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher',Login to cloud storage ,Event_507
+2,Recording_109,Process_43,2022-02-18T04:50:53+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Name'; Text:'google drive',Login to cloud storage ,Event_507
+3,Recording_109,Process_43,2022-02-18T04:50:54+00:00,Send keys,TextToSend:'{Return}',Login to cloud storage ,Event_507
+4,Recording_109,Process_43,2022-02-18T04:50:58+00:00,Click UI element in window,Hyperlink ' Cloud  ... om › drive' in Pane 'New Tab - Google Chrome - Name',Login to cloud storage ,Event_507
+5,Recording_109,Process_43,2022-02-18T04:51:01+00:00,Click UI element in window,Hyperlink 'Go to Drive' in Pane 'New Tab - Google Chrome - Name',Login to cloud storage ,Event_507
+6,Recording_109,Process_43,2022-02-18T04:51:07+00:00,Click UI element in window,Text 'Employee Salary Details.xlsx' in Pane 'New Tab - Google Chrome - Name',Get the employee salary data file,Event_508
+7,Recording_109,Process_43,2022-02-18T04:51:15+00:00,Click UI element in window,Menu Item 'File' in Pane 'New Tab - Google Chrome - Name',Get the employee salary data file,Event_508
+8,Recording_109,Process_43,2022-02-18T04:51:22+00:00,Click UI element in window,Pane 'New Tab - Google Chrome - Name',Get the employee salary data file,Event_508
+9,Recording_109,Process_43,2022-02-18T04:51:25+00:00,Click UI element in window,Menu 2 in Pane 'New Tab - Google Chrome - Name',Get the employee salary data file,Event_508
+10,Recording_109,Process_43,2022-02-18T04:51:35+00:00,Press button in window,Power BI Desktop in Quick Launch Bar,Open the data visualization tool ,Event_509
+11,Recording_109,Process_43,2022-02-18T04:51:51+00:00,Press button in window,Button 'Close' in Window 'Untitled - Power BI Desktop',Open the data visualization tool ,Event_509
+12,Recording_109,Process_43,2022-02-18T04:52:04+00:00,Click UI element in window,MenuItem: Connect to data from multiple sources. Get data in Window 'Untitled - Power BI Desktop',Make a graphical report of salary data,Event_510
+13,Recording_109,Process_43,2022-02-18T04:52:07+00:00,Click UI element in window,Text 'Excel workbook' in Window 'Untitled - Power BI Desktop',Make a graphical report of salary data,Event_510
+14,Recording_109,Process_43,2022-02-18T04:52:19+00:00,Click UI element in window,Tree Item 'Downloads (pinned)' in Window 'Untitled - Power BI Desktop',Make a graphical report of salary data,Event_510
+15,Recording_109,Process_43,2022-02-18T04:52:33+00:00,Set checkbox state in window,"Check Box 'Level 2, Table1' in Window 'Untitled - Power BI Desktop'",Make a graphical report of salary data,Event_510
+16,Recording_109,Process_43,2022-02-18T04:52:35+00:00,Click UI element in window,"Check Box 'Level 2, Table1' in Window 'Untitled - Power BI Desktop'",Make a graphical report of salary data,Event_510
+17,Recording_109,Process_43,2022-02-18T04:52:39+00:00,Press button in window,Button 'Load' in Window 'Untitled - Power BI Desktop',Make a graphical report of salary data,Event_510
+18,Recording_109,Process_43,2022-02-18T04:53:07+00:00,Click UI element in window,Tree Item 'Table Table1' in Window 'Untitled - Power BI Desktop',Make a graphical report of salary data,Event_510
+19,Recording_109,Process_43,2022-02-18T04:53:08+00:00,Click UI element in window,Button in Window 'Untitled - Power BI Desktop',Make a graphical report of salary data,Event_510
+20,Recording_109,Process_43,2022-02-18T04:53:13+00:00,Click UI element in window,Check Box in Window 'Untitled - Power BI Desktop',Make a graphical report of salary data,Event_510
+21,Recording_109,Process_43,2022-02-18T04:53:15+00:00,Click UI element in window,Check Box 2 in Window 'Untitled - Power BI Desktop',Make a graphical report of salary data,Event_510
+22,Recording_109,Process_43,2022-02-18T04:53:18+00:00,Click UI element in window,Tree Item 'Numeric Field 2021' in Window 'Untitled - Power BI Desktop',Make a graphical report of salary data,Event_510
+23,Recording_109,Process_43,2022-02-18T04:53:26+00:00,Drag and drop UI element in window,Check Box 3 in Tree Item ' Employee Name' in Window 'Untitled - Power BI Desktop',Make a graphical report of salary data,Event_510
+24,Recording_109,Process_43,2022-02-18T04:53:37+00:00,Click UI element in window,Document 'Chrome_RenderWidgetHostHWND' in Window 'Untitled - Power BI Desktop',Make a graphical report of salary data,Event_510
+25,Recording_109,Process_43,2022-02-18T04:53:47+00:00,Click UI element in window,"Group '2019, 2020  ...  column chart' in Window 'Untitled - Power BI Desktop'",Make a graphical report of salary data,Event_510
+26,Recording_109,Process_43,2022-02-18T04:54:10+00:00,Drag and drop UI element in window,Group 'Power BI Report' in Window 'Untitled - Power BI Desktop',Make a graphical report of salary data,Event_510
+27,Recording_109,Process_43,2022-02-18T04:54:25+00:00,Populate text field in window,Edit 'File name:' in Pane 'New Tab - Google Chrome - Name'; Text:'Salary Detail graph',Save the report,Event_511
+28,Recording_109,Process_43,2022-02-18T04:54:29+00:00,Click UI element in window,Button 'Save' in Pane 'New Tab - Google Chrome - Name',Save the report,Event_511
+29,Recording_109,Process_43,2022-02-18T04:54:36+00:00,Press button in window,Button 'New Tab' in Pane 'New Tab - Google Chrome - Name',Login to Mailbox,Event_512
+30,Recording_109,Process_43,2022-02-18T04:54:40+00:00,Click UI element in window,Hyperlink 'Gmail' in Pane 'New Tab - Google Chrome - Name',Login to Mailbox,Event_512
+31,Recording_109,Process_43,2022-02-18T04:54:45+00:00,Press button in window,Button 'Compose' in Pane 'New Tab - Google Chrome - Name',Send graph via mail to superior ,Event_513
+32,Recording_109,Process_43,2022-02-18T04:54:48+00:00,Click UI element in window,Combo Box 'To' in Pane 'New Tab - Google Chrome - Name',Send graph via mail to superior ,Event_513
+33,Recording_109,Process_43,2022-02-18T04:54:50+00:00,Send keys,TextToSend:'Name',Send graph via mail to superior ,Event_513
+34,Recording_109,Process_43,2022-02-18T04:54:53+00:00,Click UI element in window,List Item 'Email@Domain' in Pane 'New Tab - Google Chrome - Name',Send graph via mail to superior ,Event_513
+35,Recording_109,Process_43,2022-02-18T04:54:54+00:00,Click UI element in window,Group 'New Message' in Pane 'New Tab - Google Chrome - Name',Send graph via mail to superior ,Event_513
+36,Recording_109,Process_43,2022-02-18T04:55:00+00:00,Populate text field in window,Edit 'Subject' in Pane 'New Tab - Google Chrome - Name'; Text:'Salary detail graph',Send graph via mail to superior ,Event_513
+37,Recording_109,Process_43,2022-02-18T04:55:06+00:00,Select menu option in window,Menu Item 'Attach files' in Pane 'New Tab - Google Chrome - Name',Send graph via mail to superior ,Event_513
+38,Recording_109,Process_43,2022-02-18T04:55:31+00:00,Click UI element in window,Button 'Send ‪(Ctrl-Enter)‬' in Pane 'New Tab - Google Chrome - Name',Send graph via mail to superior ,Event_513
+0,Recording_132,Process_43,2022-02-18T06:47:42+00:00,Select menu option in window,Firefox - 2 running windows in Quick Launch Bar,Go to the cloud storage,Event_600
+1,Recording_132,Process_43,2022-02-18T06:47:44+00:00,Click UI element in window,List Item 'Process  ...  — Mozilla Firefox' in List 'Task Switcher',Go to the cloud storage,Event_600
+2,Recording_132,Process_43,2022-02-18T06:47:47+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Process advisor | Power Automate — Mozilla Firefox',Go to the cloud storage,Event_600
+3,Recording_132,Process_43,2022-02-18T06:47:51+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'onedrrive',Go to the cloud storage,Event_600
+4,Recording_132,Process_43,2022-02-18T06:47:52+00:00,Send keys,TextToSend:'{Return}',Go to the cloud storage,Event_600
+5,Recording_132,Process_43,2022-02-18T06:47:56+00:00,Click UI element in window,Hyperlink 'Free  ... 365 › o...' in Window 'onedrrive - Google Search — Mozilla Firefox',Go to the cloud storage,Event_600
+6,Recording_132,Process_43,2022-02-18T06:47:59+00:00,Click UI element in window,Hyperlink 'Sign in to your account' 4 in Window 'Free Cloud  ...  — Mozilla Firefox',Go to the cloud storage,Event_600
+7,Recording_132,Process_43,2022-02-18T06:48:06+00:00,Click UI element in window,Hyperlink ' ...  7 minutes ago' in Window 'My files - OneDrive — Mozilla Firefox',Locate the employee salary detail spreadsheet & save it,Event_601
+8,Recording_132,Process_43,2022-02-18T06:48:10+00:00,Click UI element in window,Hyperlink 'Employee  ...  7 minutes ago' in Window 'Documents - OneDrive — Mozilla Firefox',Locate the employee salary detail spreadsheet & save it,Event_601
+9,Recording_132,Process_43,2022-02-18T06:48:27+00:00,Select menu option in window,Menu Item 'File' in Window 'Employee  ...  — Mozilla Firefox',Locate the employee salary detail spreadsheet & save it,Event_601
+10,Recording_132,Process_43,2022-02-18T06:48:33+00:00,Click UI element in window,List Item 'Save As' in Window 'Employee  ...  — Mozilla Firefox',Locate the employee salary detail spreadsheet & save it,Event_601
+11,Recording_132,Process_43,2022-02-18T06:48:37+00:00,Click UI element in window,List Item 'Download  ...  to your computer.' in Window 'Employee  ...  — Mozilla Firefox',Locate the employee salary detail spreadsheet & save it,Event_601
+12,Recording_132,Process_43,2022-02-18T06:48:41+00:00,Select radio button in window,Radio Button 'Save File' in Window 'Employee  ...  — Mozilla Firefox',Locate the employee salary detail spreadsheet & save it,Event_601
+13,Recording_132,Process_43,2022-02-18T06:48:43+00:00,Press button in window,Button 'OK' in Window 'Employee  ...  — Mozilla Firefox',Locate the employee salary detail spreadsheet & save it,Event_601
+14,Recording_132,Process_43,2022-02-18T06:48:49+00:00,Press button in window,Button 'Firefox' in Window 'Employee  ...  — Mozilla Firefox',Open the business analytic tool,Event_602
+15,Recording_132,Process_43,2022-02-18T06:48:51+00:00,Press button in window,Button 'New private window' in Window 'Employee  ...  — Mozilla Firefox',Open the business analytic tool,Event_602
+16,Recording_132,Process_43,2022-02-18T06:48:58+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox (Private Browsing)'; Text:'o365',Open the business analytic tool,Event_602
+17,Recording_132,Process_43,2022-02-18T06:48:59+00:00,Send keys,TextToSend:'{Return}',Open the business analytic tool,Event_602
+18,Recording_132,Process_43,2022-02-18T06:49:06+00:00,Click UI element in window,Hyperlink 'Office  ... office.com' in Window 'o365 -  ...  (Private Browsing)',Open the business analytic tool,Event_602
+19,Recording_132,Process_43,2022-02-18T06:49:13+00:00,Select menu option in window,Menu Item 'App launcher' in Window 'Microsoft  ...  (Private Browsing)',Open the business analytic tool,Event_602
+20,Recording_132,Process_43,2022-02-18T06:49:17+00:00,Click UI element in window,Hyperlink 'Power BI' in Window 'Microsoft  ...  (Private Browsing)',Open the business analytic tool,Event_602
+21,Recording_132,Process_43,2022-02-18T06:49:27+00:00,Click UI element in window,Hyperlink 'Get data' 2 in Window 'Power BI — Mozilla Firefox (Private Browsing)',Prepare the graph of employee salary detail,Event_603
+22,Recording_132,Process_43,2022-02-18T06:49:32+00:00,Press button in window,"Button 'Files, Get' 2 in Window 'Power BI — Mozilla Firefox (Private Browsing)'",Prepare the graph of employee salary detail,Event_603
+23,Recording_132,Process_43,2022-02-18T06:49:35+00:00,Press button in window,Button 'Local File' 2 in Window 'Power BI — Mozilla Firefox (Private Browsing)',Prepare the graph of employee salary detail,Event_603
+24,Recording_132,Process_43,2022-02-18T06:49:39+00:00,Click UI element in window,Edit 'Name' 2 in Window 'Power BI — Mozilla Firefox (Private Browsing)',Prepare the graph of employee salary detail,Event_603
+25,Recording_132,Process_43,2022-02-18T06:49:41+00:00,Press button in window,Button 'Open' in Window 'Power BI — Mozilla Firefox (Private Browsing)',Prepare the graph of employee salary detail,Event_603
+26,Recording_132,Process_43,2022-02-18T06:49:46+00:00,Press button in window,Button 'Import' 2 in Window 'Power BI — Mozilla Firefox (Private Browsing)',Prepare the graph of employee salary detail,Event_603
+27,Recording_132,Process_43,2022-02-18T06:49:57+00:00,Press button in window,Button 'Go to dashboard' 2 in Window 'Power BI — Mozilla Firefox (Private Browsing)',Prepare the graph of employee salary detail,Event_603
+28,Recording_132,Process_43,2022-02-18T06:50:02+00:00,Click UI element in window,Group in Window 'Employee  ...  (Private Browsing)' 2,Prepare the graph of employee salary detail,Event_603
+29,Recording_132,Process_43,2022-02-18T06:50:16+00:00,Expand/collapse tree node in window,Tree Item 'Table Employee Salary Details 1' in Window 'Power BI — Mozilla Firefox (Private Browsing)',Prepare the graph of employee salary detail,Event_603
+30,Recording_132,Process_43,2022-02-18T06:50:18+00:00,Click UI element in window,Tree Item 'Numeric Field 2019' in Window 'Power BI — Mozilla Firefox (Private Browsing)',Prepare the graph of employee salary detail,Event_603
+31,Recording_132,Process_43,2022-02-18T06:50:20+00:00,Click UI element in window,Tree Item 'Numeric Field 2020' in Window 'Power BI — Mozilla Firefox (Private Browsing)',Prepare the graph of employee salary detail,Event_603
+32,Recording_132,Process_43,2022-02-18T06:50:23+00:00,Click UI element in window,Tree Item 'Numeric Field 2021' in Window 'Power BI — Mozilla Firefox (Private Browsing)',Prepare the graph of employee salary detail,Event_603
+33,Recording_132,Process_43,2022-02-18T06:50:25+00:00,Click UI element in window,Tree Item 'Employee Name' in Window 'Power BI — Mozilla Firefox (Private Browsing)',Prepare the graph of employee salary detail,Event_603
+34,Recording_132,Process_43,2022-02-18T06:50:36+00:00,Select menu option in window,Menu Item 'Clustered column chart' in Window 'Power BI — Mozilla Firefox (Private Browsing)',Prepare the graph of employee salary detail,Event_603
+35,Recording_132,Process_43,2022-02-18T06:50:42+00:00,Drag and drop UI element in window,"Group '2019, 2020 and 2021 by Employee Name' in Window 'Power BI — Mozilla Firefox (Private Browsing)'",Prepare the graph of employee salary detail,Event_603
+36,Recording_132,Process_43,2022-02-18T06:50:44+00:00,Click UI element in window,List Item 'Employee Name Hetvi Surname. 2020 24548.' in Window 'Power BI — Mozilla Firefox (Private Browsing)',Prepare the graph of employee salary detail,Event_603
+37,Recording_132,Process_43,2022-02-18T06:50:52+00:00,Select menu option in window,Menu Item 'File ' in Window 'Power BI — Mozilla Firefox (Private Browsing)',Download the graph,Event_604
+38,Recording_132,Process_43,2022-02-18T06:51:49+00:00,Select menu option in window,Menu Item ' Print Print current page' in Window 'Power BI — Mozilla Firefox (Private Browsing)',Download the graph,Event_604
+39,Recording_132,Process_43,2022-02-18T06:51:53+00:00,Click UI element in window,Combo Box 'Destination' in Window 'Power BI — Mozilla Firefox (Private Browsing)',Download the graph,Event_604
+40,Recording_132,Process_43,2022-02-18T06:51:55+00:00,Click UI element in window,Combo Box 'Destination',Download the graph,Event_604
+41,Recording_132,Process_43,2022-02-18T06:52:06+00:00,Press button in window,Button 'Print' in Window 'Power BI — Mozilla Firefox (Private Browsing)',Download the graph,Event_604
+42,Recording_132,Process_43,2022-02-18T06:52:18+00:00,Populate text field in window,Edit 'File name:' in Window 'Power BI — Mozilla Firefox (Private Browsing)'; Text:'Salary report',Download the graph,Event_604
+43,Recording_132,Process_43,2022-02-18T06:52:22+00:00,Press button in window,Button 'Save' in Window 'Power BI — Mozilla Firefox (Private Browsing)',Download the graph,Event_604
+44,Recording_132,Process_43,2022-02-18T06:52:46+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Power BI — Mozilla Firefox (Private Browsing)',Go to the Mailbox,Event_605
+45,Recording_132,Process_43,2022-02-18T06:52:50+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox (Private Browsing)'; Text:'yahoo',Go to the Mailbox,Event_605
+46,Recording_132,Process_43,2022-02-18T06:52:52+00:00,Send keys,TextToSend:'{Return}',Go to the Mailbox,Event_605
+47,Recording_132,Process_43,2022-02-18T06:52:56+00:00,Click UI element in window,Hyperlink 'Yahoo Indiahttps://in.yahoo.com' in Window 'yahoo -  ...  (Private Browsing)',Go to the Mailbox,Event_605
+48,Recording_132,Process_43,2022-02-18T06:53:03+00:00,Click UI element in window,Hyperlink 'Mail Mail' in Window 'Yahoo Search  ...  (Private Browsing)',Go to the Mailbox,Event_605
+49,Recording_132,Process_43,2022-02-18T06:53:07+00:00,Click UI element in window,Hyperlink 'Sign in' in Window 'Yahoo Mail — Mozilla Firefox (Private Browsing)',Go to the Mailbox,Event_605
+50,Recording_132,Process_43,2022-02-18T06:53:18+00:00,Populate text field in window,"Edit 'Username, email address or mobile number' in Window 'Yahoo — Mozilla Firefox (Private Browsing)'; Text:'Email@Domain'",Go to the Mailbox,Event_605
+51,Recording_132,Process_43,2022-02-18T06:53:20+00:00,Press button in window,Button 'Next' in Window 'Yahoo — Mozilla Firefox (Private Browsing)',Go to the Mailbox,Event_605
+52,Recording_132,Process_43,2022-02-18T06:53:25+00:00,Populate text field in window,Edit 'Password' in Window 'Yahoo — Mozilla Firefox (Private Browsing)'; Text:P'password_secret_text',Go to the Mailbox,Event_605
+53,Recording_132,Process_43,2022-02-18T06:53:31+00:00,Press button in window,Button 'Next' in Window 'Yahoo — Mozilla Firefox (Private Browsing)',Go to the Mailbox,Event_605
+54,Recording_132,Process_43,2022-02-18T06:53:36+00:00,Press button in window,Button 'Compose' in Window '(3 unread) -  ...  (Private Browsing)',Send the graph through mail,Event_606
+55,Recording_132,Process_43,2022-02-18T06:53:39+00:00,Click UI element in window,Combo Box in Window '(3 unread) -  ...  (Private Browsing)',Send the graph through mail,Event_606
+56,Recording_132,Process_43,2022-02-18T06:53:41+00:00,Send keys,TextToSend:'Username',Send the graph through mail,Event_606
+57,Recording_132,Process_43,2022-02-18T06:53:53+00:00,Click UI element in window,Combo Box in Window '(3 unread) -  ...  (Private Browsing)',Send the graph through mail,Event_606
+58,Recording_132,Process_43,2022-02-18T06:54:12+00:00,Populate text field in window,Edit 'Subject' in Window '(3 unread) -  ...  (Private Browsing)'; Text:'Graphical data of salary details',Send the graph through mail,Event_606
+59,Recording_132,Process_43,2022-02-18T06:54:18+00:00,Populate text field in window,"Edit 'Message body' in Window '(3 unread) -  ...  (Private Browsing)'; Text:'Hello,'",Send the graph through mail,Event_606
+60,Recording_132,Process_43,2022-02-18T06:54:19+00:00,Send keys,TextToSend:'{Return}',Send the graph through mail,Event_606
+61,Recording_132,Process_43,2022-02-18T06:54:20+00:00,Populate text field in window,"Edit 'Message body' in Window '(3 unread) -  ...  (Private Browsing)'; Text:'Hello, PFA'",Send the graph through mail,Event_606
+62,Recording_132,Process_43,2022-02-18T06:54:23+00:00,Press button in window,Button 'Attach files' in Window '(3 unread) -  ...  (Private Browsing)',Send the graph through mail,Event_606
+63,Recording_132,Process_43,2022-02-18T06:54:25+00:00,Select menu option in window,Menu Item 'Attach files from computer' in Window '(3 unread) -  ...  (Private Browsing)',Send the graph through mail,Event_606
+64,Recording_132,Process_43,2022-02-18T06:54:29+00:00,Click UI element in window,Tree Item 'Downloads' in Window '(3 unread) -  ...  (Private Browsing)',Send the graph through mail,Event_606
+65,Recording_132,Process_43,2022-02-18T06:54:31+00:00,Click UI element in window,Edit 'Name' in Window '(3 unread) -  ...  (Private Browsing)',Send the graph through mail,Event_606
+66,Recording_132,Process_43,2022-02-18T06:54:33+00:00,Press button in window,Button 'Open' in Window '(3 unread) -  ...  (Private Browsing)',Send the graph through mail,Event_606
+67,Recording_132,Process_43,2022-02-18T06:54:38+00:00,Press button in window,Button 'Send' in Window '(3 unread) -  ...  (Private Browsing)',Send the graph through mail,Event_606
+0,Recording_133,Process_43,2022-02-18T06:41:11+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Open the cloud storage,Event_607
+1,Recording_133,Process_43,2022-02-18T06:41:15+00:00,Click UI element in window,List Item 'New tab  ...  - Microsoft​ Edge' in List 'Task Switcher',Open the cloud storage,Event_607
+2,Recording_133,Process_43,2022-02-18T06:41:21+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'onedrive',Open the cloud storage,Event_607
+3,Recording_133,Process_43,2022-02-18T06:41:22+00:00,Send keys,TextToSend:'{Return}',Open the cloud storage,Event_607
+4,Recording_133,Process_43,2022-02-18T06:41:26+00:00,Click UI element in window,Hyperlink 'Microsoft OneDrive' in Window 'onedrive -  ...  - Microsoft​ Edge',Open the cloud storage,Event_607
+5,Recording_133,Process_43,2022-02-18T06:41:32+00:00,Click UI element in window,Hyperlink 'Sign in to your account' in Window 'Free Cloud  ...  - Microsoft​ Edge',Open the cloud storage,Event_607
+6,Recording_133,Process_43,2022-02-18T06:41:37+00:00,Click UI element in window,Hyperlink 'Employee  ...  3 minutes ago' in Window 'My files -  ...  - Microsoft​ Edge',Find the file having employee salary detail and download it,Event_608
+7,Recording_133,Process_43,2022-02-18T06:41:42+00:00,Select tab in window,Window 'Untitled and  ...  - Microsoft​ Edge',Find the file having employee salary detail and download it,Event_608
+8,Recording_133,Process_43,2022-02-18T06:41:44+00:00,Set checkbox state in window,Check Box 'Employee Salary Details.xlsx' in Window 'My files -  ...  - Microsoft​ Edge' 2,Find the file having employee salary detail and download it,Event_608
+9,Recording_133,Process_43,2022-02-18T06:41:48+00:00,Select menu option in window,Menu Item 'Download' in Window 'My files -  ...  - Microsoft​ Edge' 2,Find the file having employee salary detail and download it,Event_608
+10,Recording_133,Process_43,2022-02-18T06:41:57+00:00,Click UI element in window,List Item 'Employee  ...  download item' in Window 'My files -  ...  - Microsoft​ Edge' 2,Find the file having employee salary detail and download it,Event_608
+11,Recording_133,Process_43,2022-02-18T06:42:07+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Go to the BI tool,Event_609
+12,Recording_133,Process_43,2022-02-18T06:42:10+00:00,Click UI element in window,List Item 'New tab  ...  - Microsoft​ Edge' in List 'Task Switcher',Go to the BI tool,Event_609
+13,Recording_133,Process_43,2022-02-18T06:42:13+00:00,Press button in window,Button 'New Tab' in Window 'My files -  ...  - Microsoft​ Edge' 2,Go to the BI tool,Event_609
+14,Recording_133,Process_43,2022-02-18T06:42:17+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge' 2; Text:'powerbi',Go to the BI tool,Event_609
+15,Recording_133,Process_43,2022-02-18T06:42:18+00:00,Send keys,TextToSend:'{Return}',Go to the BI tool,Event_609
+16,Recording_133,Process_43,2022-02-18T06:42:22+00:00,Click UI element in window,Hyperlink 'Data Visualization | Microsoft Power BI' in Window 'powerbi -  ...  - Microsoft​ Edge',Go to the BI tool,Event_609
+17,Recording_133,Process_43,2022-02-18T06:42:28+00:00,Click UI element in window,Hyperlink 'Redirects to Power B I product site' in Window 'Data  ...  - Microsoft​ Edge',Go to the BI tool,Event_609
+18,Recording_133,Process_43,2022-02-18T06:42:35+00:00,Click UI element in window,Hyperlink 'Get data' in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+19,Recording_133,Process_43,2022-02-18T06:42:41+00:00,Press button in window,"Button 'Files, Get' in Window 'Power BI and  ...  - Microsoft​ Edge'",Create a graph of employee salary,Event_610
+20,Recording_133,Process_43,2022-02-18T06:42:45+00:00,Press button in window,Button 'Local File' in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+21,Recording_133,Process_43,2022-02-18T06:42:56+00:00,Click UI element in window,Edit 'Name' in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+22,Recording_133,Process_43,2022-02-18T06:42:59+00:00,Press button in window,Button 'Open' in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+23,Recording_133,Process_43,2022-02-18T06:43:07+00:00,Press button in window,Button 'Import' in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+24,Recording_133,Process_43,2022-02-18T06:43:24+00:00,Press button in window,Button 'Go to dashboard' in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+25,Recording_133,Process_43,2022-02-18T06:43:52+00:00,Click UI element in window,Group 'Employee Salary Details (3).xlsx' in Window 'Employee  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+26,Recording_133,Process_43,2022-02-18T06:43:58+00:00,Press button in window,Button '' in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+27,Recording_133,Process_43,2022-02-18T06:44:00+00:00,Click UI element in window,Group 'pbi-tree-node-checkbox ng-star-inserted' in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+28,Recording_133,Process_43,2022-02-18T06:44:02+00:00,Click UI element in window,Text 'pbi-checkbox-label' in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+29,Recording_133,Process_43,2022-02-18T06:44:03+00:00,Click UI element in window,Text 'pbi-checkbox-label' 2 in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+30,Recording_133,Process_43,2022-02-18T06:44:05+00:00,Click UI element in window,Text 'pbi-checkbox-label' 3 in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+31,Recording_133,Process_43,2022-02-18T06:44:15+00:00,Press button in window,Button '100% Stacked bar chart' in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+32,Recording_133,Process_43,2022-02-18T06:44:21+00:00,Drag and drop UI element in window,Group 'selected bringToFront transformElement resizing' in Group 'selected bringToFront transformElement' in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+33,Recording_133,Process_43,2022-02-18T06:44:24+00:00,Drag and drop UI element in window,Tab 'pane sections ng-star-inserted' in Group 'selected bringToFront transformElement resizing' in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+34,Recording_133,Process_43,2022-02-18T06:44:26+00:00,Press button in window,Button 'Filters  ...  readers see it' in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+35,Recording_133,Process_43,2022-02-18T06:44:29+00:00,Press button in window,Button 'Visualizations' in Window 'Power BI and  ...  - Microsoft​ Edge',Create a graph of employee salary,Event_610
+36,Recording_133,Process_43,2022-02-18T06:44:50+00:00,Press button in window,Button 'File ' in Window 'Power BI and  ...  - Microsoft​ Edge',Export the graph,Event_611
+37,Recording_133,Process_43,2022-02-18T06:44:56+00:00,Select menu option in window,Menu Item ' Print Print current page' in Window 'Power BI and  ...  - Microsoft​ Edge',Export the graph,Event_611
+38,Recording_133,Process_43,2022-02-18T06:45:01+00:00,Press button in window,Button 'Print' in Window 'Power BI and  ...  - Microsoft​ Edge',Export the graph,Event_611
+39,Recording_133,Process_43,2022-02-18T06:45:05+00:00,Click UI element in window,Tree Item 'Desktop' in Window 'Power BI and  ...  - Microsoft​ Edge',Export the graph,Event_611
+40,Recording_133,Process_43,2022-02-18T06:45:08+00:00,Click UI element in window,Edit 'Name' 2 in Window 'Power BI and  ...  - Microsoft​ Edge',Export the graph,Event_611
+41,Recording_133,Process_43,2022-02-18T06:45:30+00:00,Populate text field in window,Edit 'File name:' in Window 'Power BI and  ...  - Microsoft​ Edge'; Text:'Employee salary detail_graphical',Export the graph,Event_611
+42,Recording_133,Process_43,2022-02-18T06:45:33+00:00,Press button in window,Button 'Save' in Window 'Power BI and  ...  - Microsoft​ Edge',Export the graph,Event_611
+43,Recording_133,Process_43,2022-02-18T06:45:43+00:00,Press button in window,Button 'New Tab' in Window 'Power BI and  ...  - Microsoft​ Edge',Open the Mailbox,Event_612
+44,Recording_133,Process_43,2022-02-18T06:45:49+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge' 3; Text:'outlook',Open the Mailbox,Event_612
+45,Recording_133,Process_43,2022-02-18T06:45:50+00:00,Send keys,TextToSend:'{Return}',Open the Mailbox,Event_612
+46,Recording_133,Process_43,2022-02-18T06:45:52+00:00,Click UI element in window,Hyperlink 'Outlook –  ...  from Microsoft' in Window 'outlook -  ...  - Microsoft​ Edge',Open the Mailbox,Event_612
+47,Recording_133,Process_43,2022-02-18T06:46:03+00:00,Press button in window,Button 'New message' in Window 'Email -  ...  - Microsoft​ Edge',Attach a graph and send mail,Event_613
+48,Recording_133,Process_43,2022-02-18T06:46:06+00:00,Click UI element in window,Combo Box 'To' in Window 'Email -  ...  - Microsoft​ Edge',Attach a graph and send mail,Event_613
+49,Recording_133,Process_43,2022-02-18T06:46:08+00:00,Send keys,TextToSend:'Namede',Attach a graph and send mail,Event_613
+50,Recording_133,Process_43,2022-02-18T06:46:13+00:00,Click UI element in window,List Item 'Email@Domain (Email@Domain)' in Window 'Email -  ...  - Microsoft​ Edge',Attach a graph and send mail,Event_613
+51,Recording_133,Process_43,2022-02-18T06:46:39+00:00,Populate text field in window,Edit 'Add a subject' in Window 'Email -  ...  - Microsoft​ Edge'; Text:'Graphical representation of employee salary details',Attach a graph and send mail,Event_613
+52,Recording_133,Process_43,2022-02-18T06:46:44+00:00,Populate text field in window,"Edit 'Message body' in Window 'Email -  ...  - Microsoft​ Edge'; Text:'Hello,'",Attach a graph and send mail,Event_613
+53,Recording_133,Process_43,2022-02-18T06:46:44+00:00,Send keys,TextToSend:'{Return}',Attach a graph and send mail,Event_613
+54,Recording_133,Process_43,2022-02-18T06:46:50+00:00,Populate text field in window,"Edit 'Message body' in Window 'Email -  ...  - Microsoft​ Edge'; Text:'''Hello,
+PFA.'''",Attach a graph and send mail,Event_613
+55,Recording_133,Process_43,2022-02-18T06:46:53+00:00,Select menu option in window,Menu Item 'Attach' in Window 'Email -  ...  - Microsoft​ Edge',Attach a graph and send mail,Event_613
+56,Recording_133,Process_43,2022-02-18T06:46:58+00:00,Select menu option in window,Menu Item 'Browse this computer' in Window 'Email -  ...  - Microsoft​ Edge',Attach a graph and send mail,Event_613
+57,Recording_133,Process_43,2022-02-18T06:47:00+00:00,Click UI element in window,Tree Item 'Desktop' in Window 'Email -  ...  - Microsoft​ Edge',Attach a graph and send mail,Event_613
+58,Recording_133,Process_43,2022-02-18T06:47:03+00:00,Click UI element in window,Edit 'Name' in Window 'Email -  ...  - Microsoft​ Edge',Attach a graph and send mail,Event_613
+59,Recording_133,Process_43,2022-02-18T06:47:05+00:00,Click UI element in window,Edit 'Name' 2 in Window 'Email -  ...  - Microsoft​ Edge',Attach a graph and send mail,Event_613
+60,Recording_133,Process_43,2022-02-18T06:47:08+00:00,Press button in window,Button 'Open' in Window 'Email -  ...  - Microsoft​ Edge',Attach a graph and send mail,Event_613
+61,Recording_133,Process_43,2022-02-18T06:47:20+00:00,Press button in window,Button 'Send' in Window 'Email -  ...  - Microsoft​ Edge',Attach a graph and send mail,Event_613

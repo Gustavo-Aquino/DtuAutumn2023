@@ -1,0 +1,55 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_16,Process_13,2022-02-26T08:41:57+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Login to Mail box ,Event_73
+1,Recording_16,Process_13,2022-02-26T08:42:01+00:00,Click UI element in window,List Item 'New tab  ...  - Microsoft​ Edge' in List 'Task Switcher',Login to Mail box ,Event_73
+2,Recording_16,Process_13,2022-02-26T08:42:07+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'yahoo mail',Login to Mail box ,Event_73
+3,Recording_16,Process_13,2022-02-26T08:42:07+00:00,Send keys,TextToSend:'{Return}',Login to Mail box ,Event_73
+4,Recording_16,Process_13,2022-02-26T08:42:10+00:00,Click UI element in window,Hyperlink 'Yahoo Mail' in Window 'yahoo mail -  ...  - Microsoft​ Edge',Login to Mail box ,Event_73
+5,Recording_16,Process_13,2022-02-26T08:42:23+00:00,Click UI element in window,Data Item 'FW: Please update the employee details in CRM' in Window '(4 unread) -  ...  - Microsoft​ Edge',Search the Mail of Customer detail file ,Event_74
+6,Recording_16,Process_13,2022-02-26T08:42:32+00:00,Click UI element in window,Group 'msg-body P_wpofO mq_AS' in Window '(2 unread) -  ...  - Microsoft​ Edge',Search the Mail of Customer detail file ,Event_74
+7,Recording_16,Process_13,2022-02-26T08:42:41+00:00,Press button in window,Button 'New Tab' in Window '(2 unread) -  ...  - Microsoft​ Edge',Login to the crm tool,Event_75
+8,Recording_16,Process_13,2022-02-26T08:42:44+00:00,Click UI element in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge',Login to the crm tool,Event_75
+9,Recording_16,Process_13,2022-02-26T08:42:47+00:00,Click UI element in window,Hyperlink 'Home |  ... /page/home' in Window 'New tab and  ...  - Microsoft​ Edge' 2,Login to the crm tool,Event_75
+10,Recording_16,Process_13,2022-02-26T08:42:54+00:00,Click UI element in window,Hyperlink 'Contacts' in Window 'Home |  ...  - Microsoft​ Edge',"As mentioned in the customer contact detail file, update the customer contact in crm",Event_76
+11,Recording_16,Process_13,2022-02-26T08:43:00+00:00,Click UI element in window,Hyperlink 'Name Surname (Sample)' in Window 'All Contacts  ...  - Microsoft​ Edge',"As mentioned in the customer contact detail file, update the customer contact in crm",Event_76
+12,Recording_16,Process_13,2022-02-26T08:43:09+00:00,Press button in window,Button 'Phone (2) ' in Window 'Name Surname  ...  - Microsoft​ Edge',"As mentioned in the customer contact detail file, update the customer contact in crm",Event_76
+13,Recording_16,Process_13,2022-02-26T08:43:17+00:00,Press button in window,Button 'Edit' in Window 'Name Surname  ...  - Microsoft​ Edge',"As mentioned in the customer contact detail file, update the customer contact in crm",Event_76
+14,Recording_16,Process_13,2022-02-26T08:43:27+00:00,Populate text field in window,Edit 'Mobile' in Window 'Edit Name  ...  - Microsoft​ Edge'; Text:'9875653214',"As mentioned in the customer contact detail file, update the customer contact in crm",Event_76
+15,Recording_16,Process_13,2022-02-26T08:43:43+00:00,Populate text field in window,Edit 'Email' in Window 'Edit Name  ...  - Microsoft​ Edge'; Text:'Email@Domain',"As mentioned in the customer contact detail file, update the customer contact in crm",Event_76
+16,Recording_16,Process_13,2022-02-26T08:43:47+00:00,Press button in window,Button 'Save' in Window 'Edit Name  ...  - Microsoft​ Edge',"As mentioned in the customer contact detail file, update the customer contact in crm",Event_76
+0,Recording_39,Process_13,2022-02-26T08:09:43+00:00,Press button in window,Mail - 1 running window in Quick Launch Bar,Go to the Mail box ,Event_188
+1,Recording_39,Process_13,2022-02-26T08:09:45+00:00,Click UI element in window,"List Item 'Inbox folder, 1 unread, favorite' in Window 'Inbox - Outlook ‎- Mail'",Find the Mail of Customer detail file ,Event_189
+2,Recording_39,Process_13,2022-02-26T08:09:47+00:00,Click UI element in window,List Item ' Unread  ...  8563214785' in Window 'Inbox - Outlook ‎- Mail',Find the Mail of Customer detail file ,Event_189
+3,Recording_39,Process_13,2022-02-26T08:09:49+00:00,Click UI element in window,Edit 'Message' in Window 'Inbox - Outlook ‎- Mail',Find the Mail of Customer detail file ,Event_189
+4,Recording_39,Process_13,2022-02-26T08:09:53+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Open the crm tool,Event_190
+5,Recording_39,Process_13,2022-02-26T08:09:55+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Mozilla Firefox',Open the crm tool,Event_190
+6,Recording_39,Process_13,2022-02-26T08:10:04+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'dynemic crm login',Open the crm tool,Event_190
+7,Recording_39,Process_13,2022-02-26T08:10:04+00:00,Send keys,TextToSend:'{Return}',Open the crm tool,Event_190
+8,Recording_39,Process_13,2022-02-26T08:10:09+00:00,Click UI element in window,Hyperlink 'Microsoft  ... om › en-in' in Window 'dynemic crm  ...  — Mozilla Firefox',Open the crm tool,Event_190
+9,Recording_39,Process_13,2022-02-26T08:10:18+00:00,Click UI element in window,Hyperlink 'Get started' in Window 'Business  ...  — Mozilla Firefox',Open the crm tool,Event_190
+10,Recording_39,Process_13,2022-02-26T08:10:41+00:00,Click UI element in window,Edit 'Try for free' in Window 'Start a Free  ...  — Mozilla Firefox',Open the crm tool,Event_190
+11,Recording_39,Process_13,2022-02-26T08:10:52+00:00,Click UI element in window,Tree Item 'Contacts' in Window 'Sales dashboard - Dynamics 365 — Mozilla Firefox',Change the customer contact detail as mentioned in customer detail file,Event_191
+12,Recording_39,Process_13,2022-02-26T08:11:25+00:00,Click UI element in window,Hyperlink 'Avery Name' in Window 'Contacts My  ...  — Mozilla Firefox',Change the customer contact detail as mentioned in customer detail file,Event_191
+13,Recording_39,Process_13,2022-02-26T08:11:47+00:00,Populate text field in window,Edit 'Email' in Window 'Contact:  ...  — Mozilla Firefox'; Text:'Email@Domain',Change the customer contact detail as mentioned in customer detail file,Event_191
+14,Recording_39,Process_13,2022-02-26T08:11:51+00:00,Click UI element in window,Edit 'Business Phone' in Window 'Contact:  ...  — Mozilla Firefox',Change the customer contact detail as mentioned in customer detail file,Event_191
+15,Recording_39,Process_13,2022-02-26T08:12:19+00:00,Populate text field in window,Edit 'Mobile Phone' in Window 'Contact:  ...  — Mozilla Firefox'; Text:'8563214785',Change the customer contact detail as mentioned in customer detail file,Event_191
+16,Recording_39,Process_13,2022-02-26T08:12:41+00:00,Select menu option in window,Menu Item 'Save (CTRL+S)' in Window 'Contact:  ...  — Mozilla Firefox',Change the customer contact detail as mentioned in customer detail file,Event_191
+0,Recording_54,Process_13,2022-02-26T10:44:12+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar, Open the Mail box ,Event_269
+1,Recording_54,Process_13,2022-02-26T10:44:16+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher', Open the Mail box ,Event_269
+2,Recording_54,Process_13,2022-02-26T10:44:22+00:00,Click UI element in window,Hyperlink 'Gmail' in Pane 'New Tab - Google Chrome - Name', Open the Mail box ,Event_269
+3,Recording_54,Process_13,2022-02-26T10:44:37+00:00,Click UI element in window,Text 'Update employee profile' in Pane 'New Tab - Google Chrome - Name',Locate Mail having customer contacct detail,Event_270
+4,Recording_54,Process_13,2022-02-26T10:44:44+00:00,Click UI element in window,Group in Pane 'New Tab - Google Chrome - Name',Locate Mail having customer contacct detail,Event_270
+5,Recording_54,Process_13,2022-02-26T10:44:52+00:00,Click UI element in window,Data Item 'New Mobile Phone' in Pane 'New Tab - Google Chrome - Name',Locate Mail having customer contacct detail,Event_270
+6,Recording_54,Process_13,2022-02-26T10:44:54+00:00,Click UI element in window,Data Item ' New Email' in Pane 'New Tab - Google Chrome - Name',Locate Mail having customer contacct detail,Event_270
+7,Recording_54,Process_13,2022-02-26T10:44:59+00:00,Press button in window,Button 'New Tab' in Pane 'New Tab - Google Chrome - Name',Go to the crm tool,Event_271
+8,Recording_54,Process_13,2022-02-26T10:45:03+00:00,Press button in window,Button 'Home Page - Zoho CRM' in Pane 'New Tab - Google Chrome - Name',Go to the crm tool,Event_271
+9,Recording_54,Process_13,2022-02-26T10:45:11+00:00,Click UI element in window,Hyperlink 'Contacts' in Pane 'New Tab - Google Chrome - Name',Edit the customer contact detail as per file received from Manager,Event_272
+10,Recording_54,Process_13,2022-02-26T10:45:23+00:00,Click UI element in window,Data Item in Pane 'New Tab - Google Chrome - Name',Edit the customer contact detail as per file received from Manager,Event_272
+11,Recording_54,Process_13,2022-02-26T10:45:27+00:00,Click UI element in window,Text 'Name Surname (Sample)' in Pane 'New Tab - Google Chrome - Name',Edit the customer contact detail as per file received from Manager,Event_272
+12,Recording_54,Process_13,2022-02-26T10:45:47+00:00,Click UI element in window,Hyperlink in Pane 'New Tab - Google Chrome - Name',Edit the customer contact detail as per file received from Manager,Event_272
+13,Recording_54,Process_13,2022-02-26T10:45:50+00:00,Drag and drop UI element in window,Edit in Pane 'New Tab - Google Chrome - Name',Edit the customer contact detail as per file received from Manager,Event_272
+14,Recording_54,Process_13,2022-02-26T10:45:57+00:00,Populate text field in window,Edit in Pane 'New Tab - Google Chrome - Name'; Text:'9999911111',Edit the customer contact detail as per file received from Manager,Event_272
+15,Recording_54,Process_13,2022-02-26T10:45:59+00:00,Send keys,TextToSend:'{Return}',Edit the customer contact detail as per file received from Manager,Event_272
+16,Recording_54,Process_13,2022-02-26T10:46:09+00:00,Click UI element in window,Hyperlink 2 in Pane 'New Tab - Google Chrome - Name',Edit the customer contact detail as per file received from Manager,Event_272
+17,Recording_54,Process_13,2022-02-26T10:46:12+00:00,Click UI element in window,Edit 2 in Pane 'New Tab - Google Chrome - Name',Edit the customer contact detail as per file received from Manager,Event_272
+18,Recording_54,Process_13,2022-02-26T10:46:13+00:00,Drag and drop UI element in window,Edit 2 in Pane 'New Tab - Google Chrome - Name',Edit the customer contact detail as per file received from Manager,Event_272
+19,Recording_54,Process_13,2022-02-26T10:46:25+00:00,Populate text field in window,Edit 2 in Pane 'New Tab - Google Chrome - Name'; Text:'Email@Domain',Edit the customer contact detail as per file received from Manager,Event_272

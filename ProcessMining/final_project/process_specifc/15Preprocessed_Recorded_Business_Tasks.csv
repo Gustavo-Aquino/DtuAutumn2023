@@ -1,0 +1,117 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_40,Process_15,2022-02-28T04:19:07+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar,Open the online form application,Event_192
+1,Recording_40,Process_15,2022-02-28T04:19:10+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher',Open the online form application,Event_192
+2,Recording_40,Process_15,2022-02-28T04:19:12+00:00,Click UI element in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Person 1',Open the online form application,Event_192
+3,Recording_40,Process_15,2022-02-28T04:19:15+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Person 1'; Text:'zoho forms',Open the online form application,Event_192
+4,Recording_40,Process_15,2022-02-28T04:19:16+00:00,Send keys,TextToSend:'{Return}',Open the online form application,Event_192
+5,Recording_40,Process_15,2022-02-28T04:19:20+00:00,Click UI element in window,Hyperlink ' Form  ... om › forms' in Pane 'New Tab - Google Chrome - Person 1',Open the online form application,Event_192
+6,Recording_40,Process_15,2022-02-28T04:19:24+00:00,Click UI element in window,Hyperlink 'ACCESS ZOHO FORMS' in Pane 'New Tab - Google Chrome - Person 1',Open the online form application,Event_192
+7,Recording_40,Process_15,2022-02-28T04:19:28+00:00,Press button in window,Button 'New Form' in Pane 'New Tab - Google Chrome - Person 1',Create a customer requirement form,Event_193
+8,Recording_40,Process_15,2022-02-28T04:19:29+00:00,Click UI element in window,List Item in Pane 'New Tab - Google Chrome - Person 1',Create a customer requirement form,Event_193
+9,Recording_40,Process_15,2022-02-28T04:19:35+00:00,Populate text field in window,Edit in Pane 'New Tab - Google Chrome - Person 1'; Text:'Customer Requirement form',Create a customer requirement form,Event_193
+10,Recording_40,Process_15,2022-02-28T04:19:38+00:00,Press button in window,Button 'Create' in Pane 'New Tab - Google Chrome - Person 1',Create a customer requirement form,Event_193
+11,Recording_40,Process_15,2022-02-28T04:19:48+00:00,Click UI element in window,Text 'Single Line' in Pane 'New Tab - Google Chrome - Person 1',Create a customer requirement form,Event_193
+12,Recording_40,Process_15,2022-02-28T04:19:50+00:00,Click UI element in window,List Item 2 in Pane 'New Tab - Google Chrome - Person 1',Create a customer requirement form,Event_193
+13,Recording_40,Process_15,2022-02-28T04:20:08+00:00,Populate text field in window,Edit 2 in Pane 'New Tab - Google Chrome - Person 1'; Text:'Please specify the interested product ',Create a customer requirement form,Event_193
+14,Recording_40,Process_15,2022-02-28T04:20:12+00:00,Click UI element in window,Edit 2 in Pane 'New Tab - Google Chrome - Person 1',Create a customer requirement form,Event_193
+15,Recording_40,Process_15,2022-02-28T04:20:14+00:00,Press button in window,Button 'Save' in Pane 'New Tab - Google Chrome - Person 1',Create a customer requirement form,Event_193
+16,Recording_40,Process_15,2022-02-28T04:20:26+00:00,Click UI element in window,List Item 3 in Pane 'New Tab - Google Chrome - Person 1',Create a customer requirement form,Event_193
+17,Recording_40,Process_15,2022-02-28T04:20:29+00:00,Click UI element in window,List Item 4 in Pane 'New Tab - Google Chrome - Person 1',Create a customer requirement form,Event_193
+18,Recording_40,Process_15,2022-02-28T04:20:38+00:00,Populate text field in window,Edit 2 in Pane 'New Tab - Google Chrome - Person 1'; Text:'Mentioned Budget limits',Create a customer requirement form,Event_193
+19,Recording_40,Process_15,2022-02-28T04:20:42+00:00,Press button in window,Button 'Save' in Pane 'New Tab - Google Chrome - Person 1',Create a customer requirement form,Event_193
+20,Recording_40,Process_15,2022-02-28T04:20:48+00:00,Click UI element in window,List Item 5 in Pane 'New Tab - Google Chrome - Person 1',Create a customer requirement form,Event_193
+21,Recording_40,Process_15,2022-02-28T04:20:51+00:00,Click UI element in window,List Item 6 in Pane 'New Tab - Google Chrome - Person 1',Create a customer requirement form,Event_193
+22,Recording_40,Process_15,2022-02-28T04:21:01+00:00,Click UI element in window,Edit 2 in Pane 'New Tab - Google Chrome - Person 1',Create a customer requirement form,Event_193
+23,Recording_40,Process_15,2022-02-28T04:21:23+00:00,Populate text field in window,Edit 3 in Pane 'New Tab - Google Chrome - Person 1'; Text:'Detail special need if any',Create a customer requirement form,Event_193
+24,Recording_40,Process_15,2022-02-28T04:21:27+00:00,Press button in window,Button 'Save' in Pane 'New Tab - Google Chrome - Person 1',Create a customer requirement form,Event_193
+25,Recording_40,Process_15,2022-02-28T04:21:36+00:00,Click UI element in window,Hyperlink 'Access Form' in Pane 'New Tab - Google Chrome - Person 1',Create a customer requirement form,Event_193
+26,Recording_40,Process_15,2022-02-28T04:21:48+00:00,Click UI element in window,Hyperlink ' Share' in Pane 'New Tab - Google Chrome - Person 1',Copy the link of form,Event_194
+27,Recording_40,Process_15,2022-02-28T04:21:52+00:00,Drag and drop UI element in window,Edit 4 in Pane 'New Tab - Google Chrome - Person 1',Copy the link of form,Event_194
+28,Recording_40,Process_15,2022-02-28T04:21:52+00:00,Send keys,TextToSend:'{LControlKey}({C})',Copy the link of form,Event_194
+29,Recording_40,Process_15,2022-02-28T04:22:00+00:00,Drag and drop UI element in window,Edit 4 in Pane 'New Tab - Google Chrome - Person 1',Copy the link of form,Event_194
+30,Recording_40,Process_15,2022-02-28T04:22:00+00:00,Send keys,TextToSend:'{LControlKey}({C})',Copy the link of form,Event_194
+31,Recording_40,Process_15,2022-02-28T04:22:02+00:00,Press button in window,Button 'New Tab' in Pane 'New Tab - Google Chrome - Person 1',Go to crm tool,Event_195
+32,Recording_40,Process_15,2022-02-28T04:22:08+00:00,Press button in window,Button 'Home Page - Zoho CRM' in Pane 'New Tab - Google Chrome - Person 1',Go to crm tool,Event_195
+33,Recording_40,Process_15,2022-02-28T04:22:18+00:00,Click UI element in window,Hyperlink 'Contacts' in Pane 'New Tab - Google Chrome - Person 1',Mail the link of created form to customer,Event_196
+34,Recording_40,Process_15,2022-02-28T04:22:29+00:00,Click UI element in window,Text 'Name Surname (Sample)' in Pane 'New Tab - Google Chrome - Person 1',Mail the link of created form to customer,Event_196
+35,Recording_40,Process_15,2022-02-28T04:22:36+00:00,Click UI element in window,List Item 8 in Pane 'New Tab - Google Chrome - Person 1',Mail the link of created form to customer,Event_196
+36,Recording_40,Process_15,2022-02-28T04:22:40+00:00,Press button in window,Button 'Send Email' in Pane 'New Tab - Google Chrome - Person 1',Mail the link of created form to customer,Event_196
+37,Recording_40,Process_15,2022-02-28T04:23:09+00:00,Populate text field in window,Edit 'Subject' in Pane 'New Tab - Google Chrome - Person 1'; Text:'Share the requirement',Mail the link of created form to customer,Event_196
+38,Recording_40,Process_15,2022-02-28T04:23:12+00:00,Click UI element in window,Edit 'Subject' in Pane 'New Tab - Google Chrome - Person 1',Mail the link of created form to customer,Event_196
+39,Recording_40,Process_15,2022-02-28T04:23:13+00:00,Send keys,"TextToSend:'{LShiftKey}(H)ello,{LShiftKey}({Return}{Return}P)lease go the{Back}rought the below link and providd{Back}e your requirement on interested products.{Return}{Return}{LControlKey}({V})'",Mail the link of created form to customer,Event_196
+40,Recording_40,Process_15,2022-02-28T04:23:43+00:00,Click UI element in window,Text 'https ... HASHED_VALUE' in Pane 'New Tab - Google Chrome - Person 1',Mail the link of created form to customer,Event_196
+41,Recording_40,Process_15,2022-02-28T04:23:46+00:00,Click UI element in window,Data Item 'Compose Email' in Pane 'New Tab - Google Chrome - Person 1',Mail the link of created form to customer,Event_196
+42,Recording_40,Process_15,2022-02-28T04:23:53+00:00,Click UI element in window,Group in Pane 'New Tab - Google Chrome - Person 1',Mail the link of created form to customer,Event_196
+43,Recording_40,Process_15,2022-02-28T04:23:57+00:00,Press button in window,Button 'Send' in Pane 'New Tab - Google Chrome - Person 1',Mail the link of created form to customer,Event_196
+0,Recording_58,Process_15,2022-02-28T04:22:57+00:00,Press button in window,Firefox in Quick Launch Bar,Login to the online form application,Event_291
+1,Recording_58,Process_15,2022-02-28T04:23:05+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'googleforrms',Login to the online form application,Event_291
+2,Recording_58,Process_15,2022-02-28T04:23:06+00:00,Send keys,TextToSend:'{Return}',Login to the online form application,Event_291
+3,Recording_58,Process_15,2022-02-28T04:23:13+00:00,Click UI element in window,Hyperlink 'Free  ...  › forms › about' in Window 'googleforrms - Google Search — Mozilla Firefox',Login to the online form application,Event_291
+4,Recording_58,Process_15,2022-02-28T04:23:18+00:00,Click UI element in window,Hyperlink 'Go to Forms' in Window 'Google  ...  — Mozilla Firefox',Login to the online form application,Event_291
+5,Recording_58,Process_15,2022-02-28T04:23:23+00:00,Click UI element in window,Image in Window 'Google Forms — Mozilla Firefox',Prepare a customer requirement form,Event_292
+6,Recording_58,Process_15,2022-02-28T04:23:37+00:00,Populate text field in window,Edit 'Form title' in Window 'Untitled form - Google Forms — Mozilla Firefox'; Text:'Basic Requirement Form',Prepare a customer requirement form,Event_292
+7,Recording_58,Process_15,2022-02-28T04:23:41+00:00,Click UI element in window,Edit 'Question title' in Window 'Untitled form - Google Forms — Mozilla Firefox',Prepare a customer requirement form,Event_292
+8,Recording_58,Process_15,2022-02-28T04:24:05+00:00,Populate text field in window,Edit 'Question title' 2 in Window 'Untitled form - Google Forms — Mozilla Firefox'; Text:'What is your basic need of our product?',Prepare a customer requirement form,Event_292
+9,Recording_58,Process_15,2022-02-28T04:24:08+00:00,Click UI element in window,List Item 'Multiple choice' in Window 'Untitled form - Google Forms — Mozilla Firefox',Prepare a customer requirement form,Event_292
+10,Recording_58,Process_15,2022-02-28T04:24:11+00:00,Click UI element in window,List Item 'Short answer' in Window 'Untitled form - Google Forms — Mozilla Firefox',Prepare a customer requirement form,Event_292
+11,Recording_58,Process_15,2022-02-28T04:24:17+00:00,Press button in window,Button 'Add question' in Window 'Untitled form - Google Forms — Mozilla Firefox',Prepare a customer requirement form,Event_292
+12,Recording_58,Process_15,2022-02-28T04:24:49+00:00,Populate text field in window,Edit 'Question title' 3 in Window 'Untitled form - Google Forms — Mozilla Firefox'; Text:'Describe your aim for using our product?',Prepare a customer requirement form,Event_292
+13,Recording_58,Process_15,2022-02-28T04:24:52+00:00,Click UI element in window,List Item 'Paragraph' in Window 'Untitled form - Google Forms — Mozilla Firefox',Prepare a customer requirement form,Event_292
+14,Recording_58,Process_15,2022-02-28T04:24:55+00:00,Click UI element in window,List Item 'Short answer' in Window 'Untitled form - Google Forms — Mozilla Firefox',Prepare a customer requirement form,Event_292
+15,Recording_58,Process_15,2022-02-28T04:25:09+00:00,Press button in window,Button 'Send' in Window 'Untitled form - Google Forms — Mozilla Firefox',Get the link of form,Event_293
+16,Recording_58,Process_15,2022-02-28T04:25:11+00:00,Select tab in window,Tab Item 'Send form via link' in Window 'Untitled form - Google Forms — Mozilla Firefox',Get the link of form,Event_293
+17,Recording_58,Process_15,2022-02-28T04:25:18+00:00,Set checkbox state in window,Check Box 'Shorten URL' in Window 'Untitled form - Google Forms — Mozilla Firefox',Get the link of form,Event_293
+18,Recording_58,Process_15,2022-02-28T04:25:24+00:00,Press button in window,Button 'Copy' in Window 'Untitled form - Google Forms — Mozilla Firefox',Get the link of form,Event_293
+19,Recording_58,Process_15,2022-02-28T04:25:27+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Untitled form - Google Forms — Mozilla Firefox',Login to crm tool,Event_294
+20,Recording_58,Process_15,2022-02-28T04:25:31+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'dynemic crm',Login to crm tool,Event_294
+21,Recording_58,Process_15,2022-02-28T04:25:32+00:00,Send keys,TextToSend:'{Return}',Login to crm tool,Event_294
+22,Recording_58,Process_15,2022-02-28T04:25:36+00:00,Click UI element in window,Hyperlink 'What is  ...  en-us › what-is-crm' in Window 'dynemic crm - Google Search — Mozilla Firefox',Login to crm tool,Event_294
+23,Recording_58,Process_15,2022-02-28T04:25:41+00:00,Click UI element in window,Hyperlink 'Start free' in Window 'What is  ...  — Mozilla Firefox',Login to crm tool,Event_294
+24,Recording_58,Process_15,2022-02-28T04:25:53+00:00,Click UI element in window,Hyperlink 'Click this button to try sales app for free' in Window 'Start a Free  ...  — Mozilla Firefox',Login to crm tool,Event_294
+25,Recording_58,Process_15,2022-02-28T04:25:55+00:00,Click UI element in window,Edit 'Try Dynamics 365 Sales free for 30 days' in Window 'Start a Free  ...  — Mozilla Firefox',Login to crm tool,Event_294
+26,Recording_58,Process_15,2022-02-28T04:25:58+00:00,Click UI element in window,List Item 'Email@Domain' in List,Login to crm tool,Event_294
+27,Recording_58,Process_15,2022-02-28T04:26:00+00:00,Press button in window,Button 'click this to start your free trial' in Window 'Start a Free  ...  — Mozilla Firefox',Login to crm tool,Event_294
+28,Recording_58,Process_15,2022-02-28T04:26:39+00:00,Click UI element in window,UI Custom in Window 'Sales dashboard - Dynamics 365 — Mozilla Firefox',Forward the form to the customer through crm ,Event_295
+29,Recording_58,Process_15,2022-02-28T04:26:41+00:00,Select menu option in window,Menu Item 'Show all' in Window 'Sales dashboard - Dynamics 365 — Mozilla Firefox',Forward the form to the customer through crm ,Event_295
+30,Recording_58,Process_15,2022-02-28T04:26:56+00:00,Press button in window,Button 'Email' in Window 'Dynamics 365 — Mozilla Firefox',Forward the form to the customer through crm ,Event_295
+31,Recording_58,Process_15,2022-02-28T04:27:18+00:00,Click UI element in window,Document 'h ... 0d3a5b2da0' in Window 'Dynamics 365 — Mozilla Firefox',Forward the form to the customer through crm ,Event_295
+32,Recording_58,Process_15,2022-02-28T04:27:19+00:00,Send keys,TextToSend:'{LMenu}({Return}){Return}{LShiftKey}(A)lso helpu{Back} s by filling the basic requiremnt {Back}{Back}{Back}ent from by clicking on below link.{LMenu}(){Return}',Forward the form to the customer through crm ,Event_295
+33,Recording_58,Process_15,2022-02-28T04:27:55+00:00,Click UI element in window,Document 'h ... 0d3a5b2da0' in Window 'Dynamics 365 — Mozilla Firefox',Forward the form to the customer through crm ,Event_295
+34,Recording_58,Process_15,2022-02-28T04:27:56+00:00,Send keys,TextToSend:'{Return}{LControlKey}({V})',Forward the form to the customer through crm ,Event_295
+35,Recording_58,Process_15,2022-02-28T04:28:08+00:00,Select menu option in window,Menu Item 'Send Email' in Window 'Dynamics 365 — Mozilla Firefox',Forward the form to the customer through crm ,Event_295
+0,Recording_59,Process_15,2022-02-28T04:52:10+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Go to the online form application,Event_296
+1,Recording_59,Process_15,2022-02-28T04:52:14+00:00,Click UI element in window,List Item 'New tab  ...  - Microsoft​ Edge' in List 'Task Switcher',Go to the online form application,Event_296
+2,Recording_59,Process_15,2022-02-28T04:52:23+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'microsoft forms',Go to the online form application,Event_296
+3,Recording_59,Process_15,2022-02-28T04:52:23+00:00,Send keys,TextToSend:'{Return}',Go to the online form application,Event_296
+4,Recording_59,Process_15,2022-02-28T04:52:27+00:00,Click UI element in window,Hyperlink 'Microsoft Forms' in Window 'microsoft  ...  - Microsoft​ Edge',Go to the online form application,Event_296
+5,Recording_59,Process_15,2022-02-28T04:52:34+00:00,Press button in window,Button 'New Form' in Window 'Microsoft  ...  - Microsoft​ Edge' 2,Generate a customer requirement form,Event_297
+6,Recording_59,Process_15,2022-02-28T04:52:38+00:00,Click UI element in window,Group 'Untitled form Form Title Designer' in Window 'Untitled  ...  - Microsoft​ Edge',Generate a customer requirement form,Event_297
+7,Recording_59,Process_15,2022-02-28T04:52:49+00:00,Populate text field in window,Edit 'Form title' in Window 'Untitled  ...  - Microsoft​ Edge'; Text:'Customer requirement form',Generate a customer requirement form,Event_297
+8,Recording_59,Process_15,2022-02-28T04:52:54+00:00,Press button in window,Button 'Add new question or section' in Window 'Customer  ...  - Microsoft​ Edge',Generate a customer requirement form,Event_297
+9,Recording_59,Process_15,2022-02-28T04:52:57+00:00,Press button in window,Button 'Text' in Window 'Customer  ...  - Microsoft​ Edge',Generate a customer requirement form,Event_297
+10,Recording_59,Process_15,2022-02-28T04:53:31+00:00,Populate text field in window,Edit 'Question title' in Window 'Customer  ...  - Microsoft​ Edge'; Text:'Please specify modification required in product',Generate a customer requirement form,Event_297
+11,Recording_59,Process_15,2022-02-28T04:53:36+00:00,Press button in window,Button 'Add new question or section' 2 in Window 'Customer  ...  - Microsoft​ Edge',Generate a customer requirement form,Event_297
+12,Recording_59,Process_15,2022-02-28T04:53:37+00:00,Press button in window,Button 'Text' 2 in Window 'Customer  ...  - Microsoft​ Edge',Generate a customer requirement form,Event_297
+13,Recording_59,Process_15,2022-02-28T04:53:54+00:00,Populate text field in window,Edit 'Question title' 2 in Window 'Customer  ...  - Microsoft​ Edge'; Text:'Provide your budget details',Generate a customer requirement form,Event_297
+14,Recording_59,Process_15,2022-02-28T04:54:11+00:00,Press button in window,Button 'Add new question or section' 2 in Window 'Customer  ...  - Microsoft​ Edge',Generate a customer requirement form,Event_297
+15,Recording_59,Process_15,2022-02-28T04:54:23+00:00,Click UI element in window,Group 'Customer requirement form' in Window 'Customer  ...  - Microsoft​ Edge',Generate a customer requirement form,Event_297
+16,Recording_59,Process_15,2022-02-28T04:54:26+00:00,Press button in window,Button 'Share' in Window 'Customer  ...  - Microsoft​ Edge',Take the link of form,Event_298
+17,Recording_59,Process_15,2022-02-28T04:54:31+00:00,Press button in window,Button 'Copy' in Window 'Customer  ...  - Microsoft​ Edge',Take the link of form,Event_298
+18,Recording_59,Process_15,2022-02-28T04:54:38+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Open salesforce crm tool,Event_299
+19,Recording_59,Process_15,2022-02-28T04:54:42+00:00,Click UI element in window,List Item 'Process  ...  - Microsoft​ Edge' in List 'Task Switcher',Open salesforce crm tool,Event_299
+20,Recording_59,Process_15,2022-02-28T04:54:44+00:00,Press button in window,Button 'New Tab' in Window 'Process  ...  - Microsoft​ Edge',Open salesforce crm tool,Event_299
+21,Recording_59,Process_15,2022-02-28T04:54:48+00:00,Click UI element in window,Hyperlink 'Home |  ... /page/home' in Window 'New tab and  ...  - Microsoft​ Edge' 2,Open salesforce crm tool,Event_299
+22,Recording_59,Process_15,2022-02-28T04:55:03+00:00,Press button in window,Button 'Log In' in Window 'Login |  ...  - Microsoft​ Edge',Open salesforce crm tool,Event_299
+23,Recording_59,Process_15,2022-02-28T04:55:09+00:00,Press button in window,Button 'Log In' in Window 'Login |  ...  - Microsoft​ Edge',Open salesforce crm tool,Event_299
+24,Recording_59,Process_15,2022-02-28T04:55:18+00:00,Click UI element in window,Hyperlink 'Contacts' in Window 'Home |  ...  - Microsoft​ Edge',Reply the customer by attaching the link of form,Event_300
+25,Recording_59,Process_15,2022-02-28T04:55:22+00:00,Press button in window,Button 'Select a List View' in Window 'Recently  ...  - Microsoft​ Edge',Reply the customer by attaching the link of form,Event_300
+26,Recording_59,Process_15,2022-02-28T04:55:25+00:00,Click UI element in window,List Item 'All Contacts' in Window 'Recently  ...  - Microsoft​ Edge',Reply the customer by attaching the link of form,Event_300
+27,Recording_59,Process_15,2022-02-28T04:55:41+00:00,Click UI element in window,Hyperlink 'Name Minor (Sample)' in Window 'All Contacts  ...  - Microsoft​ Edge',Reply the customer by attaching the link of form,Event_300
+28,Recording_59,Process_15,2022-02-28T04:55:47+00:00,Click UI element in window,Hyperlink 'Email@Domain' in Window 'Name Minor  ...  - Microsoft​ Edge',Reply the customer by attaching the link of form,Event_300
+29,Recording_59,Process_15,2022-02-28T04:55:52+00:00,Click UI element in window,Document in Window 'Name Minor  ...  - Microsoft​ Edge',Reply the customer by attaching the link of form,Event_300
+30,Recording_59,Process_15,2022-02-28T04:55:53+00:00,Send keys,TextToSend:'{LControlKey}({V})',Reply the customer by attaching the link of form,Event_300
+31,Recording_59,Process_15,2022-02-28T04:56:18+00:00,Populate text field in window,Edit 'Subject' in Window 'Name Minor  ...  - Microsoft​ Edge'; Text:'Form for customer requirement',Reply the customer by attaching the link of form,Event_300
+32,Recording_59,Process_15,2022-02-28T04:56:20+00:00,Click UI element in window,Document in Window 'Name Minor  ...  - Microsoft​ Edge',Reply the customer by attaching the link of form,Event_300
+33,Recording_59,Process_15,2022-02-28T04:56:21+00:00,Click UI element in window,Group 'cke_editable cke_editable_themed cke_contents_ltr' in Window 'Name Minor  ...  - Microsoft​ Edge',Reply the customer by attaching the link of form,Event_300
+34,Recording_59,Process_15,2022-02-28T04:56:22+00:00,Send keys,TextToSend:'{Return}{Return}{LShiftKey}(P)lease fill out the form',Reply the customer by attaching the link of form,Event_300
+35,Recording_59,Process_15,2022-02-28T04:56:42+00:00,Press button in window,Button 'Send' in Window 'Name Minor  ...  - Microsoft​ Edge',Reply the customer by attaching the link of form,Event_300

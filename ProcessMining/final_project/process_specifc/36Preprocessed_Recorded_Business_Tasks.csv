@@ -1,0 +1,70 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_95,Process_36,2022-02-17T02:50:27+00:00,Press button in window,"Action Center, 3 new notifications in System Tray",Locate the Notification and review it in Inbox of mailing app,Event_444
+1,Recording_95,Process_36,2022-02-17T02:50:34+00:00,Click UI element in window,List Item 'Name ...  Received at 8:20 AM' in Window 'Action center',Locate the Notification and review it in Inbox of mailing app,Event_444
+2,Recording_95,Process_36,2022-02-17T02:50:45+00:00,Locate the Notification and review it in Inbox of mailing app,Group 'msg-body P_wpofO mq_AS' in Window '(2 unread) -  ...  - Microsoft​ Edge',Note down the details of daily attendance,Event_445
+3,Recording_95,Process_36,2022-02-17T02:50:51+00:00,Drag and drop UI element in window,Group 'msg-body P_wpofO mq_AS' in Window '(2 unread) -  ...  - Microsoft​ Edge',Note down the details of daily attendance,Event_445
+4,Recording_95,Process_36,2022-02-17T02:50:53+00:00,Send keys,TextToSend:'{LControlKey}({C})',Note down the details of daily attendance,Event_445
+5,Recording_95,Process_36,2022-02-17T02:50:59+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Send the attendance details to HR group in messaging tool,Event_446
+6,Recording_95,Process_36,2022-02-17T02:51:03+00:00,Press button in window,"Button 'Teams Toolbar' in Pane 'Name Surname | Microsoft Teams, Main Window'",Send the attendance details to HR group in messaging tool,Event_446
+7,Recording_95,Process_36,2022-02-17T02:51:06+00:00,Click UI element in window,"Hyperlink 'Profile  ...  More options' in Pane 'Name Surname | Microsoft Teams, Main Window'",Send the attendance details to HR group in messaging tool,Event_446
+8,Recording_95,Process_36,2022-02-17T02:51:08+00:00,Click UI element in window,"Hyperlink 'Profile  ...  More options' in Pane 'Name Surname | Microsoft Teams, Main Window'",Send the attendance details to HR group in messaging tool,Event_446
+9,Recording_95,Process_36,2022-02-17T02:51:11+00:00,Click UI element in window,"Text 'General' in Pane 'Name Surname | Microsoft Teams, Main Window'",Send the attendance details to HR group in messaging tool,Event_446
+10,Recording_95,Process_36,2022-02-17T02:51:15+00:00,Press button in window,"Button 'New conversation' in Pane 'Name Surname | Microsoft Teams, Main Window'",Send the attendance details to HR group in messaging tool,Event_446
+11,Recording_95,Process_36,2022-02-17T02:51:17+00:00,Populate text field in window,"Edit 'Start a new conversation. Type @ to mention someone.' in Pane 'Name Surname | Microsoft Teams, Main Window'; Text:'''Please find today’s attendance.
+
+ 
+
+Total-30
+
+Present-26
+
+Absent-4
+
+CL-2
+
+SL-1
+
+LWP-1'''",Send the attendance details to HR group in messaging tool,Event_446
+12,Recording_95,Process_36,2022-02-17T02:51:21+00:00,Click UI element in window,"Text 'Please find today’s attendance.' in Pane 'Name Surname | Microsoft Teams, Main Window'",Send the attendance details to HR group in messaging tool,Event_446
+13,Recording_95,Process_36,2022-02-17T02:51:28+00:00,Populate text field in window,"Edit 'Start a new conversation. Type @ to mention someone.' in Pane 'Name Surname | Microsoft Teams, Main Window'; Text:'''Hello, Please find today’s attendance.
+
+ 
+
+Total-30
+
+Present-26
+
+Absent-4
+
+CL-2
+
+SL-1
+
+LWP-1'''",Send the attendance details to HR group in messaging tool,Event_446
+14,Recording_95,Process_36,2022-02-17T02:51:35+00:00,Press button in window,"Button 'Send' in Pane 'Name Surname | Microsoft Teams, Main Window'",Send the attendance details to HR group in messaging tool,Event_446
+0,Recording_125,Process_36,2022-02-17T02:58:01+00:00,Click UI element in window,Window 'New  ...  Outlook. . Actions' in Window 'New notification',Get the Notification of mail and verify it,Event_571
+1,Recording_125,Process_36,2022-02-17T02:58:07+00:00,Click UI element in window,List Item ' Unread  ...  CL-2 SL-1 LWP-1' in Window 'Inbox - Outlook ‎- Mail',Get the Notification of mail and verify it,Event_571
+2,Recording_125,Process_36,2022-02-17T02:58:11+00:00,Drag and drop UI element in window,Edit 'Message' in Window 'Inbox - Outlook ‎- Mail',Copy the attendance summary,Event_572
+3,Recording_125,Process_36,2022-02-17T02:58:12+00:00,Send keys,TextToSend:'{LControlKey}({C})',Copy the attendance summary,Event_572
+4,Recording_125,Process_36,2022-02-17T02:58:20+00:00,Press button in window,Button 'Type here to search' in TaskBar,Share it to the HR group in messaging app.,Event_573
+5,Recording_125,Process_36,2022-02-17T02:58:23+00:00,Populate text field in window,Edit 'Search box' in Window 'Search'; Text:'skype',Share it to the HR group in messaging app.,Event_573
+6,Recording_125,Process_36,2022-02-17T02:58:26+00:00,Click UI element in window,"List Item 'Skype, App, Press right to switch preview' in Window 'Search'",Share it to the HR group in messaging app.,Event_573
+7,Recording_125,Process_36,2022-02-17T02:58:31+00:00,Press button in window,"Button 'Name Surname,  ...  messages, selected' in Pane 'Skype'",Share it to the HR group in messaging app.,Event_573
+8,Recording_125,Process_36,2022-02-17T02:58:39+00:00,Populate text field in window,"Edit 'Type a message' in Pane 'Skype'; Text:'''
+'''",Share it to the HR group in messaging app.,Event_573
+9,Recording_125,Process_36,2022-02-17T02:58:43+00:00,Press button in window,Button 'Send message' in Pane 'Skype',Share it to the HR group in messaging app.,Event_573
+0,Recording_126,Process_36,2022-02-17T03:57:12+00:00,Click UI element in window,Window 'New  ...  Outlook. . Actions' in Window 'New notification', Find the email notification regarding daily attendance and verify it,Event_574
+1,Recording_126,Process_36,2022-02-17T03:57:15+00:00,Click UI element in window,List Item ' Unread  ...  Absent-4 CL-2' in Window 'Inbox - Outlook ‎- Mail', Find the email notification regarding daily attendance and verify it,Event_574
+2,Recording_126,Process_36,2022-02-17T03:57:17+00:00,Click UI element in window,List Item ' Unread  ...  Absent-4 CL-2' in Window 'Inbox - Outlook ‎- Mail', Find the email notification regarding daily attendance and verify it,Event_574
+3,Recording_126,Process_36,2022-02-17T03:57:21+00:00,Click UI element in window,Edit 'Message' in Window 'Inbox - Outlook ‎- Mail', Find the email notification regarding daily attendance and verify it,Event_574
+4,Recording_126,Process_36,2022-02-17T03:57:23+00:00,Drag and drop UI element in window,Edit 'Message' in Window 'Inbox - Outlook ‎- Mail',Copy the attendance data,Event_575
+5,Recording_126,Process_36,2022-02-17T03:57:23+00:00,Send keys,TextToSend:'{LControlKey}({C})',Copy the attendance data,Event_575
+6,Recording_126,Process_36,2022-02-17T03:57:31+00:00,Press button in window,Google Chrome - 1 running window in Quick Launch Bar, Go to the HR group in messaging app and share it,Event_576
+7,Recording_126,Process_36,2022-02-17T03:57:34+00:00,Press button in window,Button 'New Tab' in Pane 'Process  ...  Chrome - Name', Go to the HR group in messaging app and share it,Event_576
+8,Recording_126,Process_36,2022-02-17T03:57:40+00:00,Press button in window,Button 'Team  ...  App - Zoho Cliq' in Pane 'Process  ...  Chrome - Name', Go to the HR group in messaging app and share it,Event_576
+9,Recording_126,Process_36,2022-02-17T03:57:45+00:00,Click UI element in window,Hyperlink 'ACCESS ZOHO CLIQ' in Pane 'Process  ...  Chrome - Name', Go to the HR group in messaging app and share it,Event_576
+10,Recording_126,Process_36,2022-02-17T03:57:54+00:00,Click UI element in window,Text 'HR Group' in Pane 'Process  ...  Chrome - Name', Go to the HR group in messaging app and share it,Event_576
+11,Recording_126,Process_36,2022-02-17T03:57:57+00:00,Click UI element in window,Group in Pane 'Process  ...  Chrome - Name', Go to the HR group in messaging app and share it,Event_576
+12,Recording_126,Process_36,2022-02-17T03:58:00+00:00,Click UI element in window,Group in Pane 'Process  ...  Chrome - Name', Go to the HR group in messaging app and share it,Event_576
+13,Recording_126,Process_36,2022-02-17T03:58:01+00:00,Send keys,TextToSend:'{LControlKey}({V})', Go to the HR group in messaging app and share it,Event_576
+14,Recording_126,Process_36,2022-02-17T03:58:04+00:00,Send keys,TextToSend:'{Return}', Go to the HR group in messaging app and share it,Event_576

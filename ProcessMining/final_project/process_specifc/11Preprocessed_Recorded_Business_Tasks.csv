@@ -1,0 +1,134 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_13,Process_11,2022-02-22T10:58:26+00:00,Press button in window,Button 'Type here to search' in TaskBar,Open the converter,Event_55
+1,Recording_13,Process_11,2022-02-22T10:58:34+00:00,Populate text field in window,Edit 'Search box' in Window 'Search'; Text:'text to',Open the converter,Event_55
+2,Recording_13,Process_11,2022-02-22T10:58:40+00:00,Click UI element in window,List Item 'Any Text  ...  to switch preview' in Window 'Search',Open the converter,Event_55
+3,Recording_13,Process_11,2022-02-22T10:58:45+00:00,Press button in window,Button 'Button' in Window 'Any Text to Voice',Browse the file,Event_56
+4,Recording_13,Process_11,2022-02-22T10:58:50+00:00,Click UI element in window,Edit 'Name' in Window 'Any Text to Voice',Browse the file,Event_56
+5,Recording_13,Process_11,2022-02-22T10:58:53+00:00,Press button in window,Button 'Open' in Window 'Any Text to Voice',Browse the file,Event_56
+6,Recording_13,Process_11,2022-02-22T10:59:01+00:00,Press button in window,Button 'Button' 2 in Window 'Any Text to Voice',Convert it to audio format,Event_57
+7,Recording_13,Process_11,2022-02-22T10:59:12+00:00,Populate text field in window,Edit 'File name:' in Window 'Any Text to Voice'; Text:'Poem',Convert it to audio format,Event_57
+8,Recording_13,Process_11,2022-02-22T10:59:17+00:00,Press button in window,Button 'Save' in Window 'Any Text to Voice',Convert it to audio format,Event_57
+9,Recording_13,Process_11,2022-02-22T10:59:28+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Open the podcasting app.,Event_58
+10,Recording_13,Process_11,2022-02-22T10:59:31+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Watchlist - Distill — Mozilla Firefox',Open the podcasting app.,Event_58
+11,Recording_13,Process_11,2022-02-22T10:59:44+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'rss podcast',Open the podcasting app.,Event_58
+12,Recording_13,Process_11,2022-02-22T10:59:46+00:00,Send keys,TextToSend:'{Return}',Open the podcasting app.,Event_58
+13,Recording_13,Process_11,2022-02-22T10:59:52+00:00,Click UI element in window,Hyperlink 'RSS.com:  ...  Freehttps://rss.com' in Window 'rss podcast - Google Search — Mozilla Firefox',Open the podcasting app.,Event_58
+14,Recording_13,Process_11,2022-02-22T11:00:00+00:00,Click UI element in window,Hyperlink 'Sign In' in Window 'Start Your  ...  — Mozilla Firefox',Open the podcasting app.,Event_58
+15,Recording_13,Process_11,2022-02-22T11:00:14+00:00,Populate text field in window,Edit in Window 'RSS Podcast  ...  — Mozilla Firefox'; Text:'Email@Domain',Open the podcasting app.,Event_58
+16,Recording_13,Process_11,2022-02-22T11:00:18+00:00,Populate text field in window,Edit 2 in Window 'RSS Podcast  ...  — Mozilla Firefox'; Text:P'password_secret_text',Open the podcasting app.,Event_58
+17,Recording_13,Process_11,2022-02-22T11:00:24+00:00,Press button in window,Button 'Sign In' in Window 'RSS Podcast  ...  — Mozilla Firefox',Open the podcasting app.,Event_58
+18,Recording_13,Process_11,2022-02-22T11:00:36+00:00,Press button in window,Button ' New podcast' in Window 'Start Your  ...  — Mozilla Firefox',Generate a new podcast,Event_59
+19,Recording_13,Process_11,2022-02-22T11:00:51+00:00,Populate text field in window,Edit in Window 'Start Your  ...  — Mozilla Firefox'; Text:'Kinder garden poem',Generate a new podcast,Event_59
+20,Recording_13,Process_11,2022-02-22T11:01:02+00:00,Populate text field in window,Edit 2 in Window 'Start Your  ...  — Mozilla Firefox'; Text:'poem for school kids',Generate a new podcast,Event_59
+21,Recording_13,Process_11,2022-02-22T11:01:15+00:00,Populate text field in window,Edit 3 in Window 'Start Your  ...  — Mozilla Firefox'; Text:'poemfatherfinger',Generate a new podcast,Event_59
+22,Recording_13,Process_11,2022-02-22T11:01:24+00:00,Set drop-down list value in window,Combo Box in Window 'Start Your  ...  — Mozilla Firefox',Generate a new podcast,Event_59
+23,Recording_13,Process_11,2022-02-22T11:01:34+00:00,Press button in window,Button 'Next' in Window 'Start Your  ...  — Mozilla Firefox',Generate a new podcast,Event_59
+24,Recording_13,Process_11,2022-02-22T11:01:42+00:00,Populate text field in window,Edit 4 in Window 'Start Your  ...  — Mozilla Firefox'; Text:'Name Surname',Generate a new podcast,Event_59
+25,Recording_13,Process_11,2022-02-22T11:01:52+00:00,Populate text field in window,Edit 5 in Window 'Start Your  ...  — Mozilla Firefox'; Text:'Email@Domain',Generate a new podcast,Event_59
+26,Recording_13,Process_11,2022-02-22T11:01:59+00:00,Populate text field in window,Edit 6 in Window 'Start Your  ...  — Mozilla Firefox'; Text:'JD2022',Generate a new podcast,Event_59
+27,Recording_13,Process_11,2022-02-22T11:02:03+00:00,Press button in window,Button 'Next' in Window 'Start Your  ...  — Mozilla Firefox',Generate a new podcast,Event_59
+28,Recording_13,Process_11,2022-02-22T11:02:09+00:00,Click UI element in window,Edit 4 in Window 'Start Your  ...  — Mozilla Firefox',Generate a new podcast,Event_59
+29,Recording_13,Process_11,2022-02-22T11:02:14+00:00,Click UI element in window,List Item 'Performing Arts' in Window 'Start Your  ...  — Mozilla Firefox',Generate a new podcast,Event_59
+30,Recording_13,Process_11,2022-02-22T11:02:20+00:00,Send keys,TextToSend:'{Return}',Generate a new podcast,Event_59
+31,Recording_13,Process_11,2022-02-22T11:02:27+00:00,Press button in window,Button 'Next' in Window 'Start Your  ...  — Mozilla Firefox',Generate a new podcast,Event_59
+32,Recording_13,Process_11,2022-02-22T11:02:40+00:00,Click UI element in window,Hyperlink ' New episode' in Window 'Start Your  ...  — Mozilla Firefox',Publish the audio file as new podcast.,Event_60
+33,Recording_13,Process_11,2022-02-22T11:02:54+00:00,Populate text field in window,Edit 7 in Window 'Start Your  ...  — Mozilla Firefox'; Text:'Father finger poem',Publish the audio file as new podcast.,Event_60
+34,Recording_13,Process_11,2022-02-22T11:02:58+00:00,Click UI element in window,UI Custom in Window 'Start Your  ...  — Mozilla Firefox',Publish the audio file as new podcast.,Event_60
+35,Recording_13,Process_11,2022-02-22T11:03:00+00:00,Send keys,TextToSend:'{LShiftKey}(P)oem for school kids',Publish the audio file as new podcast.,Event_60
+36,Recording_13,Process_11,2022-02-22T11:03:08+00:00,Click UI element in window,Spinner in Window 'Start Your  ...  — Mozilla Firefox',Publish the audio file as new podcast.,Event_60
+37,Recording_13,Process_11,2022-02-22T11:03:09+00:00,Send keys,TextToSend:'1',Publish the audio file as new podcast.,Event_60
+38,Recording_13,Process_11,2022-02-22T11:03:11+00:00,Click UI element in window,Spinner 2 in Window 'Start Your  ...  — Mozilla Firefox',Publish the audio file as new podcast.,Event_60
+39,Recording_13,Process_11,2022-02-22T11:03:12+00:00,Send keys,TextToSend:'1',Publish the audio file as new podcast.,Event_60
+40,Recording_13,Process_11,2022-02-22T11:03:25+00:00,Click UI element in window,Edit 'Full' in Window 'Start Your  ...  — Mozilla Firefox',Publish the audio file as new podcast.,Event_60
+41,Recording_13,Process_11,2022-02-22T11:03:47+00:00,Click UI element in window,Edit 'Upload audio file' in Window 'Start Your  ...  — Mozilla Firefox',Publish the audio file as new podcast.,Event_60
+42,Recording_13,Process_11,2022-02-22T11:04:47+00:00,Click UI element in window,Tree Item 'Desktop' in Window 'File Explorer',Publish the audio file as new podcast.,Event_60
+43,Recording_13,Process_11,2022-02-22T11:04:53+00:00,Click UI element in window,Edit 'Name' in Window 'Desktop',Publish the audio file as new podcast.,Event_60
+44,Recording_13,Process_11,2022-02-22T11:05:18+00:00,Press button in window,Button 'Open' in Window 'Start Your  ...  — Mozilla Firefox',Publish the audio file as new podcast.,Event_60
+45,Recording_13,Process_11,2022-02-22T11:05:27+00:00,Press button in window,Button 'Publish now' in Window 'Start Your  ...  — Mozilla Firefox',Publish the audio file as new podcast.,Event_60
+0,Recording_14,Process_11,2022-02-22T11:19:45+00:00,Press button in window,Text to Speech - 1 running window in Quick Launch Bar,Open the converter,Event_61
+1,Recording_14,Process_11,2022-02-22T11:19:51+00:00,Press button in window,Button 'Open file' in Window 'Text to Speech',Browse the file,Event_62
+2,Recording_14,Process_11,2022-02-22T11:19:55+00:00,Click UI element in window,Edit 'Name' in Window 'Text to Speech',Browse the file,Event_62
+3,Recording_14,Process_11,2022-02-22T11:20:00+00:00,Press button in window,Button 'Save file' in Window 'Text to Speech',Convert it to audio format,Event_63
+4,Recording_14,Process_11,2022-02-22T11:20:09+00:00,Populate text field in window,Edit 'File name:' in Window 'Text to Speech'; Text:'Toddler poem',Convert it to audio format,Event_63
+5,Recording_14,Process_11,2022-02-22T11:20:12+00:00,Press button in window,Button 'Save' in Window 'Text to Speech',Convert it to audio format,Event_63
+6,Recording_14,Process_11,2022-02-22T11:20:20+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar,Open the podcasting app.,Event_64
+7,Recording_14,Process_11,2022-02-22T11:20:27+00:00,Press button in window,Button 'New Tab' in Pane 'Start Your  ...  Chrome - Name',Open the podcasting app.,Event_64
+8,Recording_14,Process_11,2022-02-22T11:20:30+00:00,Press button in window,Button 'Start Your Podcast for Free - RSS.com' in Pane 'Start Your  ...  Chrome - Name',Open the podcasting app.,Event_64
+9,Recording_14,Process_11,2022-02-22T11:20:37+00:00,Press button in window,Button ' New podcast' in Pane 'Start Your  ...  Chrome - Name',Get ready a new Podcast,Event_65
+10,Recording_14,Process_11,2022-02-22T11:20:44+00:00,Populate text field in window,Edit in Pane 'Start Your  ...  Chrome - Name'; Text:'Poem',Get ready a new Podcast,Event_65
+11,Recording_14,Process_11,2022-02-22T11:20:51+00:00,Populate text field in window,Edit 2 in Pane 'Start Your  ...  Chrome - Name'; Text:'Poem for school kids',Get ready a new Podcast,Event_65
+12,Recording_14,Process_11,2022-02-22T11:21:02+00:00,Populate text field in window,Edit 3 in Pane 'Start Your  ...  Chrome - Name'; Text:'father-finger-poem',Get ready a new Podcast,Event_65
+13,Recording_14,Process_11,2022-02-22T11:21:08+00:00,Press button in window,Button 'Next' in Pane 'Start Your  ...  Chrome - Name',Get ready a new Podcast,Event_65
+14,Recording_14,Process_11,2022-02-22T11:21:15+00:00,Click UI element in window,Group in Pane 'Start Your  ...  Chrome - Name',Get ready a new Podcast,Event_65
+15,Recording_14,Process_11,2022-02-22T11:21:26+00:00,Populate text field in window,Edit 4 in Pane 'Start Your  ...  Chrome - Name'; Text:'Name Surname',Get ready a new Podcast,Event_65
+16,Recording_14,Process_11,2022-02-22T11:21:37+00:00,Populate text field in window,Edit in Pane 'Start Your  ...  Chrome - Name'; Text:'Email@Domain',Get ready a new Podcast,Event_65
+17,Recording_14,Process_11,2022-02-22T11:21:45+00:00,Populate text field in window,Edit 5 in Pane 'Start Your  ...  Chrome - Name'; Text:'SS2022',Get ready a new Podcast,Event_65
+18,Recording_14,Process_11,2022-02-22T11:21:48+00:00,Press button in window,Button 'Next' in Pane 'Start Your  ...  Chrome - Name',Get ready a new Podcast,Event_65
+19,Recording_14,Process_11,2022-02-22T11:21:51+00:00,Click UI element in window,Edit 4 in Pane 'Start Your  ...  Chrome - Name',Get ready a new Podcast,Event_65
+20,Recording_14,Process_11,2022-02-22T11:22:07+00:00,Click UI element in window,List Item in Pane 'Start Your  ...  Chrome - Name',Get ready a new Podcast,Event_65
+21,Recording_14,Process_11,2022-02-22T11:22:23+00:00,Press button in window,Button 'Next' in Pane 'Start Your  ...  Chrome - Name',Get ready a new Podcast,Event_65
+22,Recording_14,Process_11,2022-02-22T11:22:30+00:00,Press button in window,Button 'Next' in Pane 'Start Your  ...  Chrome - Name',Get ready a new Podcast,Event_65
+23,Recording_14,Process_11,2022-02-22T11:22:43+00:00,Click UI element in window,Hyperlink ' New episode' in Pane 'Start Your  ...  Chrome - Name',Publish the audio file as new podcast,Event_66
+24,Recording_14,Process_11,2022-02-22T11:22:52+00:00,Populate text field in window,Edit 5 in Pane 'Start Your  ...  Chrome - Name'; Text:'Toddler poem',Publish the audio file as new podcast,Event_66
+25,Recording_14,Process_11,2022-02-22T11:22:54+00:00,Click UI element in window,Group 2 in Pane 'Start Your  ...  Chrome - Name',Publish the audio file as new podcast,Event_66
+26,Recording_14,Process_11,2022-02-22T11:22:54+00:00,Send keys,TextToSend:'{LShiftKey}(P)oem for school kids',Publish the audio file as new podcast,Event_66
+27,Recording_14,Process_11,2022-02-22T11:23:01+00:00,Click UI element in window,Spinner in Pane 'Start Your  ...  Chrome - Name',Publish the audio file as new podcast,Event_66
+28,Recording_14,Process_11,2022-02-22T11:23:02+00:00,Send keys,TextToSend:'1',Publish the audio file as new podcast,Event_66
+29,Recording_14,Process_11,2022-02-22T11:23:04+00:00,Click UI element in window,Spinner 2 in Pane 'Start Your  ...  Chrome - Name',Publish the audio file as new podcast,Event_66
+30,Recording_14,Process_11,2022-02-22T11:23:07+00:00,Send keys,TextToSend:'1',Publish the audio file as new podcast,Event_66
+31,Recording_14,Process_11,2022-02-22T11:23:24+00:00,Click UI element in window,Text 'Upload audio file' in Pane 'Start Your  ...  Chrome - Name',Publish the audio file as new podcast,Event_66
+32,Recording_14,Process_11,2022-02-22T11:23:29+00:00,Click UI element in window,Tree Item 'Downloads' in Pane 'Start Your  ...  Chrome - Name',Publish the audio file as new podcast,Event_66
+33,Recording_14,Process_11,2022-02-22T11:23:32+00:00,Click UI element in window,Edit 'Name' in Pane 'Start Your  ...  Chrome - Name',Publish the audio file as new podcast,Event_66
+34,Recording_14,Process_11,2022-02-22T11:23:33+00:00,Press button in window,Button 'Open' in Pane 'Start Your  ...  Chrome - Name',Publish the audio file as new podcast,Event_66
+35,Recording_14,Process_11,2022-02-22T11:23:38+00:00,Press button in window,Button 'Publish now' in Pane 'Start Your  ...  Chrome - Name',Publish the audio file as new podcast,Event_66
+0,Recording_36,Process_11,2022-02-22T10:37:03+00:00,Press button in window,Button 'New Tab' in Window 'web ...  - Microsoft​ Edge',Open file formating tool,Event_170
+1,Recording_36,Process_11,2022-02-22T10:37:05+00:00,Click UI element in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge',Open file formating tool,Event_170
+2,Recording_36,Process_11,2022-02-22T10:37:24+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge' 2; Text:'zammer conveter text to audio',Open file formating tool,Event_170
+3,Recording_36,Process_11,2022-02-22T10:37:25+00:00,Send keys,TextToSend:'{Return}',Open file formating tool,Event_170
+4,Recording_36,Process_11,2022-02-22T10:37:30+00:00,Click UI element in window,"Hyperlink 'video  ...  converter, eBook …' in Window 'zammer  ...  - Microsoft​ Edge'",Open file formating tool,Event_170
+5,Recording_36,Process_11,2022-02-22T10:37:37+00:00,Press button in window,Button 'Add Files...' in Window 'Zamzar -  ...  - Microsoft​ Edge',Upload the file,Event_171
+6,Recording_36,Process_11,2022-02-22T10:37:41+00:00,Click UI element in window,Tree Item 'Desktop' in Window 'Zamzar -  ...  - Microsoft​ Edge',Upload the file,Event_171
+7,Recording_36,Process_11,2022-02-22T10:37:44+00:00,Click UI element in window,Edit 'Name' in Window 'Zamzar -  ...  - Microsoft​ Edge',Upload the file,Event_171
+8,Recording_36,Process_11,2022-02-22T10:37:46+00:00,Press button in window,Button 'Open' in Window 'Zamzar -  ...  - Microsoft​ Edge',Upload the file,Event_171
+9,Recording_36,Process_11,2022-02-22T10:37:58+00:00,Click UI element in window,Combo Box 'form-control input-lg' in Window 'Zamzar -  ...  - Microsoft​ Edge',Convert the file to mp3 format and Save it,Event_172
+10,Recording_36,Process_11,2022-02-22T10:38:01+00:00,Click UI element in window,Text 'Click the  ...  the one you want.' in Window 'Zamzar -  ...  - Microsoft​ Edge',Convert the file to mp3 format and Save it,Event_172
+11,Recording_36,Process_11,2022-02-22T10:38:04+00:00,Press button in window,Button 'Convert Now' in Window 'Zamzar -  ...  - Microsoft​ Edge',Convert the file to mp3 format and Save it,Event_172
+12,Recording_36,Process_11,2022-02-22T10:38:23+00:00,Press button in window,Button 'Download' in Window 'Zamzar -  ...  - Microsoft​ Edge' 2,Convert the file to mp3 format and Save it,Event_172
+13,Recording_36,Process_11,2022-02-22T10:38:32+00:00,Press button in window,Button 'New Tab' in Window 'Zamzar -  ...  - Microsoft​ Edge' 2,Open the syndication app ,Event_173
+14,Recording_36,Process_11,2022-02-22T10:38:34+00:00,Click UI element in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge',Open the syndication app ,Event_173
+15,Recording_36,Process_11,2022-02-22T10:38:42+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge' 3; Text:'rss podacast',Open the syndication app ,Event_173
+16,Recording_36,Process_11,2022-02-22T10:38:42+00:00,Send keys,TextToSend:'{Return}',Open the syndication app ,Event_173
+17,Recording_36,Process_11,2022-02-22T10:38:46+00:00,Click UI element in window,Hyperlink 'Start Your Podcast for Free - RSS.com' in Window 'rss podacast  ...  - Microsoft​ Edge',Open the syndication app ,Event_173
+18,Recording_36,Process_11,2022-02-22T10:38:54+00:00,Click UI element in window,Hyperlink 'Go to my dashboard' in Window 'Start Your  ...  - Microsoft​ Edge',Open the syndication app ,Event_173
+19,Recording_36,Process_11,2022-02-22T10:39:01+00:00,Press button in window,Button ' New podcast' in Window 'Start Your  ...  - Microsoft​ Edge',Create a new podcast,Event_174
+20,Recording_36,Process_11,2022-02-22T10:39:06+00:00,Populate text field in window,Edit 'input' in Window 'Start Your  ...  - Microsoft​ Edge'; Text:'Poem',Create a new podcast,Event_174
+21,Recording_36,Process_11,2022-02-22T10:39:31+00:00,Populate text field in window,Edit 'textarea' in Window 'Start Your  ...  - Microsoft​ Edge'; Text:'Little child poem',Create a new podcast,Event_174
+22,Recording_36,Process_11,2022-02-22T10:39:38+00:00,Populate text field in window,Edit 'input' 2 in Window 'Start Your  ...  - Microsoft​ Edge'; Text:'todcare-poem',Create a new podcast,Event_174
+23,Recording_36,Process_11,2022-02-22T10:39:54+00:00,Press button in window,Button 'Open' in Window 'Start Your  ...  - Microsoft​ Edge',Create a new podcast,Event_174
+24,Recording_36,Process_11,2022-02-22T10:40:04+00:00,Press button in window,Button 'Next' in Window 'Start Your  ...  - Microsoft​ Edge',Create a new podcast,Event_174
+25,Recording_36,Process_11,2022-02-22T10:40:13+00:00,Populate text field in window,Edit 'input' in Window 'Start Your  ...  - Microsoft​ Edge'; Text:'Name Surname',Create a new podcast,Event_174
+26,Recording_36,Process_11,2022-02-22T10:40:17+00:00,Click UI element in window,Edit 'input' in Window 'Start Your  ...  - Microsoft​ Edge',Create a new podcast,Event_174
+27,Recording_36,Process_11,2022-02-22T10:40:20+00:00,Press button in window,Window 'Start Your  ...  - Microsoft​ Edge',Create a new podcast,Event_174
+28,Recording_36,Process_11,2022-02-22T10:40:21+00:00,Click UI element in window,Edit 'input' 2 in Window 'Start Your  ...  - Microsoft​ Edge',Create a new podcast,Event_174
+29,Recording_36,Process_11,2022-02-22T10:40:24+00:00,Click UI element in window,List Item ' ...  Username suggestion.' in Window 'Start Your  ...  - Microsoft​ Edge',Create a new podcast,Event_174
+30,Recording_36,Process_11,2022-02-22T10:40:35+00:00,Populate text field in window,Edit 'input' 3 in Window 'Start Your  ...  - Microsoft​ Edge'; Text:'kp2022',Create a new podcast,Event_174
+31,Recording_36,Process_11,2022-02-22T10:40:40+00:00,Press button in window,Button 'Next' in Window 'Start Your  ...  - Microsoft​ Edge',Create a new podcast,Event_174
+32,Recording_36,Process_11,2022-02-22T10:40:46+00:00,Click UI element in window,Group in Window 'Start Your  ...  - Microsoft​ Edge',Create a new podcast,Event_174
+33,Recording_36,Process_11,2022-02-22T10:40:51+00:00,Click UI element in window,List Item 'Books' in Window 'Start Your  ...  - Microsoft​ Edge',Create a new podcast,Event_174
+34,Recording_36,Process_11,2022-02-22T10:41:20+00:00,Click UI element in window,List Item 'Education for Kids' in Window 'Start Your  ...  - Microsoft​ Edge',Create a new podcast,Event_174
+35,Recording_36,Process_11,2022-02-22T10:42:09+00:00,Click UI element in window,List Item 'Parenting' in Window 'Start Your  ...  - Microsoft​ Edge',Create a new podcast,Event_174
+36,Recording_36,Process_11,2022-02-22T10:42:17+00:00,Send keys,TextToSend:'{Return}',Create a new podcast,Event_174
+37,Recording_36,Process_11,2022-02-22T10:42:26+00:00,Press button in window,Button 'Next' in Window 'Start Your  ...  - Microsoft​ Edge',Create a new podcast,Event_174
+38,Recording_36,Process_11,2022-02-22T10:42:57+00:00,Click UI element in window,Hyperlink ' New episode' in Window 'Start Your  ...  - Microsoft​ Edge',Broadcast the audio file,Event_175
+39,Recording_36,Process_11,2022-02-22T10:43:06+00:00,Click UI element in window,Edit 'input' in Window 'Start Your  ...  - Microsoft​ Edge',Broadcast the audio file,Event_175
+40,Recording_36,Process_11,2022-02-22T10:43:13+00:00,Click UI element in window,Data Item 'Poem' in Window 'Start Your  ...  - Microsoft​ Edge',Broadcast the audio file,Event_175
+41,Recording_36,Process_11,2022-02-22T10:43:14+00:00,Click UI element in window,Group 'ProseMirror' in Window 'Start Your  ...  - Microsoft​ Edge',Broadcast the audio file,Event_175
+42,Recording_36,Process_11,2022-02-22T10:43:16+00:00,Send keys,TextToSend:'{LShiftKey}(L)ittle child poem',Broadcast the audio file,Event_175
+43,Recording_36,Process_11,2022-02-22T10:43:24+00:00,Click UI element in window,Spinner 'input' in Window 'Start Your  ...  - Microsoft​ Edge',Broadcast the audio file,Event_175
+44,Recording_36,Process_11,2022-02-22T10:43:26+00:00,Send keys,TextToSend:'1',Broadcast the audio file,Event_175
+45,Recording_36,Process_11,2022-02-22T10:43:27+00:00,Click UI element in window,Spinner 'input' 2 in Window 'Start Your  ...  - Microsoft​ Edge',Broadcast the audio file,Event_175
+46,Recording_36,Process_11,2022-02-22T10:43:28+00:00,Send keys,TextToSend:'1',Broadcast the audio file,Event_175
+47,Recording_36,Process_11,2022-02-22T10:43:38+00:00,Click UI element in window,Group 'vue-dropzone dropzone dz-clickable' in Window 'Start Your  ...  - Microsoft​ Edge',Broadcast the audio file,Event_175
+48,Recording_36,Process_11,2022-02-22T10:43:42+00:00,Click UI element in window,Edit 'Name' 2 in Window 'Start Your  ...  - Microsoft​ Edge',Broadcast the audio file,Event_175
+49,Recording_36,Process_11,2022-02-22T10:43:44+00:00,Press button in window,Button 'Open' in Window 'Start Your  ...  - Microsoft​ Edge',Broadcast the audio file,Event_175
+50,Recording_36,Process_11,2022-02-22T10:43:54+00:00,Press button in window,Button 'Publish now' in Window 'Start Your  ...  - Microsoft​ Edge',Broadcast the audio file,Event_175

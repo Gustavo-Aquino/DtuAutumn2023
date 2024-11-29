@@ -1,0 +1,168 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_50,Process_22,2022-03-02T10:34:43+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar, Open the approval request tool ,Event_242
+1,Recording_50,Process_22,2022-03-02T10:34:45+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher', Open the approval request tool ,Event_242
+2,Recording_50,Process_22,2022-03-02T10:34:49+00:00,Press button in window,Button 'Home Page - Zoho CRM' in Pane 'New Tab - Google Chrome - Person 1', Open the approval request tool ,Event_242
+3,Recording_50,Process_22,2022-03-02T10:34:54+00:00,Click UI element in window,Image in Pane 'New Tab - Google Chrome - Person 1', Open the approval request tool ,Event_242
+4,Recording_50,Process_22,2022-03-02T10:35:00+00:00,Click UI element in window,Hyperlink 'Approval Processes' in Pane 'New Tab - Google Chrome - Person 1', Open the approval request tool ,Event_242
+5,Recording_50,Process_22,2022-03-02T10:35:05+00:00,Click UI element in window,Image 2 in Pane 'New Tab - Google Chrome - Person 1',Verify the approval request,Event_243
+6,Recording_50,Process_22,2022-03-02T10:35:08+00:00,Click UI element in window,Hyperlink 'Social' in Pane 'New Tab - Google Chrome - Person 1',Verify the approval request,Event_243
+7,Recording_50,Process_22,2022-03-02T10:35:13+00:00,Click UI element in window,Text 'Approval Process' in Pane 'New Tab - Google Chrome - Person 1',Verify the approval request,Event_243
+8,Recording_50,Process_22,2022-03-02T10:35:16+00:00,Click UI element in window,Hyperlink 'Approval History' in Pane 'New Tab - Google Chrome - Person 1',Verify the approval request,Event_243
+9,Recording_50,Process_22,2022-03-02T10:35:23+00:00,Click UI element in window,Data Item 'Name  ...  Schedule a flow.' in Pane 'New Tab - Google Chrome - Person 1',Verify the approval request,Event_243
+10,Recording_50,Process_22,2022-03-02T10:35:24+00:00,Click UI element in window,Hyperlink 'Schedule a flow' in Pane 'New Tab - Google Chrome - Person 1',Verify the approval request,Event_243
+11,Recording_50,Process_22,2022-03-02T10:35:35+00:00,Click UI element in window,Text 'Comme ...  file from onedrive' in Pane 'New Tab - Google Chrome - Person 1',Verify the approval request,Event_243
+12,Recording_50,Process_22,2022-03-02T10:35:40+00:00,Press button in window,Button 'New Tab' in Pane 'New Tab - Google Chrome - Person 1',Go to cloud storage,Event_244
+13,Recording_50,Process_22,2022-03-02T10:35:42+00:00,Press button in window,Button 'My files - OneDrive' in Pane 'New Tab - Google Chrome - Person 1',Go to cloud storage,Event_244
+14,Recording_50,Process_22,2022-03-02T10:35:54+00:00,Click UI element in window,Data Item 'New Flow  ...  people Show actions' in Pane 'New Tab - Google Chrome - Person 1', Locate the flow schedule file and note down the schedule,Event_245
+15,Recording_50,Process_22,2022-03-02T10:35:56+00:00,Click UI element in window,Hyperlink 'Flow schedule detail.xlsx' in Pane 'New Tab - Google Chrome - Person 1', Locate the flow schedule file and note down the schedule,Event_245
+16,Recording_50,Process_22,2022-03-02T10:36:10+00:00,Press button in window,Button 'New Tab' in Pane 'New Tab - Google Chrome - Person 1',Login to cloud flow app,Event_246
+17,Recording_50,Process_22,2022-03-02T10:36:13+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Person 1'; Text:'power automate',Login to cloud flow app,Event_246
+18,Recording_50,Process_22,2022-03-02T10:36:14+00:00,Send keys,TextToSend:'{Return}',Login to cloud flow app,Event_246
+19,Recording_50,Process_22,2022-03-02T10:36:20+00:00,Click UI element in window,Hyperlink ' Power  ... rosoft.com' in Pane 'New Tab - Google Chrome - Person 1',Login to cloud flow app,Event_246
+20,Recording_50,Process_22,2022-03-02T10:36:30+00:00,Click UI element in window,Hyperlink 'Sign in' in Pane 'New Tab - Google Chrome - Person 1',Login to cloud flow app,Event_246
+21,Recording_50,Process_22,2022-03-02T10:36:41+00:00,Select menu option in window,Menu Item 'My flows' in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+22,Recording_50,Process_22,2022-03-02T10:36:46+00:00,Click UI element in window,Menu Item 'Add new' in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+23,Recording_50,Process_22,2022-03-02T10:36:54+00:00,Click UI element in window,Menu Item 'Scheduled cloud flow—from blank' in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+24,Recording_50,Process_22,2022-03-02T10:37:00+00:00,Populate text field in window,Edit 'Flow name' in Pane 'New Tab - Google Chrome - Person 1'; Text:'Onedrive',Create a flow,Event_247
+25,Recording_50,Process_22,2022-03-02T10:37:15+00:00,Click UI element in window,Combo Box 'Run this  ...  date for your flow' in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+26,Recording_50,Process_22,2022-03-02T10:37:19+00:00,Click UI element in window,"Data Item '3, March, 2022' in Pane 'New Tab - Google Chrome - Person 1'",Create a flow,Event_247
+27,Recording_50,Process_22,2022-03-02T10:37:23+00:00,Click UI element in window,UI Custom in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+28,Recording_50,Process_22,2022-03-02T10:37:28+00:00,Click UI element in window,List Item '08:00 AM' in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+29,Recording_50,Process_22,2022-03-02T10:37:34+00:00,Populate text field in window,Edit 'Repeat every:  ...  flow should occur' in Pane 'New Tab - Google Chrome - Person 1'; Text:'2',Create a flow,Event_247
+30,Recording_50,Process_22,2022-03-02T10:37:38+00:00,Click UI element in window,Group in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+31,Recording_50,Process_22,2022-03-02T10:37:41+00:00,Click UI element in window,List Item 'Day' in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+32,Recording_50,Process_22,2022-03-02T10:37:55+00:00,Drag and drop UI element in window,Button '+ New step' in Hyperlink 'Create' in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+33,Recording_50,Process_22,2022-03-02T10:38:01+00:00,Click UI element in window,Button 'Desktop flows' in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+34,Recording_50,Process_22,2022-03-02T10:38:08+00:00,Drag and drop UI element in window,Button 'Menu for Run  ...  for desktop' in Button 'Run a flow  ...  Desktop flows' in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+35,Recording_50,Process_22,2022-03-02T10:38:14+00:00,Click UI element in window,Menu Item '+Add new connection' in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+36,Recording_50,Process_22,2022-03-02T10:38:22+00:00,Click UI element in window,Group 2 in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+37,Recording_50,Process_22,2022-03-02T10:38:44+00:00,Populate text field in window,Edit 'Domain and username' in Pane 'New Tab - Google Chrome - Person 1'; Text:'rkh-pc-23\\sunsh',Create a flow,Event_247
+38,Recording_50,Process_22,2022-03-02T10:38:49+00:00,Populate text field in window,Edit 'Password' in Pane 'New Tab - Google Chrome - Person 1'; Text:P'password_secret_text',Create a flow,Event_247
+39,Recording_50,Process_22,2022-03-02T10:39:00+00:00,Press button in window,Button 'Create' in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+40,Recording_50,Process_22,2022-03-02T10:39:16+00:00,Click UI element in window,Group 3 in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+41,Recording_50,Process_22,2022-03-02T10:39:24+00:00,Click UI element in window,Group 'Create a new desktop flow Refresh' in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+42,Recording_50,Process_22,2022-03-02T10:39:29+00:00,Click UI element in window,Button 'Show options' in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+43,Recording_50,Process_22,2022-03-02T10:39:37+00:00,Drag and drop UI element in window,Button 'Save' in Document 'Chrome Legacy Window' in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+44,Recording_50,Process_22,2022-03-02T10:39:43+00:00,Click UI element in window,Text 'Your flow is ready to go. We recommend you test it' in Pane 'New Tab - Google Chrome - Person 1',Create a flow,Event_247
+45,Recording_50,Process_22,2022-03-02T10:39:48+00:00,Click UI element in window,Menu Item 'Test' in Pane 'New Tab - Google Chrome - Person 1',Test the flow,Event_248
+46,Recording_50,Process_22,2022-03-02T10:39:51+00:00,Select radio button in window,"Radio Button 'Test Flow, Manually' in Pane 'New Tab - Google Chrome - Person 1'",Test the flow,Event_248
+47,Recording_50,Process_22,2022-03-02T10:39:55+00:00,Click UI element in window,Button 'Test' in Pane 'New Tab - Google Chrome - Person 1',Test the flow,Event_248
+48,Recording_50,Process_22,2022-03-02T10:40:00+00:00,Click UI element in window,Button 'Run flow' in Pane 'New Tab - Google Chrome - Person 1',Test the flow,Event_248
+49,Recording_50,Process_22,2022-03-02T10:40:12+00:00,Drag and drop UI element in window,Button 'Test' in Group 4 in Pane 'New Tab - Google Chrome - Person 1',Test the flow,Event_248
+0,Recording_52,Process_22,2022-03-03T04:16:18+00:00,Comment,# Start of autogenerated actions using the recorder,Login to the approval request tool ,Event_255
+1,Recording_52,Process_22,2022-03-03T04:16:18+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Login to the approval request tool ,Event_255
+2,Recording_52,Process_22,2022-03-03T04:16:21+00:00,Press button in window,"Button 'Approvals Toolbar' in Pane 'General  ...  Teams, Main Window'",Login to the approval request tool ,Event_255
+3,Recording_52,Process_22,2022-03-03T04:16:25+00:00,Select tab in window,"Tab Item 'Sent' in Pane 'General  ...  Teams, Main Window'",Verify the approval request,Event_256
+4,Recording_52,Process_22,2022-03-03T04:16:29+00:00,Click UI element in window,"Data Item 'Can I schedule a new automate flow?' in Pane 'General  ...  Teams, Main Window'",Verify the approval request,Event_256
+5,Recording_52,Process_22,2022-03-03T04:16:37+00:00,Click UI element in window,"Group in Pane 'General  ...  Teams, Main Window'",Verify the approval request,Event_256
+6,Recording_52,Process_22,2022-03-03T04:16:44+00:00,Select menu option in window,Firefox - 2 running windows in Quick Launch Bar,Go to the cloud storage,Event_257
+7,Recording_52,Process_22,2022-03-03T04:16:47+00:00,Click UI element in window,List Item 'Mozilla Firefox' in List 'Task Switcher',Go to the cloud storage,Event_257
+8,Recording_52,Process_22,2022-03-03T04:16:52+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'o365',Go to the cloud storage,Event_257
+9,Recording_52,Process_22,2022-03-03T04:16:52+00:00,MouseAndKeyboard.SendKeys.FocusAndSendKeys,TextToSend:'{Return}',Go to the cloud storage,Event_257
+10,Recording_52,Process_22,2022-03-03T04:16:57+00:00,Click UI element in window,Hyperlink 'Office  ... office.com' in Window 'o365 - Google Search — Mozilla Firefox',Go to the cloud storage,Event_257
+11,Recording_52,Process_22,2022-03-03T04:17:03+00:00,Click UI element in window,Hyperlink 'OneDrive' in Window 'Microsoft Office Home — Mozilla Firefox',Go to the cloud storage,Event_257
+12,Recording_52,Process_22,2022-03-03T04:17:11+00:00,Click UI element in window,Hyperlink 'Schedule of a flow.docx' in Window 'My files - OneDrive — Mozilla Firefox',Find the flow schedule file and verify the schedule,Event_258
+13,Recording_52,Process_22,2022-03-03T04:17:22+00:00,Click UI element in window,UI Custom 'Document Contents' in Window 'Schedule of a flow.docx — Mozilla Firefox',Find the flow schedule file and verify the schedule,Event_258
+14,Recording_52,Process_22,2022-03-03T04:17:25+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Schedule of a flow.docx — Mozilla Firefox', Open the cloud flow app,Event_259
+15,Recording_52,Process_22,2022-03-03T04:17:30+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'powerr automate', Open the cloud flow app,Event_259
+16,Recording_52,Process_22,2022-03-03T04:17:30+00:00,MouseAndKeyboard.SendKeys.FocusAndSendKeys,TextToSend:'{Return}', Open the cloud flow app,Event_259
+17,Recording_52,Process_22,2022-03-03T04:17:38+00:00,Click UI element in window,Hyperlink 'Power  ... rosoft.com' in Window 'powerr automate - Google Search — Mozilla Firefox', Open the cloud flow app,Event_259
+18,Recording_52,Process_22,2022-03-03T04:17:44+00:00,Click UI element in window,Hyperlink 'Sign in' in Window 'Power  ...  — Mozilla Firefox', Open the cloud flow app,Event_259
+19,Recording_52,Process_22,2022-03-03T04:17:54+00:00,Select menu option in window,Menu Item 'Create' in Window 'Microsoft  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+20,Recording_52,Process_22,2022-03-03T04:17:59+00:00,Press button in window,Button 'Scheduled  ...  how often it runs.' in Window 'Manage your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+21,Recording_52,Process_22,2022-03-03T04:18:06+00:00,Populate text field in window,Edit 'Flow name' in Window 'Manage your  ...  — Mozilla Firefox'; Text:'Onedrive Demo',Prepare a cloud flow,Event_260
+22,Recording_52,Process_22,2022-03-03T04:18:09+00:00,Click UI element in window,Combo Box 'Run this  ...  date for your flow' in Window 'Manage your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+23,Recording_52,Process_22,2022-03-03T04:18:15+00:00,Click UI element in window,"Data Item '4, March, 2022' in Window 'Manage your  ...  — Mozilla Firefox'",Prepare a cloud flow,Event_260
+24,Recording_52,Process_22,2022-03-03T04:18:20+00:00,Click UI element in window,Window 'Manage your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+25,Recording_52,Process_22,2022-03-03T04:18:24+00:00,Click UI element in window,List Item '09:00 AM' in Window 'Manage your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+26,Recording_52,Process_22,2022-03-03T04:18:30+00:00,Click UI element in window,UI Custom in Window 'Manage your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+27,Recording_52,Process_22,2022-03-03T04:18:35+00:00,Click UI element in window,List Item 'Month' in Window 'Manage your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+28,Recording_52,Process_22,2022-03-03T04:18:38+00:00,Populate text field in window,Edit 'Repeat every:  ...  flow should occur' in Window 'Manage your  ...  — Mozilla Firefox'; Text:'2',Prepare a cloud flow,Event_260
+29,Recording_52,Process_22,2022-03-03T04:18:44+00:00,Click UI element in window,Hyperlink 'Create' in Window 'Manage your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+30,Recording_52,Process_22,2022-03-03T04:18:49+00:00,Press button in window,Button '+ New step' in Window 'Create your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+31,Recording_52,Process_22,2022-03-03T04:18:53+00:00,Press button in window,Button 'Desktop flows' in Window 'Create your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+32,Recording_52,Process_22,2022-03-03T04:18:56+00:00,Press button in window,Button 'Run a flow  ...  Desktop flows' in Window 'Create your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+33,Recording_52,Process_22,2022-03-03T04:19:01+00:00,Press button in window,Button 'Menu for Run  ...  for desktop' in Window 'Create your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+34,Recording_52,Process_22,2022-03-03T04:19:08+00:00,Select menu option in window,MenuItem: +Add new connection in Window 'Create your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+35,Recording_52,Process_22,2022-03-03T04:19:10+00:00,Click UI element in window,List Item in Window 'Create your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+36,Recording_52,Process_22,2022-03-03T04:19:13+00:00,Click UI element in window,List Item 'On premises Gateway NameSurname' in Window 'Create your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+37,Recording_52,Process_22,2022-03-03T04:19:26+00:00,Populate text field in window,Edit 'Domain and username' in Window 'Create your  ...  — Mozilla Firefox'; Text:'rkh-pc-26\\10',Prepare a cloud flow,Event_260
+38,Recording_52,Process_22,2022-03-03T04:19:33+00:00,Populate text field in window,Edit 'Password' in Window 'Create your  ...  — Mozilla Firefox'; Text:P'password_secret_text',Prepare a cloud flow,Event_260
+39,Recording_52,Process_22,2022-03-03T04:19:42+00:00,Press button in window,Button 'Create' in Window 'Create your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+40,Recording_52,Process_22,2022-03-03T04:20:00+00:00,Populate text field in window,Edit 'Password' in Window 'Create your  ...  — Mozilla Firefox'; Text:P'password_secret_text',Prepare a cloud flow,Event_260
+41,Recording_52,Process_22,2022-03-03T04:20:21+00:00,Press button in window,Button 'Create' in Window 'Create your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+42,Recording_52,Process_22,2022-03-03T04:20:41+00:00,Set drop-down list value in window,Combo Box 'Required Desktop flow' in Window 'Create your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+43,Recording_52,Process_22,2022-03-03T04:20:45+00:00,Press button in window,Button 'Show options' in Window 'Create your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+44,Recording_52,Process_22,2022-03-03T04:20:47+00:00,Click UI element in window,Window 'Create your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+45,Recording_52,Process_22,2022-03-03T04:20:51+00:00,Press button in window,Button 'Save' in Window 'Create your  ...  — Mozilla Firefox',Prepare a cloud flow,Event_260
+46,Recording_52,Process_22,2022-03-03T04:20:55+00:00,Click UI element in window,Status Bar in Window 'Edit your flow | Power Automate — Mozilla Firefox',Prepare a cloud flow,Event_260
+47,Recording_52,Process_22,2022-03-03T04:21:00+00:00,Select menu option in window,MenuItem: Test in Window 'Edit your flow | Power Automate — Mozilla Firefox',Test and Run the flow,Event_261
+48,Recording_52,Process_22,2022-03-03T04:21:03+00:00,Click UI element in window,Edit 'Manually' in Window 'Edit your flow | Power Automate — Mozilla Firefox',Test and Run the flow,Event_261
+49,Recording_52,Process_22,2022-03-03T04:21:07+00:00,Press button in window,Button 'Test' in Window 'Edit your flow | Power Automate — Mozilla Firefox',Test and Run the flow,Event_261
+50,Recording_52,Process_22,2022-03-03T04:21:12+00:00,Press button in window,Button 'Run flow' in Window 'Edit your flow | Power Automate — Mozilla Firefox',Test and Run the flow,Event_261
+51,Recording_52,Process_22,2022-03-03T04:21:15+00:00,Click UI element in window,UI Custom in Window 'Edit your flow | Power Automate — Mozilla Firefox',Test and Run the flow,Event_261
+52,Recording_52,Process_22,2022-03-03T04:21:16+00:00,Press button in window,Button 'Test' in Window 'Edit your flow | Power Automate — Mozilla Firefox',Test and Run the flow,Event_261
+53,Recording_52,Process_22,2022-03-03T04:21:16+00:00,Comment,# End of autogenerated actions using the recorder,Test and Run the flow,Event_261
+0,Recording_53,Process_22,2022-03-03T04:18:16+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Go to the approval request tool ,Event_262
+1,Recording_53,Process_22,2022-03-03T04:18:28+00:00,Click UI element in window,List Item '(1)  ...  - Microsoft​ Edge' in List 'Task Switcher',Go to the approval request tool ,Event_262
+2,Recording_53,Process_22,2022-03-03T04:18:33+00:00,Press button in window,Button 'More added apps Toolbar' in Window '(1) General  ...  - Microsoft​ Edge',Go to the approval request tool ,Event_262
+3,Recording_53,Process_22,2022-03-03T04:18:38+00:00,Click UI element in window,List Item 'Approvals  ...  more actions' in Window '(1) General  ...  - Microsoft​ Edge',Go to the approval request tool ,Event_262
+4,Recording_53,Process_22,2022-03-03T04:18:47+00:00,Select tab in window,Tab Item 'Sent' in Window '(1)  ...  - Microsoft​ Edge',Review the approval request,Event_263
+5,Recording_53,Process_22,2022-03-03T04:18:55+00:00,Click UI element in window,Data Item 'Request  ...  automate web app' in Window '(1)  ...  - Microsoft​ Edge',Review the approval request,Event_263
+6,Recording_53,Process_22,2022-03-03T04:19:04+00:00,Click UI element in window,Group 'view-container' in Window '(1)  ...  - Microsoft​ Edge',Review the approval request,Event_263
+7,Recording_53,Process_22,2022-03-03T04:19:09+00:00,Press button in window,Button 'New Tab' in Window '(1)  ...  - Microsoft​ Edge',Open the cloud storage,Event_264
+8,Recording_53,Process_22,2022-03-03T04:19:12+00:00,Click UI element in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge',Open the cloud storage,Event_264
+9,Recording_53,Process_22,2022-03-03T04:19:16+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'o365',Open the cloud storage,Event_264
+10,Recording_53,Process_22,2022-03-03T04:19:17+00:00,Send keys,TextToSend:'{Return}',Open the cloud storage,Event_264
+11,Recording_53,Process_22,2022-03-03T04:19:24+00:00,Click UI element in window,Hyperlink 'Office 365 login' in Window 'o365 -  ...  - Microsoft​ Edge',Open the cloud storage,Event_264
+12,Recording_53,Process_22,2022-03-03T04:19:30+00:00,Press button in window,Button 'App launcher' in Window 'Microsoft  ...  - Microsoft​ Edge',Open the cloud storage,Event_264
+13,Recording_53,Process_22,2022-03-03T04:19:35+00:00,Press button in window,Button 'All apps' in Window 'Microsoft  ...  - Microsoft​ Edge',Open the cloud storage,Event_264
+14,Recording_53,Process_22,2022-03-03T04:19:43+00:00,Populate text field in window,Edit 'The results  ...  bar as you type.' in Window 'Microsoft  ...  - Microsoft​ Edge'; Text:'onedrive',Open the cloud storage,Event_264
+15,Recording_53,Process_22,2022-03-03T04:19:46+00:00,Click UI element in window,Hyperlink 'OneDrive' in Window 'Microsoft  ...  - Microsoft​ Edge',Open the cloud storage,Event_264
+16,Recording_53,Process_22,2022-03-03T04:19:52+00:00,Click UI element in window,Hyperlink 'Project RoadMap' in Window 'My files -  ...  - Microsoft​ Edge',Searched the flow schedule file and copy the schedule,Event_265
+17,Recording_53,Process_22,2022-03-03T04:20:17+00:00,Click UI element in window,Data Item 'New Flow  ...  people Show actions' in Window 'Documents -  ...  - Microsoft​ Edge',Searched the flow schedule file and copy the schedule,Event_265
+18,Recording_53,Process_22,2022-03-03T04:20:20+00:00,Click UI element in window,Hyperlink 'Flow Schedule.docx' in Window 'Documents -  ...  - Microsoft​ Edge',Searched the flow schedule file and copy the schedule,Event_265
+19,Recording_53,Process_22,2022-03-03T04:20:30+00:00,Click UI element in window,Group 'Safari  ...  EditingSurfaceBody' in Window 'Flow  ...  - Microsoft​ Edge',Searched the flow schedule file and copy the schedule,Event_265
+20,Recording_53,Process_22,2022-03-03T04:20:33+00:00,Press button in window,Button 'New Tab' in Window 'Flow  ...  - Microsoft​ Edge',Go to cloud flow app,Event_266
+21,Recording_53,Process_22,2022-03-03T04:20:38+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge' 2; Text:'power automate',Go to cloud flow app,Event_266
+22,Recording_53,Process_22,2022-03-03T04:20:41+00:00,Send keys,TextToSend:'{Return}',Go to cloud flow app,Event_266
+23,Recording_53,Process_22,2022-03-03T04:20:45+00:00,Click UI element in window,Hyperlink 'Power Automate | Microsoft Power Platform' in Window 'power  ...  - Microsoft​ Edge',Go to cloud flow app,Event_266
+24,Recording_53,Process_22,2022-03-03T04:20:52+00:00,Click UI element in window,List Item 'My flows' in Window 'Microsoft  ...  - Microsoft​ Edge' 2,Generate a flow,Event_267
+25,Recording_53,Process_22,2022-03-03T04:20:56+00:00,Select menu option in window,Menu Item 'Add new' in Window 'Manage your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+26,Recording_53,Process_22,2022-03-03T04:21:01+00:00,Select menu option in window,Menu Item 'Scheduled cloud flow—from blank' in Window 'Manage your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+27,Recording_53,Process_22,2022-03-03T04:21:05+00:00,Click UI element in window,Edit 'Flow name' in Window 'Manage your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+28,Recording_53,Process_22,2022-03-03T04:21:17+00:00,Populate text field in window,Edit 'Flow name' 2 in Window 'Manage your  ...  - Microsoft​ Edge'; Text:'flow for reocurrance',Generate a flow,Event_267
+29,Recording_53,Process_22,2022-03-03T04:21:29+00:00,Click UI element in window,"Data Item '4, March, 2022' in Window 'Manage your  ...  - Microsoft​ Edge'",Generate a flow,Event_267
+30,Recording_53,Process_22,2022-03-03T04:21:41+00:00,Click UI element in window,List Item '09:00 AM' in Window 'Manage your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+31,Recording_53,Process_22,2022-03-03T04:21:44+00:00,Click UI element in window,Edit 'Repeat every:  ...  flow should occur' in Window 'Manage your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+32,Recording_53,Process_22,2022-03-03T04:21:47+00:00,Populate text field in window,Edit 'Repeat every:  ...  flow should occur' 2 in Window 'Manage your  ...  - Microsoft​ Edge'; Text:'2',Generate a flow,Event_267
+33,Recording_53,Process_22,2022-03-03T04:21:50+00:00,Click UI element in window,Group 'ms-Dropdown-title title-704' in Window 'Manage your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+34,Recording_53,Process_22,2022-03-03T04:21:57+00:00,Click UI element in window,List Item 'Day' in Window 'Manage your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+35,Recording_53,Process_22,2022-03-03T04:22:02+00:00,Click UI element in window,Hyperlink 'Create' in Window 'Manage your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+36,Recording_53,Process_22,2022-03-03T04:22:09+00:00,Press button in window,Button '+ New step' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+37,Recording_53,Process_22,2022-03-03T04:22:14+00:00,Press button in window,Button 'Desktop flows' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+38,Recording_53,Process_22,2022-03-03T04:22:19+00:00,Press button in window,Button 'Run a flow  ...  Desktop flows' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+39,Recording_53,Process_22,2022-03-03T04:22:24+00:00,Press button in window,Button 'Menu for Run  ...  for desktop' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+40,Recording_53,Process_22,2022-03-03T04:22:29+00:00,Select menu option in window,Menu Item '+Add new connection' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+41,Recording_53,Process_22,2022-03-03T04:22:32+00:00,Click UI element in window,List Item ' ...  title-962' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+42,Recording_53,Process_22,2022-03-03T04:22:34+00:00,Click UI element in window,List Item 'On premises Gateway Name Surname' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+43,Recording_53,Process_22,2022-03-03T04:22:35+00:00,Click UI element in window,Edit 'Domain and username' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+44,Recording_53,Process_22,2022-03-03T04:22:39+00:00,Populate text field in window,Edit 'Domain and username' 2 in Window 'Create your  ...  - Microsoft​ Edge'; Text:'RKH-PC-22\\RKH',Generate a flow,Event_267
+45,Recording_53,Process_22,2022-03-03T04:22:41+00:00,Click UI element in window,Edit 'Password' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+46,Recording_53,Process_22,2022-03-03T04:22:43+00:00,Send keys,TextToSend:'{LShiftKey}(K@)',Generate a flow,Event_267
+47,Recording_53,Process_22,2022-03-03T04:22:47+00:00,Click UI element in window,Edit 'Password' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+48,Recording_53,Process_22,2022-03-03T04:22:48+00:00,Click UI element in window,Edit 'Password' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+49,Recording_53,Process_22,2022-03-03T04:22:50+00:00,Populate text field in window,Edit 'Password' 2 in Window 'Create your  ...  - Microsoft​ Edge'; Text:P'password_secret_text',Generate a flow,Event_267
+50,Recording_53,Process_22,2022-03-03T04:23:01+00:00,Press button in window,Button 'Create' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+51,Recording_53,Process_22,2022-03-03T04:23:13+00:00,Click UI element in window,Edit 'Password' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+52,Recording_53,Process_22,2022-03-03T04:23:15+00:00,Populate text field in window,Edit 'Password' 2 in Window 'Create your  ...  - Microsoft​ Edge'; Text:P'password_secret_text',Generate a flow,Event_267
+53,Recording_53,Process_22,2022-03-03T04:23:30+00:00,Press button in window,Button 'Create' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+54,Recording_53,Process_22,2022-03-03T04:23:40+00:00,Click UI element in window,Group 'ms-D ...  title-686' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+55,Recording_53,Process_22,2022-03-03T04:23:51+00:00,Click UI element in window,List Item 'abcrt' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+56,Recording_53,Process_22,2022-03-03T04:24:02+00:00,Set drop-down list value in window,Combo Box 'Run Mode' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+57,Recording_53,Process_22,2022-03-03T04:24:07+00:00,Press button in window,Button 'Save' in Window 'Create your  ...  - Microsoft​ Edge',Generate a flow,Event_267
+58,Recording_53,Process_22,2022-03-03T04:24:16+00:00,Select menu option in window,Menu Item 'Test' in Window 'Edit your  ...  - Microsoft​ Edge',Run the flow,Event_268
+59,Recording_53,Process_22,2022-03-03T04:24:19+00:00,Click UI element in window,Text 'ms-ChoiceField-field field-1039' in Window 'Edit your  ...  - Microsoft​ Edge',Run the flow,Event_268
+60,Recording_53,Process_22,2022-03-03T04:24:21+00:00,Press button in window,Button 'Test' in Window 'Edit your  ...  - Microsoft​ Edge',Run the flow,Event_268
+61,Recording_53,Process_22,2022-03-03T04:24:29+00:00,Press button in window,Button 'Run flow' in Window 'Edit your  ...  - Microsoft​ Edge',Run the flow,Event_268
+62,Recording_53,Process_22,2022-03-03T04:24:35+00:00,Click UI element in window,Group 'fl-ActionCompletedIcon root-1088' in Window 'Edit your  ...  - Microsoft​ Edge',Run the flow,Event_268

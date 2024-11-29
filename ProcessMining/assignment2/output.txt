@@ -1,0 +1,2 @@
+
+inductive miner is the standart now a days

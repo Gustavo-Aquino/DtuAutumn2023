@@ -1,0 +1,76 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_94,Process_35,2022-02-16T08:59:18+00:00,Press button in window,Outlook 2013 - 1 running window in Quick Launch Bar,Go to the calendar of mailbox,Event_441
+1,Recording_94,Process_35,2022-02-16T08:59:21+00:00,Press button in window,Button 'Calendar' in Window 'Calendar - Email@Domain - Outlook',Go to the calendar of mailbox,Event_441
+2,Recording_94,Process_35,2022-02-16T08:59:26+00:00,Click UI element in window,"List 'Month View, 31  ...  March 2022 12:00am' in Window 'Calendar - Email@Domain - Outlook'",Select next week date & create meeting invite,Event_442
+3,Recording_94,Process_35,2022-02-16T08:59:30+00:00,Select menu option in window,Menu Item 'New Meeting Request' in Window 'Calendar - Email@Domain - Outlook',Select next week date & create meeting invite,Event_442
+4,Recording_94,Process_35,2022-02-16T08:59:35+00:00,Click UI element in window,Document 'To' in Window 'Untitled - Meeting  ',Select next week date & create meeting invite,Event_442
+5,Recording_94,Process_35,2022-02-16T08:59:37+00:00,Send keys,TextToSend:'kru',Select next week date & create meeting invite,Event_442
+6,Recording_94,Process_35,2022-02-16T08:59:41+00:00,Click UI element in window,Text 'Email@Domain' in Window 'Untitled - Meeting  ',Select next week date & create meeting invite,Event_442
+7,Recording_94,Process_35,2022-02-16T08:59:45+00:00,Send keys,TextToSend:'k={Back}{Back}su',Select next week date & create meeting invite,Event_442
+8,Recording_94,Process_35,2022-02-16T08:59:53+00:00,Click UI element in window,Text 'Email@Domain' in Window 'Untitled - Meeting  ',Select next week date & create meeting invite,Event_442
+9,Recording_94,Process_35,2022-02-16T08:59:55+00:00,Click UI element in window,Document 'Subject' in Window 'Untitled - Meeting  ',Select next week date & create meeting invite,Event_442
+10,Recording_94,Process_35,2022-02-16T08:59:56+00:00,Send keys,TextToSend:'{LShiftKey}(M)eeting ',Select next week date & create meeting invite,Event_442
+11,Recording_94,Process_35,2022-02-16T08:59:59+00:00,Send keys,TextToSend:'inti',Select next week date & create meeting invite,Event_442
+12,Recording_94,Process_35,2022-02-16T09:00:00+00:00,Send keys,TextToSend:'{Back}{Back}vite{LShiftKey}(T)ea',Select next week date & create meeting invite,Event_442
+13,Recording_94,Process_35,2022-02-16T09:00:05+00:00,Click UI element in window,Document 'Subject' in Window 'Untitled - Meeting  ',Select next week date & create meeting invite,Event_442
+14,Recording_94,Process_35,2022-02-16T09:00:05+00:00,Click UI element in window,Document 'Subject' in Window 'Untitled - Meeting  ',Select next week date & create meeting invite,Event_442
+15,Recording_94,Process_35,2022-02-16T09:00:09+00:00,Send keys,TextToSend:'ms',Select next week date & create meeting invite,Event_442
+16,Recording_94,Process_35,2022-02-16T09:00:17+00:00,Click UI element in window,Pane 'Form Regions' in Window 'Untitled - Meeting  ',Select next week date & create meeting invite,Event_442
+17,Recording_94,Process_35,2022-02-16T09:00:17+00:00,Click UI element in window,Pane 'Form Regions' in Window 'Untitled - Meeting  ',Select next week date & create meeting invite,Event_442
+18,Recording_94,Process_35,2022-02-16T09:00:23+00:00,Click UI element in window,Pane 'DatePicker',Select next week date & create meeting invite,Event_442
+19,Recording_94,Process_35,2022-02-16T09:00:26+00:00,Set checkbox state in window,Check Box 'All day event' in Window 'Meeting invite - Meeting  ',Select next week date & create meeting invite,Event_442
+20,Recording_94,Process_35,2022-02-16T09:00:28+00:00,Click UI element in window,Window 'Meeting invite - Meeting  ',Select next week date & create meeting invite,Event_442
+21,Recording_94,Process_35,2022-02-16T09:00:29+00:00,Send keys,"TextToSend:'{LShiftKey}(H)ello,{Return}{LShiftKey}(Y)ou are invited for next week\'s meei{Back}ting.'",Select next week date & create meeting invite,Event_442
+22,Recording_94,Process_35,2022-02-16T09:00:54+00:00,Press button in window,Button 'Send' in Window 'Meeting invite - Invited Event  ',Send the mail to attendees,Event_443
+0,Recording_123,Process_35,2022-02-16T09:00:57+00:00,Press button in window,Google Chrome - 1 running window in Quick Launch Bar,Open calender via mailing app ,Event_565
+1,Recording_123,Process_35,2022-02-16T09:01:00+00:00,Press button in window,Button 'New Tab' in Pane 'Process  ...  Chrome - Name',Open calender via mailing app ,Event_565
+2,Recording_123,Process_35,2022-02-16T09:01:01+00:00,Click UI element in window,Edit 'Address and search bar' in Pane 'Process  ...  Chrome - Name',Open calender via mailing app ,Event_565
+3,Recording_123,Process_35,2022-02-16T09:01:03+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'Process  ...  Chrome - Name'; Text:'gmail',Open calender via mailing app ,Event_565
+4,Recording_123,Process_35,2022-02-16T09:01:04+00:00,Send keys,TextToSend:'{Return}',Open calender via mailing app ,Event_565
+5,Recording_123,Process_35,2022-02-16T09:01:08+00:00,Click UI element in window,Hyperlink ' Gmail - Google https://www.google.com › gmail' in Pane 'Process  ...  Chrome - Name',Open calender via mailing app ,Event_565
+6,Recording_123,Process_35,2022-02-16T09:01:17+00:00,Click UI element in window,Hyperlink 'Open in new tab' in Pane 'Process  ...  Chrome - Name',Prepare next week's meeting invitation mail,Event_566
+7,Recording_123,Process_35,2022-02-16T09:01:23+00:00,Click UI element in window,Group in Pane 'Process  ...  Chrome - Name',Prepare next week's meeting invitation mail,Event_566
+8,Recording_123,Process_35,2022-02-16T09:01:27+00:00,Select menu option in window,Menu Item 'Create' in Pane 'Process  ...  Chrome - Name',Prepare next week's meeting invitation mail,Event_566
+9,Recording_123,Process_35,2022-02-16T09:01:30+00:00,Select menu option in window,Menu Item 'Event' in Pane 'Process  ...  Chrome - Name',Prepare next week's meeting invitation mail,Event_566
+10,Recording_123,Process_35,2022-02-16T09:01:41+00:00,Populate text field in window,Edit 'Add title' in Pane 'Process  ...  Chrome - Name'; Text:'Meeting invitation for new project',Prepare next week's meeting invitation mail,Event_566
+11,Recording_123,Process_35,2022-02-16T09:01:45+00:00,Press button in window,"Button 'Wednesday, February 16 3:00pm – 4:00pm Time zone·Does not repeat' in Pane 'Process  ...  Chrome - Name'",Prepare next week's meeting invitation mail,Event_566
+12,Recording_123,Process_35,2022-02-16T09:01:50+00:00,Click UI element in window,Text '24' in Pane 'Process  ...  Chrome - Name',Prepare next week's meeting invitation mail,Event_566
+13,Recording_123,Process_35,2022-02-16T09:02:02+00:00,Click UI element in window,Edit 'Start time' in Pane 'Process  ...  Chrome - Name',Prepare next week's meeting invitation mail,Event_566
+14,Recording_123,Process_35,2022-02-16T09:02:04+00:00,Click UI element in window,List Item '2:30pm' in Pane 'Process  ...  Chrome - Name',Prepare next week's meeting invitation mail,Event_566
+15,Recording_123,Process_35,2022-02-16T09:02:05+00:00,Click UI element in window,Edit 'End time' in Pane 'Process  ...  Chrome - Name',Prepare next week's meeting invitation mail,Event_566
+16,Recording_123,Process_35,2022-02-16T09:02:07+00:00,Click UI element in window,List Item '5:15pm (2 hrs)' in Pane 'Process  ...  Chrome - Name',Prepare next week's meeting invitation mail,Event_566
+17,Recording_123,Process_35,2022-02-16T09:02:13+00:00,Press button in window,Button 'Add guests' in Pane 'Process  ...  Chrome - Name',Prepare next week's meeting invitation mail,Event_566
+18,Recording_123,Process_35,2022-02-16T09:02:16+00:00,Send keys,TextToSend:'{LShiftKey}(K)',Prepare next week's meeting invitation mail,Event_566
+19,Recording_123,Process_35,2022-02-16T09:02:25+00:00,Click UI element in window,Text 'Email@Domain' in Pane 'Process  ...  Chrome - Name',Prepare next week's meeting invitation mail,Event_566
+20,Recording_123,Process_35,2022-02-16T09:02:29+00:00,Send keys,TextToSend:'{LShiftKey}Name',Prepare next week's meeting invitation mail,Event_566
+21,Recording_123,Process_35,2022-02-16T09:02:34+00:00,Click UI element in window,List Item 'Email@Domain Email@Domain' in Pane 'Process  ...  Chrome - Name',Prepare next week's meeting invitation mail,Event_566
+22,Recording_123,Process_35,2022-02-16T09:02:41+00:00,Press button in window,Button 'Save' in Pane 'Process  ...  Chrome - Name',Prepare next week's meeting invitation mail,Event_566
+23,Recording_123,Process_35,2022-02-16T09:02:43+00:00,Click UI element in window,UI Custom 'Would you  ...  Calendar guests?' in Pane 'Process  ...  Chrome - Name',Share the invitation mail to all team members,Event_567
+24,Recording_123,Process_35,2022-02-16T09:02:46+00:00,Press button in window,Button 'Send' in Pane 'Process  ...  Chrome - Name',Share the invitation mail to all team members,Event_567
+0,Recording_124,Process_35,2022-02-16T09:24:34+00:00,Click UI element in window,List Item 'New tab  ...  - Microsoft​ Edge' in List 'Task Switcher',Unknown,Event_568
+1,Recording_124,Process_35,2022-02-16T09:24:40+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'yahoo mail',Unknown,Event_568
+2,Recording_124,Process_35,2022-02-16T09:24:41+00:00,Send keys,TextToSend:'{Return}',Unknown,Event_568
+3,Recording_124,Process_35,2022-02-16T09:24:44+00:00,Click UI element in window,Hyperlink 'Yahoo Mail' in Window '🔎 yahoo  ...  - Microsoft​ Edge',Unknown,Event_568
+4,Recording_124,Process_35,2022-02-16T09:24:51+00:00,Press button in window,Button '16' in Window 'kru ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+5,Recording_124,Process_35,2022-02-16T09:24:55+00:00,Click UI element in window,Hyperlink 'Calendar full view' in Window 'kru ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+6,Recording_124,Process_35,2022-02-16T09:25:00+00:00,Click UI element in window,Group 'W_6D6F H_A F_Z2p4aGt' in Window 'htt ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+7,Recording_124,Process_35,2022-02-16T09:25:03+00:00,Select menu option in window,Menu Item 'New event' in Window 'htt ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+8,Recording_124,Process_35,2022-02-16T09:25:12+00:00,Populate text field in window,Edit 'Event title' in Window 'htt ...  - Microsoft​ Edge'; Text:'Client Meeting',Create an invitation mail for next week meeting,Event_569
+9,Recording_124,Process_35,2022-02-16T09:25:18+00:00,Populate text field in window,Edit 'Location' in Window 'htt ...  - Microsoft​ Edge'; Text:'Surat',Create an invitation mail for next week meeting,Event_569
+10,Recording_124,Process_35,2022-02-16T09:25:25+00:00,Click UI element in window,Edit '3:00 PM' in Window 'htt ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+11,Recording_124,Process_35,2022-02-16T09:25:27+00:00,Click UI element in window,Hyperlink '3:30 PM' in Window 'htt ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+12,Recording_124,Process_35,2022-02-16T09:25:28+00:00,Click UI element in window,Edit '4:00 PM' in Window 'htt ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+13,Recording_124,Process_35,2022-02-16T09:25:31+00:00,Click UI element in window,Hyperlink '5:00 PM' in Window 'htt ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+14,Recording_124,Process_35,2022-02-16T09:25:32+00:00,Click UI element in window,Combo Box 'Invitees' in Window 'htt ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+15,Recording_124,Process_35,2022-02-16T09:25:34+00:00,Send keys,TextToSend:'Namedes{RShiftKey}(_)',Create an invitation mail for next week meeting,Event_569
+16,Recording_124,Process_35,2022-02-16T09:25:39+00:00,Click UI element in window,Edit 'Name Surname' in Window 'htt ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+17,Recording_124,Process_35,2022-02-16T09:25:41+00:00,Send keys,TextToSend:'Username{RShiftKey}(_)vd{LShiftKey}(@)Domain',Create an invitation mail for next week meeting,Event_569
+18,Recording_124,Process_35,2022-02-16T09:25:54+00:00,Click UI element in window,Edit '30 minutes before' in Window 'htt ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+19,Recording_124,Process_35,2022-02-16T09:25:58+00:00,Click UI element in window,Hyperlink '1 hour before' in Window 'htt ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+20,Recording_124,Process_35,2022-02-16T09:26:00+00:00,Set checkbox state in window,Check Box 'e_d48  ...  I_Z2aVTcY b_2fAfSG' in Window 'htt ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+21,Recording_124,Process_35,2022-02-16T09:26:01+00:00,Set checkbox state in window,Check Box 'e_d48  ...  I_Z2aVTcY b_2fAfSG' in Window 'htt ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+22,Recording_124,Process_35,2022-02-16T09:26:04+00:00,Click UI element in window,Edit 'Description' in Window 'htt ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+23,Recording_124,Process_35,2022-02-16T09:26:15+00:00,Populate text field in window,Edit 'Description' 2 in Window 'htt ...  - Microsoft​ Edge'; Text:'Please be present on tome',Create an invitation mail for next week meeting,Event_569
+24,Recording_124,Process_35,2022-02-16T09:26:17+00:00,Click UI element in window,Edit 'Busy' in Window 'htt ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+25,Recording_124,Process_35,2022-02-16T09:26:19+00:00,Click UI element in window,Hyperlink 'Free' in Window 'htt ...  - Microsoft​ Edge',Create an invitation mail for next week meeting,Event_569
+26,Recording_124,Process_35,2022-02-16T09:26:22+00:00,Press button in window,Button 'Save' in Window 'htt ...  - Microsoft​ Edge',Send meeting invitation email to members,Event_570

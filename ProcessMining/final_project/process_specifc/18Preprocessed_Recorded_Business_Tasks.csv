@@ -1,0 +1,124 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_44,Process_18,2022-02-28T11:47:44+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar,Go to the crm tool,Event_210
+1,Recording_44,Process_18,2022-02-28T11:47:48+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher',Go to the crm tool,Event_210
+2,Recording_44,Process_18,2022-02-28T11:47:52+00:00,Press button in window,Button 'Home Page - Zoho CRM' in Pane 'New Tab - Google Chrome - Person 1',Go to the crm tool,Event_210
+3,Recording_44,Process_18,2022-02-28T11:47:56+00:00,Click UI element in window,Image in Pane 'New Tab - Google Chrome - Person 1',Export the customer data,Event_211
+4,Recording_44,Process_18,2022-02-28T11:48:01+00:00,Click UI element in window,Hyperlink 'Export' in Pane 'New Tab - Google Chrome - Person 1',Export the customer data,Event_211
+5,Recording_44,Process_18,2022-02-28T11:48:05+00:00,Click UI element in window,Combo Box 'Users' in Pane 'New Tab - Google Chrome - Person 1',Export the customer data,Event_211
+6,Recording_44,Process_18,2022-02-28T11:48:09+00:00,Click UI element in window,Data Item 'Export Cancel ' in Pane 'New Tab - Google Chrome - Person 1',Export the customer data,Event_211
+7,Recording_44,Process_18,2022-02-28T11:48:12+00:00,Press button in window,Button 'Export' in Pane 'New Tab - Google Chrome - Person 1',Export the customer data,Event_211
+8,Recording_44,Process_18,2022-02-28T11:48:20+00:00,Click UI element in window,Hyperlink 'Leads' in Pane 'New Tab - Google Chrome - Person 1',Open the rss feed,Event_212
+9,Recording_44,Process_18,2022-02-28T11:48:35+00:00,Select menu option in window,Menu Item 'Distill Web Monitor Has access to this site' in Pane 'New Tab - Google Chrome - Person 1',Open the rss feed,Event_212
+10,Recording_44,Process_18,2022-02-28T11:48:37+00:00,Click UI element in window,Hyperlink 'Enable Monitoring' in Pane 'New Tab - Google Chrome - Person 1',Open the rss feed,Event_212
+11,Recording_44,Process_18,2022-02-28T11:48:41+00:00,Press button in window,Button 'Monitor parts of page' in Pane 'New Tab - Google Chrome - Person 1',Set the feed for newly addded customer,Event_213
+12,Recording_44,Process_18,2022-02-28T11:48:46+00:00,Click UI element in window,Text '9' in Pane 'New Tab - Google Chrome - Person 1',Set the feed for newly addded customer,Event_213
+13,Recording_44,Process_18,2022-02-28T11:48:54+00:00,Press button in window,Button 'Save selections' in Pane 'New Tab - Google Chrome - Person 1',Set the feed for newly addded customer,Event_213
+14,Recording_44,Process_18,2022-02-28T11:49:00+00:00,Click UI element in window,Hyperlink 'Add action' in Pane 'New Tab - Google Chrome - Person 1',Set the feed for newly addded customer,Event_213
+15,Recording_44,Process_18,2022-02-28T11:49:06+00:00,Click UI element in window,Hyperlink 'Popup Notification (for local monitor)' in Pane 'New Tab - Google Chrome - Person 1',Set the feed for newly addded customer,Event_213
+16,Recording_44,Process_18,2022-02-28T11:49:10+00:00,Click UI element in window,Hyperlink 'Add Condition' in Pane 'New Tab - Google Chrome - Person 1',Set the feed for newly addded customer,Event_213
+17,Recording_44,Process_18,2022-02-28T11:49:12+00:00,Click UI element in window,Combo Box in Pane 'New Tab - Google Chrome - Person 1',Set the feed for newly addded customer,Event_213
+18,Recording_44,Process_18,2022-02-28T11:49:16+00:00,Click UI element in window,Text 'Conditions can  ...  case-insensitive.' in Pane 'New Tab - Google Chrome - Person 1',Set the feed for newly addded customer,Event_213
+19,Recording_44,Process_18,2022-02-28T11:49:18+00:00,Populate text field in window,Edit 'Number' in Pane 'New Tab - Google Chrome - Person 1'; Text:'1-9',Set the feed for newly addded customer,Event_213
+20,Recording_44,Process_18,2022-02-28T11:49:21+00:00,Press button in window,Button 'Save' in Pane 'New Tab - Google Chrome - Person 1',Set the feed for newly addded customer,Event_213
+21,Recording_44,Process_18,2022-02-28T11:49:26+00:00,Press button in window,Power BI Desktop in Quick Launch Bar, Open Bi tool & Load the data,Event_214
+22,Recording_44,Process_18,2022-02-28T11:49:41+00:00,Press button in window,Button 'Close' in Window 'Untitled - Power BI Desktop', Open Bi tool & Load the data,Event_214
+23,Recording_44,Process_18,2022-02-28T11:50:00+00:00,Select menu option in window,MenuItem: Connect to data from multiple sources. Get data in Window 'Untitled - Power BI Desktop', Open Bi tool & Load the data,Event_214
+24,Recording_44,Process_18,2022-02-28T11:50:09+00:00,Click UI element in window,Menu Item 'Text/CSV' in Window 'Untitled - Power BI Desktop', Open Bi tool & Load the data,Event_214
+25,Recording_44,Process_18,2022-02-28T11:50:28+00:00,Click UI element in window,Split Button 'Open' in Window 'Untitled - Power BI Desktop', Open Bi tool & Load the data,Event_214
+26,Recording_44,Process_18,2022-02-28T11:50:39+00:00,Click UI element in window,Button 'Load' in Window 'Untitled - Power BI Desktop', Open Bi tool & Load the data,Event_214
+27,Recording_44,Process_18,2022-02-28T11:51:01+00:00,Click UI element in window,Text 'Lead_1646048895306' in Window 'Untitled - Power BI Desktop', Open Bi tool & Load the data,Event_214
+28,Recording_44,Process_18,2022-02-28T11:51:03+00:00,Click UI element in window,Button in Window 'Untitled - Power BI Desktop', Create a report,Event_215
+29,Recording_44,Process_18,2022-02-28T11:51:42+00:00,Click UI element in window,Check Box in Window 'Untitled - Power BI Desktop', Create a report,Event_215
+30,Recording_44,Process_18,2022-02-28T11:51:48+00:00,Click UI element in window,Tree Item ' Company' in Window 'Untitled - Power BI Desktop', Create a report,Event_215
+31,Recording_44,Process_18,2022-02-28T11:51:53+00:00,Click UI element in window,Check Box 2 in Window 'Untitled - Power BI Desktop', Create a report,Event_215
+32,Recording_44,Process_18,2022-02-28T11:52:07+00:00,Select menu option in window,Menu Item 'Line and stacked column chart' in Window 'Untitled - Power BI Desktop', Create a report,Event_215
+33,Recording_44,Process_18,2022-02-28T11:52:17+00:00,Click UI element in window,Group 'Power BI Report' in Window 'Untitled - Power BI Desktop', Create a report,Event_215
+34,Recording_44,Process_18,2022-02-28T11:52:25+00:00,Click UI element in window,List 'Plot area' in Window 'Untitled - Power BI Desktop', Create a report,Event_215
+35,Recording_44,Process_18,2022-02-28T11:52:31+00:00,Press button in window,Button 'Publish' in Window 'Untitled - Power BI Desktop', Create a report,Event_215
+36,Recording_44,Process_18,2022-02-28T11:52:34+00:00,Click UI element in window,Pane 'Microsoft  ...  Save Cancel Cancel' in Window 'Untitled - Power BI Desktop', Create a report,Event_215
+37,Recording_44,Process_18,2022-02-28T11:52:37+00:00,Press button in window,Button 'Save' in Window 'Untitled - Power BI Desktop', Create a report,Event_215
+38,Recording_44,Process_18,2022-02-28T11:53:05+00:00,Populate text field in window,Edit 'File name:' in Window 'Untitled - Power BI Desktop'; Text:'Custore revenue chart', Create a report,Event_215
+39,Recording_44,Process_18,2022-02-28T11:53:10+00:00,Click UI element in window,Edit 'File name:' in Window 'Untitled - Power BI Desktop', Create a report,Event_215
+40,Recording_44,Process_18,2022-02-28T11:53:13+00:00,Click UI element in window,Button 'Save' 2 in Window 'Untitled - Power BI Desktop', Create a report,Event_215
+0,Recording_63,Process_18,2022-02-28T09:17:30+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Login to the crm app,Event_315
+1,Recording_63,Process_18,2022-02-28T09:17:39+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'dynemic crm',Login to the crm app,Event_315
+2,Recording_63,Process_18,2022-02-28T09:17:40+00:00,Send keys,TextToSend:'{Return}',Login to the crm app,Event_315
+3,Recording_63,Process_18,2022-02-28T09:17:46+00:00,Click UI element in window,Hyperlink 'What is  ...  en-us › what-is-crm' in Window 'dynemic crm - Google Search — Mozilla Firefox',Login to the crm app,Event_315
+4,Recording_63,Process_18,2022-02-28T09:17:51+00:00,Click UI element in window,Hyperlink 'Start free' in Window 'What is  ...  — Mozilla Firefox',Login to the crm app,Event_315
+5,Recording_63,Process_18,2022-02-28T09:18:00+00:00,Click UI element in window,Hyperlink 'Click this button to try sales app for free' in Window 'Start a Free  ...  — Mozilla Firefox',Login to the crm app,Event_315
+6,Recording_63,Process_18,2022-02-28T09:18:10+00:00,Click UI element in window,Tree Item 'Leads' in Window 'Sales dashboard - Dynamics 365 — Mozilla Firefox',Get the customer data,Event_316
+7,Recording_63,Process_18,2022-02-28T09:18:16+00:00,Select menu option in window,Menu Item 'Export to Excel' in Window 'Leads My  ...  — Mozilla Firefox',Get the customer data,Event_316
+8,Recording_63,Process_18,2022-02-28T09:18:20+00:00,Select radio button in window,Radio Button 'Save File' in Window 'Leads My  ...  — Mozilla Firefox',Get the customer data,Event_316
+9,Recording_63,Process_18,2022-02-28T09:18:23+00:00,Press button in window,Button 'OK' in Window 'Leads My  ...  — Mozilla Firefox',Get the customer data,Event_316
+10,Recording_63,Process_18,2022-02-28T09:18:31+00:00,Press button in window,Button 'Distill Web Monitor' in Window 'Leads My  ...  — Mozilla Firefox',Open the rss feed,Event_317
+11,Recording_63,Process_18,2022-02-28T09:18:34+00:00,Press button in window,Button 'Select parts of page' in Window 'Leads My  ...  — Mozilla Firefox',Prepare a feed for inclusion of new customer in crm,Event_318
+12,Recording_63,Process_18,2022-02-28T09:18:44+00:00,Click UI element in window,Edit '1 - 16 of 16' in Window 'Leads My  ...  — Mozilla Firefox',Prepare a feed for inclusion of new customer in crm,Event_318
+13,Recording_63,Process_18,2022-02-28T09:19:06+00:00,Press button in window,Button ' Save selections' in Window 'Leads My  ...  — Mozilla Firefox',Prepare a feed for inclusion of new customer in crm,Event_318
+14,Recording_63,Process_18,2022-02-28T09:19:16+00:00,Click UI element in window,Hyperlink 'Add action' in Window 'Watchlist - Distill — Mozilla Firefox',Prepare a feed for inclusion of new customer in crm,Event_318
+15,Recording_63,Process_18,2022-02-28T09:19:20+00:00,Click UI element in window,Edit 'Popup Notification (for local monitor)' in Window 'Watchlist - Distill — Mozilla Firefox',Prepare a feed for inclusion of new customer in crm,Event_318
+16,Recording_63,Process_18,2022-02-28T09:19:23+00:00,Click UI element in window,Hyperlink 'Add Condition' in Window 'Watchlist - Distill — Mozilla Firefox',Prepare a feed for inclusion of new customer in crm,Event_318
+17,Recording_63,Process_18,2022-02-28T09:19:28+00:00,Set drop-down list value in window,Combo Box in Window 'Watchlist - Distill — Mozilla Firefox',Prepare a feed for inclusion of new customer in crm,Event_318
+18,Recording_63,Process_18,2022-02-28T09:19:41+00:00,Populate text field in window,Edit 'Number' in Window 'Watchlist - Distill — Mozilla Firefox'; Text:'1 - 16 of 16',Prepare a feed for inclusion of new customer in crm,Event_318
+19,Recording_63,Process_18,2022-02-28T09:19:44+00:00,Press button in window,Button 'Save' in Window 'Watchlist - Distill — Mozilla Firefox',Prepare a feed for inclusion of new customer in crm,Event_318
+20,Recording_63,Process_18,2022-02-28T09:19:50+00:00,Press button in window,Button 'Type here to search' in TaskBar,Go to Bi tool & import the data,Event_319
+21,Recording_63,Process_18,2022-02-28T09:19:52+00:00,Populate text field in window,Edit 'Search box' in Window 'Search'; Text:'power',Go to Bi tool & import the data,Event_319
+22,Recording_63,Process_18,2022-02-28T09:19:56+00:00,Click UI element in window,List Item 'Power BI  ...  to switch preview' in Window 'Search',Go to Bi tool & import the data,Event_319
+23,Recording_63,Process_18,2022-02-28T09:20:28+00:00,Press button in window,Button 'Excel workbook' in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+24,Recording_63,Process_18,2022-02-28T09:20:31+00:00,Click UI element in window,Edit 'Name' in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+25,Recording_63,Process_18,2022-02-28T09:20:33+00:00,Click UI element in window,Split Button 'Open' in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+26,Recording_63,Process_18,2022-02-28T09:20:39+00:00,Click UI element in window,Pane in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+27,Recording_63,Process_18,2022-02-28T09:20:47+00:00,Click UI element in window,"Check Box 'Level 2, Table1' in Window 'Untitled - Power BI Desktop'",Prepare a report,Event_320
+28,Recording_63,Process_18,2022-02-28T09:20:52+00:00,Set checkbox state in window,"Check Box 'Level 2, My Open Leads' in Window 'Untitled - Power BI Desktop'",Prepare a report,Event_320
+29,Recording_63,Process_18,2022-02-28T09:21:11+00:00,Click UI element in window,Button 'Load' in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+30,Recording_63,Process_18,2022-02-28T09:21:32+00:00,Click UI element in window,Text '' in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+31,Recording_63,Process_18,2022-02-28T09:21:41+00:00,Set checkbox state in window,Check Box in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+32,Recording_63,Process_18,2022-02-28T09:21:50+00:00,Click UI element in window,Check Box 2 in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+33,Recording_63,Process_18,2022-02-28T09:21:54+00:00,Set checkbox state in window,Check Box 3 in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+34,Recording_63,Process_18,2022-02-28T09:22:13+00:00,Click UI element in window,Image in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+35,Recording_63,Process_18,2022-02-28T09:22:29+00:00,Drag and drop UI element in window,Image 3 in Image 2 in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+36,Recording_63,Process_18,2022-02-28T09:22:51+00:00,Drag and drop UI element in window,List in List Item in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+37,Recording_63,Process_18,2022-02-28T09:23:06+00:00,Click UI element in window,Group 'Topic' in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+38,Recording_63,Process_18,2022-02-28T09:23:42+00:00,Press button in window,Button 'Publish' in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+39,Recording_63,Process_18,2022-02-28T09:23:46+00:00,Click UI element in window,Button 'Save' in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+40,Recording_63,Process_18,2022-02-28T09:23:55+00:00,Populate text field in window,Edit 'File name:' in Window 'Untitled - Power BI Desktop'; Text:'Leads Report',Prepare a report,Event_320
+41,Recording_63,Process_18,2022-02-28T09:23:59+00:00,Press button in window,Button 'Save' 2 in Window 'Untitled - Power BI Desktop',Prepare a report,Event_320
+0,Recording_64,Process_18,2022-02-28T09:42:13+00:00,Select menu option in window,Microsoft Edge (2) - 3 running windows in Quick Launch Bar,Go to the crm tool,Event_321
+1,Recording_64,Process_18,2022-02-28T09:42:20+00:00,Click UI element in window,List Item 'New tab - Personal - Microsoft​ Edge' in List 'Task Switcher',Go to the crm tool,Event_321
+2,Recording_64,Process_18,2022-02-28T09:42:25+00:00,Click UI element in window,Edit 'Address and search bar' in Window 'New tab - Personal - Microsoft​ Edge',Go to the crm tool,Event_321
+3,Recording_64,Process_18,2022-02-28T09:42:30+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab - Personal - Microsoft​ Edge'; Text:'dynamic crm',Go to the crm tool,Event_321
+4,Recording_64,Process_18,2022-02-28T09:42:30+00:00,Send keys,TextToSend:'{Return}',Go to the crm tool,Event_321
+5,Recording_64,Process_18,2022-02-28T09:42:35+00:00,Click UI element in window,Hyperlink 'Customer  ...  (CRM) | Microsoft …' in Window 'dynamic crm - Search - Personal - Microsoft​ Edge',Go to the crm tool,Event_321
+6,Recording_64,Process_18,2022-02-28T09:42:42+00:00,Click UI element in window,Hyperlink 'Sign in to your account' in Window 'Customer  ...  - Microsoft​ Edge',Go to the crm tool,Event_321
+7,Recording_64,Process_18,2022-02-28T09:42:46+00:00,Click UI element in window,Hyperlink 'Switch to  ... om account' in Window 'Customer  ...  - Microsoft​ Edge',Go to the crm tool,Event_321
+8,Recording_64,Process_18,2022-02-28T09:42:57+00:00,Click UI element in window,Hyperlink 'Get started' in Window 'Customer  ...  - Microsoft​ Edge',Go to the crm tool,Event_321
+9,Recording_64,Process_18,2022-02-28T09:43:15+00:00,Click UI element in window,Tree Item 'Leads' in Window 'Sales  ...  - Microsoft​ Edge',Export the customer data,Event_322
+10,Recording_64,Process_18,2022-02-28T09:43:25+00:00,Select menu option in window,Menu Item 'Export to Excel' in Window 'Leads My  ...  - Microsoft​ Edge',Export the customer data,Event_322
+11,Recording_64,Process_18,2022-02-28T09:43:39+00:00,Press button in window,Button 'Distill Web Monitor Has access to this site' in Window 'Leads My  ...  - Microsoft​ Edge',Open the rss feed,Event_323
+12,Recording_64,Process_18,2022-02-28T09:43:43+00:00,Press button in window,Button 'Extensions' in Window 'Leads My  ...  - Microsoft​ Edge',Open the rss feed,Event_323
+13,Recording_64,Process_18,2022-02-28T09:43:47+00:00,Press button in window,Button 'Monitor parts of page' in Window 'Leads My  ...  - Microsoft​ Edge',Set the feed for newly addded customer,Event_324
+14,Recording_64,Process_18,2022-02-28T09:44:05+00:00,Click UI element in window,Document 'Distill Visual Selector' in Window 'Leads My  ...  - Microsoft​ Edge',Set the feed for newly addded customer,Event_324
+15,Recording_64,Process_18,2022-02-28T09:44:14+00:00,Click UI element in window,Text '1 - 18 of 18' in Window 'Leads My  ...  - Microsoft​ Edge',Set the feed for newly addded customer,Event_324
+16,Recording_64,Process_18,2022-02-28T09:44:17+00:00,Click UI element in window,Document 'Distill Visual Selector' in Window 'Leads My  ...  - Microsoft​ Edge',Set the feed for newly addded customer,Event_324
+17,Recording_64,Process_18,2022-02-28T09:44:25+00:00,Click UI element in window,Hyperlink 'Add action' in Window 'Watchlist -  ...  - Microsoft​ Edge',Set the feed for newly addded customer,Event_324
+18,Recording_64,Process_18,2022-02-28T09:44:27+00:00,Click UI element in window,Hyperlink 'Popup Notification (for local monitor)' in Window 'Watchlist -  ...  - Microsoft​ Edge',Set the feed for newly addded customer,Event_324
+19,Recording_64,Process_18,2022-02-28T09:44:29+00:00,Click UI element in window,Hyperlink 'Add Condition' in Window 'Watchlist -  ...  - Microsoft​ Edge',Set the feed for newly addded customer,Event_324
+20,Recording_64,Process_18,2022-02-28T09:44:31+00:00,Click UI element in window,Combo Box in Window 'Watchlist -  ...  - Microsoft​ Edge',Set the feed for newly addded customer,Event_324
+21,Recording_64,Process_18,2022-02-28T09:44:58+00:00,Click UI element in window,Pane 'View' in Window 'htt ...  - Microsoft​ Edge',Set the feed for newly addded customer,Event_324
+22,Recording_64,Process_18,2022-02-28T09:45:10+00:00,Populate text field in window,Edit 'Text' in Window 'Watchlist -  ...  - Microsoft​ Edge'; Text:'1-18 of 18',Set the feed for newly addded customer,Event_324
+23,Recording_64,Process_18,2022-02-28T09:45:15+00:00,Press button in window,Button 'Save' in Window 'Watchlist -  ...  - Microsoft​ Edge',Set the feed for newly addded customer,Event_324
+24,Recording_64,Process_18,2022-02-28T09:45:24+00:00,Press button in window,Button 'New Tab' in Window 'Watchlist -  ...  - Microsoft​ Edge' 2,Open Bi tool & Load the data,Event_325
+25,Recording_64,Process_18,2022-02-28T09:45:27+00:00,Click UI element in window,Hyperlink 'Home -  ... Surname/home' in Window 'New tab and  ...  - Microsoft​ Edge',Open Bi tool & Load the data,Event_325
+26,Recording_64,Process_18,2022-02-28T09:45:36+00:00,Press button in window,Button 'New' in Window 'Home -  ...  - Microsoft​ Edge',Open Bi tool & Load the data,Event_325
+27,Recording_64,Process_18,2022-02-28T09:45:40+00:00,Select menu option in window,Menu Item 'Workbook' in Window 'Home -  ...  - Microsoft​ Edge',Open Bi tool & Load the data,Event_325
+28,Recording_64,Process_18,2022-02-28T09:45:50+00:00,Press button in window,Button 'Files' in Window 'Edit | New  ...  - Microsoft​ Edge',Open Bi tool & Load the data,Event_325
+29,Recording_64,Process_18,2022-02-28T09:45:56+00:00,Press button in window,Button 'Upload from computer' in Window 'Edit | New  ...  - Microsoft​ Edge' 2,Open Bi tool & Load the data,Event_325
+30,Recording_64,Process_18,2022-02-28T09:46:03+00:00,Click UI element in window,Edit 'Name' in Window 'Edit | New  ...  - Microsoft​ Edge' 2,Open Bi tool & Load the data,Event_325
+31,Recording_64,Process_18,2022-02-28T09:46:06+00:00,Press button in window,Button 'Open' in Window 'Edit | New  ...  - Microsoft​ Edge',Open Bi tool & Load the data,Event_325
+32,Recording_64,Process_18,2022-02-28T09:46:24+00:00,Drag and drop UI element in window,Group 'tab-schema-field-label-area tabDropTarget' in Window 'Edit | New  ...  - Microsoft​ Edge' 2,Create a report,Event_326
+33,Recording_64,Process_18,2022-02-28T09:46:35+00:00,Drag and drop UI element in window,Group 'tab-schema-field-label-area tabDropTarget' in Window 'Edit | New  ...  - Microsoft​ Edge',Create a report,Event_326
+34,Recording_64,Process_18,2022-02-28T09:46:47+00:00,Drag and drop UI element in window,Group 'tab-schema-field-label-area tabDropTarget' 2 in Window 'Edit | New  ...  - Microsoft​ Edge',Create a report,Event_326
+35,Recording_64,Process_18,2022-02-28T09:47:07+00:00,Drag and drop UI element in window,Group 'tab-schema-field-label-area tabDropTarget' 3 in Window 'Edit | New  ...  - Microsoft​ Edge',Create a report,Event_326
+36,Recording_64,Process_18,2022-02-28T09:47:15+00:00,Click UI element in window,Group 'tab-clip' in Window 'Edit | New  ...  - Microsoft​ Edge' 2,Create a report,Event_326
+37,Recording_64,Process_18,2022-02-28T09:47:21+00:00,Press button in window,Button 'Publish As...' in Window 'Edit | New  ...  - Microsoft​ Edge',Create a report,Event_326
+38,Recording_64,Process_18,2022-02-28T09:47:27+00:00,Populate text field in window,Edit 'tabAuthSaveTextInput tab-selectable' in Window 'Edit | New  ...  - Microsoft​ Edge' 2; Text:'kp1',Create a report,Event_326
+39,Recording_64,Process_18,2022-02-28T09:47:30+00:00,Press button in window,Button 'Publish' in Window 'Edit | New  ...  - Microsoft​ Edge',Create a report,Event_326

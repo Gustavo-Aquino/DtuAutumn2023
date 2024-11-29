@@ -1,0 +1,107 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_113,Process_45,2022-02-14T08:03:22+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Open an Approval app,Event_528
+1,Recording_113,Process_45,2022-02-14T08:03:28+00:00,Select menu option in window,"Menu Item 'More added apps Toolbar' in Pane 'General  ...  Teams, Main Window'",Open an Approval app,Event_528
+2,Recording_113,Process_45,2022-02-14T08:03:31+00:00,Click UI element in window,"Image 'Approvals app icon' in Pane 'General  ...  Teams, Main Window'",Open an Approval app,Event_528
+3,Recording_113,Process_45,2022-02-14T08:03:42+00:00,Select tab in window,"Tab Item 'Sent' in Pane 'General  ...  Teams, Main Window'",Check if a response on approval  request is received or not.,Event_529
+4,Recording_113,Process_45,2022-02-14T08:03:50+00:00,Click UI element in window,"Data Item 'Work on project' in Pane 'General  ...  Teams, Main Window'",Check if a response on approval  request is received or not.,Event_529
+5,Recording_113,Process_45,2022-02-14T08:04:06+00:00,Press button in window,"Button 'Close dialog' in Pane 'General  ...  Teams, Main Window'",Check if a response on approval  request is received or not.,Event_529
+6,Recording_113,Process_45,2022-02-14T08:04:12+00:00,Press button in window,Google Chrome - 1 running window in Quick Launch Bar,Send project Manuals to Teamates through email,Event_530
+7,Recording_113,Process_45,2022-02-14T08:04:23+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Person 1'; Text:'outlook',Send project Manuals to Teamates through email,Event_530
+8,Recording_113,Process_45,2022-02-14T08:04:24+00:00,Send keys,TextToSend:'{Return}',Send project Manuals to Teamates through email,Event_530
+9,Recording_113,Process_45,2022-02-14T08:04:27+00:00,Click UI element in window,Hyperlink ' Outlook  ... k.live.com' in Pane 'New Tab - Google Chrome - Person 1',Send project Manuals to Teamates through email,Event_530
+10,Recording_113,Process_45,2022-02-14T08:04:36+00:00,Press button in window,Button 'New message' in Pane 'New Tab - Google Chrome - Person 1',Send project Manuals to Teamates through email,Event_530
+11,Recording_113,Process_45,2022-02-14T08:04:41+00:00,Click UI element in window,Combo Box 'To' in Pane 'New Tab - Google Chrome - Person 1',Send project Manuals to Teamates through email,Event_530
+12,Recording_113,Process_45,2022-02-14T08:04:43+00:00,Send keys,TextToSend:'Username{Back}{Back}{Back}nita',Send project Manuals to Teamates through email,Event_530
+13,Recording_113,Process_45,2022-02-14T08:04:50+00:00,Click UI element in window,List Item 'Name (Email@Domain)' in Pane 'New Tab - Google Chrome - Person 1',Send project Manuals to Teamates through email,Event_530
+14,Recording_113,Process_45,2022-02-14T08:04:52+00:00,Send keys,TextToSend:'Name{Back}l{LShiftKey}(@)my{Back}{Back}{Back}{Back}',Send project Manuals to Teamates through email,Event_530
+15,Recording_113,Process_45,2022-02-14T08:05:27+00:00,Click UI element in window,List Item 'Email@Domain (Email@Domain)' in Pane 'New Tab - Google Chrome - Person 1',Send project Manuals to Teamates through email,Event_530
+16,Recording_113,Process_45,2022-02-14T08:05:35+00:00,Populate text field in window,Edit 'Add a subject' in Pane 'New Tab - Google Chrome - Person 1'; Text:'Project Manual',Send project Manuals to Teamates through email,Event_530
+17,Recording_113,Process_45,2022-02-14T08:05:44+00:00,Populate text field in window,"Edit 'Message body' in Pane 'New Tab - Google Chrome - Person 1'; Text:'Hello,'",Send project Manuals to Teamates through email,Event_530
+18,Recording_113,Process_45,2022-02-14T08:05:44+00:00,Send keys,TextToSend:'{Return}',Send project Manuals to Teamates through email,Event_530
+19,Recording_113,Process_45,2022-02-14T08:05:45+00:00,Populate text field in window,"Edit 'Message body' in Pane 'New Tab - Google Chrome - Person 1'; Text:'''Hello,
+PFA'''",Send project Manuals to Teamates through email,Event_530
+20,Recording_113,Process_45,2022-02-14T08:05:46+00:00,Send keys,TextToSend:'{Return}{Return}{Return}',Send project Manuals to Teamates through email,Event_530
+21,Recording_113,Process_45,2022-02-14T08:05:51+00:00,Populate text field in window,"Edit 'Message body' in Pane 'New Tab - Google Chrome - Person 1'; Text:'''Hello,
+PFA
+
+
+
+
+Regards,'''",Send project Manuals to Teamates through email,Event_530
+22,Recording_113,Process_45,2022-02-14T08:05:52+00:00,Send keys,TextToSend:'{Return}',Send project Manuals to Teamates through email,Event_530
+23,Recording_113,Process_45,2022-02-14T08:05:56+00:00,Populate text field in window,"Edit 'Message body' in Pane 'New Tab - Google Chrome - Person 1'; Text:'''Hello,
+PFA
+
+
+
+
+Regards,
+Name Surname'''",Send project Manuals to Teamates through email,Event_530
+24,Recording_113,Process_45,2022-02-14T08:06:00+00:00,Select menu option in window,Menu Item 'Attach' in Pane 'New Tab - Google Chrome - Person 1',Send project Manuals to Teamates through email,Event_530
+25,Recording_113,Process_45,2022-02-14T08:06:03+00:00,Select menu option in window,Menu Item 'Browse this computer' in Pane 'New Tab - Google Chrome - Person 1',Send project Manuals to Teamates through email,Event_530
+26,Recording_113,Process_45,2022-02-14T08:06:07+00:00,Click UI element in window,Tree Item 'Documents' in Pane 'New Tab - Google Chrome - Person 1',Send project Manuals to Teamates through email,Event_530
+27,Recording_113,Process_45,2022-02-14T08:06:10+00:00,Click UI element in window,Edit 'Name' in Pane 'New Tab - Google Chrome - Person 1',Send project Manuals to Teamates through email,Event_530
+28,Recording_113,Process_45,2022-02-14T08:06:11+00:00,Click UI element in window,Edit 'Name' in Pane 'New Tab - Google Chrome - Person 1',Send project Manuals to Teamates through email,Event_530
+29,Recording_113,Process_45,2022-02-14T08:06:16+00:00,Click UI element in window,List Item 'New project' in Pane 'New Tab - Google Chrome - Person 1',Send project Manuals to Teamates through email,Event_530
+30,Recording_113,Process_45,2022-02-14T08:06:19+00:00,Click UI element in window,Edit 'Name' 2 in Pane 'New Tab - Google Chrome - Person 1',Send project Manuals to Teamates through email,Event_530
+31,Recording_113,Process_45,2022-02-14T08:06:22+00:00,Press button in window,Button 'Open' in Pane 'New Tab - Google Chrome - Person 1',Send project Manuals to Teamates through email,Event_530
+32,Recording_113,Process_45,2022-02-14T08:06:33+00:00,Select menu option in window,Menu Item 'Send' in Pane 'New Tab - Google Chrome - Person 1',Send project Manuals to Teamates through email,Event_530
+0,Recording_115,Process_45,2022-02-14T08:41:02+00:00,Press button in window,Google Chrome - 1 running window in Quick Launch Bar,Login to support tool,Event_534
+1,Recording_115,Process_45,2022-02-14T08:41:09+00:00,Press button in window,Button 'New Tab' in Pane 'Process  ...  Chrome - Name',Login to support tool,Event_534
+2,Recording_115,Process_45,2022-02-14T08:41:12+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'Process  ...  Chrome - Name'; Text:'zoho crm',Login to support tool,Event_534
+3,Recording_115,Process_45,2022-02-14T08:41:15+00:00,Send keys,TextToSend:'{Return}',Login to support tool,Event_534
+4,Recording_115,Process_45,2022-02-14T08:41:19+00:00,Click UI element in window,Hyperlink ' Zoho CRM  ... .com › crm' in Pane 'Process  ...  Chrome - Name',Login to support tool,Event_534
+5,Recording_115,Process_45,2022-02-14T08:41:27+00:00,Click UI element in window,Hyperlink 'ACCESS ZOHO CRM' in Pane 'Process  ...  Chrome - Name',Login to support tool,Event_534
+6,Recording_115,Process_45,2022-02-14T08:41:37+00:00,Click UI element in window,Image in Pane 'Process  ...  Chrome - Name',Verify whether approval request is accepted or not,Event_535
+7,Recording_115,Process_45,2022-02-14T08:41:39+00:00,Click UI element in window,Data Item 'Feeds' in Pane 'Process  ...  Chrome - Name',Verify whether approval request is accepted or not,Event_535
+8,Recording_115,Process_45,2022-02-14T08:41:47+00:00,Click UI element in window,"Text ', has been approved by ' in Pane 'Process  ...  Chrome - Name'",Verify whether approval request is accepted or not,Event_535
+9,Recording_115,Process_45,2022-02-14T08:42:05+00:00,Click UI element in window,Text 'Your request has been approved by ' in Pane 'Process  ...  Chrome - Name',Verify whether approval request is accepted or not,Event_535
+10,Recording_115,Process_45,2022-02-14T08:42:14+00:00,Press button in window,Button 'New Tab' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+11,Recording_115,Process_45,2022-02-14T08:42:16+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'Process  ...  Chrome - Name'; Text:'gmail', Share the project rrequirements to all team members throrugh mail.,Event_536
+12,Recording_115,Process_45,2022-02-14T08:42:18+00:00,Send keys,TextToSend:'{Return}', Share the project rrequirements to all team members throrugh mail.,Event_536
+13,Recording_115,Process_45,2022-02-14T08:42:22+00:00,Click UI element in window,Hyperlink ' Gmail - Google https://www.google.com › gmail' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+14,Recording_115,Process_45,2022-02-14T08:42:28+00:00,Click UI element in window,Hyperlink 'Gmail' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+15,Recording_115,Process_45,2022-02-14T08:42:32+00:00,Press button in window,Button 'Compose' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+16,Recording_115,Process_45,2022-02-14T08:42:38+00:00,Click UI element in window,Combo Box 'To' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+17,Recording_115,Process_45,2022-02-14T08:42:40+00:00,Send keys,TextToSend:'kru', Share the project rrequirements to all team members throrugh mail.,Event_536
+18,Recording_115,Process_45,2022-02-14T08:42:47+00:00,Click UI element in window,Text 'Email@Domain' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+19,Recording_115,Process_45,2022-02-14T08:42:49+00:00,Send keys,TextToSend:'Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+20,Recording_115,Process_45,2022-02-14T08:42:54+00:00,Click UI element in window,List Item 'Email@Domain' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+21,Recording_115,Process_45,2022-02-14T08:42:57+00:00,Click UI element in window,Text 'Import contacts and mail' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+22,Recording_115,Process_45,2022-02-14T08:43:04+00:00,Populate text field in window,Edit 'Subject' in Pane 'Process  ...  Chrome - Name'; Text:'Project Manual', Share the project rrequirements to all team members throrugh mail.,Event_536
+23,Recording_115,Process_45,2022-02-14T08:43:08+00:00,Click UI element in window,Edit 'Subject' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+24,Recording_115,Process_45,2022-02-14T08:43:11+00:00,Select menu option in window,Menu Item 'Attach files' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+25,Recording_115,Process_45,2022-02-14T08:43:18+00:00,Click UI element in window,Tree Item 'Documents' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+26,Recording_115,Process_45,2022-02-14T08:43:22+00:00,Click UI element in window,Edit 'Name' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+27,Recording_115,Process_45,2022-02-14T08:43:24+00:00,Click UI element in window,Edit 'Name' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+28,Recording_115,Process_45,2022-02-14T08:43:29+00:00,Click UI element in window,Edit 'Name' 2 in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+29,Recording_115,Process_45,2022-02-14T08:43:31+00:00,Press button in window,Button 'Open' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+30,Recording_115,Process_45,2022-02-14T08:43:46+00:00,Press button in window,Button 'OK' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+31,Recording_115,Process_45,2022-02-14T08:43:49+00:00,Press button in window,Button 'Send ‪(Ctrl-Enter)‬' in Pane 'Process  ...  Chrome - Name', Share the project rrequirements to all team members throrugh mail.,Event_536
+0,Recording_116,Process_45,2022-02-14T08:45:24+00:00,Press button in window,Welcome Name  ...  - 2 running windows in Quick Launch Bar,Go to the Flow in Power Automate ,Event_537
+1,Recording_116,Process_45,2022-02-14T08:45:28+00:00,Click UI element in window,List Item 'Microsoft  ...  - Google Chrome' in List 'Task Switcher',Go to the Flow in Power Automate ,Event_537
+2,Recording_116,Process_45,2022-02-14T08:45:32+00:00,Select menu option in window,Menu Item 'My flows' in Pane 'Microsoft  ...  Chrome (Incognito)',Go to the Flow in Power Automate ,Event_537
+3,Recording_116,Process_45,2022-02-14T08:45:42+00:00,Click UI element in window,Hyperlink 'Approval for project' in Pane 'Microsoft  ...  Chrome (Incognito)',Verify the status on approval request,Event_538
+4,Recording_116,Process_45,2022-02-14T08:45:53+00:00,Click UI element in window,"Hyperlink 'Feb 14, 01:58 PM (16 minutes ago)' in Pane 'Microsoft  ...  Chrome (Incognito)'",Verify the status on approval request,Event_538
+5,Recording_116,Process_45,2022-02-14T08:46:00+00:00,Press button in window,Button 'Condition' in Pane 'Microsoft  ...  Chrome (Incognito)',Verify the status on approval request,Event_538
+6,Recording_116,Process_45,2022-02-14T08:46:08+00:00,Press button in window,Button 'Compose' in Pane 'Microsoft  ...  Chrome (Incognito)',Verify the status on approval request,Event_538
+7,Recording_116,Process_45,2022-02-14T08:46:15+00:00,Click UI element in window,Table in Pane 'Microsoft  ...  Chrome (Incognito)',Verify the status on approval request,Event_538
+8,Recording_116,Process_45,2022-02-14T08:46:31+00:00,Press button in window,Button 'New Tab' in Pane 'Microsoft  ...  Chrome (Incognito)',Verify the status on approval request,Event_538
+9,Recording_116,Process_45,2022-02-14T08:46:34+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'Microsoft  ...  Chrome (Incognito)'; Text:'yahoo mail',Verify the status on approval request,Event_538
+10,Recording_116,Process_45,2022-02-14T08:46:36+00:00,Send keys,TextToSend:'{Return}',Verify the status on approval request,Event_538
+11,Recording_116,Process_45,2022-02-14T08:46:45+00:00,Click UI element in window,Hyperlink ' Yahoo Mail https://mail.yahoo.com' in Pane 'Microsoft  ...  Chrome (Incognito)',Send project Manuals to Teamates through email,Event_539
+12,Recording_116,Process_45,2022-02-14T08:46:53+00:00,Press button in window,Button 'Compose' 2 in Pane 'Microsoft  ...  Chrome (Incognito)',Send project Manuals to Teamates through email,Event_539
+13,Recording_116,Process_45,2022-02-14T08:47:01+00:00,Click UI element in window,Combo Box in Pane 'Microsoft  ...  Chrome (Incognito)',Send project Manuals to Teamates through email,Event_539
+14,Recording_116,Process_45,2022-02-14T08:47:03+00:00,Send keys,"TextToSend:'Username{RShiftKey}(_)vd{LShiftKey}(@)Domain,Namedes{RShiftKey}(_)vd{LShiftKey}(){LShiftKey}(@)Domain'",Send project Manuals to Teamates through email,Event_539
+15,Recording_116,Process_45,2022-02-14T08:47:48+00:00,Populate text field in window,Edit 'Subject' in Pane 'Microsoft  ...  Chrome (Incognito)'; Text:'project maual for new project',Send project Manuals to Teamates through email,Event_539
+16,Recording_116,Process_45,2022-02-14T08:47:58+00:00,Click UI element in window,Edit 'Message body' in Pane 'Microsoft  ...  Chrome (Incognito)',Send project Manuals to Teamates through email,Event_539
+17,Recording_116,Process_45,2022-02-14T08:48:05+00:00,Populate text field in window,"Edit 'Message body' 2 in Pane 'Microsoft  ...  Chrome (Incognito)'; Text:'Hello Team, '",Send project Manuals to Teamates through email,Event_539
+18,Recording_116,Process_45,2022-02-14T08:48:06+00:00,Send keys,TextToSend:'{Return}',Send project Manuals to Teamates through email,Event_539
+19,Recording_116,Process_45,2022-02-14T08:48:18+00:00,Populate text field in window,"Edit 'Message body' 2 in Pane 'Microsoft  ...  Chrome (Incognito)'; Text:'''Hello Team, 
+Please find attached document.'''",Send project Manuals to Teamates through email,Event_539
+20,Recording_116,Process_45,2022-02-14T08:48:23+00:00,Press button in window,Button 'Attach files' in Pane 'Microsoft  ...  Chrome (Incognito)',Send project Manuals to Teamates through email,Event_539
+21,Recording_116,Process_45,2022-02-14T08:48:27+00:00,Select menu option in window,Menu Item 'Attach files from computer' in Pane 'Microsoft  ...  Chrome (Incognito)',Send project Manuals to Teamates through email,Event_539
+22,Recording_116,Process_45,2022-02-14T08:48:32+00:00,Click UI element in window,Tree Item 'Documents' in Pane 'Microsoft  ...  Chrome (Incognito)',Send project Manuals to Teamates through email,Event_539
+23,Recording_116,Process_45,2022-02-14T08:48:39+00:00,Click UI element in window,Edit 'Name' in Pane 'Microsoft  ...  Chrome (Incognito)',Send project Manuals to Teamates through email,Event_539
+24,Recording_116,Process_45,2022-02-14T08:48:42+00:00,Press button in window,Button 'Open' in Pane 'Microsoft  ...  Chrome (Incognito)',Send project Manuals to Teamates through email,Event_539
+25,Recording_116,Process_45,2022-02-14T08:48:46+00:00,Press button in window,Button 'Send' in Pane 'Microsoft  ...  Chrome (Incognito)',Send project Manuals to Teamates through email,Event_539

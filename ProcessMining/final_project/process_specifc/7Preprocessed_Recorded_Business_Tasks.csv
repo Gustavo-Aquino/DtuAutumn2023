@@ -1,0 +1,105 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_9,Process_7,2022-02-22T02:43:23+00:00,Select menu option in window,Firefox - 2 running windows in Quick Launch Bar,Open the active directory of organization,Event_34
+1,Recording_9,Process_7,2022-02-22T02:43:26+00:00,Click UI element in window,List Item 'Mozilla Firefox (Private Browsing)' in List 'Task Switcher',Open the active directory of organization,Event_34
+2,Recording_9,Process_7,2022-02-22T02:43:34+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox (Private Browsing)'; Text:'o365',Open the active directory of organization,Event_34
+3,Recording_9,Process_7,2022-02-22T02:43:35+00:00,Send keys,TextToSend:'{Return}',Open the active directory of organization,Event_34
+4,Recording_9,Process_7,2022-02-22T02:43:39+00:00,Click UI element in window,Hyperlink 'Office  ... office.com' in Window 'o365 -  ...  (Private Browsing)',Open the active directory of organization,Event_34
+5,Recording_9,Process_7,2022-02-22T02:43:53+00:00,Select menu option in window,Menu Item 'App launcher' in Window 'Microsoft  ...  (Private Browsing)',Open the active directory of organization,Event_34
+6,Recording_9,Process_7,2022-02-22T02:43:57+00:00,Click UI element in window,Hyperlink 'Admin' in Window 'Microsoft  ...  (Private Browsing)',Open the active directory of organization,Event_34
+7,Recording_9,Process_7,2022-02-22T02:44:08+00:00,Select menu option in window,Menu Item 'Users' in Window 'Microsoft  ...  (Private Browsing)' 2,Locate the employee's profile who is on leave,Event_35
+8,Recording_9,Process_7,2022-02-22T02:44:10+00:00,Select menu option in window,Menu Item 'Active users' in Window 'Microsoft  ...  (Private Browsing)' 2,Locate the employee's profile who is on leave,Event_35
+9,Recording_9,Process_7,2022-02-22T02:44:18+00:00,Click UI element in window,Edit 'Name Surname' in Window 'Microsoft  ...  (Private Browsing)' 3,Locate the employee's profile who is on leave,Event_35
+10,Recording_9,Process_7,2022-02-22T02:44:28+00:00,Select tab in window,Tab Item 'OneDrive' in Window 'Microsoft  ...  (Private Browsing)' 2,Go to the employee's account on cloud storage,Event_36
+11,Recording_9,Process_7,2022-02-22T02:44:38+00:00,Press button in window,Button 'Create link to files' in Window 'Microsoft  ...  (Private Browsing)' 2,Go to the employee's account on cloud storage,Event_36
+12,Recording_9,Process_7,2022-02-22T02:44:49+00:00,Click UI element in window,Hyperlink ' ... osoft_com1' in Window 'Microsoft  ...  (Private Browsing)' 2,Go to the employee's account on cloud storage,Event_36
+13,Recording_9,Process_7,2022-02-22T02:44:59+00:00,Press button in window,Button 'Show actions' in Window 'My files -  ...  (Private Browsing)',Copy the link of meeting agenda file,Event_37
+14,Recording_9,Process_7,2022-02-22T02:45:03+00:00,Select menu option in window,Menu Item 'Copy link' in Window 'My files -  ...  (Private Browsing)',Copy the link of meeting agenda file,Event_37
+15,Recording_9,Process_7,2022-02-22T02:45:11+00:00,Press button in window,Button 'Copy' in Window 'My files -  ...  (Private Browsing)',Copy the link of meeting agenda file,Event_37
+16,Recording_9,Process_7,2022-02-22T02:45:15+00:00,Press button in window,"System Clock, 08:15 AM, ‎22-‎02-‎2022 in System Tray",Go to the calendar and set a meeting request,Event_38
+17,Recording_9,Process_7,2022-02-22T02:45:21+00:00,Click UI element in window,Data Item '26' in Window 'Date and Time Usernamermation',Go to the calendar and set a meeting request,Event_38
+18,Recording_9,Process_7,2022-02-22T02:45:35+00:00,Populate text field in window,Edit 'Add an event or reminder' in Window 'Date and Time Usernamermation'; Text:'Meeting Agenda ',Go to the calendar and set a meeting request,Event_38
+19,Recording_9,Process_7,2022-02-22T02:45:43+00:00,Press button in window,Button 'More details' in Window 'Date and Time Usernamermation',Go to the calendar and set a meeting request,Event_38
+20,Recording_9,Process_7,2022-02-22T02:45:53+00:00,Press button in window,Button 'Date Picker' in Window 'dsgfd - Event ‎- Calendar',Go to the calendar and set a meeting request,Event_38
+21,Recording_9,Process_7,2022-02-22T02:45:56+00:00,Press button in window,Button '26 February 2022' in Window 'dsgfd - Event ‎- Calendar',Go to the calendar and set a meeting request,Event_38
+22,Recording_9,Process_7,2022-02-22T02:45:59+00:00,Set checkbox state in window,Check Box 'All day' in Window 'dsgfd - Event ‎- Calendar',Go to the calendar and set a meeting request,Event_38
+23,Recording_9,Process_7,2022-02-22T02:46:00+00:00,Click UI element in window,Edit 'Event description' in Window 'dsgfd - Event ‎- Calendar',Go to the calendar and set a meeting request,Event_38
+24,Recording_9,Process_7,2022-02-22T02:46:03+00:00,Send keys,"TextToSend:'{LShiftKey}(H)ello{LShiftKey}(<){Back},{Return}{LShiftKey}(C)an we have a discussion for meeting agenda next week{LShiftKey}(?)'",Go to the calendar and set a meeting request,Event_38
+25,Recording_9,Process_7,2022-02-22T02:46:38+00:00,Populate text field in window,Edit 'Event name' in Window 'dsgfd - Event ‎- Calendar'; Text:'Meeting Agenda',Go to the calendar and set a meeting request,Event_38
+26,Recording_9,Process_7,2022-02-22T02:46:50+00:00,Send keys,TextToSend:'{Return}{Return}',Go to the calendar and set a meeting request,Event_38
+27,Recording_9,Process_7,2022-02-22T02:46:54+00:00,Click UI element in window,Edit 'Event description' in Window 'dsgfd - Event ‎- Calendar',Go to the calendar and set a meeting request,Event_38
+28,Recording_9,Process_7,2022-02-22T02:46:55+00:00,Send keys,TextToSend:'{Return}{LControlKey}({V})',Send the meeting invitation by sharing link,Event_39
+29,Recording_9,Process_7,2022-02-22T02:47:06+00:00,Populate text field in window,Edit 'Invite someone' in Window 'dsgfd - Event ‎- Calendar'; Text:'Name',Send the meeting invitation by sharing link,Event_39
+30,Recording_9,Process_7,2022-02-22T02:47:09+00:00,Click UI element in window,List Item 'Name Surname Email@Domain' in Window 'dsgfd - Event ‎- Calendar',Send the meeting invitation by sharing link,Event_39
+31,Recording_9,Process_7,2022-02-22T02:47:14+00:00,Press button in window,Button 'Send' in Window 'dsgfd - Event ‎- Calendar',Send the meeting invitation by sharing link,Event_39
+0,Recording_28,Process_7,2022-02-22T02:45:33+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar,Open the organization's employee records,Event_127
+1,Recording_28,Process_7,2022-02-22T02:45:35+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher',Open the organization's employee records,Event_127
+2,Recording_28,Process_7,2022-02-22T02:45:39+00:00,Press button in window,Button 'Microsoft 365 admin center - Home' in Pane 'New Tab - Google Chrome (Incognito)',Open the organization's employee records,Event_127
+3,Recording_28,Process_7,2022-02-22T02:45:48+00:00,Select menu option in window,Menu Item 'Users' in Pane 'New Tab - Google Chrome (Incognito)',Find the profile of employee who is on leave,Event_128
+4,Recording_28,Process_7,2022-02-22T02:45:51+00:00,Select menu option in window,Menu Item 'Active users' in Pane 'New Tab - Google Chrome (Incognito)',Find the profile of employee who is on leave,Event_128
+5,Recording_28,Process_7,2022-02-22T02:46:00+00:00,Populate text field in window,Edit 'Enter to search active users list' in Pane 'New Tab - Google Chrome (Incognito)'; Text:'Name',Find the profile of employee who is on leave,Event_128
+6,Recording_28,Process_7,2022-02-22T02:46:03+00:00,Send keys,TextToSend:'{Return}',Find the profile of employee who is on leave,Event_128
+7,Recording_28,Process_7,2022-02-22T02:46:09+00:00,Click UI element in window,Data Item 'Name  ...  on selected user' in Pane 'New Tab - Google Chrome (Incognito)',Find the profile of employee who is on leave,Event_128
+8,Recording_28,Process_7,2022-02-22T02:46:17+00:00,Select tab in window,Tab Item 'OneDrive' in Pane 'New Tab - Google Chrome (Incognito)', Go to cloud storage tab from employee's profile,Event_129
+9,Recording_28,Process_7,2022-02-22T02:46:28+00:00,Press button in window,Button 'Create link to files' in Pane 'New Tab - Google Chrome (Incognito)', Go to cloud storage tab from employee's profile,Event_129
+10,Recording_28,Process_7,2022-02-22T02:46:41+00:00,Click UI element in window,Data Item ' ... rosoft.com' in Pane 'New Tab - Google Chrome (Incognito)', Go to cloud storage tab from employee's profile,Event_129
+11,Recording_28,Process_7,2022-02-22T02:46:49+00:00,Click UI element in window,Data Item 'New  ...  people Show actions' in Pane 'New Tab - Google Chrome (Incognito)',Copy the link of document having meeting agenda ,Event_130
+12,Recording_28,Process_7,2022-02-22T02:46:56+00:00,Press button in window,Button 'Show actions' in Pane 'New Tab - Google Chrome (Incognito)',Copy the link of document having meeting agenda ,Event_130
+13,Recording_28,Process_7,2022-02-22T02:47:00+00:00,Select menu option in window,Menu Item 'Copy link' in Pane 'New Tab - Google Chrome (Incognito)',Copy the link of document having meeting agenda ,Event_130
+14,Recording_28,Process_7,2022-02-22T02:47:07+00:00,Press button in window,Button 'Copy' in Pane 'New Tab - Google Chrome (Incognito)',Copy the link of document having meeting agenda ,Event_130
+15,Recording_28,Process_7,2022-02-22T02:47:14+00:00,Press button in window,Button 'Copy' in Pane 'New Tab - Google Chrome (Incognito)',Copy the link of document having meeting agenda ,Event_130
+16,Recording_28,Process_7,2022-02-22T02:47:22+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar,Open the calendar and set up a meeting invite ,Event_131
+17,Recording_28,Process_7,2022-02-22T02:47:25+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' 2 in List 'Task Switcher',Open the calendar and set up a meeting invite ,Event_131
+18,Recording_28,Process_7,2022-02-22T02:47:30+00:00,Press button in window,Button 'Google apps' in Pane 'New Tab - Google Chrome (Incognito)',Open the calendar and set up a meeting invite ,Event_131
+19,Recording_28,Process_7,2022-02-22T02:47:33+00:00,Click UI element in window,Document in Pane 'New Tab - Google Chrome (Incognito)',Open the calendar and set up a meeting invite ,Event_131
+20,Recording_28,Process_7,2022-02-22T02:47:41+00:00,Click UI element in window,Group in Pane 'New Tab - Google Chrome (Incognito)',Open the calendar and set up a meeting invite ,Event_131
+21,Recording_28,Process_7,2022-02-22T02:47:56+00:00,Click UI element in window,Data Item '24' in Pane 'New Tab - Google Chrome (Incognito)',Open the calendar and set up a meeting invite ,Event_131
+22,Recording_28,Process_7,2022-02-22T02:48:00+00:00,Click UI element in window,"Data Item '1 event, Thursday, February 24' in Pane 'New Tab - Google Chrome (Incognito)'",Open the calendar and set up a meeting invite ,Event_131
+23,Recording_28,Process_7,2022-02-22T02:48:17+00:00,Populate text field in window,Edit 'Add title' in Pane 'New Tab - Google Chrome (Incognito)'; Text:'Meeting Agenda',Open the calendar and set up a meeting invite ,Event_131
+24,Recording_28,Process_7,2022-02-22T02:48:26+00:00,Press button in window,"Button 'Thursday, February 24 1:00pm – 2:00pm Time zone·Does not repeat' in Pane 'New Tab - Google Chrome (Incognito)'",Open the calendar and set up a meeting invite ,Event_131
+25,Recording_28,Process_7,2022-02-22T02:48:30+00:00,Click UI element in window,List Item '1:15pm' in Pane 'New Tab - Google Chrome (Incognito)',Open the calendar and set up a meeting invite ,Event_131
+26,Recording_28,Process_7,2022-02-22T02:48:33+00:00,Click UI element in window,Edit 'End time' in Pane 'New Tab - Google Chrome (Incognito)',Open the calendar and set up a meeting invite ,Event_131
+27,Recording_28,Process_7,2022-02-22T02:48:40+00:00,Click UI element in window,List Item '1:45pm (30 mins)' in Pane 'New Tab - Google Chrome (Incognito)',Open the calendar and set up a meeting invite ,Event_131
+28,Recording_28,Process_7,2022-02-22T02:48:47+00:00,Press button in window,Button 'Add guests' in Pane 'New Tab - Google Chrome (Incognito)',Send meeting invitation along with link of document having agenda,Event_132
+29,Recording_28,Process_7,2022-02-22T02:48:50+00:00,Click UI element in window,Text 'Add guests' in Pane 'New Tab - Google Chrome (Incognito)',Send meeting invitation along with link of document having agenda,Event_132
+30,Recording_28,Process_7,2022-02-22T02:48:51+00:00,Send keys,TextToSend:'jat{Back}{Back}',Send meeting invitation along with link of document having agenda,Event_132
+31,Recording_28,Process_7,2022-02-22T02:48:57+00:00,Press button in window,Button 'Add Google Meet video conferencing' in Pane 'New Tab - Google Chrome (Incognito)',Send meeting invitation along with link of document having agenda,Event_132
+32,Recording_28,Process_7,2022-02-22T02:49:05+00:00,Press button in window,Button 'More options' in Pane 'New Tab - Google Chrome (Incognito)',Send meeting invitation along with link of document having agenda,Event_132
+33,Recording_28,Process_7,2022-02-22T02:49:36+00:00,Click UI element in window,UI Custom in Pane 'New Tab - Google Chrome (Incognito)',Send meeting invitation along with link of document having agenda,Event_132
+34,Recording_28,Process_7,2022-02-22T02:49:37+00:00,Populate text field in window,Edit 'Description' in Pane 'New Tab - Google Chrome (Incognito)'; Text:'https://SurnameDATE-my.sharepoint.com/:w:/g/personal/Name_SurnameDATE_onmicrosoft_com/ENCODED_VALUE-HASHED_VALUE?e=HASHED_VALUE',Send meeting invitation along with link of document having agenda,Event_132
+35,Recording_28,Process_7,2022-02-22T02:49:45+00:00,Press button in window,Button 'Save' in Pane 'New Tab - Google Chrome (Incognito)',Send meeting invitation along with link of document having agenda,Event_132
+36,Recording_28,Process_7,2022-02-22T02:49:48+00:00,Click UI element in window,UI Custom 'Would you  ...  Calendar guests?' in Pane 'New Tab - Google Chrome (Incognito)',Send meeting invitation along with link of document having agenda,Event_132
+37,Recording_28,Process_7,2022-02-22T02:49:51+00:00,Press button in window,Button 'Send' in Pane 'New Tab - Google Chrome (Incognito)',Send meeting invitation along with link of document having agenda,Event_132
+0,Recording_29,Process_7,2022-02-22T02:48:32+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Open the company AD,Event_133
+1,Recording_29,Process_7,2022-02-22T02:48:34+00:00,Click UI element in window,List Item 'New tab  ...  - Microsoft​ Edge' in List 'Task Switcher',Open the company AD,Event_133
+2,Recording_29,Process_7,2022-02-22T02:48:46+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'admin.microsoft.com',Open the company AD,Event_133
+3,Recording_29,Process_7,2022-02-22T02:48:47+00:00,Send keys,TextToSend:'{Return}',Open the company AD,Event_133
+4,Recording_29,Process_7,2022-02-22T02:48:53+00:00,Select menu option in window,Menu Item 'Users' in Window 'Microsoft  ...  - Microsoft​ Edge',Search for the employee profile who is on leave,Event_134
+5,Recording_29,Process_7,2022-02-22T02:48:56+00:00,Select menu option in window,Menu Item 'Active users' in Window 'Microsoft  ...  - Microsoft​ Edge' 2,Search for the employee profile who is on leave,Event_134
+6,Recording_29,Process_7,2022-02-22T02:49:02+00:00,Click UI element in window,Edit 'Enter to search active users list' in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Search for the employee profile who is on leave,Event_134
+7,Recording_29,Process_7,2022-02-22T02:49:04+00:00,Populate text field in window,Edit 'Enter to search active users list' 2 in Window 'Microsoft  ...  - Microsoft​ Edge' 3; Text:'Name',Search for the employee profile who is on leave,Event_134
+8,Recording_29,Process_7,2022-02-22T02:49:07+00:00,Send keys,TextToSend:'{Return}',Search for the employee profile who is on leave,Event_134
+9,Recording_29,Process_7,2022-02-22T02:49:13+00:00,Click UI element in window,Data Item 'Name Surname  ...  user More actions' in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Search for the employee profile who is on leave,Event_134
+10,Recording_29,Process_7,2022-02-22T02:49:21+00:00,Select tab in window,Tab Item 'OneDrive' in Window 'Microsoft  ...  - Microsoft​ Edge' 2,Open the cloud storage tab from the user's profile,Event_135
+11,Recording_29,Process_7,2022-02-22T02:49:32+00:00,Press button in window,Button 'Create link to files' in Window 'Microsoft  ...  - Microsoft​ Edge' 2,Open the cloud storage tab from the user's profile,Event_135
+12,Recording_29,Process_7,2022-02-22T02:49:44+00:00,Click UI element in window,Hyperlink ' ... rosoft_com' in Window 'Microsoft  ...  - Microsoft​ Edge' 2,Open the cloud storage tab from the user's profile,Event_135
+13,Recording_29,Process_7,2022-02-22T02:49:55+00:00,Click UI element in window,Hyperlink 'Notebooks' in Window 'My files -  ...  - Microsoft​ Edge',"To share the meeting agenda, copy the link",Event_136
+14,Recording_29,Process_7,2022-02-22T02:50:08+00:00,Click UI element in window,Hyperlink 'Agenda.docx' in Window 'Notebooks -  ...  - Microsoft​ Edge',"To share the meeting agenda, copy the link",Event_136
+15,Recording_29,Process_7,2022-02-22T02:50:19+00:00,Press button in window,Button 'Share' in Window 'Agenda.docx  ...  - Microsoft​ Edge',"To share the meeting agenda, copy the link",Event_136
+16,Recording_29,Process_7,2022-02-22T02:50:24+00:00,Press button in window,Button 'Copy' in Window 'Agenda.docx  ...  - Microsoft​ Edge',"To share the meeting agenda, copy the link",Event_136
+17,Recording_29,Process_7,2022-02-22T02:50:29+00:00,Press button in window,Button 'Copy' 2 in Window 'Agenda.docx  ...  - Microsoft​ Edge',"To share the meeting agenda, copy the link",Event_136
+18,Recording_29,Process_7,2022-02-22T02:50:36+00:00,Press button in window,Outlook 2013 - 1 running window in Quick Launch Bar,Set a meeting request in calender,Event_137
+19,Recording_29,Process_7,2022-02-22T02:50:47+00:00,Press button in window,Button 'Calendar' in Window 'Inbox - Email@Domain - Outlook',Set a meeting request in calender,Event_137
+20,Recording_29,Process_7,2022-02-22T02:50:51+00:00,Press button in window,Button 'Calendar' in Window 'Inbox - Email@Domain - Outlook',Set a meeting request in calender,Event_137
+21,Recording_29,Process_7,2022-02-22T02:51:00+00:00,Click UI element in window,"List 'Month View,  ...  6, 2022 12:00am' in Window 'Calendar - Email@Domain - Outlook'",Set a meeting request in calender,Event_137
+22,Recording_29,Process_7,2022-02-22T02:51:04+00:00,Select menu option in window,Menu Item 'New Meeting Request' in Window 'Calendar - Email@Domain - Outlook',Set a meeting request in calender,Event_137
+23,Recording_29,Process_7,2022-02-22T02:51:41+00:00,Click UI element in window,Document 'Subject' in Window 'Untitled - Meeting  ',Set a meeting request in calender,Event_137
+24,Recording_29,Process_7,2022-02-22T02:51:42+00:00,Send keys,TextToSend:'meeting invitation',Set a meeting request in calender,Event_137
+25,Recording_29,Process_7,2022-02-22T02:52:06+00:00,Click UI element in window,Pane 'AfxWndW' in Window 'Untitled - Meeting  ',Set a meeting request in calender,Event_137
+26,Recording_29,Process_7,2022-02-22T02:52:08+00:00,Click UI element in window,Pane 'Afx:800:0:6:0',Set a meeting request in calender,Event_137
+27,Recording_29,Process_7,2022-02-22T02:52:09+00:00,Click UI element in window,Pane 'AfxWndW' in Window 'meeting invitation - Meeting  ',Set a meeting request in calender,Event_137
+28,Recording_29,Process_7,2022-02-22T02:52:11+00:00,Click UI element in window,Pane 'Afx:800:0:6:0',Set a meeting request in calender,Event_137
+29,Recording_29,Process_7,2022-02-22T02:52:13+00:00,Click UI element in window,Window 'Untitled - Meeting  ',Set a meeting request in calender,Event_137
+30,Recording_29,Process_7,2022-02-22T02:52:14+00:00,Send keys,TextToSend:'{LControlKey}({V})',Share meeting invite along with agenda link,Event_138
+31,Recording_29,Process_7,2022-02-22T02:52:33+00:00,Send keys,TextToSend:'sunsh',Share meeting invite along with agenda link,Event_138
+32,Recording_29,Process_7,2022-02-22T02:52:37+00:00,Click UI element in window,Text 'Email@Domain' in Window 'meeting invitation - Meeting  ',Share meeting invite along with agenda link,Event_138
+33,Recording_29,Process_7,2022-02-22T02:52:41+00:00,Press button in window,Button 'Send' in Window 'meeting invitation - Meeting  ',Share meeting invite along with agenda link,Event_138

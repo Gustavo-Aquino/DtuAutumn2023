@@ -1,0 +1,152 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_1,Process_1,2022-02-21T02:54:47+00:00,Select menu option in window,Google Chrome - 3 running windows in Quick Launch Bar,Login to collaborative tool,Event_1
+1,Recording_1,Process_1,2022-02-21T02:54:51+00:00,Press button in window,Button 'SharePoint' in Pane 'SharePoint - Google Chrome - Name',Login to collaborative tool,Event_1
+2,Recording_1,Process_1,2022-02-21T02:54:56+00:00,Click UI element in window,Hyperlink 'Project RoadMap' in Pane 'SharePoint - Google Chrome - Name',Login to collaborative tool,Event_1
+3,Recording_1,Process_1,2022-02-21T02:55:00+00:00,Click UI element in window,Hyperlink 'Documents' in Pane 'SharePoint - Google Chrome - Name',Login to collaborative tool,Event_1
+4,Recording_1,Process_1,2022-02-21T02:56:06+00:00,Click UI element in window,Hyperlink 'Feedback form instruction.docx' in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+5,Recording_1,Process_1,2022-02-21T02:56:17+00:00,Click UI element in window,Pane in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+6,Recording_1,Process_1,2022-02-21T02:56:20+00:00,Click UI element in window,Button 'Close' in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+7,Recording_1,Process_1,2022-02-21T02:56:25+00:00,Prepare a form for employees feedback,Button 'New Tab' in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+8,Recording_1,Process_1,2022-02-21T02:56:33+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'SharePoint - Google Chrome - Name'; Text:'zoho forms', Search the file having feedback form instruction,Event_2
+9,Recording_1,Process_1,2022-02-21T02:56:34+00:00,Send keys,TextToSend:'{Return}', Search the file having feedback form instruction,Event_2
+10,Recording_1,Process_1,2022-02-21T02:56:39+00:00,Click UI element in window,Hyperlink ' Form  ... om › forms' in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+11,Recording_1,Process_1,2022-02-21T02:56:46+00:00,Click UI element in window,Hyperlink 'ACCESS ZOHO FORMS' in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+12,Recording_1,Process_1,2022-02-21T02:57:08+00:00,Populate text field in window,Edit in Pane 'SharePoint - Google Chrome - Name'; Text:'Employee Feedback on Leave Policy', Search the file having feedback form instruction,Event_2
+13,Recording_1,Process_1,2022-02-21T02:57:26+00:00,Click UI element in window,List Item in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+14,Recording_1,Process_1,2022-02-21T02:57:34+00:00,Click UI element in window,List Item 2 in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+15,Recording_1,Process_1,2022-02-21T02:57:54+00:00,Populate text field in window,Edit 2 in Pane 'SharePoint - Google Chrome - Name'; Text:'Are you agree with the Leave Policy?', Search the file having feedback form instruction,Event_2
+16,Recording_1,Process_1,2022-02-21T02:58:00+00:00,Click UI element in window,Edit 3 in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+17,Recording_1,Process_1,2022-02-21T02:58:02+00:00,Drag and drop UI element in window,Edit 3 in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+18,Recording_1,Process_1,2022-02-21T02:58:03+00:00,Populate text field in window,Edit 3 in Pane 'SharePoint - Google Chrome - Name'; Text:'Yes', Search the file having feedback form instruction,Event_2
+19,Recording_1,Process_1,2022-02-21T02:58:09+00:00,Drag and drop UI element in window,Edit 4 in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+20,Recording_1,Process_1,2022-02-21T02:58:10+00:00,Populate text field in window,Edit 4 in Pane 'SharePoint - Google Chrome - Name'; Text:'No', Search the file having feedback form instruction,Event_2
+21,Recording_1,Process_1,2022-02-21T02:58:14+00:00,Click UI element in window,List Item 3 in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+22,Recording_1,Process_1,2022-02-21T02:58:20+00:00,Click UI element in window,Button 'Save' in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+23,Recording_1,Process_1,2022-02-21T02:58:33+00:00,Click UI element in window,List Item 4 in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+24,Recording_1,Process_1,2022-02-21T02:58:40+00:00,Select tab in window,Tab Item 'Zoho Forms' in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+25,Recording_1,Process_1,2022-02-21T02:58:46+00:00,Click UI element in window,Hyperlink ' Share' in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+26,Recording_1,Process_1,2022-02-21T02:58:52+00:00,Drag and drop UI element in window,Edit 5 in Pane 'SharePoint - Google Chrome - Name', Search the file having feedback form instruction,Event_2
+27,Recording_1,Process_1,2022-02-21T02:58:53+00:00,Send keys,TextToSend:'{LControlKey}({C})', Search the file having feedback form instruction,Event_2
+28,Recording_1,Process_1,2022-02-21T02:59:02+00:00,Click UI element in window,Button 'Zoho Admin Panel - Zoho Directory' in Pane 'SharePoint - Google Chrome - Name',Send the form to subordinate,Event_3
+29,Recording_1,Process_1,2022-02-21T02:59:32+00:00,Click UI element in window,Text 'Chats' in Pane 'SharePoint - Google Chrome - Name',Send the form to subordinate,Event_3
+30,Recording_1,Process_1,2022-02-21T02:59:42+00:00,Populate text field in window,"Edit 'Search Contacts, Chats & Channels' in Pane 'SharePoint - Google Chrome - Name'; Text:'Name'",Send the form to subordinate,Event_3
+31,Recording_1,Process_1,2022-02-21T02:59:47+00:00,Click UI element in window,Group in Pane 'SharePoint - Google Chrome - Name',Send the form to subordinate,Event_3
+32,Recording_1,Process_1,2022-02-21T02:59:53+00:00,Press button in window,Button 'Choose Files' in Pane 'SharePoint - Google Chrome - Name',Send the form to subordinate,Event_3
+33,Recording_1,Process_1,2022-02-21T02:59:54+00:00,Populate text field in window,Edit 6 in Pane 'SharePoint - Google Chrome - Name'; Text:'https://forms.zohopublic.in/projectroadmap/form/EmployeeFeedbackonLeavePolicy/formperma/Cpsh_HASHED_VALUE',Send the form to subordinate,Event_3
+34,Recording_1,Process_1,2022-02-21T03:00:01+00:00,Click UI element in window,Text 'Message queuing service' in Pane 'SharePoint - Google Chrome - Name',Send the form to subordinate,Event_3
+35,Recording_1,Process_1,2022-02-21T03:00:03+00:00,Click UI element in window,Edit 6 in Pane 'SharePoint - Google Chrome - Name',Send the form to subordinate,Event_3
+36,Recording_1,Process_1,2022-02-21T03:00:04+00:00,Send keys,TextToSend:'{Return}',Send the form to subordinate,Event_3
+37,Recording_1,Process_1,2022-02-21T03:00:11+00:00,Click UI element in window,Text '.NET Framework  ...  features.' in Pane 'SharePoint - Google Chrome - Name',Send the form to subordinate,Event_3
+38,Recording_1,Process_1,2022-02-21T03:00:32+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Create a tasks through roadmap app,Event_4
+39,Recording_1,Process_1,2022-02-21T03:00:35+00:00,Click UI element in window,"Pane in Pane 'General  ...  Teams, Main Window'",Create a tasks through roadmap app,Event_4
+40,Recording_1,Process_1,2022-02-21T03:00:41+00:00,Click UI element in window,"List Item 'Trello' in Pane 'General  ...  Teams, Main Window'",Create a tasks through roadmap app,Event_4
+41,Recording_1,Process_1,2022-02-21T03:00:50+00:00,Drag and drop UI element in window,"Document in Pane 'General  ...  Teams, Main Window'",Create a tasks through roadmap app,Event_4
+42,Recording_1,Process_1,2022-02-21T03:00:53+00:00,Click UI element in window,"Text 'Demo' in Pane 'General  ...  Teams, Main Window'",Create a tasks through roadmap app,Event_4
+43,Recording_1,Process_1,2022-02-21T03:00:56+00:00,Click UI element in window,"Button 'Save' in Pane 'General  ...  Teams, Main Window'",Create a tasks through roadmap app,Event_4
+44,Recording_1,Process_1,2022-02-21T03:01:08+00:00,Click UI element in window,"Hyperlink 'Add a card' in Pane 'General  ...  Teams, Main Window'",Create a tasks through roadmap app,Event_4
+45,Recording_1,Process_1,2022-02-21T03:01:29+00:00,Populate text field in window,"Edit 'Enter a title for this card…' in Pane 'General  ...  Teams, Main Window'; Text:'Task to conduct employee feedback on Leave policy'",Create a tasks through roadmap app,Event_4
+46,Recording_1,Process_1,2022-02-21T03:01:37+00:00,Drag and drop UI element in window,"Text 'Task to conduct employee feedback on Leave policy' in Button 'Add card' in Pane 'General  ...  Teams, Main Window'",Create a tasks through roadmap app,Event_4
+47,Recording_1,Process_1,2022-02-21T03:01:39+00:00,Click UI element in window,"Hyperlink 'Discuss  ...  has a description.' in Pane 'General  ...  Teams, Main Window'",Create a tasks through roadmap app,Event_4
+48,Recording_1,Process_1,2022-02-21T03:01:56+00:00,Populate text field in window,"Edit 'Add a more detailed description…' in Pane 'General  ...  Teams, Main Window'; Text:'Conduct survey for the Employee feedback on Leave Policy'",Create a tasks through roadmap app,Event_4
+49,Recording_1,Process_1,2022-02-21T03:02:05+00:00,Click UI element in window,"Hyperlink 'Join' in Pane 'General  ...  Teams, Main Window'",Create a tasks through roadmap app,Event_4
+50,Recording_1,Process_1,2022-02-21T03:02:10+00:00,Click UI element in window,"Hyperlink 'Join' in Pane 'General  ...  Teams, Main Window'",Create a tasks through roadmap app,Event_4
+51,Recording_1,Process_1,2022-02-21T03:02:20+00:00,Click UI element in window,"Hyperlink 'Add a card' 2 in Pane 'General  ...  Teams, Main Window'",Create a tasks through roadmap app,Event_4
+52,Recording_1,Process_1,2022-02-21T03:02:46+00:00,Click UI element in window,"Button 'Save' 2 in Pane 'General  ...  Teams, Main Window'",Create a tasks through roadmap app,Event_4
+0,Recording_112,Process_1,2022-02-18T09:21:33+00:00,Select menu option in window,Firefox - 2 running windows in Quick Launch Bar,Go to collaborative platform,Event_522
+1,Recording_112,Process_1,2022-02-18T09:21:39+00:00,Click UI element in window,List Item 'Untitled  ...  (Private Browsing)' in List 'Task Switcher',Go to collaborative platform,Event_522
+2,Recording_112,Process_1,2022-02-18T09:21:42+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Untitled  ...  (Private Browsing)' 2,Go to collaborative platform,Event_522
+3,Recording_112,Process_1,2022-02-18T09:21:47+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox (Private Browsing)'; Text:'o365',Go to collaborative platform,Event_522
+4,Recording_112,Process_1,2022-02-18T09:21:48+00:00,Send keys,TextToSend:'{Return}',Go to collaborative platform,Event_522
+5,Recording_112,Process_1,2022-02-18T09:21:53+00:00,Click UI element in window,Hyperlink 'Office  ... office.com' in Window 'o365 -  ...  (Private Browsing)',Go to collaborative platform,Event_522
+6,Recording_112,Process_1,2022-02-18T09:22:00+00:00,Select menu option in window,Menu Item 'App launcher' in Window 'Microsoft  ...  (Private Browsing)',Go to collaborative platform,Event_522
+7,Recording_112,Process_1,2022-02-18T09:22:04+00:00,Click UI element in window,Hyperlink 'SharePoint' in Window 'Microsoft  ...  (Private Browsing)',Go to collaborative platform,Event_522
+8,Recording_112,Process_1,2022-02-18T09:22:16+00:00,Click UI element in window,Hyperlink 'Site Project RoadMap.' in Window 'SharePoint — Mozilla Firefox (Private Browsing)',Locate the feedback form instruction,Event_523
+9,Recording_112,Process_1,2022-02-18T09:22:22+00:00,Click UI element in window,Hyperlink 'Documents' in Window 'Project  ...  (Private Browsing)',Locate the feedback form instruction,Event_523
+10,Recording_112,Process_1,2022-02-18T09:22:37+00:00,Click UI element in window,Hyperlink 'Feedback form instruction.docx' in Window 'Project  ...  (Private Browsing)' 2,Locate the feedback form instruction,Event_523
+11,Recording_112,Process_1,2022-02-18T09:22:44+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Untitled  ...  (Private Browsing)' 2,Create feedback form,Event_524
+12,Recording_112,Process_1,2022-02-18T09:22:49+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox (Private Browsing)'; Text:'google form',Create feedback form,Event_524
+13,Recording_112,Process_1,2022-02-18T09:22:50+00:00,Send keys,TextToSend:'{Return}',Create feedback form,Event_524
+14,Recording_112,Process_1,2022-02-18T09:22:55+00:00,Click UI element in window,Hyperlink 'Free  ...  › forms › about' in Window 'google form  ...  (Private Browsing)',Create feedback form,Event_524
+15,Recording_112,Process_1,2022-02-18T09:22:59+00:00,Click UI element in window,Hyperlink 'Go to Forms' in Window 'Google  ...  (Private Browsing)',Create feedback form,Event_524
+16,Recording_112,Process_1,2022-02-18T09:23:07+00:00,Click UI element in window,Image in Window 'Google Forms — Mozilla Firefox (Private Browsing)',Create feedback form,Event_524
+17,Recording_112,Process_1,2022-02-18T09:23:12+00:00,Click UI element in window,Edit 'Form title' in Window '- Google  ...  (Private Browsing)',Create feedback form,Event_524
+18,Recording_112,Process_1,2022-02-18T09:23:19+00:00,Populate text field in window,Edit 'Form title' in Window 'Untitled  ...  (Private Browsing)'; Text:'Policy Feedback Form',Create feedback form,Event_524
+19,Recording_112,Process_1,2022-02-18T09:23:23+00:00,Click UI element in window,Edit 'Question title' in Window 'Untitled  ...  (Private Browsing)',Create feedback form,Event_524
+20,Recording_112,Process_1,2022-02-18T09:23:42+00:00,Populate text field in window,Edit 'Question title' 2 in Window 'Untitled  ...  (Private Browsing)'; Text:'Are you agree with the new company policy?',Create feedback form,Event_524
+21,Recording_112,Process_1,2022-02-18T09:23:48+00:00,Press button in window,Button 'Add Agree' in Window 'Untitled  ...  (Private Browsing)',Create feedback form,Event_524
+22,Recording_112,Process_1,2022-02-18T09:23:51+00:00,Click UI element in window,Edit 'Add option' in Window 'Untitled  ...  (Private Browsing)',Create feedback form,Event_524
+23,Recording_112,Process_1,2022-02-18T09:23:56+00:00,Press button in window,Button 'Add Disagree' in Window 'Untitled  ...  (Private Browsing)',Create feedback form,Event_524
+24,Recording_112,Process_1,2022-02-18T09:24:04+00:00,Click UI element in window,List Item 'Multiple choice' in Window 'Untitled  ...  (Private Browsing)',Create feedback form,Event_524
+25,Recording_112,Process_1,2022-02-18T09:24:06+00:00,Click UI element in window,List Item 'Multiple choice' in Window 'Untitled  ...  (Private Browsing)',Create feedback form,Event_524
+26,Recording_112,Process_1,2022-02-18T09:24:12+00:00,Press button in window,Button 'Send' in Window 'Untitled  ...  (Private Browsing)',Provide the form to subordinate,Event_525
+27,Recording_112,Process_1,2022-02-18T09:24:58+00:00,Click UI element in window,Combo Box 'To' in Window 'Untitled  ...  (Private Browsing)',Provide the form to subordinate,Event_525
+28,Recording_112,Process_1,2022-02-18T09:25:00+00:00,Send keys,TextToSend:'kru',Provide the form to subordinate,Event_525
+29,Recording_112,Process_1,2022-02-18T09:25:04+00:00,Click UI element in window,List Item 'kru Email@Domain' in Window 'Untitled  ...  (Private Browsing)',Provide the form to subordinate,Event_525
+30,Recording_112,Process_1,2022-02-18T09:25:10+00:00,Set checkbox state in window,Check Box 'Include form in email' in Window 'Untitled  ...  (Private Browsing)',Provide the form to subordinate,Event_525
+31,Recording_112,Process_1,2022-02-18T09:25:16+00:00,Press button in window,Button 'Send' 2 in Window 'Untitled  ...  (Private Browsing)',Provide the form to subordinate,Event_525
+32,Recording_112,Process_1,2022-02-18T09:25:24+00:00,Select tab in window,Tab Item 'Microsoft Office Home' 2 in Window 'Untitled  ...  (Private Browsing)',Open the roadmap to create tasks,Event_526
+33,Recording_112,Process_1,2022-02-18T09:25:27+00:00,Select menu option in window,Menu Item 'App launcher' in Window 'Microsoft  ...  (Private Browsing)',Open the roadmap to create tasks,Event_526
+34,Recording_112,Process_1,2022-02-18T09:25:30+00:00,Press button in window,Button 'All apps' in Window 'Microsoft  ...  (Private Browsing)',Open the roadmap to create tasks,Event_526
+35,Recording_112,Process_1,2022-02-18T09:25:35+00:00,Populate text field in window,Edit 'Search all of  ...  bar as you type.' in Window 'Microsoft  ...  (Private Browsing)'; Text:'project',Open the roadmap to create tasks,Event_526
+36,Recording_112,Process_1,2022-02-18T09:25:38+00:00,Click UI element in window,Hyperlink 'Project' in Window 'Microsoft  ...  (Private Browsing)',Open the roadmap to create tasks,Event_526
+37,Recording_112,Process_1,2022-02-18T09:25:47+00:00,Select menu option in window,Menu Item 'Press enter to create a project. Press alt + down for more options' in Window 'Project — Mozilla Firefox (Private Browsing)',Assign a task to your subordinate to conduct the survey,Event_527
+38,Recording_112,Process_1,2022-02-18T09:25:51+00:00,Click UI element in window,Edit 'Untitled project' in Window 'Untitled  ...  (Private Browsing)' 2,Assign a task to your subordinate to conduct the survey,Event_527
+39,Recording_112,Process_1,2022-02-18T09:26:02+00:00,Populate text field in window,Edit 'Project Name Untitled project' in Window 'Untitled  ...  (Private Browsing)' 2; Text:'Policy',Assign a task to your subordinate to conduct the survey,Event_527
+40,Recording_112,Process_1,2022-02-18T09:26:03+00:00,Send keys,TextToSend:'y {Back}{Back}kru',Assign a task to your subordinate to conduct the survey,Event_527
+41,Recording_112,Process_1,2022-02-18T09:26:18+00:00,Click UI element in window,List Item 'Name SurnameSME' in Window 'Policy — Mozilla Firefox (Private Browsing)',Assign a task to your subordinate to conduct the survey,Event_527
+42,Recording_112,Process_1,2022-02-18T09:26:20+00:00,Click UI element in window,Combo Box in Window 'Policy — Mozilla Firefox (Private Browsing)',Assign a task to your subordinate to conduct the survey,Event_527
+43,Recording_112,Process_1,2022-02-18T09:26:25+00:00,Click UI element in window,"Data Item 'February 18, 2022' in Window 'Policy — Mozilla Firefox (Private Browsing)'",Assign a task to your subordinate to conduct the survey,Event_527
+44,Recording_112,Process_1,2022-02-18T09:26:33+00:00,Click UI element in window,Edit 'Add new task' in Window 'Policy — Mozilla Firefox (Private Browsing)',Assign a task to your subordinate to conduct the survey,Event_527
+45,Recording_112,Process_1,2022-02-18T09:26:36+00:00,Click UI element in window,Edit 'Name' in Window 'Policy — Mozilla Firefox (Private Browsing)',Assign a task to your subordinate to conduct the survey,Event_527
+46,Recording_112,Process_1,2022-02-18T09:26:47+00:00,Populate text field in window,Edit 'Add New Row' in Window 'Policy — Mozilla Firefox (Private Browsing)'; Text:'Complete policy survey',Assign a task to your subordinate to conduct the survey,Event_527
+47,Recording_112,Process_1,2022-02-18T09:26:57+00:00,Click UI element in window,Data Item 'Add new  ...  Header Assigned to' in Window 'Policy — Mozilla Firefox (Private Browsing)',Assign a task to your subordinate to conduct the survey,Event_527
+48,Recording_112,Process_1,2022-02-18T09:27:03+00:00,Populate text field in window,Edit 'Enter text to search.' in Window 'Policy — Mozilla Firefox (Private Browsing)'; Text:'kru',Assign a task to your subordinate to conduct the survey,Event_527
+49,Recording_112,Process_1,2022-02-18T09:27:09+00:00,Click UI element in window,List Item 'Name Surname' in Window 'Policy — Mozilla Firefox (Private Browsing)',Assign a task to your subordinate to conduct the survey,Event_527
+50,Recording_112,Process_1,2022-02-18T09:27:24+00:00,Click UI element in window,Group 'Grid view' in Window 'Policy — Mozilla Firefox (Private Browsing)',Assign a task to your subordinate to conduct the survey,Event_527
+51,Recording_112,Process_1,2022-02-18T09:27:37+00:00,Click UI element in window,Edit 'Duration' in Window 'Policy — Mozilla Firefox (Private Browsing)',Assign a task to your subordinate to conduct the survey,Event_527
+52,Recording_112,Process_1,2022-02-18T09:27:39+00:00,Click UI element in window,Data Item 'Add new  ...  Header Duration' in Window 'Policy — Mozilla Firefox (Private Browsing)',Assign a task to your subordinate to conduct the survey,Event_527
+53,Recording_112,Process_1,2022-02-18T09:27:41+00:00,Populate text field in window,Edit in Window 'Policy — Mozilla Firefox (Private Browsing)'; Text:'5',Assign a task to your subordinate to conduct the survey,Event_527
+54,Recording_112,Process_1,2022-02-18T09:27:43+00:00,Click UI element in window,Group 'Grid view' in Window 'Policy — Mozilla Firefox (Private Browsing)',Assign a task to your subordinate to conduct the survey,Event_527
+0,Recording_134,Process_1,2022-02-18T09:26:52+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Open the web-based collaborative platform,Event_614
+1,Recording_134,Process_1,2022-02-18T09:26:56+00:00,Click UI element in window,List Item 'New tab  ...  - Microsoft​ Edge' in List 'Task Switcher',Open the web-based collaborative platform,Event_614
+2,Recording_134,Process_1,2022-02-18T09:27:04+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'office 365',Open the web-based collaborative platform,Event_614
+3,Recording_134,Process_1,2022-02-18T09:27:05+00:00,Send keys,TextToSend:'{Return}',Open the web-based collaborative platform,Event_614
+4,Recording_134,Process_1,2022-02-18T09:27:09+00:00,Click UI element in window,Hyperlink 'Office 365 login' in Window 'office 365 -  ...  - Microsoft​ Edge',Open the web-based collaborative platform,Event_614
+5,Recording_134,Process_1,2022-02-18T09:27:14+00:00,Click UI element in window,Hyperlink 'SharePoint' in Window 'Microsoft  ...  - Microsoft​ Edge',Open the web-based collaborative platform,Event_614
+6,Recording_134,Process_1,2022-02-18T09:27:21+00:00,Click UI element in window,Hyperlink 'Project RoadMap' in Window 'SharePoint  ...  - Microsoft​ Edge',Find  the requirement for the feedback form,Event_615
+7,Recording_134,Process_1,2022-02-18T09:27:28+00:00,Click UI element in window,Hyperlink 'Shared  ...  about an hour ago' in Window 'Project  ...  - Microsoft​ Edge',Find  the requirement for the feedback form,Event_615
+8,Recording_134,Process_1,2022-02-18T09:27:34+00:00,Click UI element in window,Group 'Document Contents' in Window 'Feedback  ...  - Microsoft​ Edge',Find  the requirement for the feedback form,Event_615
+9,Recording_134,Process_1,2022-02-18T09:27:39+00:00,Press button in window,Button 'New Tab' in Window 'Feedback  ...  - Microsoft​ Edge',Prepare a form for employees feedback,Event_616
+10,Recording_134,Process_1,2022-02-18T09:27:47+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge' 2; Text:'microsoft form',Prepare a form for employees feedback,Event_616
+11,Recording_134,Process_1,2022-02-18T09:27:47+00:00,Send keys,TextToSend:'{Return}',Prepare a form for employees feedback,Event_616
+12,Recording_134,Process_1,2022-02-18T09:27:50+00:00,Click UI element in window,Hyperlink 'Microsoft Forms' in Window 'microsoft  ...  - Microsoft​ Edge' 2,Prepare a form for employees feedback,Event_616
+13,Recording_134,Process_1,2022-02-18T09:27:55+00:00,Press button in window,Button 'New Form' in Window 'Microsoft  ...  - Microsoft​ Edge' 3,Prepare a form for employees feedback,Event_616
+14,Recording_134,Process_1,2022-02-18T09:28:01+00:00,Drag and drop UI element in window,Group 'Untitled form Form Title Designer' in Window 'Untitled  ...  - Microsoft​ Edge',Prepare a form for employees feedback,Event_616
+15,Recording_134,Process_1,2022-02-18T09:28:04+00:00,Send keys,TextToSend:'{LShiftKey}(F)eedback su{Back}',Prepare a form for employees feedback,Event_616
+16,Recording_134,Process_1,2022-02-18T09:28:16+00:00,Press button in window,Button 'Add new question or section' in Window 'Untitled  ...  - Microsoft​ Edge',Prepare a form for employees feedback,Event_616
+17,Recording_134,Process_1,2022-02-18T09:28:18+00:00,Press button in window,Button 'Choice' in Window 'Untitled  ...  - Microsoft​ Edge',Prepare a form for employees feedback,Event_616
+18,Recording_134,Process_1,2022-02-18T09:28:38+00:00,Populate text field in window,Edit 'Question title' in Window 'Untitled  ...  - Microsoft​ Edge'; Text:'Are you agree with new policy',Prepare a form for employees feedback,Event_616
+19,Recording_134,Process_1,2022-02-18T09:28:40+00:00,Press button in window,Button 'Add all' in Window 'Untitled  ...  - Microsoft​ Edge',Prepare a form for employees feedback,Event_616
+20,Recording_134,Process_1,2022-02-18T09:28:44+00:00,Click UI element in window,Group 'Edit Question 1' in Window 'Untitled  ...  - Microsoft​ Edge',Prepare a form for employees feedback,Event_616
+21,Recording_134,Process_1,2022-02-18T09:28:51+00:00,Press button in window,Button 'Share' in Window 'Untitled  ...  - Microsoft​ Edge',Share the form,Event_617
+22,Recording_134,Process_1,2022-02-18T09:29:07+00:00,Press button in window,Button 'Copy' in Window 'Untitled  ...  - Microsoft​ Edge',Share the form,Event_617
+23,Recording_134,Process_1,2022-02-18T09:29:16+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Share the form,Event_617
+24,Recording_134,Process_1,2022-02-18T09:29:18+00:00,Click UI element in window,"Hyperlink 'Profile  ...  More options' in Pane 'General (1DCG  ...  Teams, Main Window'",Share the form,Event_617
+25,Recording_134,Process_1,2022-02-18T09:29:20+00:00,Click UI element in window,"Hyperlink 'General More options' in Pane 'General (1DCG  ...  Teams, Main Window'",Share the form,Event_617
+26,Recording_134,Process_1,2022-02-18T09:29:24+00:00,Press button in window,"Button 'New conversation' in Pane 'General (1DCG  ...  Teams, Main Window'",Share the form,Event_617
+27,Recording_134,Process_1,2022-02-18T09:29:29+00:00,Populate text field in window,"Edit 'Start a new conversation. Type @ to mention someone.' in Pane 'General (1DCG  ...  Teams, Main Window'; Text:'''https://forms.office.com/Pages/ResponsePage.aspx?id=
+'''",Share the form,Event_617
+28,Recording_134,Process_1,2022-02-18T09:29:32+00:00,Press button in window,"Button 'Send' in Pane 'General (1DCG  ...  Teams, Main Window'",Share the form,Event_617
+29,Recording_134,Process_1,2022-02-18T09:29:37+00:00,Press button in window,"Button 'Add a tab' in Pane 'General (1DCG  ...  Teams, Main Window'",Open the roadmap app and make the task ready,Event_618
+30,Recording_134,Process_1,2022-02-18T09:29:46+00:00,Populate text field in window,"Edit 'Search' in Pane 'General (1DCG  ...  Teams, Main Window'; Text:'Project'",Open the roadmap app and make the task ready,Event_618
+31,Recording_134,Process_1,2022-02-18T09:29:50+00:00,Click UI element in window,"List Item 'Project' in Pane 'General (1DCG  ...  Teams, Main Window'",Open the roadmap app and make the task ready,Event_618
+32,Recording_134,Process_1,2022-02-18T09:29:56+00:00,Press button in window,"Button 'Create new project' in Pane 'General (1DCG  ...  Teams, Main Window'",Open the roadmap app and make the task ready,Event_618
+33,Recording_134,Process_1,2022-02-18T09:30:15+00:00,Populate text field in window,"Edit 'Name your project' in Pane 'General (1DCG  ...  Teams, Main Window'; Text:'New Policy feedback'",Open the roadmap app and make the task ready,Event_618
+34,Recording_134,Process_1,2022-02-18T09:30:18+00:00,Press button in window,"Button 'Save' in Pane 'General (1DCG  ...  Teams, Main Window'",Open the roadmap app and make the task ready,Event_618
+35,Recording_134,Process_1,2022-02-18T09:30:31+00:00,Click UI element in window,"Text 'Add new task' in Pane 'General (1DCG  ...  Teams, Main Window'",Open the roadmap app and make the task ready,Event_618
+36,Recording_134,Process_1,2022-02-18T09:30:40+00:00,Click UI element in window,"Tree Item 'Add new  ...  of 1. Column 3 of 7' in Pane 'General (1DCG  ...  Teams, Main Window'",Open the roadmap app and make the task ready,Event_618
+37,Recording_134,Process_1,2022-02-18T09:31:14+00:00,Populate text field in window,"Edit 'Add New Row' in Pane 'General (1DCG  ...  Teams, Main Window'; Text:'Submit the responses of feeback for new launched policy'",Open the roadmap app and make the task ready,Event_618
+38,Recording_134,Process_1,2022-02-18T09:31:17+00:00,Click UI element in window,"Data Item 'Add new  ...  Header Assigned to' in Pane 'General (1DCG  ...  Teams, Main Window'", Allocate a task to your subordinate,Event_619
+39,Recording_134,Process_1,2022-02-18T09:31:19+00:00,Click UI element in window,"Text 'Assigned to' in Pane 'General (1DCG  ...  Teams, Main Window'", Allocate a task to your subordinate,Event_619
+40,Recording_134,Process_1,2022-02-18T09:31:23+00:00,Click UI element in window,"List Item 'Name Surname ' in Pane 'General (1DCG  ...  Teams, Main Window'", Allocate a task to your subordinate,Event_619
+41,Recording_134,Process_1,2022-02-18T09:31:31+00:00,Click UI element in window,"Data Item 'Add new  ...  Header Duration' in Pane 'General (1DCG  ...  Teams, Main Window'", Allocate a task to your subordinate,Event_619

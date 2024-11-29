@@ -1,0 +1,196 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_49,Process_21,2022-03-02T09:18:07+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar,Go to Collaborative platform,Event_236
+1,Recording_49,Process_21,2022-03-02T09:18:09+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher',Go to Collaborative platform,Event_236
+2,Recording_49,Process_21,2022-03-02T09:18:12+00:00,Press button in window,Button 'SharePoint' in Pane 'New Tab - Google Chrome - Person 1',Go to Collaborative platform,Event_236
+3,Recording_49,Process_21,2022-03-02T09:18:16+00:00,Click UI element in window,Hyperlink 'Project RoadMap' in Pane 'New Tab - Google Chrome - Person 1',Create a note,Event_237
+4,Recording_49,Process_21,2022-03-02T09:18:21+00:00,Click UI element in window,Hyperlink 'Documents' in Pane 'New Tab - Google Chrome - Person 1',Create a note,Event_237
+5,Recording_49,Process_21,2022-03-02T09:18:29+00:00,Select menu option in window,Menu Item 'New' in Pane 'New Tab - Google Chrome - Person 1',Create a note,Event_237
+6,Recording_49,Process_21,2022-03-02T09:19:08+00:00,Set checkbox state in window,Check Box 'General' in Pane 'New Tab - Google Chrome - Person 1',Create a note,Event_237
+7,Recording_49,Process_21,2022-03-02T09:19:16+00:00,Populate text field in window,Edit 'Enter your new name' in Pane 'New Tab - Google Chrome - Person 1'; Text:'Employee Status',Create a note,Event_237
+8,Recording_49,Process_21,2022-03-02T09:19:20+00:00,Press button in window,Button 'Create' in Pane 'New Tab - Google Chrome - Person 1',Create a note,Event_237
+9,Recording_49,Process_21,2022-03-02T09:19:26+00:00,Send keys,TextToSend:'{RShiftKey}(E)mployee {RShiftKey}(ST)atus{Return}1. {LShiftKey}Name - {RShiftKey}(A)ctive{Return}{LShiftKey}(K)runal - {RShiftKey}(A)ctive{Return}{LShiftKey}(N)ikunj{Back}j - {RShiftKey}(D)isable',Create a note,Event_237
+10,Recording_49,Process_21,2022-03-02T09:20:07+00:00,Select tab in window,Tab Item 'Employee Status' in Pane 'New Tab - Google Chrome - Person 1',Create a note,Event_237
+11,Recording_49,Process_21,2022-03-02T09:20:14+00:00,Click UI element in window,Menu Item 'Sync' in Pane 'New Tab - Google Chrome - Person 1',Sync collaborative tool with local drive,Event_238
+12,Recording_49,Process_21,2022-03-02T09:20:30+00:00,Click UI element in window,Edit 'Enter your email address' in Window 'Microsoft OneDrive',Sync collaborative tool with local drive,Event_238
+13,Recording_49,Process_21,2022-03-02T09:20:33+00:00,Click UI element in window,Button 'Sign in' in Window 'Microsoft OneDrive',Sync collaborative tool with local drive,Event_238
+14,Recording_49,Process_21,2022-03-02T09:20:42+00:00,Click UI element in window,Group 'Name ...  another account' in Window 'Microsoft OneDrive',Sync collaborative tool with local drive,Event_238
+15,Recording_49,Process_21,2022-03-02T09:20:43+00:00,Populate text field in window,Edit 'Enter the password for Email@Domain' in Window 'Microsoft OneDrive'; Text:P'password_secret_text',Sync collaborative tool with local drive,Event_238
+16,Recording_49,Process_21,2022-03-02T09:20:51+00:00,Press button in window,Button 'Sign in' 2 in Window 'Microsoft OneDrive',Sync collaborative tool with local drive,Event_238
+17,Recording_49,Process_21,2022-03-02T09:21:10+00:00,Drag and drop UI element in window,Button 'Use this folder' in Button 'Next' in Window 'Microsoft OneDrive',Sync collaborative tool with local drive,Event_238
+18,Recording_49,Process_21,2022-03-02T09:21:16+00:00,Click UI element in window,Button 'Next' in Window 'Microsoft OneDrive',Sync collaborative tool with local drive,Event_238
+19,Recording_49,Process_21,2022-03-02T09:21:23+00:00,Click UI element in window,Button 'Next' in Window 'Microsoft OneDrive',Sync collaborative tool with local drive,Event_238
+20,Recording_49,Process_21,2022-03-02T09:21:29+00:00,Press button in window,Button 'Next' in Window 'Microsoft OneDrive',Sync collaborative tool with local drive,Event_238
+21,Recording_49,Process_21,2022-03-02T09:21:33+00:00,Click UI element in window,Button 'Later' in Window 'Microsoft OneDrive',Sync collaborative tool with local drive,Event_238
+22,Recording_49,Process_21,2022-03-02T09:21:38+00:00,Click UI element in window,Button 'Open my OneDrive folder' in Window 'Microsoft OneDrive',Sync collaborative tool with local drive,Event_238
+23,Recording_49,Process_21,2022-03-02T09:21:49+00:00,Click UI element in window,Button 'New Tab' in Pane 'New Tab - Google Chrome - Person 1',Go to the cloud flow creation app ,Event_239
+24,Recording_49,Process_21,2022-03-02T09:21:54+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Person 1'; Text:'power automate',Go to the cloud flow creation app ,Event_239
+25,Recording_49,Process_21,2022-03-02T09:21:55+00:00,Send keys,TextToSend:'{Return}',Go to the cloud flow creation app ,Event_239
+26,Recording_49,Process_21,2022-03-02T09:21:58+00:00,Click UI element in window,Hyperlink ' Power  ... rosoft.com' in Pane 'New Tab - Google Chrome - Person 1',Go to the cloud flow creation app ,Event_239
+27,Recording_49,Process_21,2022-03-02T09:22:03+00:00,Click UI element in window,Hyperlink 'Sign in' in Pane 'New Tab - Google Chrome - Person 1',Go to the cloud flow creation app ,Event_239
+28,Recording_49,Process_21,2022-03-02T09:22:12+00:00,Select menu option in window,Menu Item 'My flows' in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+29,Recording_49,Process_21,2022-03-02T09:22:18+00:00,Select menu option in window,Menu Item 'Add new' in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+30,Recording_49,Process_21,2022-03-02T09:22:27+00:00,Select menu option in window,Menu Item 'Instant cloud flow—from blank' in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+31,Recording_49,Process_21,2022-03-02T09:22:34+00:00,Populate text field in window,Edit 'Flow name' in Pane 'New Tab - Google Chrome - Person 1'; Text:'One note',Create a flow for desktop flow,Event_240
+32,Recording_49,Process_21,2022-03-02T09:22:39+00:00,Click UI element in window,Data Item 'Manually  ...  trigger a flow. ' in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+33,Recording_49,Process_21,2022-03-02T09:22:55+00:00,Click UI element in window,Hyperlink 'Create' in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+34,Recording_49,Process_21,2022-03-02T09:23:00+00:00,Press button in window,Button '+ New step' in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+35,Recording_49,Process_21,2022-03-02T09:23:07+00:00,Press button in window,Button 'Desktop flows' in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+36,Recording_49,Process_21,2022-03-02T09:23:11+00:00,Press button in window,Button 'Run a flow  ...  Desktop flows' in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+37,Recording_49,Process_21,2022-03-02T09:23:17+00:00,Click UI element in window,Button 'Menu for Run  ...  for desktop' in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+38,Recording_49,Process_21,2022-03-02T09:23:23+00:00,Select menu option in window,Menu Item '+Add new connection' in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+39,Recording_49,Process_21,2022-03-02T09:23:26+00:00,Click UI element in window,List Item in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+40,Recording_49,Process_21,2022-03-02T09:23:29+00:00,Click UI element in window,Group in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+41,Recording_49,Process_21,2022-03-02T09:23:56+00:00,Populate text field in window,Edit 'Domain and username' in Pane 'New Tab - Google Chrome - Person 1'; Text:'',Create a flow for desktop flow,Event_240
+42,Recording_49,Process_21,2022-03-02T09:24:00+00:00,Populate text field in window,Edit 'Open:' in Window 'Run'; Text:'cmd',Create a flow for desktop flow,Event_240
+43,Recording_49,Process_21,2022-03-02T09:24:01+00:00,Send keys,TextToSend:'{Return}whoami{Return}',Create a flow for desktop flow,Event_240
+44,Recording_49,Process_21,2022-03-02T09:24:09+00:00,Click UI element in window,Document 'Text Area' in Window 'C:\WINDOWS\system32\cmd.exe',Create a flow for desktop flow,Event_240
+45,Recording_49,Process_21,2022-03-02T09:24:11+00:00,Send keys,TextToSend:'{LControlKey}({C})',Create a flow for desktop flow,Event_240
+46,Recording_49,Process_21,2022-03-02T09:24:12+00:00,Click UI element in window,Document 'Text Area' in Window 'C:\WINDOWS\system32\cmd.exe',Create a flow for desktop flow,Event_240
+47,Recording_49,Process_21,2022-03-02T09:24:28+00:00,Click UI element in window,Document 'Text Area' in Window 'C:\WINDOWS\system32\cmd.exe',Create a flow for desktop flow,Event_240
+48,Recording_49,Process_21,2022-03-02T09:24:33+00:00,Send keys,TextToSend:'{LControlKey}(){LControlKey}({C}){C}',Create a flow for desktop flow,Event_240
+49,Recording_49,Process_21,2022-03-02T09:24:51+00:00,Populate text field in window,Edit 'Domain and username' in Pane 'New Tab - Google Chrome - Person 1'; Text:'rkh-pc-23\\sunsh',Create a flow for desktop flow,Event_240
+50,Recording_49,Process_21,2022-03-02T09:24:55+00:00,Populate text field in window,Edit 'Password' in Pane 'New Tab - Google Chrome - Person 1'; Text:P'password_secret_text',Create a flow for desktop flow,Event_240
+51,Recording_49,Process_21,2022-03-02T09:25:05+00:00,Press button in window,Button 'Create' 2 in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+52,Recording_49,Process_21,2022-03-02T09:25:25+00:00,Populate text field in window,Edit 'Password' in Pane 'New Tab - Google Chrome - Person 1'; Text:P'password_secret_text',Create a flow for desktop flow,Event_240
+53,Recording_49,Process_21,2022-03-02T09:25:33+00:00,Press button in window,Button 'Create' 2 in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+54,Recording_49,Process_21,2022-03-02T09:25:42+00:00,Click UI element in window,Group 2 in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+55,Recording_49,Process_21,2022-03-02T09:26:17+00:00,Drag and drop UI element in window,Button 'Save' in Edit 'FilesPath' in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+56,Recording_49,Process_21,2022-03-02T09:26:24+00:00,Click UI element in window,Text 'Your flow is ready to go. We recommend you test it' in Pane 'New Tab - Google Chrome - Person 1',Create a flow for desktop flow,Event_240
+57,Recording_49,Process_21,2022-03-02T09:26:29+00:00,Click UI element in window,Menu Item 'Test' in Pane 'New Tab - Google Chrome - Person 1',Run the flow,Event_241
+58,Recording_49,Process_21,2022-03-02T09:26:33+00:00,Click UI element in window,Radio Button 'Test  ...  to trigger it.' in Pane 'New Tab - Google Chrome - Person 1',Run the flow,Event_241
+59,Recording_49,Process_21,2022-03-02T09:26:36+00:00,Click UI element in window,Button 'Test' in Pane 'New Tab - Google Chrome - Person 1',Run the flow,Event_241
+60,Recording_49,Process_21,2022-03-02T09:26:46+00:00,Click UI element in window,Button 'Continue' in Pane 'New Tab - Google Chrome - Person 1',Run the flow,Event_241
+61,Recording_49,Process_21,2022-03-02T09:26:51+00:00,Click UI element in window,Button 'Run flow' in Pane 'New Tab - Google Chrome - Person 1',Run the flow,Event_241
+62,Recording_49,Process_21,2022-03-02T09:26:58+00:00,Click UI element in window,Group 3 in Pane 'New Tab - Google Chrome - Person 1',Run the flow,Event_241
+0,Recording_51,Process_21,2022-03-03T03:50:13+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Login to Collaborative platform,Event_249
+1,Recording_51,Process_21,2022-03-03T03:50:17+00:00,Click UI element in window,List Item 'New tab  ...  - Microsoft​ Edge' in List 'Task Switcher',Login to Collaborative platform,Event_249
+2,Recording_51,Process_21,2022-03-03T03:50:20+00:00,Click UI element in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge',Login to Collaborative platform,Event_249
+3,Recording_51,Process_21,2022-03-03T03:50:28+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'office 365 login',Login to Collaborative platform,Event_249
+4,Recording_51,Process_21,2022-03-03T03:50:29+00:00,Send keys,TextToSend:'{Return}',Login to Collaborative platform,Event_249
+5,Recording_51,Process_21,2022-03-03T03:50:33+00:00,Click UI element in window,Hyperlink 'Office 365 login' in Window 'office 365  ...  - Microsoft​ Edge',Login to Collaborative platform,Event_249
+6,Recording_51,Process_21,2022-03-03T03:50:39+00:00,Press button in window,Button 'App launcher' in Window 'Microsoft  ...  - Microsoft​ Edge',Login to Collaborative platform,Event_249
+7,Recording_51,Process_21,2022-03-03T03:50:42+00:00,Press button in window,Button 'All apps' in Window 'Microsoft  ...  - Microsoft​ Edge',Login to Collaborative platform,Event_249
+8,Recording_51,Process_21,2022-03-03T03:50:49+00:00,Populate text field in window,Edit 'The results  ...  bar as you type.' in Window 'Microsoft  ...  - Microsoft​ Edge'; Text:'sharepoint',Login to Collaborative platform,Event_249
+9,Recording_51,Process_21,2022-03-03T03:50:53+00:00,Click UI element in window,Hyperlink 'SharePoint' in Window 'Microsoft  ...  - Microsoft​ Edge',Login to Collaborative platform,Event_249
+10,Recording_51,Process_21,2022-03-03T03:50:57+00:00,Click UI element in window,Hyperlink 'Project RoadMap' in Window 'SharePoint  ...  - Microsoft​ Edge',Make a note,Event_250
+11,Recording_51,Process_21,2022-03-03T03:51:01+00:00,Click UI element in window,Hyperlink 'Documents' in Window 'Project  ...  - Microsoft​ Edge',Make a note,Event_250
+12,Recording_51,Process_21,2022-03-03T03:51:11+00:00,Select menu option in window,Menu Item 'New' in Window 'Project  ...  - Microsoft​ Edge' 2,Make a note,Event_250
+13,Recording_51,Process_21,2022-03-03T03:51:18+00:00,Select menu option in window,MenuItem: New New in Window 'Project  ...  - Microsoft​ Edge' 2,Make a note,Event_250
+14,Recording_51,Process_21,2022-03-03T03:51:33+00:00,Populate text field in window,Edit 'Enter your new name' in Window 'Project  ...  - Microsoft​ Edge' 2; Text:'onenote_uiflow',Make a note,Event_250
+15,Recording_51,Process_21,2022-03-03T03:51:37+00:00,Press button in window,Button 'Create' in Window 'Project  ...  - Microsoft​ Edge' 2,Make a note,Event_250
+16,Recording_51,Process_21,2022-03-03T03:51:43+00:00,Click UI element in window,Group 'Page Title ' in Window 'one ...  - Microsoft​ Edge',Make a note,Event_250
+17,Recording_51,Process_21,2022-03-03T03:51:44+00:00,Send keys,TextToSend:'{LShiftKey}(T)ask list',Make a note,Event_250
+18,Recording_51,Process_21,2022-03-03T03:51:49+00:00,Click UI element in window,Group 'Page Contents' in Window 'one ...  - Microsoft​ Edge',Make a note,Event_250
+19,Recording_51,Process_21,2022-03-03T03:51:51+00:00,Send keys,TextToSend:'{LShiftKey}(G)uideline {LShiftKey}(E)xplanation{Return}{LShiftKey}(A)ssesment{Return}{LShiftKey}(O)nboarding',Make a note,Event_250
+20,Recording_51,Process_21,2022-03-03T03:52:23+00:00,Click UI element in window,Group 'Page Contents' in Window 'one ...  - Microsoft​ Edge',Make a note,Event_250
+21,Recording_51,Process_21,2022-03-03T03:52:27+00:00,Click UI element in window,Group 'Page Contents' in Window 'one ...  - Microsoft​ Edge',Make a note,Event_250
+22,Recording_51,Process_21,2022-03-03T03:52:34+00:00,Select tab in window,Tab Item 'onenote_uiflow' in Window 'one ...  - Microsoft​ Edge',Make a note,Event_250
+23,Recording_51,Process_21,2022-03-03T03:52:41+00:00,Select menu option in window,Menu Item 'Sync' in Window 'Project  ...  - Microsoft​ Edge' 2,Connect collaborative platform with your local drive,Event_251
+24,Recording_51,Process_21,2022-03-03T03:52:47+00:00,Click UI element in window,Edit 'Enter your email address' in Window 'Microsoft OneDrive',Connect collaborative platform with your local drive,Event_251
+25,Recording_51,Process_21,2022-03-03T03:52:50+00:00,Press button in window,Button 'Sign in' in Window 'Microsoft OneDrive',Connect collaborative platform with your local drive,Event_251
+26,Recording_51,Process_21,2022-03-03T03:53:08+00:00,Populate text field in window,Edit 'Enter the password for Email@Domain' in Window 'explorer'; Text:P'password_secret_text',Connect collaborative platform with your local drive,Event_251
+27,Recording_51,Process_21,2022-03-03T03:53:15+00:00,Press button in window,Button 'Sign in' in Window 'explorer',Connect collaborative platform with your local drive,Event_251
+28,Recording_51,Process_21,2022-03-03T03:53:22+00:00,Press button in window,Button 'OK' in Window 'explorer',Connect collaborative platform with your local drive,Event_251
+29,Recording_51,Process_21,2022-03-03T03:54:17+00:00,Press button in window,Button 'Next' in Window 'Microsoft OneDrive',Connect collaborative platform with your local drive,Event_251
+30,Recording_51,Process_21,2022-03-03T03:54:25+00:00,Press button in window,Button 'Next' in Window 'Microsoft OneDrive',Connect collaborative platform with your local drive,Event_251
+31,Recording_51,Process_21,2022-03-03T03:54:29+00:00,Press button in window,Button 'Next' in Window 'Microsoft OneDrive',Connect collaborative platform with your local drive,Event_251
+32,Recording_51,Process_21,2022-03-03T03:54:31+00:00,Press button in window,Button 'Next' in Window 'Microsoft OneDrive',Connect collaborative platform with your local drive,Event_251
+33,Recording_51,Process_21,2022-03-03T03:54:35+00:00,Press button in window,Button 'Later' in Window 'Microsoft OneDrive',Connect collaborative platform with your local drive,Event_251
+34,Recording_51,Process_21,2022-03-03T03:54:38+00:00,Press button in window,Button 'Open my OneDrive folder' in Window 'Microsoft OneDrive',Connect collaborative platform with your local drive,Event_251
+35,Recording_51,Process_21,2022-03-03T03:54:42+00:00,Press button in window,Button 'New Tab' in Window 'Project  ...  - Microsoft​ Edge' 2,Open the online flow app,Event_252
+36,Recording_51,Process_21,2022-03-03T03:54:49+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge' 2; Text:'power automate',Open the online flow app,Event_252
+37,Recording_51,Process_21,2022-03-03T03:54:50+00:00,Send keys,TextToSend:'{Return}',Open the online flow app,Event_252
+38,Recording_51,Process_21,2022-03-03T03:54:54+00:00,Click UI element in window,Hyperlink 'Power Automate | Microsoft Power Platform' in Window 'power  ...  - Microsoft​ Edge',Open the online flow app,Event_252
+39,Recording_51,Process_21,2022-03-03T03:55:02+00:00,Select menu option in window,Menu Item 'My flows' in Window 'Microsoft  ...  - Microsoft​ Edge' 2,Prepare a flow ,Event_253
+40,Recording_51,Process_21,2022-03-03T03:55:06+00:00,Select menu option in window,Menu Item 'Add new' in Window 'Manage your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+41,Recording_51,Process_21,2022-03-03T03:55:10+00:00,Select menu option in window,Menu Item 'Instant cloud flow—from blank' in Window 'Manage your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+42,Recording_51,Process_21,2022-03-03T03:55:13+00:00,Click UI element in window,Edit 'Flow name' in Window 'Manage your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+43,Recording_51,Process_21,2022-03-03T03:55:22+00:00,Populate text field in window,Edit 'Flow name' 2 in Window 'Manage your  ...  - Microsoft​ Edge'; Text:'uiflow for onenote',Prepare a flow ,Event_253
+44,Recording_51,Process_21,2022-03-03T03:55:27+00:00,Click UI element in window,Data Item 'Manually  ...  trigger a flow. ' in Window 'Manage your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+45,Recording_51,Process_21,2022-03-03T03:55:29+00:00,Click UI element in window,Hyperlink 'Create' in Window 'Manage your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+46,Recording_51,Process_21,2022-03-03T03:55:33+00:00,Press button in window,Button '+ New step' in Window 'Create your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+47,Recording_51,Process_21,2022-03-03T03:55:36+00:00,Press button in window,Button 'Desktop flows' in Window 'Create your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+48,Recording_51,Process_21,2022-03-03T03:55:39+00:00,Press button in window,Button 'Run a flow  ...  Desktop flows' in Window 'Create your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+49,Recording_51,Process_21,2022-03-03T03:55:44+00:00,Press button in window,Button 'Menu for Run  ...  for desktop' in Window 'Create your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+50,Recording_51,Process_21,2022-03-03T03:55:52+00:00,Click UI element in window,Group 'manage-flow-details' in Window 'Create your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+51,Recording_51,Process_21,2022-03-03T03:55:55+00:00,Click UI element in window,List Item ' ...  title-906' in Window 'Create your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+52,Recording_51,Process_21,2022-03-03T03:55:57+00:00,Click UI element in window,List Item 'On premises Gateway Name Surname' in Window 'Create your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+53,Recording_51,Process_21,2022-03-03T03:55:58+00:00,Click UI element in window,Edit 'Domain and username' in Window 'Create your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+54,Recording_51,Process_21,2022-03-03T03:56:03+00:00,Populate text field in window,Edit 'Domain and username' 2 in Window 'Create your  ...  - Microsoft​ Edge'; Text:'RKH-PC-22\\RKH',Prepare a flow ,Event_253
+55,Recording_51,Process_21,2022-03-03T03:56:05+00:00,Click UI element in window,Edit 'Password' in Window 'Create your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+56,Recording_51,Process_21,2022-03-03T03:56:10+00:00,Populate text field in window,Edit 'Password' 2 in Window 'Create your  ...  - Microsoft​ Edge'; Text:P'password_secret_text',Prepare a flow ,Event_253
+57,Recording_51,Process_21,2022-03-03T03:56:19+00:00,Press button in window,Button 'Create' in Window 'Create your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+58,Recording_51,Process_21,2022-03-03T03:56:30+00:00,Click UI element in window,Group 'ms-D ...  title-795' in Window 'Create your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+59,Recording_51,Process_21,2022-03-03T03:56:33+00:00,Click UI element in window,List Item 'Onenote' in Window 'Create your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+60,Recording_51,Process_21,2022-03-03T03:56:42+00:00,Set drop-down list value in window,Combo Box 'Run Mode' in Window 'Create your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+61,Recording_51,Process_21,2022-03-03T03:56:46+00:00,Press button in window,Button 'Save' in Window 'Create your  ...  - Microsoft​ Edge',Prepare a flow ,Event_253
+62,Recording_51,Process_21,2022-03-03T03:56:52+00:00,Select menu option in window,Menu Item 'Test' in Window 'Edit your  ...  - Microsoft​ Edge',Test the flow,Event_254
+63,Recording_51,Process_21,2022-03-03T03:56:56+00:00,Click UI element in window,Text 'ms-ChoiceField-field field-987' in Window 'Edit your  ...  - Microsoft​ Edge',Test the flow,Event_254
+64,Recording_51,Process_21,2022-03-03T03:56:59+00:00,Press button in window,Button 'Test' in Window 'Edit your  ...  - Microsoft​ Edge',Test the flow,Event_254
+65,Recording_51,Process_21,2022-03-03T03:57:04+00:00,Press button in window,Button 'Continue' in Window 'Edit your  ...  - Microsoft​ Edge',Test the flow,Event_254
+66,Recording_51,Process_21,2022-03-03T03:57:08+00:00,Press button in window,Button 'Run flow' in Window 'Edit your  ...  - Microsoft​ Edge',Test the flow,Event_254
+67,Recording_51,Process_21,2022-03-03T03:57:13+00:00,Click UI element in window,Group 'fl-ActionCompletedIcon root-1050' in Window 'Edit your  ...  - Microsoft​ Edge',Test the flow,Event_254
+0,Recording_67,Process_21,2022-03-03T03:45:15+00:00,Select menu option in window,Firefox - 2 running windows in Quick Launch Bar,Open Collaborative app,Event_337
+1,Recording_67,Process_21,2022-03-03T03:45:17+00:00,Click UI element in window,List Item 'Mozilla Firefox' in List 'Task Switcher',Open Collaborative app,Event_337
+2,Recording_67,Process_21,2022-03-03T03:45:22+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'o365',Open Collaborative app,Event_337
+3,Recording_67,Process_21,2022-03-03T03:45:22+00:00,MouseAndKeyboard.SendKeys.FocusAndSendKeys,TextToSend:'{Return}',Open Collaborative app,Event_337
+4,Recording_67,Process_21,2022-03-03T03:45:27+00:00,Click UI element in window,Hyperlink 'Office  ... office.com' in Window 'o365 - Google Search — Mozilla Firefox',Open Collaborative app,Event_337
+5,Recording_67,Process_21,2022-03-03T03:45:36+00:00,Click UI element in window,Hyperlink 'SharePoint' in Window 'Microsoft Office Home — Mozilla Firefox',Open Collaborative app,Event_337
+6,Recording_67,Process_21,2022-03-03T03:45:43+00:00,Click UI element in window,Hyperlink 'Project RoadMap' in Window 'SharePoint — Mozilla Firefox',Open Collaborative app,Event_337
+7,Recording_67,Process_21,2022-03-03T03:45:49+00:00,Click UI element in window,Hyperlink 'Documents' in Window 'Project RoadMap - Home — Mozilla Firefox',Open Collaborative app,Event_337
+8,Recording_67,Process_21,2022-03-03T03:45:57+00:00,Select menu option in window,MenuItem: New in Window 'Project  ...  — Mozilla Firefox',Add a new note,Event_338
+9,Recording_67,Process_21,2022-03-03T03:46:18+00:00,Select menu option in window,MenuItem: New → OneNote notebook in Window 'Project  ...  — Mozilla Firefox',Add a new note,Event_338
+10,Recording_67,Process_21,2022-03-03T03:46:28+00:00,Populate text field in window,Edit 'Enter your new name' in Window 'Project  ...  — Mozilla Firefox'; Text:'Flow task list',Add a new note,Event_338
+11,Recording_67,Process_21,2022-03-03T03:46:32+00:00,Press button in window,Button 'Create' in Window 'Project  ...  — Mozilla Firefox',Add a new note,Event_338
+12,Recording_67,Process_21,2022-03-03T03:46:40+00:00,Click UI element in window,UI Custom in Window 'Flow task list — Mozilla Firefox',Add a new note,Event_338
+13,Recording_67,Process_21,2022-03-03T03:46:41+00:00,MouseAndKeyboard.SendKeys.FocusAndSendKeys,TextToSend:'{LShiftKey}(F)low {LShiftKey}(T)asks',Add a new note,Event_338
+14,Recording_67,Process_21,2022-03-03T03:46:46+00:00,Click UI element in window,Group 'Page Contents' in Window 'Flow task list — Mozilla Firefox',Add a new note,Event_338
+15,Recording_67,Process_21,2022-03-03T03:46:47+00:00,MouseAndKeyboard.SendKeys.FocusAndSendKeys,TextToSend:'1. {LShiftKey}(C)reate a file{LMenu}({Delete}){LMenu}({Return}){Return}2.{Back}{Back}set with desktop flow{Return}and set a cloud flow',Add a new note,Event_338
+16,Recording_67,Process_21,2022-03-03T03:47:23+00:00,Select tab in window,Tab Item 'Flow task list' in Window 'Flow task list — Mozilla Firefox',Add a new note,Event_338
+17,Recording_67,Process_21,2022-03-03T03:47:34+00:00,Select menu option in window,MenuItem: Sync in Window 'Project  ...  — Mozilla Firefox',Link your collaborative app with local computer,Event_339
+18,Recording_67,Process_21,2022-03-03T03:47:44+00:00,Set checkbox state in window,Check Box 'Always  ...  open odopen links' 2 in Window 'Project  ...  — Mozilla Firefox',Link your collaborative app with local computer,Event_339
+19,Recording_67,Process_21,2022-03-03T03:47:46+00:00,Press button in window,Button 'Open Link' in Window 'Project  ...  — Mozilla Firefox',Link your collaborative app with local computer,Event_339
+20,Recording_67,Process_21,2022-03-03T03:47:53+00:00,Press button in window,Button 'Sign in' in Window 'Microsoft OneDrive',Link your collaborative app with local computer,Event_339
+21,Recording_67,Process_21,2022-03-03T03:48:07+00:00,Press button in window,Button 'Next' in Window 'Microsoft OneDrive',Link your collaborative app with local computer,Event_339
+22,Recording_67,Process_21,2022-03-03T03:48:10+00:00,Press button in window,Button 'Use this folder' in Window 'Microsoft OneDrive',Link your collaborative app with local computer,Event_339
+23,Recording_67,Process_21,2022-03-03T03:48:15+00:00,Press button in window,Button 'Next' in Window 'Microsoft OneDrive',Link your collaborative app with local computer,Event_339
+24,Recording_67,Process_21,2022-03-03T03:48:18+00:00,Press button in window,Button 'Next' in Window 'Microsoft OneDrive',Link your collaborative app with local computer,Event_339
+25,Recording_67,Process_21,2022-03-03T03:48:21+00:00,Press button in window,Button 'Next' in Window 'Microsoft OneDrive',Link your collaborative app with local computer,Event_339
+26,Recording_67,Process_21,2022-03-03T03:48:23+00:00,Press button in window,Button 'Later' in Window 'Microsoft OneDrive',Link your collaborative app with local computer,Event_339
+27,Recording_67,Process_21,2022-03-03T03:48:31+00:00,Press button in window,Button 'Open my OneDrive folder' in Window 'Microsoft OneDrive',Link your collaborative app with local computer,Event_339
+28,Recording_67,Process_21,2022-03-03T03:48:35+00:00,Click UI element in window,Edit 'Name' in Window 'Company.com',Link your collaborative app with local computer,Event_339
+29,Recording_67,Process_21,2022-03-03T03:48:41+00:00,Close window,Window 'File Explorer',Link your collaborative app with local computer,Event_339
+30,Recording_67,Process_21,2022-03-03T03:48:45+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Project  ...  — Mozilla Firefox',Login to the cloud flow app ,Event_340
+31,Recording_67,Process_21,2022-03-03T03:48:50+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'power automate',Login to the cloud flow app ,Event_340
+32,Recording_67,Process_21,2022-03-03T03:48:52+00:00,MouseAndKeyboard.SendKeys.FocusAndSendKeys,TextToSend:'{Return}',Login to the cloud flow app ,Event_340
+33,Recording_67,Process_21,2022-03-03T03:48:57+00:00,Click UI element in window,Hyperlink 'Power  ... rosoft.com' in Window 'power automate - Google Search — Mozilla Firefox',Login to the cloud flow app ,Event_340
+34,Recording_67,Process_21,2022-03-03T03:49:03+00:00,Click UI element in window,Hyperlink 'Sign in' in Window 'Power  ...  — Mozilla Firefox',Login to the cloud flow app ,Event_340
+35,Recording_67,Process_21,2022-03-03T03:49:18+00:00,Select menu option in window,Menu Item 'Create' in Window 'Microsoft  ...  — Mozilla Firefox',Make a new flow ,Event_341
+36,Recording_67,Process_21,2022-03-03T03:49:29+00:00,Press button in window,Button 'Instant  ...  manually as needed.' in Window 'Manage your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+37,Recording_67,Process_21,2022-03-03T03:49:32+00:00,Click UI element in window,Edit 'Flow name' in Window 'Manage your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+38,Recording_67,Process_21,2022-03-03T03:49:38+00:00,Populate text field in window,Edit 'Flow name' 2 in Window 'Manage your  ...  — Mozilla Firefox'; Text:'Test onetone flow',Make a new flow ,Event_341
+39,Recording_67,Process_21,2022-03-03T03:49:43+00:00,Click UI element in window,Edit 'Manually trigger a flow' in Window 'Manage your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+40,Recording_67,Process_21,2022-03-03T03:49:48+00:00,Click UI element in window,Hyperlink 'Create' in Window 'Manage your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+41,Recording_67,Process_21,2022-03-03T03:49:52+00:00,Press button in window,Button '+ New step' in Window 'Create your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+42,Recording_67,Process_21,2022-03-03T03:49:58+00:00,Populate text field in window,Edit 'Search connectors and actions' in Window 'Create your  ...  — Mozilla Firefox'; Text:'desktop ',Make a new flow ,Event_341
+43,Recording_67,Process_21,2022-03-03T03:50:02+00:00,Press button in window,Button 'Desktop flows' in Window 'Create your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+44,Recording_67,Process_21,2022-03-03T03:50:07+00:00,Press button in window,Button 'Run a flow  ...  Desktop flows' in Window 'Create your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+45,Recording_67,Process_21,2022-03-03T03:50:12+00:00,Press button in window,Button 'Run a flow  ...  Desktop flows' in Window 'Create your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+46,Recording_67,Process_21,2022-03-03T03:50:46+00:00,Press button in window,Button 'Menu for Run  ...  for desktop 2' 2 in Window 'Create your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+47,Recording_67,Process_21,2022-03-03T03:50:53+00:00,Select menu option in window,MenuItem: +Add new connection in Window 'Create your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+48,Recording_67,Process_21,2022-03-03T03:50:57+00:00,Click UI element in window,List Item in Window 'Create your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+49,Recording_67,Process_21,2022-03-03T03:51:00+00:00,Click UI element in window,List Item 'On premises Gateway NameSurname' in Window 'Create your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+50,Recording_67,Process_21,2022-03-03T03:51:19+00:00,Populate text field in window,Edit 'Domain and username' in Window 'Create your  ...  — Mozilla Firefox'; Text:'rkh-pc-26\\10',Make a new flow ,Event_341
+51,Recording_67,Process_21,2022-03-03T03:51:25+00:00,Populate text field in window,Edit 'Password' in Window 'Create your  ...  — Mozilla Firefox'; Text:P'password_secret_text',Make a new flow ,Event_341
+52,Recording_67,Process_21,2022-03-03T03:51:38+00:00,Press button in window,Button 'Create' in Window 'Create your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+53,Recording_67,Process_21,2022-03-03T03:51:59+00:00,Click UI element in window,UI Custom in Window 'Create your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+54,Recording_67,Process_21,2022-03-03T03:52:03+00:00,Click UI element in window,List Item 'Onenote' in Window 'Create your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+55,Recording_67,Process_21,2022-03-03T03:52:11+00:00,Set drop-down list value in window,Combo Box 'Run Mode' in Window 'Create your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+56,Recording_67,Process_21,2022-03-03T03:52:15+00:00,Press button in window,Button 'Save' in Window 'Create your  ...  — Mozilla Firefox',Make a new flow ,Event_341
+57,Recording_67,Process_21,2022-03-03T03:52:22+00:00,Click UI element in window,Status Bar in Window 'Edit your flow | Power Automate — Mozilla Firefox',Make a new flow ,Event_341
+58,Recording_67,Process_21,2022-03-03T03:52:30+00:00,Select menu option in window,MenuItem: Test in Window 'Edit your flow | Power Automate — Mozilla Firefox',Execute the desktop flow,Event_342
+59,Recording_67,Process_21,2022-03-03T03:52:34+00:00,Click UI element in window,Edit 'Manually' in Window 'Edit your flow | Power Automate — Mozilla Firefox',Execute the desktop flow,Event_342
+60,Recording_67,Process_21,2022-03-03T03:52:38+00:00,Press button in window,Button 'Test' in Window 'Edit your flow | Power Automate — Mozilla Firefox',Execute the desktop flow,Event_342
+61,Recording_67,Process_21,2022-03-03T03:52:46+00:00,Press button in window,Button 'Continue' in Window 'Edit your flow | Power Automate — Mozilla Firefox',Execute the desktop flow,Event_342
+62,Recording_67,Process_21,2022-03-03T03:52:49+00:00,Press button in window,Button 'Continue' in Window 'Edit your flow | Power Automate — Mozilla Firefox',Execute the desktop flow,Event_342
+63,Recording_67,Process_21,2022-03-03T03:52:52+00:00,Press button in window,Button 'Test' in Window 'Edit your flow | Power Automate — Mozilla Firefox',Execute the desktop flow,Event_342

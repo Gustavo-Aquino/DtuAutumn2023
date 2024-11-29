@@ -1,0 +1,83 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_41,Process_16,2022-02-28T05:19:42+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar,Open the calendar,Event_197
+1,Recording_41,Process_16,2022-02-28T05:19:44+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher',Open the calendar,Event_197
+2,Recording_41,Process_16,2022-02-28T05:19:48+00:00,Press button in window,Button 'Google apps' in Pane 'New Tab - Google Chrome - Name',Open the calendar,Event_197
+3,Recording_41,Process_16,2022-02-28T05:19:52+00:00,Click UI element in window,Document in Pane 'New Tab - Google Chrome - Name',Open the calendar,Event_197
+4,Recording_41,Process_16,2022-02-28T05:19:57+00:00,Click UI element in window,Group in Pane 'New Tab - Google Chrome - Name',Open the calendar,Event_197
+5,Recording_41,Process_16,2022-02-28T05:19:58+00:00,Click UI element in window,Hyperlink 'Calendar' in Pane 'New Tab - Google Chrome - Name',Open the calendar,Event_197
+6,Recording_41,Process_16,2022-02-28T05:20:05+00:00,Click UI element in window,Text 'February 2022' in Pane 'New Tab - Google Chrome - Name',Open the calendar,Event_197
+7,Recording_41,Process_16,2022-02-28T05:20:08+00:00,Press button in window,Button 'Next month' in Pane 'New Tab - Google Chrome - Name',Check the dates for availability,Event_198
+8,Recording_41,Process_16,2022-02-28T05:20:12+00:00,Click UI element in window,Data Item '4' in Pane 'New Tab - Google Chrome - Name',Check the dates for availability,Event_198
+9,Recording_41,Process_16,2022-02-28T05:20:20+00:00,Press button in window,Button 'New Tab' in Pane 'New Tab - Google Chrome - Name',Go to the crm tool,Event_199
+10,Recording_41,Process_16,2022-02-28T05:20:24+00:00,Press button in window,Button 'Home Page - Zoho CRM' in Pane 'New Tab - Google Chrome - Name',Go to the crm tool,Event_199
+11,Recording_41,Process_16,2022-02-28T05:20:32+00:00,Click UI element in window,Hyperlink 'Meetings' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+12,Recording_41,Process_16,2022-02-28T05:20:36+00:00,Press button in window,Button 'Create Meeting' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+13,Recording_41,Process_16,2022-02-28T05:20:49+00:00,Populate text field in window,Edit 'Title' in Pane 'New Tab - Google Chrome - Name'; Text:'Product demo', Set the meeting for product demo,Event_200
+14,Recording_41,Process_16,2022-02-28T05:20:55+00:00,Click UI element in window,Text 'Make this an online meeting' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+15,Recording_41,Process_16,2022-02-28T05:20:57+00:00,Set checkbox state in window,Check Box in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+16,Recording_41,Process_16,2022-02-28T05:21:06+00:00,Click UI element in window,Data Item '4' 2 in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+17,Recording_41,Process_16,2022-02-28T05:21:09+00:00,Click UI element in window,Edit 'hh:mm a' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+18,Recording_41,Process_16,2022-02-28T05:21:12+00:00,Click UI element in window,Text '03:30 ' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+19,Recording_41,Process_16,2022-02-28T05:21:16+00:00,Click UI element in window,Edit 'hh:mm a' 2 in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+20,Recording_41,Process_16,2022-02-28T05:21:20+00:00,Click UI element in window,Text '03:30 ' 2 in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+21,Recording_41,Process_16,2022-02-28T05:21:24+00:00,Click UI element in window,Text 'Name Surname' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+22,Recording_41,Process_16,2022-02-28T05:21:27+00:00,Click UI element in window,Text 'Name Surname' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+23,Recording_41,Process_16,2022-02-28T05:21:35+00:00,Click UI element in window,Text 'Participants' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+24,Recording_41,Process_16,2022-02-28T05:21:37+00:00,Click UI element in window,Hyperlink 'Add' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+25,Recording_41,Process_16,2022-02-28T05:21:39+00:00,Set checkbox state in window,Check Box 'Name Butt  ... @Domain' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+26,Recording_41,Process_16,2022-02-28T05:21:40+00:00,Click UI element in window,Data Item 'Name Butt  ... @Domain' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+27,Recording_41,Process_16,2022-02-28T05:21:42+00:00,Press button in window,Button 'Done' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+28,Recording_41,Process_16,2022-02-28T05:21:54+00:00,Click UI element in window,Text 'Participants Reminder' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+29,Recording_41,Process_16,2022-02-28T05:22:00+00:00,Click UI element in window,Text '5 minutes before' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+30,Recording_41,Process_16,2022-02-28T05:22:02+00:00,Press button in window,Button 'Save' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+31,Recording_41,Process_16,2022-02-28T05:22:06+00:00,Click UI element in window,Text 'Meeting created successfully. ' in Pane 'New Tab - Google Chrome - Name', Set the meeting for product demo,Event_200
+0,Recording_42,Process_16,2022-02-28T05:47:55+00:00,Press button in window,"System Clock, 11:17 AM, ‎2/‎28/‎2022 in System Tray",Go to the calendar.,Event_201
+1,Recording_42,Process_16,2022-02-28T05:48:16+00:00,Click UI element in window,Data Item '9' in Window 'Date and Time Usernamermation',Verify your availability in calendar,Event_202
+2,Recording_42,Process_16,2022-02-28T05:48:23+00:00,Press button in window,Microsoft Edge (2) - 1 running window in Quick Launch Bar,Open the salesforce crm tool,Event_203
+3,Recording_42,Process_16,2022-02-28T05:48:27+00:00,Press button in window,Button 'New Tab' in Window 'Process  ...  - Microsoft​ Edge',Open the salesforce crm tool,Event_203
+4,Recording_42,Process_16,2022-02-28T05:48:31+00:00,Click UI element in window,Hyperlink 'Home |  ... /page/home' in Window 'New tab and  ...  - Microsoft​ Edge',Open the salesforce crm tool,Event_203
+5,Recording_42,Process_16,2022-02-28T05:48:38+00:00,Press button in window,Button 'Log In' in Window 'Login |  ...  - Microsoft​ Edge',Open the salesforce crm tool,Event_203
+6,Recording_42,Process_16,2022-02-28T05:48:56+00:00,Press button in window,Button 'Log In' in Window 'Login |  ...  - Microsoft​ Edge',Open the salesforce crm tool,Event_203
+7,Recording_42,Process_16,2022-02-28T05:49:04+00:00,Click UI element in window,Hyperlink 'Calendar' in Window 'Home |  ...  - Microsoft​ Edge',Arrange the product demo meeting,Event_204
+8,Recording_42,Process_16,2022-02-28T05:49:12+00:00,Click UI element in window,Data Item '9' in Window 'Calendar |  ...  - Microsoft​ Edge',Arrange the product demo meeting,Event_204
+9,Recording_42,Process_16,2022-02-28T05:49:30+00:00,Click UI element in window,List 'eventListContainer' in Window 'Calendar |  ...  - Microsoft​ Edge',Arrange the product demo meeting,Event_204
+10,Recording_42,Process_16,2022-02-28T05:49:34+00:00,Click UI element in window,Combo Box '*Subject' in Window 'New Event |  ...  - Microsoft​ Edge',Arrange the product demo meeting,Event_204
+11,Recording_42,Process_16,2022-02-28T05:49:36+00:00,Send keys,TextToSend:'{LShiftKey}(M)eeting fo r9/2/2022',Arrange the product demo meeting,Event_204
+12,Recording_42,Process_16,2022-02-28T05:49:51+00:00,Click UI element in window,Combo Box '*Subject' in Window 'New Event |  ...  - Microsoft​ Edge',Arrange the product demo meeting,Event_204
+13,Recording_42,Process_16,2022-02-28T05:49:52+00:00,Send keys,TextToSend:'{Back}{Back}{Back}{Back}on ',Arrange the product demo meeting,Event_204
+14,Recording_42,Process_16,2022-02-28T05:50:05+00:00,Populate text field in window,Edit 'Location' in Window 'New Event |  ...  - Microsoft​ Edge'; Text:'ahmedabaad',Arrange the product demo meeting,Event_204
+15,Recording_42,Process_16,2022-02-28T05:50:19+00:00,Set drop-down list value in window,Combo Box '*Time' in Window 'New Event |  ...  - Microsoft​ Edge',Arrange the product demo meeting,Event_204
+16,Recording_42,Process_16,2022-02-28T05:50:24+00:00,Set drop-down list value in window,Combo Box '*Time' 2 in Window 'New Event |  ...  - Microsoft​ Edge',Arrange the product demo meeting,Event_204
+17,Recording_42,Process_16,2022-02-28T05:50:34+00:00,Click UI element in window,Combo Box 'Name' in Window 'New Event |  ...  - Microsoft​ Edge',Arrange the product demo meeting,Event_204
+18,Recording_42,Process_16,2022-02-28T05:50:37+00:00,Click UI element in window,Group 'Name Minor (Sample)' in Window 'New Event |  ...  - Microsoft​ Edge',Arrange the product demo meeting,Event_204
+19,Recording_42,Process_16,2022-02-28T05:50:46+00:00,Set drop-down list value in window,Combo Box 'Name' in Window 'New Event |  ...  - Microsoft​ Edge',Arrange the product demo meeting,Event_204
+20,Recording_42,Process_16,2022-02-28T05:50:52+00:00,Click UI element in window,Combo Box 'Time Before Event' in Window 'New Event |  ...  - Microsoft​ Edge',Arrange the product demo meeting,Event_204
+21,Recording_42,Process_16,2022-02-28T05:50:56+00:00,Click UI element in window,Group in Window 'New Event |  ...  - Microsoft​ Edge',Arrange the product demo meeting,Event_204
+22,Recording_42,Process_16,2022-02-28T05:51:03+00:00,Press button in window,Button 'Save' in Window 'New Event |  ...  - Microsoft​ Edge',Arrange the product demo meeting,Event_204
+23,Recording_42,Process_16,2022-02-28T05:51:09+00:00,Click UI element in window,Text 'slds- ...  forceToastMessage' in Window 'Calendar |  ...  - Microsoft​ Edge',Arrange the product demo meeting,Event_204
+0,Recording_60,Process_16,2022-02-28T05:43:07+00:00,Press button in window,Button 'Type here to search' in TaskBar,Open the calendar.,Event_301
+1,Recording_60,Process_16,2022-02-28T05:43:10+00:00,Populate text field in window,Edit 'Search box' in Window 'Search'; Text:'outlo',Open the calendar.,Event_301
+2,Recording_60,Process_16,2022-02-28T05:43:14+00:00,Click UI element in window,List Item 'Outlook  ...  to switch preview' in Window 'Search',Open the calendar.,Event_301
+3,Recording_60,Process_16,2022-02-28T05:43:40+00:00,Press button in window,Button 'Calendar' in Window 'Inbox - Name - Outlook',Open the calendar.,Event_301
+4,Recording_60,Process_16,2022-02-28T05:43:47+00:00,Click UI element in window,"List 'Month View, 31  ...  March 2022 12:00am' in Window 'Calendar - Email@Domain - Outlook'",Check the next week date in calendar for your availability for product demo,Event_302
+5,Recording_60,Process_16,2022-02-28T05:43:54+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Login to the crm tool,Event_303
+6,Recording_60,Process_16,2022-02-28T05:43:56+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Dynamics 365 — Mozilla Firefox',Login to the crm tool,Event_303
+7,Recording_60,Process_16,2022-02-28T05:44:06+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'dynemic crm login',Login to the crm tool,Event_303
+8,Recording_60,Process_16,2022-02-28T05:44:06+00:00,Send keys,TextToSend:'{Return}',Login to the crm tool,Event_303
+9,Recording_60,Process_16,2022-02-28T05:44:10+00:00,Click UI element in window,Hyperlink 'Microsoft  ... om › en-in' in Window 'dynemic crm  ...  — Mozilla Firefox',Login to the crm tool,Event_303
+10,Recording_60,Process_16,2022-02-28T05:44:14+00:00,Click UI element in window,Hyperlink 'Get started' in Window 'Business  ...  — Mozilla Firefox',Login to the crm tool,Event_303
+11,Recording_60,Process_16,2022-02-28T05:44:22+00:00,Click UI element in window,Hyperlink 'Click this button to try sales app for free' in Window 'Start a Free  ...  — Mozilla Firefox',Login to the crm tool,Event_303
+12,Recording_60,Process_16,2022-02-28T05:44:24+00:00,Click UI element in window,Edit 'Try Dynamics 365 Sales free for 30 days' in Window 'Start a Free  ...  — Mozilla Firefox',Login to the crm tool,Event_303
+13,Recording_60,Process_16,2022-02-28T05:44:26+00:00,Click UI element in window,List Item 'Email@Domain' in List,Login to the crm tool,Event_303
+14,Recording_60,Process_16,2022-02-28T05:44:27+00:00,Press button in window,Button 'click this to start your free trial' in Window 'Start a Free  ...  — Mozilla Firefox',Login to the crm tool,Event_303
+15,Recording_60,Process_16,2022-02-28T05:44:53+00:00,Click UI element in window,Tree Item 'Calendar' in Window 'Sales dashboard - Dynamics 365 — Mozilla Firefox',Create the meeting for product demo,Event_304
+16,Recording_60,Process_16,2022-02-28T05:45:04+00:00,Select menu option in window,Menu Item 'Meeting' in Window 'Meetings My  ...  — Mozilla Firefox',Create the meeting for product demo,Event_304
+17,Recording_60,Process_16,2022-02-28T05:45:11+00:00,Click UI element in window,"Combo Box 'Required, Multiple Selection Lookup' in Window 'Meeting:  ...  — Mozilla Firefox'",Create the meeting for product demo,Event_304
+18,Recording_60,Process_16,2022-02-28T05:45:19+00:00,Click UI element in window,Tree Item 'Avery Name' in Window 'Meeting:  ...  — Mozilla Firefox',Create the meeting for product demo,Event_304
+19,Recording_60,Process_16,2022-02-28T05:45:25+00:00,Click UI element in window,UI Custom 'Appointment' in Window 'Meeting:  ...  — Mozilla Firefox',Create the meeting for product demo,Event_304
+20,Recording_60,Process_16,2022-02-28T05:45:31+00:00,Populate text field in window,Edit 'Subject' in Window 'Meeting:  ...  — Mozilla Firefox'; Text:'Product demo',Create the meeting for product demo,Event_304
+21,Recording_60,Process_16,2022-02-28T05:45:36+00:00,Click UI element in window,Combo Box 'Date of Start Time' in Window 'Meeting:  ...  — Mozilla Firefox',Create the meeting for product demo,Event_304
+22,Recording_60,Process_16,2022-02-28T05:45:41+00:00,Press button in window,Button 'Navigate to next month March' in Window 'Meeting:  ...  — Mozilla Firefox',Create the meeting for product demo,Event_304
+23,Recording_60,Process_16,2022-02-28T05:45:45+00:00,Press button in window,"Button '3, March, 2022' in Window 'Meeting:  ...  — Mozilla Firefox'",Create the meeting for product demo,Event_304
+24,Recording_60,Process_16,2022-02-28T05:45:50+00:00,Set checkbox state in window,Check Box 'All Day Event' in Window 'Meeting:  ...  — Mozilla Firefox',Create the meeting for product demo,Event_304
+25,Recording_60,Process_16,2022-02-28T05:45:57+00:00,Select menu option in window,Menu Item 'Save & Close' in Window 'Meeting:  ...  — Mozilla Firefox',Create the meeting for product demo,Event_304

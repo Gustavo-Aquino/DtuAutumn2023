@@ -1,0 +1,109 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_4,Process_3,2022-02-21T08:18:11+00:00,Press button in window,Nebula PDF Converter Pro - 1 running window in Quick Launch Bar,Open file formating tool,Event_13
+1,Recording_4,Process_3,2022-02-21T08:18:20+00:00,Press button in window,Button '' in Window 'Nebula PDF Converter Pro',Open file formating tool,Event_13
+2,Recording_4,Process_3,2022-02-21T08:18:25+00:00,Press button in window,Button 'Button' in Window 'Nebula PDF Converter Pro',Open file formating tool,Event_13
+3,Recording_4,Process_3,2022-02-21T08:18:30+00:00,Click UI element in window,List Item 'PDFConverter.ViewModels.ToolListUsername' in Window 'Nebula PDF Converter Pro',Open file formating tool,Event_13
+4,Recording_4,Process_3,2022-02-21T08:18:35+00:00,Press button in window,Button 'Button' 2 in Window 'Nebula PDF Converter Pro',Upload the brochure and save it in PDF format,Event_14
+5,Recording_4,Process_3,2022-02-21T08:18:39+00:00,Click UI element in window,Edit 'Name' 2 in Window 'Nebula PDF Converter Pro',Upload the brochure and save it in PDF format,Event_14
+6,Recording_4,Process_3,2022-02-21T08:18:42+00:00,Press button in window,Button 'Open' in Window 'Nebula PDF Converter Pro',Upload the brochure and save it in PDF format,Event_14
+7,Recording_4,Process_3,2022-02-21T08:18:47+00:00,Press button in window,Button 'Browser...' in Window 'Nebula PDF Converter Pro',Upload the brochure and save it in PDF format,Event_14
+8,Recording_4,Process_3,2022-02-21T08:18:51+00:00,Click UI element in window,Tree Item 'Desktop (pinned)' in Window 'Nebula PDF Converter Pro',Upload the brochure and save it in PDF format,Event_14
+9,Recording_4,Process_3,2022-02-21T08:18:53+00:00,Press button in window,Button 'Select Folder' in Window 'Nebula PDF Converter Pro',Upload the brochure and save it in PDF format,Event_14
+10,Recording_4,Process_3,2022-02-21T08:18:57+00:00,Press button in window,Button 'Convert' in Window 'Nebula PDF Converter Pro',Upload the brochure and save it in PDF format,Event_14
+11,Recording_4,Process_3,2022-02-21T08:19:07+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Check weather condition and accordingly decide the demo date.,Event_15
+12,Recording_4,Process_3,2022-02-21T08:19:10+00:00,Click UI element in window,List Item 'Process  ...  - Microsoft​ Edge' in List 'Task Switcher',Check weather condition and accordingly decide the demo date.,Event_15
+13,Recording_4,Process_3,2022-02-21T08:19:12+00:00,Press button in window,Button 'New Tab' in Window 'Process  ...  - Microsoft​ Edge',Check weather condition and accordingly decide the demo date.,Event_15
+14,Recording_4,Process_3,2022-02-21T08:19:14+00:00,Click UI element in window,Edit 'Address and search bar' in Window 'Process  ...  - Microsoft​ Edge',Check weather condition and accordingly decide the demo date.,Event_15
+15,Recording_4,Process_3,2022-02-21T08:19:20+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'accuweather',Check weather condition and accordingly decide the demo date.,Event_15
+16,Recording_4,Process_3,2022-02-21T08:19:21+00:00,Send keys,TextToSend:'{Return}',Check weather condition and accordingly decide the demo date.,Event_15
+17,Recording_4,Process_3,2022-02-21T08:19:24+00:00,Click UI element in window,Window 'accuweather  ...  - Microsoft​ Edge',Check weather condition and accordingly decide the demo date.,Event_15
+18,Recording_4,Process_3,2022-02-21T08:19:32+00:00,Click UI element in window,"Edit 'Search' in Window 'Vadodara,  ...  - Microsoft​ Edge'",Check weather condition and accordingly decide the demo date.,Event_15
+19,Recording_4,Process_3,2022-02-21T08:19:36+00:00,Populate text field in window,"Edit 'Search' 2 in Window 'Vadodara,  ...  - Microsoft​ Edge'; Text:'mumbai'",Check weather condition and accordingly decide the demo date.,Event_15
+20,Recording_4,Process_3,2022-02-21T08:19:40+00:00,Click UI element in window,"Text 'Mumbai, Maharashtra, IN' in Window 'Vadodara,  ...  - Microsoft​ Edge'",Check weather condition and accordingly decide the demo date.,Event_15
+21,Recording_4,Process_3,2022-02-21T08:19:45+00:00,Click UI element in window,"Hyperlink 'MONTHLY' in Window 'Mumbai,  ...  - Microsoft​ Edge' 3",Check weather condition and accordingly decide the demo date.,Event_15
+22,Recording_4,Process_3,2022-02-21T08:19:54+00:00,Click UI element in window,"Hyperlink '2 Sunshine; warm, low humidity 34° 25°' in Window 'Mumbai,  ...  - Microsoft​ Edge'",Check weather condition and accordingly decide the demo date.,Event_15
+23,Recording_4,Process_3,2022-02-21T08:20:05+00:00,Click UI element in window,Pane 'View' in Window 'Untitled and  ...  - Microsoft​ Edge',Check weather condition and accordingly decide the demo date.,Event_15
+24,Recording_4,Process_3,2022-02-21T08:20:10+00:00,Press button in window,"Button 'New Tab' in Window 'Mumbai,  ...  - Microsoft​ Edge' 2",Attach the brochure and send invitation mail,Event_16
+25,Recording_4,Process_3,2022-02-21T08:20:12+00:00,Click UI element in window,Edit 'Address and search bar' in Window 'Process  ...  - Microsoft​ Edge',Attach the brochure and send invitation mail,Event_16
+26,Recording_4,Process_3,2022-02-21T08:20:16+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge' 2; Text:'yahoo mail',Attach the brochure and send invitation mail,Event_16
+27,Recording_4,Process_3,2022-02-21T08:20:17+00:00,Send keys,TextToSend:'{Return}',Attach the brochure and send invitation mail,Event_16
+28,Recording_4,Process_3,2022-02-21T08:20:20+00:00,Click UI element in window,Hyperlink 'Yahoo Mail' in Window 'yahoo mail -  ...  - Microsoft​ Edge',Attach the brochure and send invitation mail,Event_16
+29,Recording_4,Process_3,2022-02-21T08:20:26+00:00,Press button in window,Button 'Compose' in Window '(3 unread) -  ...  - Microsoft​ Edge',Attach the brochure and send invitation mail,Event_16
+30,Recording_4,Process_3,2022-02-21T08:20:29+00:00,Click UI element in window,Combo Box ' ...  D_X p_a L_0 B_0' in Window '(3 unread) -  ...  - Microsoft​ Edge',Attach the brochure and send invitation mail,Event_16
+31,Recording_4,Process_3,2022-02-21T08:20:31+00:00,Send keys,TextToSend:'Namedes',Attach the brochure and send invitation mail,Event_16
+32,Recording_4,Process_3,2022-02-21T08:20:51+00:00,Populate text field in window,Edit 'Subject' in Window '(3 unread) -  ...  - Microsoft​ Edge'; Text:'Meeting for new product demo',Attach the brochure and send invitation mail,Event_16
+33,Recording_4,Process_3,2022-02-21T08:20:56+00:00,Populate text field in window,"Edit 'Message body' in Window '(3 unread) -  ...  - Microsoft​ Edge'; Text:'Hello,'",Attach the brochure and send invitation mail,Event_16
+34,Recording_4,Process_3,2022-02-21T08:20:56+00:00,Send keys,TextToSend:'{Return}',Attach the brochure and send invitation mail,Event_16
+35,Recording_4,Process_3,2022-02-21T08:21:38+00:00,Populate text field in window,"Edit 'Message body' in Window '(3 unread) -  ...  - Microsoft​ Edge'; Text:'''Hello,
+I arranged a meeting for new product demo. The brochure of this product is attached herewith.'''",Attach the brochure and send invitation mail,Event_16
+36,Recording_4,Process_3,2022-02-21T08:21:47+00:00,Press button in window,Button 'Attach files' in Window '(3 unread) -  ...  - Microsoft​ Edge',Attach the brochure and send invitation mail,Event_16
+37,Recording_4,Process_3,2022-02-21T08:21:50+00:00,Select menu option in window,Menu Item 'Attach files from computer' in Window '(3 unread) -  ...  - Microsoft​ Edge',Attach the brochure and send invitation mail,Event_16
+38,Recording_4,Process_3,2022-02-21T08:21:55+00:00,Click UI element in window,Edit 'Name' 2 in Window '(3 unread) -  ...  - Microsoft​ Edge',Attach the brochure and send invitation mail,Event_16
+39,Recording_4,Process_3,2022-02-21T08:21:57+00:00,Press button in window,Button 'Open' in Window '(3 unread) -  ...  - Microsoft​ Edge',Attach the brochure and send invitation mail,Event_16
+40,Recording_4,Process_3,2022-02-21T08:22:03+00:00,Press button in window,Button 'Send' in Window '(3 unread) -  ...  - Microsoft​ Edge',Attach the brochure and send invitation mail,Event_16
+0,Recording_21,Process_3,2022-02-21T08:15:13+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Open the converter,Event_97
+1,Recording_21,Process_3,2022-02-21T08:15:16+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Project  ...  — Mozilla Firefox',Open the converter,Event_97
+2,Recording_21,Process_3,2022-02-21T08:15:24+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'adobe converrter',Open the converter,Event_97
+3,Recording_21,Process_3,2022-02-21T08:15:26+00:00,Send keys,TextToSend:'{Return}',Open the converter,Event_97
+4,Recording_21,Process_3,2022-02-21T08:15:32+00:00,Click UI element in window,Hyperlink 'Convert  ...  › convert-pdf' in Window 'adobe converrter - Google Search — Mozilla Firefox',Open the converter,Event_97
+5,Recording_21,Process_3,2022-02-21T08:15:39+00:00,Press button in window,Button 'Convert' 2 in Window 'Convert PDFs  ...  — Mozilla Firefox',Open the brochure which is word file and convert it to PDF format,Event_98
+6,Recording_21,Process_3,2022-02-21T08:15:44+00:00,Click UI element in window,Hyperlink 'Word to PDF' 2 in Window 'Convert PDFs  ...  — Mozilla Firefox',Open the brochure which is word file and convert it to PDF format,Event_98
+7,Recording_21,Process_3,2022-02-21T08:15:50+00:00,Press button in window,Button 'Convert Word to PDF' 2 in Window 'Convert Word  ...  — Mozilla Firefox',Open the brochure which is word file and convert it to PDF format,Event_98
+8,Recording_21,Process_3,2022-02-21T08:15:54+00:00,Click UI element in window,Edit 'Name' 2 in Window 'Convert Word  ...  — Mozilla Firefox',Open the brochure which is word file and convert it to PDF format,Event_98
+9,Recording_21,Process_3,2022-02-21T08:15:56+00:00,Press button in window,Button 'Open' in Window 'Convert Word  ...  — Mozilla Firefox',Open the brochure which is word file and convert it to PDF format,Event_98
+10,Recording_21,Process_3,2022-02-21T08:16:19+00:00,Press button in window,Button 'Download your PDF' in Window 'Convert Word  ...  — Mozilla Firefox',Open the brochure which is word file and convert it to PDF format,Event_98
+11,Recording_21,Process_3,2022-02-21T08:17:10+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Adobe Acrobat Home — Mozilla Firefox',Check the weather and decide the demo date,Event_99
+12,Recording_21,Process_3,2022-02-21T08:17:16+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'msnweather',Check the weather and decide the demo date,Event_99
+13,Recording_21,Process_3,2022-02-21T08:17:17+00:00,Send keys,TextToSend:'{Return}',Check the weather and decide the demo date,Event_99
+14,Recording_21,Process_3,2022-02-21T08:17:22+00:00,Click UI element in window,"Hyperlink 'Vadodara,  ...  › we-city' in Window 'msnweather - Google Search — Mozilla Firefox'",Check the weather and decide the demo date,Event_99
+15,Recording_21,Process_3,2022-02-21T08:17:35+00:00,Press button in window,"Button 'Sun 27 34° 19°' in Window 'Vadodara, GJ  ...  — Mozilla Firefox'",Check the weather and decide the demo date,Event_99
+16,Recording_21,Process_3,2022-02-21T08:18:06+00:00,Press button in window,Outlook 2013 - 1 running window in Quick Launch Bar, Send Invitation mail for the decided date along with brochure ,Event_100
+17,Recording_21,Process_3,2022-02-21T08:18:12+00:00,Press button in window,Button 'New Email' in Window 'Inbox - Email@Domain - Outlook', Send Invitation mail for the decided date along with brochure ,Event_100
+18,Recording_21,Process_3,2022-02-21T08:18:14+00:00,Click UI element in window,Document 'To' in Window 'Untitled - Message (HTML) ', Send Invitation mail for the decided date along with brochure ,Event_100
+19,Recording_21,Process_3,2022-02-21T08:18:15+00:00,Send keys,TextToSend:'kruna{Back}', Send Invitation mail for the decided date along with brochure ,Event_100
+20,Recording_21,Process_3,2022-02-21T08:18:22+00:00,Click UI element in window,Text 'Email@Domain' in Window 'Untitled - Message (HTML) ', Send Invitation mail for the decided date along with brochure ,Event_100
+21,Recording_21,Process_3,2022-02-21T08:18:34+00:00,Populate text field in window,Edit 'Subject' in Window 'Untitled - Message (HTML) '; Text:'Product demo session', Send Invitation mail for the decided date along with brochure ,Event_100
+22,Recording_21,Process_3,2022-02-21T08:18:41+00:00,Click UI element in window,Document 'Product demo session - Message' in Window 'Untitled - Message (HTML) ', Send Invitation mail for the decided date along with brochure ,Event_100
+23,Recording_21,Process_3,2022-02-21T08:18:42+00:00,Send keys,"TextToSend:'{LShiftKey}(H)ello,{LShiftKey}({Return}){LShiftKey}(PFA) {LMenu}(){Return}{Return}we are ready for prodct demo.'", Send Invitation mail for the decided date along with brochure ,Event_100
+24,Recording_21,Process_3,2022-02-21T08:19:14+00:00,Select tab in window,Tab Item 'Insert' in Window 'Product demo session - Message (HTML) ', Send Invitation mail for the decided date along with brochure ,Event_100
+25,Recording_21,Process_3,2022-02-21T08:19:17+00:00,Press button in window,Button 'Attach File' in Window 'Product demo session - Message (HTML) ', Send Invitation mail for the decided date along with brochure ,Event_100
+26,Recording_21,Process_3,2022-02-21T08:19:22+00:00,Click UI element in window,Tree Item 'Downloads' in Window 'Product demo session - Message (HTML) ', Send Invitation mail for the decided date along with brochure ,Event_100
+27,Recording_21,Process_3,2022-02-21T08:19:25+00:00,Click UI element in window,Edit 'Name' in Window 'Product demo session - Message (HTML) ', Send Invitation mail for the decided date along with brochure ,Event_100
+28,Recording_21,Process_3,2022-02-21T08:19:27+00:00,Click UI element in window,Split Button 'Insert' in Window 'Product demo session - Message (HTML) ', Send Invitation mail for the decided date along with brochure ,Event_100
+29,Recording_21,Process_3,2022-02-21T08:19:34+00:00,Press button in window,Button 'Send' in Window 'Product demo session - Message (HTML) ', Send Invitation mail for the decided date along with brochure ,Event_100
+0,Recording_22,Process_3,2022-02-21T08:09:27+00:00,Press button in window,PDF Converter Pro - Free - 1 running window in Quick Launch Bar,Go to the content conversion app,Event_101
+1,Recording_22,Process_3,2022-02-21T08:09:35+00:00,Click UI element in window,"List Item 'To PDF' in Window 'PDF  ...  RTF, XPS, Images'",Go to the content conversion app,Event_101
+2,Recording_22,Process_3,2022-02-21T08:09:39+00:00,Press button in window,"Button 'Button' in Window 'PDF  ...  RTF, XPS, Images'",Go to the content conversion app,Event_101
+3,Recording_22,Process_3,2022-02-21T08:09:44+00:00,Press button in window,"Button 'Button' 2 in Window 'PDF  ...  RTF, XPS, Images'",Open the brochure in conversion tool and convert it to PDF.,Event_102
+4,Recording_22,Process_3,2022-02-21T08:09:47+00:00,Click UI element in window,"Edit 'Name' in Window 'PDF  ...  RTF, XPS, Images'",Open the brochure in conversion tool and convert it to PDF.,Event_102
+5,Recording_22,Process_3,2022-02-21T08:09:58+00:00,Press button in window,"Button 'Button' 3 in Window 'PDF  ...  RTF, XPS, Images'",Open the brochure in conversion tool and convert it to PDF.,Event_102
+6,Recording_22,Process_3,2022-02-21T08:10:38+00:00,Click UI element in window,UIAutomation.ClickElement:appmask['Window \'01_January\'22\'']['Edit \'Name\'']ClickType:UIAutomation.ClickType.LeftClickOffsetX:0OffsetY:-6MousePositionRelativeToElement:UIAutomation.RectangleEdgePoint.BottomCenter,Open the brochure in conversion tool and convert it to PDF.,Event_102
+7,Recording_22,Process_3,2022-02-21T08:10:40+00:00,Click UI element in window,UIAutomation.ClickElement:appmask['Window \'01_January\'22\'']['List \'Items View\'']ClickType:UIAutomation.ClickType.LeftClickOffsetX:-156OffsetY:-191MousePositionRelativeToElement:UIAutomation.RectangleEdgePoint.BottomCenter,Open the brochure in conversion tool and convert it to PDF.,Event_102
+8,Recording_22,Process_3,2022-02-21T08:10:46+00:00,Select menu option in window,Google Chrome - 3 running windows in Quick Launch Bar,Verify the weather condition for desired demo date ,Event_103
+9,Recording_22,Process_3,2022-02-21T08:10:50+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher',Verify the weather condition for desired demo date ,Event_103
+10,Recording_22,Process_3,2022-02-21T08:10:52+00:00,Click UI element in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Name',Verify the weather condition for desired demo date ,Event_103
+11,Recording_22,Process_3,2022-02-21T08:10:54+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Name'; Text:'weather.com',Verify the weather condition for desired demo date ,Event_103
+12,Recording_22,Process_3,2022-02-21T08:10:55+00:00,Send keys,TextToSend:'{Return}',Verify the weather condition for desired demo date ,Event_103
+13,Recording_22,Process_3,2022-02-21T08:11:04+00:00,Populate text field in window,Edit 'Search City or Postcode' in Pane 'New Tab - Google Chrome - Name'; Text:'Banglore',Verify the weather condition for desired demo date ,Event_103
+14,Recording_22,Process_3,2022-02-21T08:11:10+00:00,Click UI element in window,Group 'Saved Locations' in Pane 'New Tab - Google Chrome - Name',Verify the weather condition for desired demo date ,Event_103
+15,Recording_22,Process_3,2022-02-21T08:11:15+00:00,Click UI element in window,Hyperlink '10 Day' in Pane 'New Tab - Google Chrome - Name',Verify the weather condition for desired demo date ,Event_103
+16,Recording_22,Process_3,2022-02-21T08:11:21+00:00,Press button in window,Button 'Mon 28 87°  ...  1% Wind E 11 mph' in Pane 'New Tab - Google Chrome - Name',Verify the weather condition for desired demo date ,Event_103
+17,Recording_22,Process_3,2022-02-21T08:11:26+00:00,Drag and drop UI element in window,Image 'Sunny' in Text '87°' in Pane 'New Tab - Google Chrome - Name',Verify the weather condition for desired demo date ,Event_103
+18,Recording_22,Process_3,2022-02-21T08:11:34+00:00,Press button in window,Button 'New Tab' in Pane 'New Tab - Google Chrome - Name',Share the invitation mail by attaching final brochure,Event_104
+19,Recording_22,Process_3,2022-02-21T08:11:37+00:00,Click UI element in window,Hyperlink 'Gmail' in Pane 'New Tab - Google Chrome - Name',Share the invitation mail by attaching final brochure,Event_104
+20,Recording_22,Process_3,2022-02-21T08:11:41+00:00,Press button in window,Button 'Compose' in Pane 'New Tab - Google Chrome - Name',Share the invitation mail by attaching final brochure,Event_104
+21,Recording_22,Process_3,2022-02-21T08:11:45+00:00,Click UI element in window,Edit 'Subject' in Pane 'New Tab - Google Chrome - Name',Share the invitation mail by attaching final brochure,Event_104
+22,Recording_22,Process_3,2022-02-21T08:11:48+00:00,Send keys,TextToSend:'kru',Share the invitation mail by attaching final brochure,Event_104
+23,Recording_22,Process_3,2022-02-21T08:11:56+00:00,Click UI element in window,Text 'Email@Domain' in Pane 'New Tab - Google Chrome - Name',Share the invitation mail by attaching final brochure,Event_104
+24,Recording_22,Process_3,2022-02-21T08:11:57+00:00,Click UI element in window,Text 'S e n t f r o  ...  M T o : s u n s h a' in Pane 'New Tab - Google Chrome - Name',Share the invitation mail by attaching final brochure,Event_104
+25,Recording_22,Process_3,2022-02-21T08:12:11+00:00,Populate text field in window,Edit 'Subject' in Pane 'New Tab - Google Chrome - Name'; Text:'Meeting Invite for project demo on 28th February',Share the invitation mail by attaching final brochure,Event_104
+26,Recording_22,Process_3,2022-02-21T08:12:16+00:00,Select menu option in window,Menu Item 'Attach files' in Pane 'New Tab - Google Chrome - Name',Share the invitation mail by attaching final brochure,Event_104
+27,Recording_22,Process_3,2022-02-21T08:12:19+00:00,Click UI element in window,Edit 'Name' in Pane 'New Tab - Google Chrome - Name',Share the invitation mail by attaching final brochure,Event_104
+28,Recording_22,Process_3,2022-02-21T08:12:21+00:00,Press button in window,Button 'Open' in Pane 'New Tab - Google Chrome - Name',Share the invitation mail by attaching final brochure,Event_104
+29,Recording_22,Process_3,2022-02-21T08:12:26+00:00,Populate text field in window,"Edit 'Message Body' in Pane 'New Tab - Google Chrome - Name'; Text:'Hello,'",Share the invitation mail by attaching final brochure,Event_104
+30,Recording_22,Process_3,2022-02-21T08:12:27+00:00,Send keys,TextToSend:'{Return}{Return}',Share the invitation mail by attaching final brochure,Event_104
+31,Recording_22,Process_3,2022-02-21T08:12:52+00:00,Populate text field in window,"Edit 'Message Body' in Pane 'New Tab - Google Chrome - Name'; Text:'''Hello,
+
+
+Please join us for the project demo on 28th february at Banglore office.'''",Share the invitation mail by attaching final brochure,Event_104
+32,Recording_22,Process_3,2022-02-21T08:12:57+00:00,Press button in window,Button 'Send ‪(Ctrl-Enter)‬' in Pane 'New Tab - Google Chrome - Name',Share the invitation mail by attaching final brochure,Event_104

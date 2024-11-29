@@ -1,0 +1,87 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_102,Process_40,2022-02-17T08:53:47+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Open the data visualization tool,Event_473
+1,Recording_102,Process_40,2022-02-17T08:53:50+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Process advisor | Power Automate — Mozilla Firefox',Open the data visualization tool,Event_473
+2,Recording_102,Process_40,2022-02-17T08:53:54+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'o365',Open the data visualization tool,Event_473
+3,Recording_102,Process_40,2022-02-17T08:53:55+00:00,Send keys,TextToSend:'{Return}',Open the data visualization tool,Event_473
+4,Recording_102,Process_40,2022-02-17T08:53:59+00:00,Click UI element in window,Hyperlink 'Office  ... office.com' in Window 'o365 - Google Search — Mozilla Firefox',Open the data visualization tool,Event_473
+5,Recording_102,Process_40,2022-02-17T08:54:07+00:00,Select menu option in window,Menu Item 'App launcher' in Window 'Microsoft Office Home — Mozilla Firefox',Open the data visualization tool,Event_473
+6,Recording_102,Process_40,2022-02-17T08:54:09+00:00,Click UI element in window,Hyperlink 'Power BI' 2 in Window 'Microsoft Office Home — Mozilla Firefox',Open the data visualization tool,Event_473
+7,Recording_102,Process_40,2022-02-17T08:54:17+00:00,Click UI element in window,Edit 'Search' 2 in Window 'Power BI — Mozilla Firefox', locate the scatter plot of speed,Event_474
+8,Recording_102,Process_40,2022-02-17T08:54:24+00:00,Click UI element in window,List Item 'Project Data' 2 in Window 'Power BI — Mozilla Firefox', locate the scatter plot of speed,Event_474
+9,Recording_102,Process_40,2022-02-17T08:54:34+00:00,Select menu option in window,Menu Item 'File' in Window 'Project Data - Power BI — Mozilla Firefox',Export & Save scatter plot in pdf format,Event_475
+10,Recording_102,Process_40,2022-02-17T08:54:40+00:00,Select menu option in window,Menu Item 'Print this page' in Window 'Project Data - Power BI — Mozilla Firefox',Export & Save scatter plot in pdf format,Event_475
+11,Recording_102,Process_40,2022-02-17T08:54:46+00:00,Set drop-down list value in window,Combo Box 'Destination' in Window 'Project Data - Power BI — Mozilla Firefox',Export & Save scatter plot in pdf format,Event_475
+12,Recording_102,Process_40,2022-02-17T08:54:51+00:00,Press button in window,Button 'Print' in Window 'Project Data - Power BI — Mozilla Firefox',Export & Save scatter plot in pdf format,Event_475
+13,Recording_102,Process_40,2022-02-17T08:55:01+00:00,Populate text field in window,Edit 'File name:' in Window 'Project Data - Power BI — Mozilla Firefox'; Text:'Project Data',Export & Save scatter plot in pdf format,Event_475
+14,Recording_102,Process_40,2022-02-17T08:55:04+00:00,Press button in window,Button 'Save' in Window 'Project Data - Power BI — Mozilla Firefox',Export & Save scatter plot in pdf format,Event_475
+15,Recording_102,Process_40,2022-02-17T08:55:13+00:00,Press button in window,Button 'Type here to search' in TaskBar,Go to mailing app,Event_476
+16,Recording_102,Process_40,2022-02-17T08:55:17+00:00,Populate text field in window,Edit 'Search box' in Window 'Search'; Text:'mail',Go to mailing app,Event_476
+17,Recording_102,Process_40,2022-02-17T08:55:21+00:00,Click UI element in window,"List Item 'Mail, App, Press right to switch preview' in Window 'Search'",Go to mailing app,Event_476
+18,Recording_102,Process_40,2022-02-17T08:55:25+00:00,Press button in window,Button 'New mail' in Window 'Inbox - Outlook ‎- Mail',Create Mail to share the scatter plot ,Event_477
+19,Recording_102,Process_40,2022-02-17T08:55:36+00:00,Populate text field in window,Edit 'To: ' in Window 'Inbox - Outlook ‎- Mail'; Text:'Username',Create Mail to share the scatter plot ,Event_477
+20,Recording_102,Process_40,2022-02-17T08:55:40+00:00,Click UI element in window,List Item 'Name Email@Domain' in Window 'Inbox - Outlook ‎- Mail',Create Mail to share the scatter plot ,Event_477
+21,Recording_102,Process_40,2022-02-17T08:55:45+00:00,Populate text field in window,Edit 'Subject' in Window 'Inbox - Outlook ‎- Mail'; Text:'Project Data',Create Mail to share the scatter plot ,Event_477
+22,Recording_102,Process_40,2022-02-17T08:55:49+00:00,Click UI element in window,Edit 'Message' in Window 'Inbox - Outlook ‎- Mail',Create Mail to share the scatter plot ,Event_477
+23,Recording_102,Process_40,2022-02-17T08:55:50+00:00,Send keys,"TextToSend:'{LShiftKey}(H)ello,{LShiftKey}({Return}){LShiftKey}(PFA){Return}{Return}'",Create Mail to share the scatter plot ,Event_477
+24,Recording_102,Process_40,2022-02-17T08:55:58+00:00,Select tab in window,Tab Item 'Insert' in Window 'Inbox - Outlook ‎- Mail',Create Mail to share the scatter plot ,Event_477
+25,Recording_102,Process_40,2022-02-17T08:56:03+00:00,Press button in window,Button 'Files' in Window 'Inbox - Outlook ‎- Mail',Create Mail to share the scatter plot ,Event_477
+26,Recording_102,Process_40,2022-02-17T08:56:07+00:00,Click UI element in window,Edit 'Name' in Window 'Inbox - Outlook ‎- Mail',Create Mail to share the scatter plot ,Event_477
+27,Recording_102,Process_40,2022-02-17T08:56:10+00:00,Press button in window,Button 'Open' in Window 'Inbox - Outlook ‎- Mail',Create Mail to share the scatter plot ,Event_477
+28,Recording_102,Process_40,2022-02-17T08:56:14+00:00,Press button in window,Button 'Send' in Window 'Inbox - Outlook ‎- Mail',Send mail to your Client,Event_478
+0,Recording_103,Process_40,2022-02-17T08:55:29+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Go to the business analytic tool,Event_479
+1,Recording_103,Process_40,2022-02-17T08:55:33+00:00,Click UI element in window,List Item 'office  ...  - Microsoft​ Edge' in List 'Task Switcher',Go to the business analytic tool,Event_479
+2,Recording_103,Process_40,2022-02-17T08:55:36+00:00,Press button in window,Button 'New Tab' in Window 'office 365 -  ...  - Microsoft​ Edge',Go to the business analytic tool,Event_479
+3,Recording_103,Process_40,2022-02-17T08:55:41+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'powerbi',Go to the business analytic tool,Event_479
+4,Recording_103,Process_40,2022-02-17T08:55:42+00:00,Send keys,TextToSend:'{Return}',Go to the business analytic tool,Event_479
+5,Recording_103,Process_40,2022-02-17T08:55:48+00:00,Click UI element in window,Hyperlink 'Data Visualization | Microsoft Power BI' in Window 'powerbi -  ...  - Microsoft​ Edge',Go to the business analytic tool,Event_479
+6,Recording_103,Process_40,2022-02-17T08:55:53+00:00,Click UI element in window,Hyperlink 'Redirects to Power B I product site' in Window 'Data  ...  - Microsoft​ Edge',Go to the business analytic tool,Event_479
+7,Recording_103,Process_40,2022-02-17T08:56:01+00:00,Click UI element in window,Group 'ng-tns-c402-7 ng-star-inserted' in Window 'Power BI and  ...  - Microsoft​ Edge', Find the scatter plot created in business analytic tool,Event_480
+8,Recording_103,Process_40,2022-02-17T08:56:04+00:00,Send keys,TextToSend:'p', Find the scatter plot created in business analytic tool,Event_480
+9,Recording_103,Process_40,2022-02-17T08:56:06+00:00,Click UI element in window,Edit 'Search' in Window 'Power BI and  ...  - Microsoft​ Edge', Find the scatter plot created in business analytic tool,Event_480
+10,Recording_103,Process_40,2022-02-17T08:56:16+00:00,Populate text field in window,Edit 'Search' 2 in Window 'Power BI and  ...  - Microsoft​ Edge'; Text:'', Find the scatter plot created in business analytic tool,Event_480
+11,Recording_103,Process_40,2022-02-17T08:56:18+00:00,Click UI element in window,Edit 'Search' 2 in Window 'Power BI and  ...  - Microsoft​ Edge', Find the scatter plot created in business analytic tool,Event_480
+12,Recording_103,Process_40,2022-02-17T08:56:22+00:00,Click UI element in window,List Item 'Projet Throughput_Jan' in Window 'Power BI and  ...  - Microsoft​ Edge', Find the scatter plot created in business analytic tool,Event_480
+13,Recording_103,Process_40,2022-02-17T08:56:32+00:00,Press button in window,Button 'File' in Window 'Projet  ...  - Microsoft​ Edge',Save the scatter plot in pdf format,Event_481
+14,Recording_103,Process_40,2022-02-17T08:56:35+00:00,Select menu option in window,Menu Item 'Print this page' in Window 'Projet  ...  - Microsoft​ Edge',Save the scatter plot in pdf format,Event_481
+15,Recording_103,Process_40,2022-02-17T08:56:40+00:00,Press button in window,Button 'Print' in Window 'Projet  ...  - Microsoft​ Edge',Save the scatter plot in pdf format,Event_481
+16,Recording_103,Process_40,2022-02-17T08:56:45+00:00,Click UI element in window,Tree Item 'Desktop' in Window 'Projet  ...  - Microsoft​ Edge',Save the scatter plot in pdf format,Event_481
+17,Recording_103,Process_40,2022-02-17T08:57:00+00:00,Populate text field in window,Edit 'File name:' in Window 'Projet  ...  - Microsoft​ Edge'; Text:'Project Throughput_Jan',Save the scatter plot in pdf format,Event_481
+18,Recording_103,Process_40,2022-02-17T08:57:04+00:00,Press button in window,Button 'Save' in Window 'Projet  ...  - Microsoft​ Edge',Save the scatter plot in pdf format,Event_481
+19,Recording_103,Process_40,2022-02-17T08:57:09+00:00,Press button in window,Button 'New Tab' in Window 'Projet  ...  - Microsoft​ Edge',Login to Mailbox,Event_482
+20,Recording_103,Process_40,2022-02-17T08:57:14+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge' 2; Text:'yahoo mail',Login to Mailbox,Event_482
+21,Recording_103,Process_40,2022-02-17T08:57:15+00:00,Send keys,TextToSend:'{Return}',Login to Mailbox,Event_482
+22,Recording_103,Process_40,2022-02-17T08:57:18+00:00,Click UI element in window,Hyperlink 'Yahoo Mail' in Window 'yahoo mail -  ...  - Microsoft​ Edge',Login to Mailbox,Event_482
+23,Recording_103,Process_40,2022-02-17T08:57:24+00:00,Press button in window,Button 'Compose' in Window '(3 unread) -  ...  - Microsoft​ Edge',Prepare a mai,Event_483
+24,Recording_103,Process_40,2022-02-17T08:57:26+00:00,Click UI element in window,Combo Box ' ...  D_X p_a L_0 B_0' in Window '(3 unread) -  ...  - Microsoft​ Edge',Prepare a mai,Event_483
+25,Recording_103,Process_40,2022-02-17T08:57:27+00:00,Send keys,TextToSend:'Namedes{RShiftKey}(_)vd',Prepare a mai,Event_483
+26,Recording_103,Process_40,2022-02-17T08:58:06+00:00,Populate text field in window,Edit 'Subject' in Window '(3 unread) -  ...  - Microsoft​ Edge'; Text:'Throughput of different project for january\'22',Prepare a mai,Event_483
+27,Recording_103,Process_40,2022-02-17T08:58:08+00:00,Click UI element in window,Edit 'Message body' in Window '(3 unread) -  ...  - Microsoft​ Edge',Prepare a mai,Event_483
+28,Recording_103,Process_40,2022-02-17T08:58:12+00:00,Populate text field in window,"Edit 'Message body' 2 in Window '(3 unread) -  ...  - Microsoft​ Edge'; Text:'Hello,'",Prepare a mai,Event_483
+29,Recording_103,Process_40,2022-02-17T08:58:12+00:00,Send keys,TextToSend:'{Return}{Return}',Prepare a mai,Event_483
+30,Recording_103,Process_40,2022-02-17T08:58:15+00:00,Populate text field in window,"Edit 'Message body' 2 in Window '(3 unread) -  ...  - Microsoft​ Edge'; Text:'''Hello,
+
+
+PFA'''",Prepare a mai,Event_483
+31,Recording_103,Process_40,2022-02-17T08:58:19+00:00,Press button in window,Button 'Attach files' in Window '(3 unread) -  ...  - Microsoft​ Edge',Prepare a mai,Event_483
+32,Recording_103,Process_40,2022-02-17T08:58:21+00:00,Select menu option in window,Menu Item 'Attach files from computer' in Window '(3 unread) -  ...  - Microsoft​ Edge',Prepare a mai,Event_483
+33,Recording_103,Process_40,2022-02-17T08:58:24+00:00,Click UI element in window,Tree Item 'Desktop' in Window '(3 unread) -  ...  - Microsoft​ Edge',Prepare a mai,Event_483
+34,Recording_103,Process_40,2022-02-17T08:58:30+00:00,Click UI element in window,Edit 'Name' in Window '(3 unread) -  ...  - Microsoft​ Edge',Prepare a mai,Event_483
+35,Recording_103,Process_40,2022-02-17T08:58:32+00:00,Press button in window,Button 'Open' in Window '(3 unread) -  ...  - Microsoft​ Edge',Prepare a mai,Event_483
+36,Recording_103,Process_40,2022-02-17T08:58:37+00:00,Press button in window,Button 'Send' in Window '(3 unread) -  ...  - Microsoft​ Edge',Share scatter plot of speed to client,Event_484
+0,Recording_104,Process_40,2022-02-17T09:23:27+00:00,Press button in window,Power BI Desktop in Quick Launch Bar,Login to BI applicataion,Event_485
+1,Recording_104,Process_40,2022-02-17T09:23:41+00:00,Press button in window,Button 'Close' in Window 'Untitled - Power BI Desktop',Login to BI applicataion,Event_485
+2,Recording_104,Process_40,2022-02-17T09:23:43+00:00,Send keys,TextToSend:'janu',Search for the graph of speed data,Event_486
+3,Recording_104,Process_40,2022-02-17T09:23:48+00:00,Select menu option in window,Menu Item 'Project Data_january.pbix' in Window 'Untitled - Power BI Desktop',Search for the graph of speed data,Event_486
+4,Recording_104,Process_40,2022-02-17T09:24:02+00:00,Drag and drop UI element in window,Text 'File' in Image in Window 'Project Data_january - Power BI Desktop',Export and Save graph in pdf format,Event_487
+5,Recording_104,Process_40,2022-02-17T09:24:08+00:00,Click UI element in window,Group 'Export to PDF' in Window 'Project Data_january - Power BI Desktop',Export and Save graph in pdf format,Event_487
+6,Recording_104,Process_40,2022-02-17T09:24:25+00:00,Move window,Pane 'Project Data_january.pdf - Google Chrome - Name',Export and Save graph in pdf format,Event_487
+7,Recording_104,Process_40,2022-02-17T09:24:29+00:00,Click UI element in window,Button 'Download' in Pane 'Project Data_january.pdf - Google Chrome - Name',Export and Save graph in pdf format,Event_487
+8,Recording_104,Process_40,2022-02-17T09:24:34+00:00,Click UI element in window,Button 'Save' in Pane 'Project Data_january.pdf - Google Chrome - Name',Export and Save graph in pdf format,Event_487
+9,Recording_104,Process_40,2022-02-17T09:24:53+00:00,Drag and drop UI element in window,Hyperlink 'Gmail' in Button 'New Tab' in Pane 'Project Data_january.pdf - Google Chrome - Name', Go to the Mail app,Event_488
+10,Recording_104,Process_40,2022-02-17T09:24:58+00:00,Click UI element in window,Button 'Compose' in Pane 'Project Data_january.pdf - Google Chrome - Name',Prepare a mail and attach graph to share with your client,Event_489
+11,Recording_104,Process_40,2022-02-17T09:25:02+00:00,Send keys,TextToSend:'kru',Prepare a mail and attach graph to share with your client,Event_489
+12,Recording_104,Process_40,2022-02-17T09:25:09+00:00,Click UI element in window,List Item 'Email@Domain' in Pane 'Project Data_january.pdf - Google Chrome - Name',Prepare a mail and attach graph to share with your client,Event_489
+13,Recording_104,Process_40,2022-02-17T09:25:18+00:00,Populate text field in window,Edit 'Subject' in Pane 'Project Data_january.pdf - Google Chrome - Name'; Text:'Project Data graph',Prepare a mail and attach graph to share with your client,Event_489
+14,Recording_104,Process_40,2022-02-17T09:25:24+00:00,Click UI element in window,Menu Item 'Attach files' in Pane 'Project Data_january.pdf - Google Chrome - Name',Prepare a mail and attach graph to share with your client,Event_489
+15,Recording_104,Process_40,2022-02-17T09:25:35+00:00,Populate text field in window,Edit 'Message Body' in Pane 'Project Data_january.pdf - Google Chrome - Name'; Text:'PFA',Prepare a mail and attach graph to share with your client,Event_489
+16,Recording_104,Process_40,2022-02-17T09:26:30+00:00,Click UI element in window,UI Custom 'NameSurname  ...  Mail for Windows.' in Pane 'Project Data_january.pdf - Google Chrome - Name',Prepare a mail and attach graph to share with your client,Event_489

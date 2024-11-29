@@ -1,0 +1,77 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_97,Process_38,2022-02-17T05:38:37+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Go to the cloud storage and locate the Meeting Notes,Event_451
+1,Recording_97,Process_38,2022-02-17T05:38:39+00:00,Press button in window,Button 'Open a new tab (Ctrl+T)' in Window 'Process advisor | Power Automate — Mozilla Firefox',Go to the cloud storage and locate the Meeting Notes,Event_451
+2,Recording_97,Process_38,2022-02-17T05:38:44+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'o365',Go to the cloud storage and locate the Meeting Notes,Event_451
+3,Recording_97,Process_38,2022-02-17T05:38:45+00:00,Send keys,TextToSend:'{Return}',Go to the cloud storage and locate the Meeting Notes,Event_451
+4,Recording_97,Process_38,2022-02-17T05:38:49+00:00,Click UI element in window,Hyperlink 'Office  ... office.com' in Window 'o365 - Google Search — Mozilla Firefox',Go to the cloud storage and locate the Meeting Notes,Event_451
+5,Recording_97,Process_38,2022-02-17T05:38:58+00:00,Click UI element in window,Hyperlink 'OneDrive' in Window 'Microsoft Office Home — Mozilla Firefox',Go to the cloud storage and locate the Meeting Notes,Event_451
+6,Recording_97,Process_38,2022-02-17T05:39:02+00:00,Click UI element in window,Hyperlink 'Project Demo' in Window 'My files - OneDrive — Mozilla Firefox',Go to the cloud storage and locate the Meeting Notes,Event_451
+7,Recording_97,Process_38,2022-02-17T05:39:06+00:00,Press button in window,Button 'Show actions' in Window 'Project Demo - OneDrive — Mozilla Firefox',Download the document having meeting notes,Event_452
+8,Recording_97,Process_38,2022-02-17T05:39:12+00:00,Select menu option in window,Menu Item 'Download' in Window 'Project Demo - OneDrive — Mozilla Firefox',Download the document having meeting notes,Event_452
+9,Recording_97,Process_38,2022-02-17T05:39:15+00:00,Select radio button in window,Radio Button 'Save File' in Window 'Project Demo - OneDrive — Mozilla Firefox',Download the document having meeting notes,Event_452
+10,Recording_97,Process_38,2022-02-17T05:39:18+00:00,Press button in window,Button 'OK' in Window 'Project Demo - OneDrive — Mozilla Firefox',Download the document having meeting notes,Event_452
+11,Recording_97,Process_38,2022-02-17T05:39:28+00:00,Press button in window,Button 'Type here to search' in TaskBar,Open Mailbox,Event_453
+12,Recording_97,Process_38,2022-02-17T05:39:30+00:00,Populate text field in window,Edit 'Search box' in Window 'Search'; Text:'out',Open Mailbox,Event_453
+13,Recording_97,Process_38,2022-02-17T05:39:58+00:00,Press button in window,Button 'Type here to search' in TaskBar,Open Mailbox,Event_453
+14,Recording_97,Process_38,2022-02-17T05:40:08+00:00,Click UI element in window,"List Item 'Outlook 2013, App' in Window 'Search'",Open Mailbox,Event_453
+15,Recording_97,Process_38,2022-02-17T05:41:32+00:00,Press button in window,Button 'New Email' in Window 'Inbox - Name - Outlook', Create Mail to share the Meeting notes,Event_454
+16,Recording_97,Process_38,2022-02-17T05:41:40+00:00,Click UI element in window,Document 'To' in Window 'Untitled - Message (HTML) ', Create Mail to share the Meeting notes,Event_454
+17,Recording_97,Process_38,2022-02-17T05:41:41+00:00,Send keys,TextToSend:'kru', Create Mail to share the Meeting notes,Event_454
+18,Recording_97,Process_38,2022-02-17T05:41:45+00:00,Click UI element in window,Text 'Email@Domain' in Window 'Untitled - Message (HTML) ', Create Mail to share the Meeting notes,Event_454
+19,Recording_97,Process_38,2022-02-17T05:41:53+00:00,Populate text field in window,Edit 'Subject' in Window 'Untitled - Message (HTML) '; Text:'Meeting Notes', Create Mail to share the Meeting notes,Event_454
+20,Recording_97,Process_38,2022-02-17T05:42:03+00:00,Click UI element in window,Document 'Meeting Notes - Message' in Window 'Untitled - Message (HTML) ', Create Mail to share the Meeting notes,Event_454
+21,Recording_97,Process_38,2022-02-17T05:42:04+00:00,Send keys,"TextToSend:'{LShiftKey}(H)ello,{Return}{LShiftKey}(PFA)'", Create Mail to share the Meeting notes,Event_454
+22,Recording_97,Process_38,2022-02-17T05:42:10+00:00,Select tab in window,Tab Item 'Insert' in Window 'Meeting Notes - Message (HTML) ', Create Mail to share the Meeting notes,Event_454
+23,Recording_97,Process_38,2022-02-17T05:42:12+00:00,Press button in window,Button 'Attach File' in Window 'Meeting Notes - Message (HTML) ', Create Mail to share the Meeting notes,Event_454
+24,Recording_97,Process_38,2022-02-17T05:42:22+00:00,Click UI element in window,Tree Item 'Downloads' in Window 'Meeting Notes - Message (HTML) ', Create Mail to share the Meeting notes,Event_454
+25,Recording_97,Process_38,2022-02-17T05:42:25+00:00,Click UI element in window,Edit 'Name' in Window 'Meeting Notes - Message (HTML) ', Create Mail to share the Meeting notes,Event_454
+26,Recording_97,Process_38,2022-02-17T05:42:27+00:00,Click UI element in window,Split Button 'Insert' in Window 'Meeting Notes - Message (HTML) ', Create Mail to share the Meeting notes,Event_454
+27,Recording_97,Process_38,2022-02-17T05:42:33+00:00,Press button in window,Button 'Send' in Window 'Meeting Notes - Message (HTML) ',Send mail to your Manager,Event_455
+0,Recording_98,Process_38,2022-02-17T05:47:08+00:00,Select menu option in window,Microsoft Edge (2) - 3 running windows in Quick Launch Bar,Login to Cloud storage and find the Meeting notes,Event_456
+1,Recording_98,Process_38,2022-02-17T05:47:10+00:00,Click UI element in window,List Item 'New tab  ...  - Microsoft​ Edge' in List 'Task Switcher',Login to Cloud storage and find the Meeting notes,Event_456
+2,Recording_98,Process_38,2022-02-17T05:47:19+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'office 365',Login to Cloud storage and find the Meeting notes,Event_456
+3,Recording_98,Process_38,2022-02-17T05:47:20+00:00,Send keys,TextToSend:'{Return}',Login to Cloud storage and find the Meeting notes,Event_456
+4,Recording_98,Process_38,2022-02-17T05:47:23+00:00,Click UI element in window,Hyperlink 'Office 365 login' in Window 'office 365 -  ...  - Microsoft​ Edge',Login to Cloud storage and find the Meeting notes,Event_456
+5,Recording_98,Process_38,2022-02-17T05:47:27+00:00,Click UI element in window,Hyperlink 'OneDrive' in Window 'Microsoft  ...  - Microsoft​ Edge',Login to Cloud storage and find the Meeting notes,Event_456
+6,Recording_98,Process_38,2022-02-17T05:47:36+00:00,Click UI element in window,Hyperlink 'Project Demo' in Window 'My files -  ...  - Microsoft​ Edge',Login to Cloud storage and find the Meeting notes,Event_456
+7,Recording_98,Process_38,2022-02-17T05:47:45+00:00,Click UI element in window,Group 'target_c53d1719' in Window 'Project Demo  ...  - Microsoft​ Edge',Login to Cloud storage and find the Meeting notes,Event_456
+8,Recording_98,Process_38,2022-02-17T05:47:50+00:00,Select menu option in window,Menu Item 'Download' in Window 'Project Demo  ...  - Microsoft​ Edge',Download the meeting notes,Event_457
+9,Recording_98,Process_38,2022-02-17T05:47:57+00:00,Press button in window,Button 'New Tab' in Window 'Project Demo  ...  - Microsoft​ Edge',Login to Mailbox,Event_458
+10,Recording_98,Process_38,2022-02-17T05:48:01+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge' 2; Text:'yahoo mail',Login to Mailbox,Event_458
+11,Recording_98,Process_38,2022-02-17T05:48:02+00:00,Send keys,TextToSend:'{Return}',Login to Mailbox,Event_458
+12,Recording_98,Process_38,2022-02-17T05:48:04+00:00,Click UI element in window,Hyperlink 'Yahoo Mail' in Window 'yahoo mail -  ...  - Microsoft​ Edge',Login to Mailbox,Event_458
+13,Recording_98,Process_38,2022-02-17T05:48:10+00:00,Press button in window,Button 'Compose' in Window '(2 unread) -  ...  - Microsoft​ Edge',Prepare a mail,Event_459
+14,Recording_98,Process_38,2022-02-17T05:48:12+00:00,Click UI element in window,Combo Box ' ...  D_X p_a L_0 B_0' in Window '(2 unread) -  ...  - Microsoft​ Edge',Prepare a mail,Event_459
+15,Recording_98,Process_38,2022-02-17T05:48:14+00:00,Send keys,TextToSend:'Username{RShiftKey}(_)vd',Prepare a mail,Event_459
+16,Recording_98,Process_38,2022-02-17T05:48:27+00:00,Populate text field in window,Edit 'Subject' in Window '(2 unread) -  ...  - Microsoft​ Edge'; Text:'Meeting Notes',Prepare a mail,Event_459
+17,Recording_98,Process_38,2022-02-17T05:48:33+00:00,Populate text field in window,"Edit 'Message body' in Window '(2 unread) -  ...  - Microsoft​ Edge'; Text:'Hello,'",Prepare a mail,Event_459
+18,Recording_98,Process_38,2022-02-17T05:48:34+00:00,Send keys,TextToSend:'{Return}',Prepare a mail,Event_459
+19,Recording_98,Process_38,2022-02-17T05:48:51+00:00,Populate text field in window,"Edit 'Message body' in Window '(2 unread) -  ...  - Microsoft​ Edge'; Text:'''Hello,
+Olease find yesterday\'s meeting notes'''",Prepare a mail,Event_459
+20,Recording_98,Process_38,2022-02-17T05:48:55+00:00,Populate text field in window,"Edit 'Message body' in Window '(2 unread) -  ...  - Microsoft​ Edge'; Text:'''Hello,
+Please find yesterday\'s meeting notes'''",Prepare a mail,Event_459
+21,Recording_98,Process_38,2022-02-17T05:49:04+00:00,Click UI element in window,Edit 'Message body' in Window '(2 unread) -  ...  - Microsoft​ Edge',Prepare a mail,Event_459
+22,Recording_98,Process_38,2022-02-17T05:49:08+00:00,Press button in window,Button 'Attach files' in Window '(2 unread) -  ...  - Microsoft​ Edge',Prepare a mail,Event_459
+23,Recording_98,Process_38,2022-02-17T05:49:12+00:00,Select menu option in window,Menu Item 'Attach files from computer' in Window '(2 unread) -  ...  - Microsoft​ Edge',Prepare a mail,Event_459
+24,Recording_98,Process_38,2022-02-17T05:49:16+00:00,Click UI element in window,Tree Item 'Documents' in Window '(2 unread) -  ...  - Microsoft​ Edge',Prepare a mail,Event_459
+25,Recording_98,Process_38,2022-02-17T05:49:19+00:00,Click UI element in window,Tree Item 'Downloads' in Window '(2 unread) -  ...  - Microsoft​ Edge',Prepare a mail,Event_459
+26,Recording_98,Process_38,2022-02-17T05:49:24+00:00,Click UI element in window,Edit 'Name' in Window '(2 unread) -  ...  - Microsoft​ Edge',Prepare a mail,Event_459
+27,Recording_98,Process_38,2022-02-17T05:49:28+00:00,Press button in window,Button 'Open' in Window '(2 unread) -  ...  - Microsoft​ Edge',Prepare a mail,Event_459
+28,Recording_98,Process_38,2022-02-17T05:49:33+00:00,Press button in window,Button 'Send' in Window '(2 unread) -  ...  - Microsoft​ Edge',Share Meeting notes to your manager,Event_460
+0,Recording_129,Process_38,2022-02-17T06:00:38+00:00,Press button in window,Button 'My files - OneDrive' in Pane 'New Tab - Google Chrome - Person 1',Open cloud storage and search for the meeting notes,Event_585
+1,Recording_129,Process_38,2022-02-17T06:00:42+00:00,Click UI element in window,Hyperlink 'Project Demo' in Pane 'New Tab - Google Chrome - Person 1',Open cloud storage and search for the meeting notes,Event_585
+2,Recording_129,Process_38,2022-02-17T06:00:46+00:00,Click UI element in window,Data Item 'Minutes  ...  people Show actions' in Pane 'New Tab - Google Chrome - Person 1',Open cloud storage and search for the meeting notes,Event_585
+3,Recording_129,Process_38,2022-02-17T06:00:48+00:00,Press button in window,Button 'Show actions' in Pane 'New Tab - Google Chrome - Person 1', Get the meeting notes in your system,Event_586
+4,Recording_129,Process_38,2022-02-17T06:00:51+00:00,Click UI element in window,"Data Item 'November 29, 2021' in Pane 'New Tab - Google Chrome - Person 1'", Get the meeting notes in your system,Event_586
+5,Recording_129,Process_38,2022-02-17T06:00:56+00:00,Press button in window,Mail - 1 running window in Quick Launch Bar,Go to the Mail app,Event_587
+6,Recording_129,Process_38,2022-02-17T06:01:00+00:00,Click UI element in window,"List Item 'Gmail, Email@Domain' in Window 'Inbox - Gmail ‎- Mail'",Go to the Mail app,Event_587
+7,Recording_129,Process_38,2022-02-17T06:01:03+00:00,Press button in window,Button 'New mail' in Window 'Inbox - Gmail ‎- Mail', Prepare a mail and attach Meeting notes to share with your manager,Event_588
+8,Recording_129,Process_38,2022-02-17T06:01:08+00:00,Populate text field in window,Edit 'To: ' in Window 'Inbox - Gmail ‎- Mail'; Text:'Name', Prepare a mail and attach Meeting notes to share with your manager,Event_588
+9,Recording_129,Process_38,2022-02-17T06:01:11+00:00,Click UI element in window,List Item 'Email@Domain Email@Domain' in Window 'Inbox - Gmail ‎- Mail', Prepare a mail and attach Meeting notes to share with your manager,Event_588
+10,Recording_129,Process_38,2022-02-17T06:01:21+00:00,Populate text field in window,Edit 'Subject' in Window 'Inbox - Gmail ‎- Mail'; Text:'Minutes of Meetings', Prepare a mail and attach Meeting notes to share with your manager,Event_588
+11,Recording_129,Process_38,2022-02-17T06:01:24+00:00,Select tab in window,Tab Item 'Insert' in Window 'Inbox - Gmail ‎- Mail', Prepare a mail and attach Meeting notes to share with your manager,Event_588
+12,Recording_129,Process_38,2022-02-17T06:01:26+00:00,Press button in window,Button 'Files' in Window 'Inbox - Gmail ‎- Mail', Prepare a mail and attach Meeting notes to share with your manager,Event_588
+13,Recording_129,Process_38,2022-02-17T06:01:28+00:00,Click UI element in window,Edit 'Name' in Window 'Inbox - Gmail ‎- Mail', Prepare a mail and attach Meeting notes to share with your manager,Event_588
+14,Recording_129,Process_38,2022-02-17T06:01:32+00:00,Click UI element in window,Edit 'Message' in Window 'Inbox - Gmail ‎- Mail', Prepare a mail and attach Meeting notes to share with your manager,Event_588
+15,Recording_129,Process_38,2022-02-17T06:01:33+00:00,Send keys,"TextToSend:'{LShiftKey}(H)ello,{Return}{Return}{LShiftKey}(P)lease find meeting notes for your reference.{Return}'", Prepare a mail and attach Meeting notes to share with your manager,Event_588
+16,Recording_129,Process_38,2022-02-17T06:01:48+00:00,Press button in window,Button 'Send' in Window 'Inbox - Gmail ‎- Mail',Send Meeting notes ,Event_589

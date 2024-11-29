@@ -1,0 +1,143 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_15,Process_12,2022-02-23T04:05:24+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Open online form app,Event_67
+1,Recording_15,Process_12,2022-02-23T04:05:29+00:00,Click UI element in window,List Item 'New tab  ...  - Microsoft​ Edge' in List 'Task Switcher',Open online form app,Event_67
+2,Recording_15,Process_12,2022-02-23T04:05:31+00:00,Click UI element in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge',Open online form app,Event_67
+3,Recording_15,Process_12,2022-02-23T04:05:36+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'zoho forms',Open online form app,Event_67
+4,Recording_15,Process_12,2022-02-23T04:05:37+00:00,Send keys,TextToSend:'{Return}',Open online form app,Event_67
+5,Recording_15,Process_12,2022-02-23T04:05:40+00:00,Click UI element in window,Window 'zoho forms -  ...  - Microsoft​ Edge',Open online form app,Event_67
+6,Recording_15,Process_12,2022-02-23T04:05:45+00:00,Click UI element in window,Hyperlink 'ACCESS ZOHO FORMS' in Window 'Form Builder  ...  - Microsoft​ Edge',Open online form app,Event_67
+7,Recording_15,Process_12,2022-02-23T04:05:49+00:00,Press button in window,Button 'New Form' in Window 'Zoho Forms  ...  - Microsoft​ Edge',"To conduct the survey for Holiday, prepare a forms",Event_68
+8,Recording_15,Process_12,2022-02-23T04:06:02+00:00,Populate text field in window,Edit in Window 'Zoho Forms  ...  - Microsoft​ Edge'; Text:'holiday survey',"To conduct the survey for Holiday, prepare a forms",Event_68
+9,Recording_15,Process_12,2022-02-23T04:06:05+00:00,Press button in window,Button 'Create' in Window 'Zoho Forms  ...  - Microsoft​ Edge',"To conduct the survey for Holiday, prepare a forms",Event_68
+10,Recording_15,Process_12,2022-02-23T04:06:18+00:00,Click UI element in window,List Item 'Radio' in Window 'Zoho Forms  ...  - Microsoft​ Edge',"To conduct the survey for Holiday, prepare a forms",Event_68
+11,Recording_15,Process_12,2022-02-23T04:06:22+00:00,Click UI element in window,List Item ' ...  selectedType' in Window 'Zoho Forms  ...  - Microsoft​ Edge',"To conduct the survey for Holiday, prepare a forms",Event_68
+12,Recording_15,Process_12,2022-02-23T04:06:47+00:00,Populate text field in window,Edit 'actText' in Window 'Zoho Forms  ...  - Microsoft​ Edge'; Text:'Are u all agree with the current holiday list',"To conduct the survey for Holiday, prepare a forms",Event_68
+13,Recording_15,Process_12,2022-02-23T04:06:51+00:00,Click UI element in window,Edit 2 in Window 'Zoho Forms  ...  - Microsoft​ Edge',"To conduct the survey for Holiday, prepare a forms",Event_68
+14,Recording_15,Process_12,2022-02-23T04:06:54+00:00,Drag and drop UI element in window,List Item 'formActFieldCont' in Edit 2 in Window 'Zoho Forms  ...  - Microsoft​ Edge',"To conduct the survey for Holiday, prepare a forms",Event_68
+15,Recording_15,Process_12,2022-02-23T04:06:58+00:00,Populate text field in window,Edit 3 in Window 'Zoho Forms  ...  - Microsoft​ Edge'; Text:'Yes',"To conduct the survey for Holiday, prepare a forms",Event_68
+16,Recording_15,Process_12,2022-02-23T04:07:06+00:00,Populate text field in window,Edit 4 in Window 'Zoho Forms  ...  - Microsoft​ Edge'; Text:'No',"To conduct the survey for Holiday, prepare a forms",Event_68
+17,Recording_15,Process_12,2022-02-23T04:07:11+00:00,Click UI element in window,Edit 5 in Window 'Zoho Forms  ...  - Microsoft​ Edge',"To conduct the survey for Holiday, prepare a forms",Event_68
+18,Recording_15,Process_12,2022-02-23T04:07:12+00:00,Click UI element in window,Group 'fiedPropMinus' in Window 'Zoho Forms  ...  - Microsoft​ Edge',"To conduct the survey for Holiday, prepare a forms",Event_68
+19,Recording_15,Process_12,2022-02-23T04:07:15+00:00,Press button in window,Button 'Save' in Window 'Zoho Forms  ...  - Microsoft​ Edge',"To conduct the survey for Holiday, prepare a forms",Event_68
+20,Recording_15,Process_12,2022-02-23T04:07:25+00:00,Click UI element in window,Hyperlink ' Share' in Window 'Zoho Forms  ...  - Microsoft​ Edge',Share the form via mail,Event_69
+21,Recording_15,Process_12,2022-02-23T04:07:32+00:00,Drag and drop UI element in window,Edit 6 in Window 'Zoho Forms  ...  - Microsoft​ Edge',Share the form via mail,Event_69
+22,Recording_15,Process_12,2022-02-23T04:07:34+00:00,Click UI element in window,Menu Bar 'Mini menu on text selection' in Window 'Zoho Forms  ...  - Microsoft​ Edge',Share the form via mail,Event_69
+23,Recording_15,Process_12,2022-02-23T04:07:36+00:00,Select menu option in window,Menu Item 'Copy' in Window 'Zoho Forms  ...  - Microsoft​ Edge',Share the form via mail,Event_69
+24,Recording_15,Process_12,2022-02-23T04:07:40+00:00,Press button in window,Button 'New Tab' in Window 'Zoho Forms  ...  - Microsoft​ Edge',Share the form via mail,Event_69
+25,Recording_15,Process_12,2022-02-23T04:07:44+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge' 2; Text:'yahoo mail',Share the form via mail,Event_69
+26,Recording_15,Process_12,2022-02-23T04:07:44+00:00,Send keys,TextToSend:'{Return}',Share the form via mail,Event_69
+27,Recording_15,Process_12,2022-02-23T04:07:49+00:00,Click UI element in window,Hyperlink 'Yahoo Mail' in Window 'yahoo mail -  ...  - Microsoft​ Edge',Share the form via mail,Event_69
+28,Recording_15,Process_12,2022-02-23T04:07:54+00:00,Press button in window,Button 'Compose' in Window 'kru ...  - Microsoft​ Edge',Share the form via mail,Event_69
+29,Recording_15,Process_12,2022-02-23T04:07:56+00:00,Click UI element in window,Combo Box ' ...  D_X p_a L_0 B_0' in Window 'kru ...  - Microsoft​ Edge',Share the form via mail,Event_69
+30,Recording_15,Process_12,2022-02-23T04:07:57+00:00,Send keys,TextToSend:'Namedes{RShiftKey}(_)vd',Share the form via mail,Event_69
+31,Recording_15,Process_12,2022-02-23T04:08:03+00:00,Click UI element in window,Edit 'Subject' in Window 'kru ...  - Microsoft​ Edge',Share the form via mail,Event_69
+32,Recording_15,Process_12,2022-02-23T04:08:05+00:00,Click UI element in window,Combo Box ' ...  D_X p_a L_0 B_0' in Window 'kru ...  - Microsoft​ Edge',Share the form via mail,Event_69
+33,Recording_15,Process_12,2022-02-23T04:08:06+00:00,Send keys,TextToSend:'Username',Share the form via mail,Event_69
+34,Recording_15,Process_12,2022-02-23T04:08:19+00:00,Populate text field in window,Edit 'Subject' in Window 'kru ...  - Microsoft​ Edge'; Text:'Holiday survey form',Share the form via mail,Event_69
+35,Recording_15,Process_12,2022-02-23T04:08:21+00:00,Click UI element in window,Edit 'Message body' in Window 'kru ...  - Microsoft​ Edge',Share the form via mail,Event_69
+36,Recording_15,Process_12,2022-02-23T04:08:23+00:00,Populate text field in window,"Edit 'Message body' 2 in Window 'kru ...  - Microsoft​ Edge'; Text:'Hi,'",Share the form via mail,Event_69
+37,Recording_15,Process_12,2022-02-23T04:08:24+00:00,Send keys,TextToSend:'{Return}',Share the form via mail,Event_69
+38,Recording_15,Process_12,2022-02-23T04:08:36+00:00,Populate text field in window,"Edit 'Message body' 2 in Window 'kru ...  - Microsoft​ Edge'; Text:'''Hi,
+Fill out the form'''",Share the form via mail,Event_69
+39,Recording_15,Process_12,2022-02-23T04:08:37+00:00,Send keys,TextToSend:'{Return}',Share the form via mail,Event_69
+40,Recording_15,Process_12,2022-02-23T04:08:38+00:00,Populate text field in window,"Edit 'Message body' 2 in Window 'kru ...  - Microsoft​ Edge'; Text:'''Hi,
+Fill out the form
+https://forms.zohopublic.in/COMPANY_NAME/form/holidaysurvey/formperma/HASHED_VALUE
+'''",Share the form via mail,Event_69
+41,Recording_15,Process_12,2022-02-23T04:08:47+00:00,Press button in window,Button 'Send' in Window 'kru ...  - Microsoft​ Edge',Share the form via mail,Event_69
+42,Recording_15,Process_12,2022-02-23T04:08:56+00:00,Select tab in window,Tab Item 'Zoho Forms' in Window 'kru ...  - Microsoft​ Edge',Open the response tab of online form,Event_70
+43,Recording_15,Process_12,2022-02-23T04:09:09+00:00,Click UI element in window,List Item 'home' in Window 'Zoho Forms  ...  - Microsoft​ Edge' 2,Open the response tab of online form,Event_70
+44,Recording_15,Process_12,2022-02-23T04:09:14+00:00,Click UI element in window,Hyperlink ' Forms' in Window 'Zoho Forms  ...  - Microsoft​ Edge' 2,Open the response tab of online form,Event_70
+45,Recording_15,Process_12,2022-02-23T04:09:19+00:00,Click UI element in window,Hyperlink 'Analytics' in Window 'Zoho Forms  ...  - Microsoft​ Edge' 2,Open the response tab of online form,Event_70
+46,Recording_15,Process_12,2022-02-23T04:09:24+00:00,Press button in window,Button 'Distill Web Monitor Has access to this site' in Window 'Zoho Forms  ...  - Microsoft​ Edge',Login to the syndication tool,Event_71
+47,Recording_15,Process_12,2022-02-23T04:09:27+00:00,Press button in window,Button 'Monitor parts of page' in Window 'Zoho Forms  ...  - Microsoft​ Edge' 2,Create the feed to get the notification when the response is submitted,Event_72
+48,Recording_15,Process_12,2022-02-23T04:09:35+00:00,Click UI element in window,Hyperlink ' 0 SUBMISSIONS' in Window 'Zoho Forms  ...  - Microsoft​ Edge' 2,Create the feed to get the notification when the response is submitted,Event_72
+49,Recording_15,Process_12,2022-02-23T04:09:38+00:00,Press button in window,Button 'Save selections' in Window 'Zoho Forms  ...  - Microsoft​ Edge' 2,Create the feed to get the notification when the response is submitted,Event_72
+50,Recording_15,Process_12,2022-02-23T04:09:45+00:00,Drag and drop UI element in window,Text '5s' in Slider 'slider-handle min-slider-handle round' in Window 'Watchlist -  ...  - Microsoft​ Edge',Create the feed to get the notification when the response is submitted,Event_72
+51,Recording_15,Process_12,2022-02-23T04:09:48+00:00,Click UI element in window,Hyperlink 'Add action' in Window 'Watchlist -  ...  - Microsoft​ Edge',Create the feed to get the notification when the response is submitted,Event_72
+52,Recording_15,Process_12,2022-02-23T04:09:54+00:00,Click UI element in window,Hyperlink 'Email' in Window 'Watchlist -  ...  - Microsoft​ Edge',Create the feed to get the notification when the response is submitted,Event_72
+53,Recording_15,Process_12,2022-02-23T04:09:58+00:00,Click UI element in window,Hyperlink 'Add Condition' in Window 'Watchlist -  ...  - Microsoft​ Edge',Create the feed to get the notification when the response is submitted,Event_72
+54,Recording_15,Process_12,2022-02-23T04:10:01+00:00,Click UI element in window,Combo Box in Window 'Watchlist -  ...  - Microsoft​ Edge',Create the feed to get the notification when the response is submitted,Event_72
+55,Recording_15,Process_12,2022-02-23T04:10:03+00:00,Click UI element in window,Pane 'View' in Window 'Untitled and  ...  - Microsoft​ Edge',Create the feed to get the notification when the response is submitted,Event_72
+56,Recording_15,Process_12,2022-02-23T04:10:06+00:00,Populate text field in window,Edit 'Text' in Window 'Watchlist -  ...  - Microsoft​ Edge'; Text:'0',Create the feed to get the notification when the response is submitted,Event_72
+57,Recording_15,Process_12,2022-02-23T04:10:09+00:00,Press button in window,Button 'Save' in Window 'Watchlist -  ...  - Microsoft​ Edge',Create the feed to get the notification when the response is submitted,Event_72
+58,Recording_15,Process_12,2022-02-23T04:10:15+00:00,Click UI element in window,Group in Window 'Watchlist -  ...  - Microsoft​ Edge',Create the feed to get the notification when the response is submitted,Event_72
+0,Recording_37,Process_12,2022-02-23T03:44:23+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Go to the forms app,Event_176
+1,Recording_37,Process_12,2022-02-23T03:44:31+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'New Tab — Mozilla Firefox'; Text:'google forms',Go to the forms app,Event_176
+2,Recording_37,Process_12,2022-02-23T03:44:31+00:00,Send keys,TextToSend:'{Return}',Go to the forms app,Event_176
+3,Recording_37,Process_12,2022-02-23T03:44:35+00:00,Click UI element in window,Hyperlink 'Free  ...  › forms › about' in Window 'google forms - Google Search — Mozilla Firefox',Go to the forms app,Event_176
+4,Recording_37,Process_12,2022-02-23T03:44:39+00:00,Click UI element in window,Hyperlink 'Go to Forms' in Window 'Google  ...  — Mozilla Firefox',Go to the forms app,Event_176
+5,Recording_37,Process_12,2022-02-23T03:44:43+00:00,Click UI element in window,Image in Window 'Google Forms — Mozilla Firefox',Create a form for Holiday survey,Event_177
+6,Recording_37,Process_12,2022-02-23T03:44:56+00:00,Populate text field in window,Edit 'Form title' in Window 'Untitled form - Google Forms — Mozilla Firefox'; Text:'Holiday surrvey form',Create a form for Holiday survey,Event_177
+7,Recording_37,Process_12,2022-02-23T03:45:01+00:00,Click UI element in window,Edit 'Question title' in Window 'Untitled form - Google Forms — Mozilla Firefox',Create a form for Holiday survey,Event_177
+8,Recording_37,Process_12,2022-02-23T03:45:17+00:00,Populate text field in window,Edit 'Question title' 2 in Window 'Untitled form - Google Forms — Mozilla Firefox'; Text:'Are you happy with the provided list of holidays?',Create a form for Holiday survey,Event_177
+9,Recording_37,Process_12,2022-02-23T03:45:20+00:00,Press button in window,Button 'Add Yes' in Window 'Untitled form - Google Forms — Mozilla Firefox',Create a form for Holiday survey,Event_177
+10,Recording_37,Process_12,2022-02-23T03:45:22+00:00,Press button in window,Window 'Untitled form - Google Forms — Mozilla Firefox',Create a form for Holiday survey,Event_177
+11,Recording_37,Process_12,2022-02-23T03:45:35+00:00,Press button in window,Button 'Send' in Window 'Untitled form - Google Forms — Mozilla Firefox',Send the form through mail,Event_178
+12,Recording_37,Process_12,2022-02-23T03:45:40+00:00,Click UI element in window,Combo Box 'To' in Window 'Untitled form - Google Forms — Mozilla Firefox',Send the form through mail,Event_178
+13,Recording_37,Process_12,2022-02-23T03:45:41+00:00,Send keys,TextToSend:'krnal{Back}{Back}{Back}',Send the form through mail,Event_178
+14,Recording_37,Process_12,2022-02-23T03:45:45+00:00,Click UI element in window,List Item 'kr Email@Domain' in Window 'Untitled form - Google Forms — Mozilla Firefox',Send the form through mail,Event_178
+15,Recording_37,Process_12,2022-02-23T03:45:58+00:00,Press button in window,Button 'Send' 2 in Window 'Untitled form - Google Forms — Mozilla Firefox',Send the form through mail,Event_178
+16,Recording_37,Process_12,2022-02-23T03:46:03+00:00,Select tab in window,Tab Item 'Responses' in Window 'Untitled form - Google Forms — Mozilla Firefox', Go to the form response tab,Event_179
+17,Recording_37,Process_12,2022-02-23T03:46:07+00:00,Press button in window,Button 'Distill Web Monitor' in Window 'Untitled form - Google Forms — Mozilla Firefox',Open the syndication app,Event_180
+18,Recording_37,Process_12,2022-02-23T03:46:12+00:00,Press button in window,Button 'Select parts of page' in Window 'Untitled form - Google Forms — Mozilla Firefox',Set the feed for the response of survey form,Event_181
+19,Recording_37,Process_12,2022-02-23T03:46:20+00:00,Click UI element in window,Edit '0 responses' in Window 'Untitled form - Google Forms — Mozilla Firefox',Set the feed for the response of survey form,Event_181
+20,Recording_37,Process_12,2022-02-23T03:46:36+00:00,Press button in window,Button ' Save selections' in Window 'Untitled form - Google Forms — Mozilla Firefox',Set the feed for the response of survey form,Event_181
+21,Recording_37,Process_12,2022-02-23T03:46:44+00:00,Drag and drop UI element in window,Slider in Window 'Watchlist - Distill — Mozilla Firefox',Set the feed for the response of survey form,Event_181
+22,Recording_37,Process_12,2022-02-23T03:46:46+00:00,Click UI element in window,Hyperlink 'Add action' in Window 'Watchlist - Distill — Mozilla Firefox',Set the feed for the response of survey form,Event_181
+23,Recording_37,Process_12,2022-02-23T03:46:48+00:00,Click UI element in window,Menu 'Add action' in Window 'Watchlist - Distill — Mozilla Firefox',Set the feed for the response of survey form,Event_181
+24,Recording_37,Process_12,2022-02-23T03:46:52+00:00,Click UI element in window,Hyperlink 'Add Condition' in Window 'Watchlist - Distill — Mozilla Firefox',Set the feed for the response of survey form,Event_181
+25,Recording_37,Process_12,2022-02-23T03:46:57+00:00,Set drop-down list value in window,Combo Box in Window 'Watchlist - Distill — Mozilla Firefox',Set the feed for the response of survey form,Event_181
+26,Recording_37,Process_12,2022-02-23T03:47:01+00:00,Populate text field in window,Edit 'Number' in Window 'Watchlist - Distill — Mozilla Firefox'; Text:'0',Set the feed for the response of survey form,Event_181
+27,Recording_37,Process_12,2022-02-23T03:47:04+00:00,Press button in window,Button 'Save' in Window 'Watchlist - Distill — Mozilla Firefox',Set the feed for the response of survey form,Event_181
+0,Recording_38,Process_12,2022-02-23T04:08:18+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar,Login to form creation application,Event_182
+1,Recording_38,Process_12,2022-02-23T04:08:21+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher',Login to form creation application,Event_182
+2,Recording_38,Process_12,2022-02-23T04:08:27+00:00,Press button in window,Button 'New Tab' in Pane 'New Tab - Google Chrome - Name',Login to form creation application,Event_182
+3,Recording_38,Process_12,2022-02-23T04:08:30+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Name'; Text:'microsoft form',Login to form creation application,Event_182
+4,Recording_38,Process_12,2022-02-23T04:08:31+00:00,Send keys,TextToSend:'{Return}',Login to form creation application,Event_182
+5,Recording_38,Process_12,2022-02-23T04:08:35+00:00,Click UI element in window,Hyperlink '  ... office.com' in Pane 'New Tab - Google Chrome - Name',Login to form creation application,Event_182
+6,Recording_38,Process_12,2022-02-23T04:08:38+00:00,Press button in window,Button 'New Form' in Pane 'New Tab - Google Chrome - Name',Prepare a form to conduct the survey for Holiday,Event_183
+7,Recording_38,Process_12,2022-02-23T04:08:44+00:00,Press button in window,Button 'Add new question or section' in Pane 'New Tab - Google Chrome - Name',Prepare a form to conduct the survey for Holiday,Event_183
+8,Recording_38,Process_12,2022-02-23T04:08:49+00:00,Drag and drop UI element in window,Button 'Untitled form' in Text 'Untitled form' in Pane 'New Tab - Google Chrome - Name',Prepare a form to conduct the survey for Holiday,Event_183
+9,Recording_38,Process_12,2022-02-23T04:08:51+00:00,Send keys,TextToSend:'{LShiftKey}(H)oliday {RShiftKey}(S)urvey {RShiftKey}(F)or{Back}{Back}{Back}{RShiftKey}(T)emplate',Prepare a form to conduct the survey for Holiday,Event_183
+10,Recording_38,Process_12,2022-02-23T04:09:12+00:00,Press button in window,Button 'Add new question or section' in Pane 'New Tab - Google Chrome - Name',Prepare a form to conduct the survey for Holiday,Event_183
+11,Recording_38,Process_12,2022-02-23T04:09:21+00:00,Select menu option in window,Menu Item 'More question types' in Pane 'New Tab - Google Chrome - Name',Prepare a form to conduct the survey for Holiday,Event_183
+12,Recording_38,Process_12,2022-02-23T04:09:28+00:00,Click UI element in window,Group 'Untitled form' in Pane 'New Tab - Google Chrome - Name',Prepare a form to conduct the survey for Holiday,Event_183
+13,Recording_38,Process_12,2022-02-23T04:09:34+00:00,Send keys,TextToSend:'{RShiftKey}(R)ate the new holiday list of next year{LShiftKey}(?)',Prepare a form to conduct the survey for Holiday,Event_183
+14,Recording_38,Process_12,2022-02-23T04:09:51+00:00,Click UI element in window,Text 'Option 1' in Pane 'New Tab - Google Chrome - Name',Prepare a form to conduct the survey for Holiday,Event_183
+15,Recording_38,Process_12,2022-02-23T04:09:54+00:00,Click UI element in window,Image in Pane 'New Tab - Google Chrome - Name',Prepare a form to conduct the survey for Holiday,Event_183
+16,Recording_38,Process_12,2022-02-23T04:09:55+00:00,Click UI element in window,Text 'Option 1' in Pane 'New Tab - Google Chrome - Name',Prepare a form to conduct the survey for Holiday,Event_183
+17,Recording_38,Process_12,2022-02-23T04:09:59+00:00,Populate text field in window,Edit 'Raking Option Text' in Pane 'New Tab - Google Chrome - Name'; Text:'5',Prepare a form to conduct the survey for Holiday,Event_183
+18,Recording_38,Process_12,2022-02-23T04:10:01+00:00,Click UI element in window,Text 'Option 2' in Pane 'New Tab - Google Chrome - Name',Prepare a form to conduct the survey for Holiday,Event_183
+19,Recording_38,Process_12,2022-02-23T04:10:02+00:00,Populate text field in window,Edit 'Raking Option Text' 2 in Pane 'New Tab - Google Chrome - Name'; Text:'4',Prepare a form to conduct the survey for Holiday,Event_183
+20,Recording_38,Process_12,2022-02-23T04:10:03+00:00,Click UI element in window,Text 'Option 3' in Pane 'New Tab - Google Chrome - Name',Prepare a form to conduct the survey for Holiday,Event_183
+21,Recording_38,Process_12,2022-02-23T04:10:05+00:00,Populate text field in window,Edit 'Raking Option Text' 3 in Pane 'New Tab - Google Chrome - Name'; Text:'3',Prepare a form to conduct the survey for Holiday,Event_183
+22,Recording_38,Process_12,2022-02-23T04:10:07+00:00,Press button in window,Button 'Add option' in Pane 'New Tab - Google Chrome - Name',Prepare a form to conduct the survey for Holiday,Event_183
+23,Recording_38,Process_12,2022-02-23T04:10:08+00:00,Populate text field in window,Edit 'Raking Option Text' 4 in Pane 'New Tab - Google Chrome - Name'; Text:'2',Prepare a form to conduct the survey for Holiday,Event_183
+24,Recording_38,Process_12,2022-02-23T04:10:10+00:00,Press button in window,Button 'Add option' in Pane 'New Tab - Google Chrome - Name',Prepare a form to conduct the survey for Holiday,Event_183
+25,Recording_38,Process_12,2022-02-23T04:10:12+00:00,Populate text field in window,Edit 'Raking Option Text' 5 in Pane 'New Tab - Google Chrome - Name'; Text:'1',Prepare a form to conduct the survey for Holiday,Event_183
+26,Recording_38,Process_12,2022-02-23T04:10:36+00:00,Press button in window,Button 'Share' in Pane 'New Tab - Google Chrome - Name',Share the form to employees via mailbox,Event_184
+27,Recording_38,Process_12,2022-02-23T04:10:39+00:00,Select tab in window,Tab Item 'Email' in Pane 'New Tab - Google Chrome - Name',Share the form to employees via mailbox,Event_184
+28,Recording_38,Process_12,2022-02-23T04:10:43+00:00,Click UI element in window,"List Item 'Gmail, Email@Domain' in Window 'Inbox - Outlook ‎- Mail'",Share the form to employees via mailbox,Event_184
+29,Recording_38,Process_12,2022-02-23T04:10:50+00:00,Populate text field in window,Edit 'To: ' in Window 'Inbox - Gmail ‎- Mail'; Text:'kru',Share the form to employees via mailbox,Event_184
+30,Recording_38,Process_12,2022-02-23T04:10:54+00:00,Click UI element in window,List Item 'Name Surname Email@Domain' in Window 'Inbox - Gmail ‎- Mail',Share the form to employees via mailbox,Event_184
+31,Recording_38,Process_12,2022-02-23T04:11:01+00:00,Populate text field in window,Edit 'Subject' in Window 'Inbox - Gmail ‎- Mail'; Text:'Holiday Survey Template',Share the form to employees via mailbox,Event_184
+32,Recording_38,Process_12,2022-02-23T04:11:22+00:00,Press button in window,Button 'Send' in Window 'Inbox - Gmail ‎- Mail',Share the form to employees via mailbox,Event_184
+33,Recording_38,Process_12,2022-02-23T04:11:33+00:00,Press button in window,Button 'Close Inbox - Gmail ‎- Mail' in Window 'Inbox - Gmail ‎- Mail',Share the form to employees via mailbox,Event_184
+34,Recording_38,Process_12,2022-02-23T04:11:38+00:00,Select tab in window,Tab Item 'Responses' in Pane 'New Tab - Google Chrome - Name',Go to the online form response tab ,Event_185
+35,Recording_38,Process_12,2022-02-23T04:11:49+00:00,Select menu option in window,Menu Item 'Distill Web Monitor Has access to this site' in Pane 'New Tab - Google Chrome - Name',Go to the online form response tab ,Event_186
+36,Recording_38,Process_12,2022-02-23T04:11:52+00:00,Press button in window,Button 'Monitor parts of page' in Pane 'New Tab - Google Chrome - Name',Set the web feed to get the mail notification for the response of Holiday survey form ,Event_187
+37,Recording_38,Process_12,2022-02-23T04:12:00+00:00,Drag and drop UI element in window,List in Text '0' in Pane 'New Tab - Google Chrome - Name',Set the web feed to get the mail notification for the response of Holiday survey form ,Event_187
+38,Recording_38,Process_12,2022-02-23T04:12:02+00:00,Click UI element in window,Edit 'Select elements to see preview of selected text.' in Pane 'New Tab - Google Chrome - Name',Set the web feed to get the mail notification for the response of Holiday survey form ,Event_187
+39,Recording_38,Process_12,2022-02-23T04:12:05+00:00,Click UI element in window,Edit 'Select elements to see preview of selected text.' in Pane 'New Tab - Google Chrome - Name',Set the web feed to get the mail notification for the response of Holiday survey form ,Event_187
+40,Recording_38,Process_12,2022-02-23T04:12:08+00:00,Press button in window,Button 'Save selections' in Pane 'New Tab - Google Chrome - Name',Set the web feed to get the mail notification for the response of Holiday survey form ,Event_187
+41,Recording_38,Process_12,2022-02-23T04:12:16+00:00,Click UI element in window,Hyperlink 'Add action' in Pane 'New Tab - Google Chrome - Name',Set the web feed to get the mail notification for the response of Holiday survey form ,Event_187
+42,Recording_38,Process_12,2022-02-23T04:12:21+00:00,Click UI element in window,Hyperlink 'Email' in Pane 'New Tab - Google Chrome - Name',Set the web feed to get the mail notification for the response of Holiday survey form ,Event_187
+43,Recording_38,Process_12,2022-02-23T04:12:31+00:00,Click UI element in window,Hyperlink 'Add Condition' in Pane 'New Tab - Google Chrome - Name',Set the web feed to get the mail notification for the response of Holiday survey form ,Event_187
+44,Recording_38,Process_12,2022-02-23T04:12:32+00:00,Click UI element in window,Text 'True if matches ' in Pane 'New Tab - Google Chrome - Name',Set the web feed to get the mail notification for the response of Holiday survey form ,Event_187
+45,Recording_38,Process_12,2022-02-23T04:12:37+00:00,Click UI element in window,Document 'Watchlist - Username - Distill Web Monitor' in Pane 'New Tab - Google Chrome - Name',Set the web feed to get the mail notification for the response of Holiday survey form ,Event_187
+46,Recording_38,Process_12,2022-02-23T04:12:39+00:00,Click UI element in window,Edit 'Number' in Pane 'New Tab - Google Chrome - Name',Set the web feed to get the mail notification for the response of Holiday survey form ,Event_187
+47,Recording_38,Process_12,2022-02-23T04:12:42+00:00,Click UI element in window,Edit 'Number' in Pane 'New Tab - Google Chrome - Name',Set the web feed to get the mail notification for the response of Holiday survey form ,Event_187
+48,Recording_38,Process_12,2022-02-23T04:12:45+00:00,Send keys,TextToSend:'0',Set the web feed to get the mail notification for the response of Holiday survey form ,Event_187
+49,Recording_38,Process_12,2022-02-23T04:12:53+00:00,Click UI element in window,Edit 'Number' in Pane 'New Tab - Google Chrome - Name',Set the web feed to get the mail notification for the response of Holiday survey form ,Event_187
+50,Recording_38,Process_12,2022-02-23T04:12:59+00:00,Press button in window,Button 'Save' in Pane 'New Tab - Google Chrome - Name',Set the web feed to get the mail notification for the response of Holiday survey form ,Event_187

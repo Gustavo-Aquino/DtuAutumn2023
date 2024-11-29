@@ -1,0 +1,82 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_85,Process_30,2022-02-14T10:41:28+00:00,Click UI element in window,Hyperlink 'Available  ...  year. More options' in Window '(10) Name  ...  - Microsoft​ Edge',Locate the CEO's message in messaging app ,Event_409
+1,Recording_85,Process_30,2022-02-14T10:41:37+00:00,Click UI element in window,Group 'Please start  ...  Today at 4:09 PM.' in Window '(10) Name  ...  - Microsoft​ Edge',Locate the CEO's message in messaging app ,Event_409
+2,Recording_85,Process_30,2022-02-14T10:41:54+00:00,Press button in window,Button 'Teams Toolbar' in Window '(9) Name  ...  - Microsoft​ Edge',Go to the Planning tool,Event_410
+3,Recording_85,Process_30,2022-02-14T10:42:01+00:00,Click UI element in window,Hyperlink 'Profile  ...  More options' in Window '(9) General  ...  - Microsoft​ Edge',Go to the Planning tool,Event_410
+4,Recording_85,Process_30,2022-02-14T10:42:06+00:00,Press button in window,Button 'Add a tab' in Window '(9) General  ...  - Microsoft​ Edge',Go to the Planning tool,Event_410
+5,Recording_85,Process_30,2022-02-14T10:42:19+00:00,Click UI element in window,List Item 'Tasks by Planner and To Do' in Window '(9) General  ...  - Microsoft​ Edge',Go to the Planning tool,Event_410
+6,Recording_85,Process_30,2022-02-14T10:42:39+00:00,Populate text field in window,Edit 'Tab name' in Window '(9) General  ...  - Microsoft​ Edge'; Text:'Apprisal Process',Prepare a plan for appraisal process,Event_411
+7,Recording_85,Process_30,2022-02-14T10:42:45+00:00,Press button in window,Button 'Save' in Window '(9) General  ...  - Microsoft​ Edge',Prepare a plan for appraisal process,Event_411
+8,Recording_85,Process_30,2022-02-14T10:43:01+00:00,Press button in window,Button 'Got it' in Window '(9) General  ...  - Microsoft​ Edge',Prepare a plan for appraisal process,Event_411
+9,Recording_85,Process_30,2022-02-14T10:43:04+00:00,Press button in window,Button 'Add task card in To do column' in Window '(9) General  ...  - Microsoft​ Edge',Prepare a plan for appraisal process,Event_411
+10,Recording_85,Process_30,2022-02-14T10:43:21+00:00,Populate text field in window,Edit 'Task name' in Window '(9) General  ...  - Microsoft​ Edge'; Text:'Apprisal Process for next year',Prepare a plan for appraisal process,Event_411
+11,Recording_85,Process_30,2022-02-14T10:43:28+00:00,Press button in window,Button 'Set due date' in Window '(9) General  ...  - Microsoft​ Edge',Prepare a plan for appraisal process,Event_411
+12,Recording_85,Process_30,2022-02-14T10:43:41+00:00,Click UI element in window,List Item 'Column To  ...  left or right.' in Window '(9) General  ...  - Microsoft​ Edge',Prepare a plan for appraisal process,Event_411
+13,Recording_85,Process_30,2022-02-14T10:43:43+00:00,Press button in window,"Button 'Not assigned, Open to assign users to this task' in Window '(9) General  ...  - Microsoft​ Edge'",Prepare a plan for appraisal process,Event_411
+14,Recording_85,Process_30,2022-02-14T10:43:56+00:00,Press button in window,Window '(9) General  ...  - Microsoft​ Edge',Prepare a plan for appraisal process,Event_411
+15,Recording_85,Process_30,2022-02-14T10:44:17+00:00,Click UI element in window,List 'columnsList css-50' in Window '(9) General  ...  - Microsoft​ Edge',Prepare a plan for appraisal process,Event_411
+16,Recording_85,Process_30,2022-02-14T10:44:19+00:00,Press button in window,Button 'Add task' in Window '(9) General  ...  - Microsoft​ Edge',Prepare a plan for appraisal process,Event_411
+17,Recording_85,Process_30,2022-02-14T10:44:24+00:00,Click UI element in window,Edit ' Task Apprisal Process for next year ' in Window '(9) General  ...  - Microsoft​ Edge',Prepare a plan for appraisal process,Event_411
+18,Recording_85,Process_30,2022-02-14T10:44:29+00:00,Click UI element in window,Edit ' Task Apprisal Process for next year ' in Window '(9) General  ...  - Microsoft​ Edge',Prepare a plan for appraisal process,Event_411
+19,Recording_85,Process_30,2022-02-14T10:44:38+00:00,Click UI element in window,List 'columnsList css-50' in Window '(9) General  ...  - Microsoft​ Edge',Prepare a plan for appraisal process,Event_411
+20,Recording_85,Process_30,2022-02-14T10:44:42+00:00,Press button in window,Button 'Copy' in Window '(9) General  ...  - Microsoft​ Edge',Prepare a plan for appraisal process,Event_411
+21,Recording_85,Process_30,2022-02-14T10:45:04+00:00,Click UI element in window,List Item '(10)  ...  - Microsoft​ Edge' in List 'Task Switcher',Share the plan with CEO,Event_412
+22,Recording_85,Process_30,2022-02-14T10:45:12+00:00,Press button in window,Button 'Chat Toolbar more options' in Window '(10) General  ...  - Microsoft​ Edge',Share the plan with CEO,Event_412
+23,Recording_85,Process_30,2022-02-14T10:45:15+00:00,Click UI element in window,Hyperlink 'Available  ...  year. More options' in Window '(10) Name  ...  - Microsoft​ Edge',Share the plan with CEO,Event_412
+24,Recording_85,Process_30,2022-02-14T10:45:19+00:00,Populate text field in window,"Edit 'cke_t ...  cke_focus' in Window '(10) Name  ...  - Microsoft​ Edge'; Text:'''https://teams.microsoft.com/l/entity/com.microsoft.teamspace.tab.planner/tt.c_19:Email@Domain2_p_ENCODED_VALUE?password_secret_textENCODED_VALUE&webUrl=htsk%2ENCODED_VALUEchannelIdENCODED_VALUE%40thread.tacv2%22%7D
+'''",Share the plan with CEO,Event_412
+25,Recording_85,Process_30,2022-02-14T10:45:25+00:00,Send keys,TextToSend:'{Return}',Share the plan with CEO,Event_412
+0,Recording_86,Process_30,2022-02-14T10:44:17+00:00,Press button in window,Skype - 1 running window in Quick Launch Bar,Search the message regarding appraisal process sent by CEO,Event_413
+1,Recording_86,Process_30,2022-02-14T10:44:21+00:00,Press button in window,"Button 'NameKUMAR Surname, Active now, chat, Please start appraisal process for next year., 4:06 PM, No new messages, selected' in Pane 'Skype'",Search the message regarding appraisal process sent by CEO,Event_413
+2,Recording_86,Process_30,2022-02-14T10:44:23+00:00,Click UI element in window,Text 'Please start appraisal process for next year.' in Pane 'Skype',Search the message regarding appraisal process sent by CEO,Event_413
+3,Recording_86,Process_30,2022-02-14T10:44:30+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Open the planning tool,Event_414
+4,Recording_86,Process_30,2022-02-14T10:44:33+00:00,Press button in window,"Button 'Add a tab' in Pane 'General  ...  Teams, Main Window'",Open the planning tool,Event_414
+5,Recording_86,Process_30,2022-02-14T10:44:37+00:00,Click UI element in window,"List Item 'Trello' in Pane 'General  ...  Teams, Main Window'",Open the planning tool,Event_414
+6,Recording_86,Process_30,2022-02-14T10:44:46+00:00,Click UI element in window,"List Item in Pane 'General  ...  Teams, Main Window'",Open the planning tool,Event_414
+7,Recording_86,Process_30,2022-02-14T10:44:51+00:00,Press button in window,"Button 'Save' in Pane 'General  ...  Teams, Main Window'",Open the planning tool,Event_414
+8,Recording_86,Process_30,2022-02-14T10:45:00+00:00,Click UI element in window,"Hyperlink 'Add a card' in Pane 'General  ...  Teams, Main Window'",Make a plan for next year's appraisal process,Event_415
+9,Recording_86,Process_30,2022-02-14T10:45:09+00:00,Populate text field in window,"Edit 'Enter a title for this card…' in Pane 'General  ...  Teams, Main Window'; Text:'Appraisal Process'",Make a plan for next year's appraisal process,Event_415
+10,Recording_86,Process_30,2022-02-14T10:45:11+00:00,Click UI element in window,"Hyperlink 'List actions' in Pane 'General  ...  Teams, Main Window'",Make a plan for next year's appraisal process,Event_415
+11,Recording_86,Process_30,2022-02-14T10:45:13+00:00,Click UI element in window,"Edit 'Enter a title for this card…' in Pane 'General  ...  Teams, Main Window'",Make a plan for next year's appraisal process,Event_415
+12,Recording_86,Process_30,2022-02-14T10:45:16+00:00,Press button in window,"Button 'Add card' in Pane 'General  ...  Teams, Main Window'",Make a plan for next year's appraisal process,Event_415
+13,Recording_86,Process_30,2022-02-14T10:45:18+00:00,Click UI element in window,"Text 'Appraisal Process' 2 in Pane 'General  ...  Teams, Main Window'",Make a plan for next year's appraisal process,Event_415
+14,Recording_86,Process_30,2022-02-14T10:45:33+00:00,Populate text field in window,"Edit 'Add a more detailed description…' in Pane 'General  ...  Teams, Main Window'; Text:'Plan for Next Year Appraisal'",Make a plan for next year's appraisal process,Event_415
+15,Recording_86,Process_30,2022-02-14T10:45:37+00:00,Press button in window,"Button 'Save' 2 in Pane 'General  ...  Teams, Main Window'",Make a plan for next year's appraisal process,Event_415
+16,Recording_86,Process_30,2022-02-14T10:45:40+00:00,Click UI element in window,"Hyperlink 'Join' in Pane 'General  ...  Teams, Main Window'",Make a plan for next year's appraisal process,Event_415
+17,Recording_86,Process_30,2022-02-14T10:45:43+00:00,Click UI element in window,"Hyperlink 'Join' in Pane 'General  ...  Teams, Main Window'",Make a plan for next year's appraisal process,Event_415
+18,Recording_86,Process_30,2022-02-14T10:45:46+00:00,Click UI element in window,"Hyperlink 'Cover' in Pane 'General  ...  Teams, Main Window'",Make a plan for next year's appraisal process,Event_415
+19,Recording_86,Process_30,2022-02-14T10:45:58+00:00,Click UI element in window,"Hyperlink 'Join' in Pane 'General  ...  Teams, Main Window'",Make a plan for next year's appraisal process,Event_415
+20,Recording_86,Process_30,2022-02-14T10:46:04+00:00,Click UI element in window,"Hyperlink 'Join' in Pane 'General  ...  Teams, Main Window'",Make a plan for next year's appraisal process,Event_415
+21,Recording_86,Process_30,2022-02-14T10:46:11+00:00,Click UI element in window,"Hyperlink 'Cover' in Pane 'General  ...  Teams, Main Window'",Make a plan for next year's appraisal process,Event_415
+22,Recording_86,Process_30,2022-02-14T10:46:25+00:00,Click UI element in window,"Hyperlink in Pane 'General  ...  Teams, Main Window'",Make a plan for next year's appraisal process,Event_415
+23,Recording_86,Process_30,2022-02-14T10:46:28+00:00,Click UI element in window,"Hyperlink 'Share' in Pane 'General  ...  Teams, Main Window'",Make a plan for next year's appraisal process,Event_415
+24,Recording_86,Process_30,2022-02-14T10:46:30+00:00,Send keys,TextToSend:'{LControlKey}({C}{C}{C})',Make a plan for next year's appraisal process,Event_415
+25,Recording_86,Process_30,2022-02-14T10:46:33+00:00,Click UI element in window,"Hyperlink 2 in Pane 'General  ...  Teams, Main Window'",Make a plan for next year's appraisal process,Event_415
+26,Recording_86,Process_30,2022-02-14T10:46:37+00:00,Press button in window,Skype - 1 running window in Quick Launch Bar,Copy the plan link and share to CEO  ,Event_416
+27,Recording_86,Process_30,2022-02-14T10:46:44+00:00,Populate text field in window,"Edit 'Type a message' in Pane 'Skype'; Text:'''
+'''",Copy the plan link and share to CEO  ,Event_416
+28,Recording_86,Process_30,2022-02-14T10:46:50+00:00,Press button in window,Button 'Send message' in Pane 'Skype',Copy the plan link and share to CEO  ,Event_416
+0,Recording_117,Process_30,2022-02-14T09:37:40+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Locate the CEO's message in messaging app  ,Event_540
+1,Recording_117,Process_30,2022-02-14T09:37:43+00:00,Press button in window,"Button '1 chat with new messages more options' in Pane 'Name Surname | Microsoft Teams, Main Window'",Locate the CEO's message in messaging app  ,Event_540
+2,Recording_117,Process_30,2022-02-14T09:37:49+00:00,Click UI element in window,"Hyperlink 'Profile  ...  chat More options' in Pane 'Name Surname | Microsoft Teams, Main Window'",Locate the CEO's message in messaging app  ,Event_540
+3,Recording_117,Process_30,2022-02-14T09:37:57+00:00,Click UI element in window,"List Item in Pane 'Name Surname | Microsoft Teams, Main Window'",Locate the CEO's message in messaging app  ,Event_540
+4,Recording_117,Process_30,2022-02-14T09:38:05+00:00,Press button in window,Google Chrome - 1 running window in Quick Launch Bar,Go to the Planning tool,Event_541
+5,Recording_117,Process_30,2022-02-14T09:38:09+00:00,Press button in window,Button 'New Tab' in Pane 'New Tab - Google Chrome - Person 1',Go to the Planning tool,Event_541
+6,Recording_117,Process_30,2022-02-14T09:38:13+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Person 1'; Text:'o365',Go to the Planning tool,Event_541
+7,Recording_117,Process_30,2022-02-14T09:38:14+00:00,Send keys,TextToSend:'{Return}',Go to the Planning tool,Event_541
+8,Recording_117,Process_30,2022-02-14T09:38:20+00:00,Click UI element in window,Hyperlink ' Office  ... office.com' in Pane 'New Tab - Google Chrome - Person 1',Go to the Planning tool,Event_541
+9,Recording_117,Process_30,2022-02-14T09:38:25+00:00,Click UI element in window,Hyperlink 'Planner' in Pane 'New Tab - Google Chrome - Person 1',Go to the Planning tool,Event_541
+10,Recording_117,Process_30,2022-02-14T09:38:36+00:00,Select menu option in window,Menu Item 'New plan' in Pane 'New Tab - Google Chrome - Person 1',Prepare a plan for appraisal process,Event_542
+11,Recording_117,Process_30,2022-02-14T09:38:44+00:00,Populate text field in window,Edit 'Plan name' in Pane 'New Tab - Google Chrome - Person 1'; Text:'Apprraisal Prrocess',Prepare a plan for appraisal process,Event_542
+12,Recording_117,Process_30,2022-02-14T09:38:48+00:00,Press button in window,Button 'Choose a group for your plan' in Pane 'New Tab - Google Chrome - Person 1',Prepare a plan for appraisal process,Event_542
+13,Recording_117,Process_30,2022-02-14T09:38:52+00:00,Click UI element in window,List Item 'Project RoadMap' in Pane 'New Tab - Google Chrome - Person 1',Prepare a plan for appraisal process,Event_542
+14,Recording_117,Process_30,2022-02-14T09:38:55+00:00,Press button in window,Button 'Create plan' in Pane 'New Tab - Google Chrome - Person 1',Prepare a plan for appraisal process,Event_542
+15,Recording_117,Process_30,2022-02-14T09:39:05+00:00,Select menu option in window,Menu Item 'More' in Pane 'New Tab - Google Chrome - Person 1',Prepare a plan for appraisal process,Event_542
+16,Recording_117,Process_30,2022-02-14T09:39:57+00:00,Select menu option in window,Menu Item 'Copy link to plan' in Pane 'New Tab - Google Chrome - Person 1',Prepare a plan for appraisal process,Event_542
+17,Recording_117,Process_30,2022-02-14T09:40:14+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Share the plan with CEO,Event_543
+18,Recording_117,Process_30,2022-02-14T09:40:17+00:00,Press button in window,"Button '1 chat with new messages more options' in Pane 'Name Surname | Microsoft Teams, Main Window'",Share the plan with CEO,Event_543
+19,Recording_117,Process_30,2022-02-14T09:40:22+00:00,Click UI element in window,"Hyperlink 'Profile  ...  chat More options' in Pane 'Name Surname | Microsoft Teams, Main Window'",Share the plan with CEO,Event_543
+20,Recording_117,Process_30,2022-02-14T09:40:24+00:00,Click UI element in window,"Edit 'Type a new message' in Pane 'Name Surname | Microsoft Teams, Main Window'",Share the plan with CEO,Event_543
+21,Recording_117,Process_30,2022-02-14T09:40:27+00:00,Populate text field in window,"Edit in Pane 'Name Surname | Microsoft Teams, Main Window'; Text:'''https://tasks.office.com/Company.com/Home/PlanViews/ENCODED_VALUE?Type=PlanLink&Channel=Link&CreatedTime=ENCODED_VALUE
+'''",Share the plan with CEO,Event_543
+22,Recording_117,Process_30,2022-02-14T09:40:32+00:00,Press button in window,"Button 'Send' in Pane 'Name Surname | Microsoft Teams, Main Window'",Share the plan with CEO,Event_543

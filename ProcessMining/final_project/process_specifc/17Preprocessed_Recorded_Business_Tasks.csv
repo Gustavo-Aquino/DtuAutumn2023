@@ -1,0 +1,146 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_43,Process_17,2022-02-28T10:46:20+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar, Open to cloud-based storage space,Event_205
+1,Recording_43,Process_17,2022-02-28T10:46:22+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher', Open to cloud-based storage space,Event_205
+2,Recording_43,Process_17,2022-02-28T10:46:25+00:00,Press button in window,Button 'Power Apps' in Pane 'New Tab - Google Chrome - Name', Open to cloud-based storage space,Event_205
+3,Recording_43,Process_17,2022-02-28T10:46:31+00:00,Select menu option in window,Menu Item 'Data' in Pane 'New Tab - Google Chrome - Name', Open to cloud-based storage space,Event_205
+4,Recording_43,Process_17,2022-02-28T10:46:33+00:00,Select menu option in window,Menu Item 'Tables' in Pane 'New Tab - Google Chrome - Name', Open to cloud-based storage space,Event_205
+5,Recording_43,Process_17,2022-02-28T10:46:39+00:00,Select menu option in window,Menu Item 'Default List' in Pane 'New Tab - Google Chrome - Name', Open to cloud-based storage space,Event_205
+6,Recording_43,Process_17,2022-02-28T10:46:42+00:00,Select menu option in window,Menu Item 'List view Group' in Pane 'New Tab - Google Chrome - Name', Open to cloud-based storage space,Event_205
+7,Recording_43,Process_17,2022-02-28T10:46:48+00:00,Select menu option in window,Menu Item 'Distill Web Monitor Has access to this site' in Pane 'New Tab - Google Chrome - Name',Go to the feeder and set the feed for addition of new table in group,Event_206
+8,Recording_43,Process_17,2022-02-28T10:46:54+00:00,Press button in window,Button 'Monitor parts of page' in Pane 'New Tab - Google Chrome - Name',Go to the feeder and set the feed for addition of new table in group,Event_206
+9,Recording_43,Process_17,2022-02-28T10:47:27+00:00,Click UI element in window,Text '6' in Pane 'New Tab - Google Chrome - Name',Go to the feeder and set the feed for addition of new table in group,Event_206
+10,Recording_43,Process_17,2022-02-28T10:47:34+00:00,Click UI element in window,Edit 'Select elements to see preview of selected text.' in Pane 'New Tab - Google Chrome - Name',Go to the feeder and set the feed for addition of new table in group,Event_206
+11,Recording_43,Process_17,2022-02-28T10:47:36+00:00,Press button in window,Button 'Save selections' in Pane 'New Tab - Google Chrome - Name',Go to the feeder and set the feed for addition of new table in group,Event_206
+12,Recording_43,Process_17,2022-02-28T10:47:42+00:00,Click UI element in window,Hyperlink 'Add action' in Pane 'New Tab - Google Chrome - Name',Go to the feeder and set the feed for addition of new table in group,Event_206
+13,Recording_43,Process_17,2022-02-28T10:47:46+00:00,Click UI element in window,Hyperlink 'Popup Notification (for local monitor)' in Pane 'New Tab - Google Chrome - Name',Go to the feeder and set the feed for addition of new table in group,Event_206
+14,Recording_43,Process_17,2022-02-28T10:47:50+00:00,Click UI element in window,Hyperlink 'Add Condition' in Pane 'New Tab - Google Chrome - Name',Go to the feeder and set the feed for addition of new table in group,Event_206
+15,Recording_43,Process_17,2022-02-28T10:47:51+00:00,Click UI element in window,Text 'True if matches ' in Pane 'New Tab - Google Chrome - Name',Go to the feeder and set the feed for addition of new table in group,Event_206
+16,Recording_43,Process_17,2022-02-28T10:47:56+00:00,Populate text field in window,Edit 'Text' in Pane 'New Tab - Google Chrome - Name'; Text:'(6)',Go to the feeder and set the feed for addition of new table in group,Event_206
+17,Recording_43,Process_17,2022-02-28T10:47:58+00:00,Click UI element in window,Combo Box in Pane 'New Tab - Google Chrome - Name',Go to the feeder and set the feed for addition of new table in group,Event_206
+18,Recording_43,Process_17,2022-02-28T10:48:00+00:00,Click UI element in window,Document 'Watchlist - Username - Distill Web Monitor' in Pane 'New Tab - Google Chrome - Name',Go to the feeder and set the feed for addition of new table in group,Event_206
+19,Recording_43,Process_17,2022-02-28T10:48:05+00:00,Press button in window,Button 'Save' in Pane 'New Tab - Google Chrome - Name',Go to the feeder and set the feed for addition of new table in group,Event_206
+20,Recording_43,Process_17,2022-02-28T10:48:45+00:00,Click UI element in window,Pane 'New Tab - Google Chrome - Name', Export the data tables,Event_207
+21,Recording_43,Process_17,2022-02-28T10:49:26+00:00,Select menu option in window,Menu Item 'Data' 2 in Pane 'New Tab - Google Chrome - Name', Export the data tables,Event_207
+22,Recording_43,Process_17,2022-02-28T10:49:28+00:00,Select menu option in window,Menu Item 'Export data' in Pane 'New Tab - Google Chrome - Name', Export the data tables,Event_207
+23,Recording_43,Process_17,2022-02-28T10:49:39+00:00,Click UI element in window,Data Item 'Account' in Pane 'New Tab - Google Chrome - Name', Export the data tables,Event_207
+24,Recording_43,Process_17,2022-02-28T10:49:43+00:00,Select menu option in window,Menu Item 'Export data' 2 in Pane 'New Tab - Google Chrome - Name', Export the data tables,Event_207
+25,Recording_43,Process_17,2022-02-28T10:50:42+00:00,Click UI element in window,Hyperlink 'Download exported data' in Pane 'New Tab - Google Chrome - Name', Export the data tables,Event_207
+26,Recording_43,Process_17,2022-02-28T10:50:59+00:00,Press button in window,Button 'New Tab' in Pane 'New Tab - Google Chrome - Name',Login to note taking app,Event_208
+27,Recording_43,Process_17,2022-02-28T10:51:02+00:00,Click UI element in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Name',Login to note taking app,Event_208
+28,Recording_43,Process_17,2022-02-28T10:51:06+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Name'; Text:'zoho notebook',Login to note taking app,Event_208
+29,Recording_43,Process_17,2022-02-28T10:51:07+00:00,Send keys,TextToSend:'{Return}',Login to note taking app,Event_208
+30,Recording_43,Process_17,2022-02-28T10:51:11+00:00,Click UI element in window,Hyperlink ' Note  ...  › notebook' in Pane 'New Tab - Google Chrome - Name',Login to note taking app,Event_208
+31,Recording_43,Process_17,2022-02-28T10:51:16+00:00,Click UI element in window,Hyperlink 'ACCESS ZOHO NOTEBOOK' in Pane 'New Tab - Google Chrome - Name',Login to note taking app,Event_208
+32,Recording_43,Process_17,2022-02-28T10:51:23+00:00,Click UI element in window,Text 'All Notes' in Pane 'New Tab - Google Chrome - Name',Finalize the status of exported table,Event_209
+33,Recording_43,Process_17,2022-02-28T10:51:26+00:00,Click UI element in window,Text 'Details of exported tables from dataverse' in Pane 'New Tab - Google Chrome - Name',Finalize the status of exported table,Event_209
+34,Recording_43,Process_17,2022-02-28T10:51:33+00:00,Click UI element in window,Group in Pane 'New Tab - Google Chrome - Name',Finalize the status of exported table,Event_209
+35,Recording_43,Process_17,2022-02-28T10:51:34+00:00,Click UI element in window,Data Item 'Feedback ' in Pane 'New Tab - Google Chrome - Name',Finalize the status of exported table,Event_209
+36,Recording_43,Process_17,2022-02-28T10:51:36+00:00,Send keys,TextToSend:'{RShiftKey}(A)ccount',Finalize the status of exported table,Event_209
+37,Recording_43,Process_17,2022-02-28T10:51:40+00:00,Click UI element in window,Text ' ' in Pane 'New Tab - Google Chrome - Name',Finalize the status of exported table,Event_209
+38,Recording_43,Process_17,2022-02-28T10:51:41+00:00,Send keys,TextToSend:'2/28/2022',Finalize the status of exported table,Event_209
+39,Recording_43,Process_17,2022-02-28T10:51:48+00:00,Click UI element in window,Data Item '  ' in Pane 'New Tab - Google Chrome - Name',Finalize the status of exported table,Event_209
+0,Recording_61,Process_17,2022-02-28T06:24:51+00:00,Press button in window,Firefox - 1 running window in Quick Launch Bar,Go to cloud-based storage space,Event_305
+1,Recording_61,Process_17,2022-02-28T06:24:56+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox'; Text:'o365',Go to cloud-based storage space,Event_305
+2,Recording_61,Process_17,2022-02-28T06:24:57+00:00,Send keys,TextToSend:'{Return}',Go to cloud-based storage space,Event_305
+3,Recording_61,Process_17,2022-02-28T06:25:00+00:00,Click UI element in window,Hyperlink 'Office  ... office.com' in Window 'o365 - Google Search — Mozilla Firefox',Go to cloud-based storage space,Event_305
+4,Recording_61,Process_17,2022-02-28T06:25:08+00:00,Select menu option in window,Menu Item 'App launcher' in Window 'Microsoft Office Home — Mozilla Firefox',Go to cloud-based storage space,Event_305
+5,Recording_61,Process_17,2022-02-28T06:25:12+00:00,Click UI element in window,Hyperlink 'Power Apps' in Window 'Microsoft Office Home — Mozilla Firefox',Go to cloud-based storage space,Event_305
+6,Recording_61,Process_17,2022-02-28T06:25:18+00:00,Select menu option in window,Menu Item 'Dataverse' in Window 'Power Apps — Mozilla Firefox',Go to cloud-based storage space,Event_305
+7,Recording_61,Process_17,2022-02-28T06:25:21+00:00,Select menu option in window,Menu Item 'Tables' in Window 'Power Apps — Mozilla Firefox',Go to cloud-based storage space,Event_305
+8,Recording_61,Process_17,2022-02-28T06:25:31+00:00,Select menu option in window,Menu Item 'Default List' in Window 'Power Apps — Mozilla Firefox',Go to cloud-based storage space,Event_305
+9,Recording_61,Process_17,2022-02-28T06:25:34+00:00,Select menu option in window,Menu Item 'List view Group' in Window 'Power Apps — Mozilla Firefox',Go to cloud-based storage space,Event_305
+10,Recording_61,Process_17,2022-02-28T06:25:39+00:00,Press button in window,Button 'Distill Web Monitor' in Window 'Power Apps — Mozilla Firefox', Open the feeder and set the feed for inclusion of new table in group,Event_306
+11,Recording_61,Process_17,2022-02-28T06:25:42+00:00,Press button in window,Button 'Select parts of page' in Window 'Power Apps — Mozilla Firefox', Open the feeder and set the feed for inclusion of new table in group,Event_306
+12,Recording_61,Process_17,2022-02-28T06:25:45+00:00,Click UI element in window,Edit '(' in Window 'Power Apps — Mozilla Firefox', Open the feeder and set the feed for inclusion of new table in group,Event_306
+13,Recording_61,Process_17,2022-02-28T06:25:50+00:00,Press button in window,Button ' Save selections' in Window 'Power Apps — Mozilla Firefox', Open the feeder and set the feed for inclusion of new table in group,Event_306
+14,Recording_61,Process_17,2022-02-28T06:25:58+00:00,Drag and drop UI element in window,Slider in Window 'Watchlist - Distill — Mozilla Firefox', Open the feeder and set the feed for inclusion of new table in group,Event_306
+15,Recording_61,Process_17,2022-02-28T06:26:00+00:00,Click UI element in window,Hyperlink 'Add action' in Window 'Watchlist - Distill — Mozilla Firefox', Open the feeder and set the feed for inclusion of new table in group,Event_306
+16,Recording_61,Process_17,2022-02-28T06:26:03+00:00,Click UI element in window,Edit 'Popup Notification (for local monitor)' in Window 'Watchlist - Distill — Mozilla Firefox', Open the feeder and set the feed for inclusion of new table in group,Event_306
+17,Recording_61,Process_17,2022-02-28T06:26:08+00:00,Click UI element in window,Hyperlink 'Add Condition' in Window 'Watchlist - Distill — Mozilla Firefox', Open the feeder and set the feed for inclusion of new table in group,Event_306
+18,Recording_61,Process_17,2022-02-28T06:26:13+00:00,Set drop-down list value in window,Combo Box in Window 'Watchlist - Distill — Mozilla Firefox', Open the feeder and set the feed for inclusion of new table in group,Event_306
+19,Recording_61,Process_17,2022-02-28T06:26:16+00:00,Populate text field in window,Edit 'Number' in Window 'Watchlist - Distill — Mozilla Firefox'; Text:'0', Open the feeder and set the feed for inclusion of new table in group,Event_306
+20,Recording_61,Process_17,2022-02-28T06:26:20+00:00,Press button in window,Button 'Save' in Window 'Watchlist - Distill — Mozilla Firefox', Open the feeder and set the feed for inclusion of new table in group,Event_306
+21,Recording_61,Process_17,2022-02-28T06:26:24+00:00,Select tab in window,Tab Item 'Power Apps' in Window 'Watchlist - Distill — Mozilla Firefox',Get the data tables to your local drive from cloud-based storage,Event_307
+22,Recording_61,Process_17,2022-02-28T06:26:29+00:00,Select menu option in window,Menu Item 'Data' in Window 'Power Apps — Mozilla Firefox',Get the data tables to your local drive from cloud-based storage,Event_307
+23,Recording_61,Process_17,2022-02-28T06:26:32+00:00,Select menu option in window,Menu Item 'Export data' in Window 'Power Apps — Mozilla Firefox',Get the data tables to your local drive from cloud-based storage,Event_307
+24,Recording_61,Process_17,2022-02-28T06:27:02+00:00,Set checkbox state in window,Check Box in Window 'Power Apps — Mozilla Firefox',Get the data tables to your local drive from cloud-based storage,Event_307
+25,Recording_61,Process_17,2022-02-28T06:27:11+00:00,Select menu option in window,Menu Item 'Export data' 2 in Window 'Power Apps — Mozilla Firefox',Get the data tables to your local drive from cloud-based storage,Event_307
+26,Recording_61,Process_17,2022-02-28T06:28:18+00:00,Click UI element in window,Hyperlink 'Download exported data' in Window 'Power Apps — Mozilla Firefox',Get the data tables to your local drive from cloud-based storage,Event_307
+27,Recording_61,Process_17,2022-02-28T06:28:22+00:00,Select radio button in window,Radio Button 'Save File' in Window 'Power Apps — Mozilla Firefox',Get the data tables to your local drive from cloud-based storage,Event_307
+28,Recording_61,Process_17,2022-02-28T06:28:26+00:00,Press button in window,Button 'OK' in Window 'Power Apps — Mozilla Firefox',Get the data tables to your local drive from cloud-based storage,Event_307
+29,Recording_61,Process_17,2022-02-28T06:28:31+00:00,Press button in window,Button 'Type here to search' in TaskBar,Get the data tables to your local drive from cloud-based storage,Event_307
+30,Recording_61,Process_17,2022-02-28T06:28:35+00:00,Populate text field in window,Edit 'Search box' in Window 'Search'; Text:'one',Go to to note taking app,Event_308
+31,Recording_61,Process_17,2022-02-28T06:28:38+00:00,Click UI element in window,List Item 'OneNote  ...  to switch preview' in Window 'Search',Go to to note taking app,Event_308
+32,Recording_61,Process_17,2022-02-28T06:28:42+00:00,Press button in window,Button 'Click to view other notebooks   Daily Task Status Documents ‎» OneNote Notebooks' in Window 'Task Status - OneNote',Track the exported table record.,Event_309
+33,Recording_61,Process_17,2022-02-28T06:28:45+00:00,Press button in window,Button 'Notebook Daily Task Status Documents ‎» OneNote Notebooks' in Window 'Task Status - OneNote',Track the exported table record.,Event_309
+34,Recording_61,Process_17,2022-02-28T06:28:49+00:00,Click UI element in window,Tree Item 'Outline Item' in Window 'Task Status - OneNote',Track the exported table record.,Event_309
+35,Recording_61,Process_17,2022-02-28T06:28:50+00:00,Send keys,TextToSend:'{LShiftKey}(A)nalysis {LShiftKey}(C)omponent',Track the exported table record.,Event_309
+36,Recording_61,Process_17,2022-02-28T06:29:01+00:00,Click UI element in window,Edit in Window 'Task Status - OneNote',Track the exported table record.,Event_309
+37,Recording_61,Process_17,2022-02-28T06:29:07+00:00,Send keys,TextToSend:'2/28/2022{LControlKey}({S})',Track the exported table record.,Event_309
+0,Recording_62,Process_17,2022-02-28T06:51:53+00:00,Select menu option in window,Microsoft Edge (2) - 2 running windows in Quick Launch Bar,Login to cloud-based storage space,Event_310
+1,Recording_62,Process_17,2022-02-28T06:51:57+00:00,Click UI element in window,List Item 'New tab - Personal - Microsoft​ Edge' in List 'Task Switcher',Login to cloud-based storage space,Event_310
+2,Recording_62,Process_17,2022-02-28T06:52:00+00:00,Press button in window,Button 'New Tab' in Window 'New tab - Personal - Microsoft​ Edge',Login to cloud-based storage space,Event_310
+3,Recording_62,Process_17,2022-02-28T06:52:02+00:00,Click UI element in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge',Login to cloud-based storage space,Event_310
+4,Recording_62,Process_17,2022-02-28T06:52:07+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'power apps',Login to cloud-based storage space,Event_310
+5,Recording_62,Process_17,2022-02-28T06:52:07+00:00,Send keys,TextToSend:'{Return}',Login to cloud-based storage space,Event_310
+6,Recording_62,Process_17,2022-02-28T06:52:10+00:00,Click UI element in window,Hyperlink 'Business Apps | Microsoft Power Apps' in Window 'power apps -  ...  - Microsoft​ Edge',Login to cloud-based storage space,Event_310
+7,Recording_62,Process_17,2022-02-28T06:52:17+00:00,Click UI element in window,Hyperlink 'Sign in' in Window 'Business  ...  - Microsoft​ Edge',Login to cloud-based storage space,Event_310
+8,Recording_62,Process_17,2022-02-28T06:52:25+00:00,Select menu option in window,Menu Item 'Dataverse' in Window 'Power Apps  ...  - Microsoft​ Edge',Login to cloud-based storage space,Event_310
+9,Recording_62,Process_17,2022-02-28T06:52:28+00:00,Select menu option in window,Menu Item 'Tables' in Window 'Power Apps  ...  - Microsoft​ Edge',Login to cloud-based storage space,Event_310
+10,Recording_62,Process_17,2022-02-28T06:52:44+00:00,Select menu option in window,Menu Item 'Default List' in Window 'Power Apps  ...  - Microsoft​ Edge',Login to cloud-based storage space,Event_310
+11,Recording_62,Process_17,2022-02-28T06:52:46+00:00,Set checkbox state in window,Check Box 'List view Group' in Window 'Power Apps  ...  - Microsoft​ Edge',Login to cloud-based storage space,Event_310
+12,Recording_62,Process_17,2022-02-28T06:52:50+00:00,Press button in window,Button 'Distill Web Monitor Has access to this site' in Window 'Power Apps  ...  - Microsoft​ Edge',Go to the feeder and set the feed to get notification of newly added table,Event_311
+13,Recording_62,Process_17,2022-02-28T06:52:53+00:00,Press button in window,Button 'Monitor parts of page' in Window 'Power Apps  ...  - Microsoft​ Edge',Go to the feeder and set the feed to get notification of newly added table,Event_311
+14,Recording_62,Process_17,2022-02-28T06:52:59+00:00,Click UI element in window,Data Item 'Custom(9)' in Window 'Power Apps  ...  - Microsoft​ Edge',Go to the feeder and set the feed to get notification of newly added table,Event_311
+15,Recording_62,Process_17,2022-02-28T06:53:01+00:00,Press button in window,Button 'Save selections' in Window 'Power Apps  ...  - Microsoft​ Edge',Go to the feeder and set the feed to get notification of newly added table,Event_311
+16,Recording_62,Process_17,2022-02-28T06:53:06+00:00,Drag and drop UI element in window,Text 'Set interval  ...  for changes.' in Slider 'slider-handle min-slider-handle round' in Window 'Watchlist -  ...  - Microsoft​ Edge',Go to the feeder and set the feed to get notification of newly added table,Event_311
+17,Recording_62,Process_17,2022-02-28T06:53:10+00:00,Click UI element in window,Hyperlink 'Add action' in Window 'Watchlist -  ...  - Microsoft​ Edge',Go to the feeder and set the feed to get notification of newly added table,Event_311
+18,Recording_62,Process_17,2022-02-28T06:53:12+00:00,Click UI element in window,Hyperlink 'Popup Notification (for local monitor)' in Window 'Watchlist -  ...  - Microsoft​ Edge',Go to the feeder and set the feed to get notification of newly added table,Event_311
+19,Recording_62,Process_17,2022-02-28T06:53:14+00:00,Click UI element in window,Hyperlink 'Add Condition' in Window 'Watchlist -  ...  - Microsoft​ Edge',Go to the feeder and set the feed to get notification of newly added table,Event_311
+20,Recording_62,Process_17,2022-02-28T06:53:17+00:00,Click UI element in window,Combo Box in Window 'Watchlist -  ...  - Microsoft​ Edge',Go to the feeder and set the feed to get notification of newly added table,Event_311
+21,Recording_62,Process_17,2022-02-28T06:53:20+00:00,Click UI element in window,Pane 'View' in Window 'Untitled and  ...  - Microsoft​ Edge',Go to the feeder and set the feed to get notification of newly added table,Event_311
+22,Recording_62,Process_17,2022-02-28T06:53:24+00:00,Populate text field in window,Edit 'Text' in Window 'Watchlist -  ...  - Microsoft​ Edge'; Text:'9',Go to the feeder and set the feed to get notification of newly added table,Event_311
+23,Recording_62,Process_17,2022-02-28T06:53:28+00:00,Press button in window,Button 'Save' in Window 'Watchlist -  ...  - Microsoft​ Edge',Go to the feeder and set the feed to get notification of newly added table,Event_311
+24,Recording_62,Process_17,2022-02-28T06:53:33+00:00,Select tab in window,Tab Item 'Power Apps' in Window 'Watchlist -  ...  - Microsoft​ Edge' 2,Download the data tables,Event_312
+25,Recording_62,Process_17,2022-02-28T06:53:40+00:00,Select menu option in window,Menu Item 'Data' in Window 'Power Apps  ...  - Microsoft​ Edge' 2,Download the data tables,Event_312
+26,Recording_62,Process_17,2022-02-28T06:53:42+00:00,Select menu option in window,Menu Item 'Export data' in Window 'Power Apps  ...  - Microsoft​ Edge' 2,Download the data tables,Event_312
+27,Recording_62,Process_17,2022-02-28T06:54:05+00:00,Set checkbox state in window,Check Box ' ...  check-771' in Window 'Power Apps  ...  - Microsoft​ Edge' 3,Download the data tables,Event_312
+28,Recording_62,Process_17,2022-02-28T06:54:12+00:00,Select menu option in window,Menu Item 'Export data' 2 in Window 'Power Apps  ...  - Microsoft​ Edge' 2,Download the data tables,Event_312
+29,Recording_62,Process_17,2022-02-28T06:55:29+00:00,Click UI element in window,Hyperlink 'Download exported data' in Window 'Power Apps  ...  - Microsoft​ Edge' 2,Download the data tables,Event_312
+30,Recording_62,Process_17,2022-02-28T06:55:39+00:00,Press button in window,Button 'New Tab' in Window 'Power Apps  ...  - Microsoft​ Edge' 2,Open note taking app,Event_313
+31,Recording_62,Process_17,2022-02-28T06:55:41+00:00,Click UI element in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge',Open note taking app,Event_313
+32,Recording_62,Process_17,2022-02-28T06:55:46+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge' 2; Text:'evernote',Open note taking app,Event_313
+33,Recording_62,Process_17,2022-02-28T06:55:47+00:00,Send keys,TextToSend:'{Return}',Open note taking app,Event_313
+34,Recording_62,Process_17,2022-02-28T06:55:50+00:00,Click UI element in window,Hyperlink 'Best Note  ...  Notes with Evernote' in Window 'evernote -  ...  - Microsoft​ Edge',Open note taking app,Event_313
+35,Recording_62,Process_17,2022-02-28T06:55:55+00:00,Click UI element in window,Hyperlink 'Log In' in Window 'Best Note  ...  - Microsoft​ Edge',Open note taking app,Event_313
+36,Recording_62,Process_17,2022-02-28T06:56:06+00:00,Click UI element in window,Hyperlink 'Notebooks' in Window 'Home -  ...  - Microsoft​ Edge',Update the status of table,Event_314
+37,Recording_62,Process_17,2022-02-28T06:56:12+00:00,Press button in window,Button 'Exported Tables' in Window 'Notebooks -  ...  - Microsoft​ Edge',Update the status of table,Event_314
+38,Recording_62,Process_17,2022-02-28T06:56:17+00:00,Click UI element in window,Edit 'Title' in Window 'Exported  ...  - Microsoft​ Edge',Update the status of table,Event_314
+39,Recording_62,Process_17,2022-02-28T06:56:19+00:00,Click UI element in window,Data Item ' ' in Window 'Exported  ...  - Microsoft​ Edge',Update the status of table,Event_314
+40,Recording_62,Process_17,2022-02-28T06:56:24+00:00,Populate text field in window,"Edit 'Start writing or drag files here' in Window 'Exported  ...  - Microsoft​ Edge'; Text:'''Details of exported tables from dataverse
+
+
+Table Name
+Exported Date
+Account
+2/3/2022
+Feedback
+2/6/202
+ Attribute
+ 
+
+'''",Update the status of table,Event_314
+41,Recording_62,Process_17,2022-02-28T06:56:27+00:00,Click UI element in window,Data Item ' ' in Window 'Exported  ...  - Microsoft​ Edge' 2,Update the status of table,Event_314
+42,Recording_62,Process_17,2022-02-28T06:56:35+00:00,Populate text field in window,"Edit 'Start writing or drag files here' in Window 'Exported  ...  - Microsoft​ Edge'; Text:'''Details of exported tables from dataverse
+
+
+Table Name
+Exported Date
+Account
+2/3/2022
+Feedback
+2/6/202
+ Attribute
+ 22/28/202
+
+'''",Update the status of table,Event_314

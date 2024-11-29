@@ -1,0 +1,149 @@
+StepId,RecordingId,ProcessId,TimeStamp,StepName,StepDescription,label_EventName,label_EventId
+0,Recording_75,Process_28,2022-01-10T09:33:49+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Check for the approval received from manangermnet for the business trip.,Event_372
+1,Recording_75,Process_28,2022-01-10T09:33:52+00:00,Select menu option in window,"Menu Item 'More added apps Toolbar' in Pane 'General  ...  Teams, Main Window'",Check for the approval received from manangermnet for the business trip.,Event_372
+2,Recording_75,Process_28,2022-01-10T09:33:58+00:00,Click UI element in window,"List Item 'Approvals  ...  more actions' in Pane 'General  ...  Teams, Main Window'",Check for the approval received from manangermnet for the business trip.,Event_372
+3,Recording_75,Process_28,2022-01-10T09:34:04+00:00,Select tab in window,"Tab Item 'Sent' in Pane 'General  ...  Teams, Main Window'",Check for the approval received from manangermnet for the business trip.,Event_372
+4,Recording_75,Process_28,2022-01-10T09:34:09+00:00,Click UI element in window,"Data Item 'Buisness trip to delhi' in Pane 'General  ...  Teams, Main Window'",Check for the approval received from manangermnet for the business trip.,Event_372
+5,Recording_75,Process_28,2022-01-10T09:34:14+00:00,Click UI element in window,"Group in Pane 'General  ...  Teams, Main Window'",Check for the approval received from manangermnet for the business trip.,Event_372
+6,Recording_75,Process_28,2022-01-10T09:34:26+00:00,Press button in window,Outlook 2013 - 1 running window in Quick Launch Bar,Check for the suitable dates in calendar,Event_373
+7,Recording_75,Process_28,2022-01-10T09:34:35+00:00,Click UI element in window,"List 'Month View,  ...  6, 2022 12:00am' in Window 'Calendar - Email@Domain - Outlook'",Schedule the trip date.,Event_374
+8,Recording_75,Process_28,2022-01-10T09:34:41+00:00,Press button in window,Microsoft Edge (2) - 1 running window in Quick Launch Bar,Verify the weather of trip date.,Event_375
+9,Recording_75,Process_28,2022-01-10T09:34:43+00:00,Press button in window,Button 'New Tab' in Window 'Process  ...  - Microsoft​ Edge',Verify the weather of trip date.,Event_375
+10,Recording_75,Process_28,2022-01-10T09:34:47+00:00,Populate text field in window,Edit 'Address and search bar' in Window 'New tab and  ...  - Microsoft​ Edge'; Text:'weather.com',Verify the weather of trip date.,Event_375
+11,Recording_75,Process_28,2022-01-10T09:34:48+00:00,Send keys,TextToSend:'{Return}',Verify the weather of trip date.,Event_375
+12,Recording_75,Process_28,2022-01-10T09:35:02+00:00,Populate text field in window,Edit 'Search City or Postcode' in Window 'National and  ...  - Microsoft​ Edge'; Text:'delhi',Verify the weather of trip date.,Event_375
+13,Recording_75,Process_28,2022-01-10T09:35:14+00:00,Click UI element in window,List Item 'Delhi' in Window 'National and  ...  - Microsoft​ Edge',Verify the weather of trip date.,Event_375
+14,Recording_75,Process_28,2022-01-10T09:35:21+00:00,Click UI element in window,Hyperlink 'Monthly' in Window 'DelhiWeather  ...  - Microsoft​ Edge',Verify the weather of trip date.,Event_375
+15,Recording_75,Process_28,2022-01-10T09:35:24+00:00,Click UI element in window,Text 'Close' in Window 'DelhiWeather  ...  - Microsoft​ Edge',Verify the weather of trip date.,Event_375
+16,Recording_75,Process_28,2022-01-10T09:35:31+00:00,Press button in window,Button '13 19° 8°' in Window 'Delhi  ...  - Microsoft​ Edge',Verify the weather of trip date.,Event_375
+0,Recording_77,Process_28,2022-01-10T03:54:47+00:00,Select menu option in window,Google Chrome - 2 running windows in Quick Launch Bar,Verify the approval of request for Business trip to Delhi. ,Event_380
+1,Recording_77,Process_28,2022-01-10T03:54:50+00:00,Click UI element in window,List Item 'Run History | Power Automate - Google Chrome' in List 'Task Switcher',Verify the approval of request for Business trip to Delhi. ,Event_380
+2,Recording_77,Process_28,2022-01-10T03:54:53+00:00,Click UI element in window,Text 'Power Automate' in Pane 'Run History |  ...  Chrome - Name',Verify the approval of request for Business trip to Delhi. ,Event_380
+3,Recording_77,Process_28,2022-01-10T03:54:56+00:00,Click UI element in window,List Item 'My flows' in Pane 'Run History |  ...  Chrome - Name',Verify the approval of request for Business trip to Delhi. ,Event_380
+4,Recording_77,Process_28,2022-01-10T03:55:03+00:00,Click UI element in window,Header 'Approval for Business Trip to Delhi' in Pane 'Run History |  ...  Chrome - Name',Verify the approval of request for Business trip to Delhi. ,Event_380
+5,Recording_77,Process_28,2022-01-10T03:55:06+00:00,Click UI element in window,Hyperlink 'Approval for Business Trip to Delhi' in Pane 'Run History |  ...  Chrome - Name',Verify the approval of request for Business trip to Delhi. ,Event_380
+6,Recording_77,Process_28,2022-01-10T03:55:10+00:00,Click UI element in window,"Hyperlink 'Jan 10, 09:04 AM (20 minutes ago)' in Pane 'Run History |  ...  Chrome - Name'",Verify the approval of request for Business trip to Delhi. ,Event_380
+7,Recording_77,Process_28,2022-01-10T03:55:16+00:00,Press button in window,Button 'Condition' in Pane 'Run History |  ...  Chrome - Name',Verify the approval of request for Business trip to Delhi. ,Event_380
+8,Recording_77,Process_28,2022-01-10T03:55:23+00:00,Press button in window,Button 'Compose' in Pane 'Run History |  ...  Chrome - Name',Verify the approval of request for Business trip to Delhi. ,Event_380
+9,Recording_77,Process_28,2022-01-10T03:55:26+00:00,Click UI element in window,Table in Pane 'Run History |  ...  Chrome - Name',Verify the approval of request for Business trip to Delhi. ,Event_380
+10,Recording_77,Process_28,2022-01-10T03:55:33+00:00,Click UI element in window,Table in Pane 'Run History |  ...  Chrome - Name',Verify the approval of request for Business trip to Delhi. ,Event_380
+11,Recording_77,Process_28,2022-01-10T03:55:40+00:00,Select tab in window,"Tab Item 'Google Calendar - Wednesday, January 19, 2022' in Pane 'Run History |  ...  Chrome - Name'",Verify the dates in calendar considering the national holidays,Event_381
+12,Recording_77,Process_28,2022-01-10T03:55:50+00:00,Click UI element in window,Data Item '20' in Pane 'Run History |  ...  Chrome - Name',Decide the trip date.,Event_382
+13,Recording_77,Process_28,2022-01-10T03:55:55+00:00,Press button in window,Button 'New Tab' in Pane 'Run History |  ...  Chrome - Name',Go to the weather app and verify the weather of decided location.,Event_383
+14,Recording_77,Process_28,2022-01-10T03:55:57+00:00,Click UI element in window,Edit 'Address and search bar' in Pane 'Run History |  ...  Chrome - Name',Go to the weather app and verify the weather of decided location.,Event_383
+15,Recording_77,Process_28,2022-01-10T03:55:59+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'Run History |  ...  Chrome - Name'; Text:'msn weather.com',Go to the weather app and verify the weather of decided location.,Event_383
+16,Recording_77,Process_28,2022-01-10T03:56:00+00:00,Send keys,TextToSend:'{Return}',Go to the weather app and verify the weather of decided location.,Event_383
+17,Recording_77,Process_28,2022-01-10T03:56:04+00:00,Click UI element in window,"Hyperlink ' Hemet,  ...  › en-in › weather' in Pane 'Run History |  ...  Chrome - Name'",Go to the weather app and verify the weather of decided location.,Event_383
+18,Recording_77,Process_28,2022-01-10T03:56:06+00:00,Click UI element in window,Combo Box 'Search for location' in Pane 'Run History |  ...  Chrome - Name',Go to the weather app and verify the weather of decided location.,Event_383
+19,Recording_77,Process_28,2022-01-10T03:56:08+00:00,Send keys,TextToSend:'del',Go to the weather app and verify the weather of decided location.,Event_383
+20,Recording_77,Process_28,2022-01-10T03:56:21+00:00,Click UI element in window,"Hyperlink 'Delhi, India' in Pane 'Run History |  ...  Chrome - Name'",Go to the weather app and verify the weather of decided location.,Event_383
+21,Recording_77,Process_28,2022-01-10T03:56:32+00:00,Press button in window,Button 'Switch right' in Pane 'Run History |  ...  Chrome - Name',Go to the weather app and verify the weather of decided location.,Event_383
+22,Recording_77,Process_28,2022-01-10T03:56:42+00:00,Click UI element in window,Document 'MSN' in Pane 'Run History |  ...  Chrome - Name',Go to the weather app and verify the weather of decided location.,Event_383
+23,Recording_77,Process_28,2022-01-10T03:56:56+00:00,Click UI element in window,Document 'MSN' in Pane 'Run History |  ...  Chrome - Name',Go to the weather app and verify the weather of decided location.,Event_383
+24,Recording_77,Process_28,2022-01-10T03:57:10+00:00,Click UI element in window,List Item in Pane 'Run History |  ...  Chrome - Name',Go to the weather app and verify the weather of decided location.,Event_383
+0,Recording_82,Process_28,2022-01-10T09:12:52+00:00,Select menu option in window,Firefox - 2 running windows in Quick Launch Bar,Verify the approval from higher management for business trip to Delhi.,Event_399
+1,Recording_82,Process_28,2022-01-10T09:12:57+00:00,Click UI element in window,"List Item 'Delhi,  ...  (Private Browsing)' in List 'Task Switcher'",Verify the approval from higher management for business trip to Delhi.,Event_399
+2,Recording_82,Process_28,2022-01-10T09:12:58+00:00,Press button in window,"Button 'Open a new tab (Ctrl+T)' in Window 'Delhi, India  ...  (Private Browsing)'",Verify the approval from higher management for business trip to Delhi.,Event_399
+3,Recording_82,Process_28,2022-01-10T09:13:05+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox (Private Browsing)'; Text:'teams web',Verify the approval from higher management for business trip to Delhi.,Event_399
+4,Recording_82,Process_28,2022-01-10T09:13:06+00:00,Send keys,TextToSend:'{Return}',Verify the approval from higher management for business trip to Delhi.,Event_399
+5,Recording_82,Process_28,2022-01-10T09:13:09+00:00,Click UI element in window,Hyperlink 'Microsoft  ...  › en-in › log-in' in Window 'teams web -  ...  (Private Browsing)',Verify the approval from higher management for business trip to Delhi.,Event_399
+6,Recording_82,Process_28,2022-01-10T09:13:14+00:00,Click UI element in window,Hyperlink 'Sign in and get started with Microsoft Teams' in Window 'Microsoft  ...  (Private Browsing)',Verify the approval from higher management for business trip to Delhi.,Event_399
+7,Recording_82,Process_28,2022-01-10T09:13:33+00:00,Press button in window,Button 'Approvals Toolbar' in Window 'Microsoft  ...  (Private Browsing)' 2,Verify the approval from higher management for business trip to Delhi.,Event_399
+8,Recording_82,Process_28,2022-01-10T09:13:41+00:00,Select tab in window,Tab Item 'Sent' in Window 'Microsoft  ...  (Private Browsing)' 2,Verify the approval from higher management for business trip to Delhi.,Event_399
+9,Recording_82,Process_28,2022-01-10T09:13:46+00:00,Click UI element in window,Data Item 'Business Trip' in Window 'Microsoft  ...  (Private Browsing)' 2,Verify the approval from higher management for business trip to Delhi.,Event_399
+10,Recording_82,Process_28,2022-01-10T09:13:48+00:00,Click UI element in window,UI Custom in Window 'Microsoft  ...  (Private Browsing)' 2,Verify the approval from higher management for business trip to Delhi.,Event_399
+11,Recording_82,Process_28,2022-01-10T09:13:53+00:00,Press button in window,"Button 'Open a new tab (Ctrl+T)' in Window 'Delhi, India  ...  (Private Browsing)'",Go to calendar to check date as per national holidays.,Event_400
+12,Recording_82,Process_28,2022-01-10T09:13:57+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox (Private Browsing)'; Text:'calender',Go to calendar to check date as per national holidays.,Event_400
+13,Recording_82,Process_28,2022-01-10T09:13:58+00:00,Send keys,TextToSend:'{Return}',Go to calendar to check date as per national holidays.,Event_400
+14,Recording_82,Process_28,2022-01-10T09:14:02+00:00,Click UI element in window,Hyperlink 'Calendar  ...  › calendar' in Window 'calender -  ...  (Private Browsing)',Go to calendar to check date as per national holidays.,Event_400
+15,Recording_82,Process_28,2022-01-10T09:14:07+00:00,Click UI element in window,Hyperlink 'January' in Window 'Calendar 2022 — Mozilla Firefox (Private Browsing)',Schedule a date for trip.,Event_401
+16,Recording_82,Process_28,2022-01-10T09:14:14+00:00,Click UI element in window,Edit '17' in Window 'January 2022  ...  (Private Browsing)',Schedule a date for trip.,Event_401
+17,Recording_82,Process_28,2022-01-10T09:14:17+00:00,Press button in window,"Button 'Open a new tab (Ctrl+T)' in Window 'Delhi, India  ...  (Private Browsing)'",Check weather for the desired location.,Event_402
+18,Recording_82,Process_28,2022-01-10T09:14:22+00:00,Populate text field in window,Edit 'Search with Google or enter address' in Window 'Mozilla Firefox (Private Browsing)'; Text:'weather',Check weather for the desired location.,Event_402
+19,Recording_82,Process_28,2022-01-10T09:14:23+00:00,Send keys,TextToSend:'{Return}',Check weather for the desired location.,Event_402
+20,Recording_82,Process_28,2022-01-10T09:14:29+00:00,Click UI element in window,Edit ' › ... › India › Gujarat' in Window 'weather -  ...  (Private Browsing)',Check weather for the desired location.,Event_402
+21,Recording_82,Process_28,2022-01-10T09:14:42+00:00,Populate text field in window,"Edit 'Search' in Window 'Vadodara,  ...  (Private Browsing)'; Text:'delhi'",Check weather for the desired location.,Event_402
+22,Recording_82,Process_28,2022-01-10T09:14:46+00:00,Click UI element in window,"Edit 'Delhi, Delhi, IN' in Window 'Vadodara,  ...  (Private Browsing)'",Check weather for the desired location.,Event_402
+23,Recording_82,Process_28,2022-01-10T09:14:52+00:00,Click UI element in window,"Edit 'MONTHLY' in Window 'Delhi,  ...  (Private Browsing)'",Check weather for the desired location.,Event_402
+24,Recording_82,Process_28,2022-01-10T09:15:22+00:00,Click UI element in window,"Hyperlink '17 Cloudy most of the time 19° 6°' in Window 'Delhi,  ...  (Private Browsing)' 2",Check weather for the desired location.,Event_402
+0,Recording_146,Process_28,2021-12-15T08:17:18+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Verify the approval from higher management for business trip to Delhi,Event_671
+1,Recording_146,Process_28,2021-12-15T08:17:23+00:00,Select menu option in window,"Menu Item 'More added apps Toolbar' in Pane 'General  ...  Teams, Main Window'",Verify the approval from higher management for business trip to Delhi,Event_671
+2,Recording_146,Process_28,2021-12-15T08:17:34+00:00,Click UI element in window,"List Item 'Approvals  ...  more actions' in Pane 'General  ...  Teams, Main Window'",Verify the approval from higher management for business trip to Delhi,Event_671
+3,Recording_146,Process_28,2021-12-15T08:17:40+00:00,Select tab in window,"Tab Item 'Sent' in Pane 'General  ...  Teams, Main Window'",Verify the approval from higher management for business trip to Delhi,Event_671
+4,Recording_146,Process_28,2021-12-15T08:17:47+00:00,Click UI element in window,"Data Item 'Business Trip' in Pane 'General  ...  Teams, Main Window'",Verify the approval from higher management for business trip to Delhi,Event_671
+5,Recording_146,Process_28,2021-12-15T08:17:53+00:00,Click UI element in window,"Group in Pane 'General  ...  Teams, Main Window'",Verify the approval from higher management for business trip to Delhi,Event_671
+6,Recording_146,Process_28,2021-12-15T08:18:02+00:00,Press button in window,Outlook 2013 - 1 running window in Quick Launch Bar,Go to calendar to check date as per national holidays,Event_672
+7,Recording_146,Process_28,2021-12-15T08:18:05+00:00,Press button in window,Button 'Calendar' in Window 'Inbox - Email@Domain - Outlook',Go to calendar to check date as per national holidays,Event_672
+8,Recording_146,Process_28,2021-12-15T08:18:14+00:00,Click UI element in window,"List 'Month View,  ...  2, 2022 12:00am' in Window 'Calendar - Name - Outlook'",Go to calendar to check date as per national holidays,Event_672
+9,Recording_146,Process_28,2021-12-15T08:18:29+00:00,Click UI element in window,"List 'Month View,  ...  2, 2022 12:00am' in Window 'Calendar - Name - Outlook'",Go to calendar to check date as per national holidays,Event_672
+10,Recording_146,Process_28,2021-12-15T08:18:33+00:00,Select menu option in window,Menu Item 'New Appointment' in Window 'Calendar - Name - Outlook',Schedule a date for trip,Event_673
+11,Recording_146,Process_28,2021-12-15T08:18:44+00:00,Click UI element in window,Document 'Subject' in Window 'Untitled - Appointment  ',Schedule a date for trip,Event_673
+12,Recording_146,Process_28,2021-12-15T08:18:46+00:00,Send keys,TextToSend:'{LShiftKey}(B)usiness {RShiftKey}(T)rip',Schedule a date for trip,Event_673
+13,Recording_146,Process_28,2021-12-15T08:18:53+00:00,Click UI element in window,Combo Box 'Location' in Window 'Untitled - Appointment  ',Schedule a date for trip,Event_673
+14,Recording_146,Process_28,2021-12-15T08:18:55+00:00,Send keys,TextToSend:'{RShiftKey}(D)elhi',Schedule a date for trip,Event_673
+15,Recording_146,Process_28,2021-12-15T08:19:12+00:00,Click UI element in window,Pane 'AfxWndW' in Window 'Business Trip - Appointment  ',Schedule a date for trip,Event_673
+16,Recording_146,Process_28,2021-12-15T08:19:19+00:00,Click UI element in window,Pane 'Afx:800:0:6:0',Schedule a date for trip,Event_673
+17,Recording_146,Process_28,2021-12-15T08:19:21+00:00,Click UI element in window,Pane 'AfxWndW' 2 in Window 'Business Trip - Appointment  ',Schedule a date for trip,Event_673
+18,Recording_146,Process_28,2021-12-15T08:19:24+00:00,Click UI element in window,Pane 'Afx:800:0:6:0',Schedule a date for trip,Event_673
+19,Recording_146,Process_28,2021-12-15T08:19:30+00:00,Press button in window,Button 'Save & Close' in Window 'Business Trip - Appointment  ',Schedule a date for trip,Event_673
+20,Recording_146,Process_28,2021-12-15T08:19:46+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher',Check weather for the desired location,Event_674
+21,Recording_146,Process_28,2021-12-15T08:19:52+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Person 1'; Text:'msnweather',Check weather for the desired location,Event_674
+22,Recording_146,Process_28,2021-12-15T08:19:53+00:00,Send keys,TextToSend:'{Return}',Check weather for the desired location,Event_674
+23,Recording_146,Process_28,2021-12-15T08:19:59+00:00,Click UI element in window,Hyperlink ' Forecast  ...  › we-city' in Pane 'New Tab - Google Chrome - Person 1',Check weather for the desired location,Event_674
+24,Recording_146,Process_28,2021-12-15T08:20:02+00:00,Select tab in window,Tab Item 'Severe Weather' in Pane 'New Tab - Google Chrome - Person 1',Check weather for the desired location,Event_674
+25,Recording_146,Process_28,2021-12-15T08:20:04+00:00,Send keys,TextToSend:'{RShiftKey}(D)elhi',Check weather for the desired location,Event_674
+26,Recording_146,Process_28,2021-12-15T08:20:13+00:00,Click UI element in window,"List Item 'Delhi, India' in Pane 'New Tab - Google Chrome - Person 1'",Check weather for the desired location,Event_674
+27,Recording_146,Process_28,2021-12-15T08:20:19+00:00,Click UI element in window,List Item in Pane 'New Tab - Google Chrome - Person 1',Check weather for the desired location,Event_674
+28,Recording_146,Process_28,2021-12-15T08:20:36+00:00,Press button in window,Button 'Wed 22 20° 8°' in Pane 'New Tab - Google Chrome - Person 1',Check weather for the desired location,Event_674
+29,Recording_146,Process_28,2021-12-15T08:20:40+00:00,Select tab in window,Tab Item 'Hourly' in Pane 'New Tab - Google Chrome - Person 1',Check weather for the desired location,Event_674
+0,Recording_147,Process_28,2021-12-15T08:43:39+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Verify the approval from higher management for business trip to Delhi.,Event_675
+1,Recording_147,Process_28,2021-12-15T08:43:52+00:00,Drag and drop UI element in window,"List Item 'Approvals  ...  more actions' in Pane in Pane 'General  ...  Teams, Main Window'",Verify the approval from higher management for business trip to Delhi.,Event_675
+2,Recording_147,Process_28,2021-12-15T08:44:09+00:00,Click UI element in window,"Data Item 'Business Trip' in Pane 'General  ...  Teams, Main Window'",Verify the approval from higher management for business trip to Delhi.,Event_675
+3,Recording_147,Process_28,2021-12-15T08:44:33+00:00,Press button in window,Outlook 2013 - 1 running window in Quick Launch Bar,Go to calendar to check date as per national holidays.,Event_676
+4,Recording_147,Process_28,2021-12-15T08:44:59+00:00,Click UI element in window,"List 'Month View, 29  ...  2022 12:00am' in Window 'Calendar - Email@Domain - Outlook'",Go to calendar to check date as per national holidays.,Event_676
+5,Recording_147,Process_28,2021-12-15T08:45:04+00:00,Click UI element in window,"List 'Month View, 29  ...  2022 12:00am' in Window 'Calendar - Email@Domain - Outlook'",Go to calendar to check date as per national holidays.,Event_676
+6,Recording_147,Process_28,2021-12-15T08:45:51+00:00,Click UI element in window,UI Custom 'NetUINetUI' in Window 'Calendar - Email@Domain - Outlook',Schedule a date for trip.,Event_677
+7,Recording_147,Process_28,2021-12-15T08:45:53+00:00,Click UI element in window,Combo Box 'Location' in Window 'Untitled - Appointment  ',Schedule a date for trip.,Event_677
+8,Recording_147,Process_28,2021-12-15T08:45:54+00:00,Send keys,"TextToSend:'{LShiftKey}(D)elho{Back}i, {LShiftKey}(I)'",Schedule a date for trip.,Event_677
+9,Recording_147,Process_28,2021-12-15T08:45:59+00:00,Send keys,TextToSend:'ndi',Schedule a date for trip.,Event_677
+10,Recording_147,Process_28,2021-12-15T08:46:00+00:00,Send keys,TextToSend:'a',Schedule a date for trip.,Event_677
+11,Recording_147,Process_28,2021-12-15T08:46:04+00:00,Click UI element in window,Combo Box 'Location' in Window 'Untitled - Appointment  ',Schedule a date for trip.,Event_677
+12,Recording_147,Process_28,2021-12-15T08:46:04+00:00,Click UI element in window,Combo Box 'Location' in Window 'Untitled - Appointment  ',Schedule a date for trip.,Event_677
+13,Recording_147,Process_28,2021-12-15T08:46:06+00:00,Click UI element in window,Combo Box 'Location' in Window 'Untitled - Appointment  ',Schedule a date for trip.,Event_677
+14,Recording_147,Process_28,2021-12-15T08:46:06+00:00,Click UI element in window,Combo Box 'Location' in Window 'Untitled - Appointment  ',Schedule a date for trip.,Event_677
+15,Recording_147,Process_28,2021-12-15T08:46:10+00:00,Click UI element in window,Edit 'End time' in Window 'Business Trip - Appointment  ',Schedule a date for trip.,Event_677
+16,Recording_147,Process_28,2021-12-15T08:46:19+00:00,Click UI element in window,Button 'Save & Close' in Window 'Business Trip - Appointment  ',Schedule a date for trip.,Event_677
+17,Recording_147,Process_28,2021-12-15T08:46:34+00:00,Click UI element in window,Google Chrome - 2 running windows in Quick Launch Bar,Check weather for the desired location.,Event_678
+18,Recording_147,Process_28,2021-12-15T08:46:39+00:00,Click UI element in window,List Item 'New Tab - Google Chrome' in List 'Task Switcher',Check weather for the desired location.,Event_678
+19,Recording_147,Process_28,2021-12-15T08:46:48+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'New Tab - Google Chrome - Person 1'; Text:'msnweather',Check weather for the desired location.,Event_678
+20,Recording_147,Process_28,2021-12-15T08:46:55+00:00,Click UI element in window,Pane in Pane 'New Tab - Google Chrome - Person 1',Check weather for the desired location.,Event_678
+21,Recording_147,Process_28,2021-12-15T08:47:06+00:00,Click UI element in window,Combo Box 'Search for location' in Pane 'New Tab - Google Chrome - Person 1',Check weather for the desired location.,Event_678
+22,Recording_147,Process_28,2021-12-15T08:47:31+00:00,Click UI element in window,Document 'MSN' in Pane 'New Tab - Google Chrome - Person 1',Check weather for the desired location.,Event_678
+0,Recording_163,Process_28,2021-12-15T08:48:32+00:00,Press button in window,Microsoft Teams - 1 running window in Quick Launch Bar,Verify the approval from higher management for business trip to Delhi,Event_739
+1,Recording_163,Process_28,2021-12-15T08:48:35+00:00,Select menu option in window,"Menu Item 'More added apps Toolbar' in Pane 'General  ...  Teams, Main Window'",Verify the approval from higher management for business trip to Delhi,Event_739
+2,Recording_163,Process_28,2021-12-15T08:48:40+00:00,Click UI element in window,"List Item 'Approvals  ...  more actions' in Pane 'General  ...  Teams, Main Window'",Verify the approval from higher management for business trip to Delhi,Event_739
+3,Recording_163,Process_28,2021-12-15T08:48:48+00:00,Select tab in window,"Tab Item 'Sent' in Pane 'General  ...  Teams, Main Window'",Verify the approval from higher management for business trip to Delhi,Event_739
+4,Recording_163,Process_28,2021-12-15T08:48:53+00:00,Click UI element in window,"Data Item 'Buisness trip to delhi' in Pane 'General  ...  Teams, Main Window'",Verify the approval from higher management for business trip to Delhi,Event_739
+5,Recording_163,Process_28,2021-12-15T08:49:05+00:00,Press button in window,Outlook 2013 - 1 running window in Quick Launch Bar,Go to calendar to check date as per national holidays,Event_740
+6,Recording_163,Process_28,2021-12-15T08:49:15+00:00,Press button in window,Button 'Calendar' in Window 'Inbox - Email@Domain - Outlook',Go to calendar to check date as per national holidays,Event_740
+7,Recording_163,Process_28,2021-12-15T08:49:20+00:00,Press button in window,Button 'Calendar' in Window 'Inbox - Email@Domain - Outlook',Go to calendar to check date as per national holidays,Event_740
+8,Recording_163,Process_28,2021-12-15T08:49:30+00:00,Click UI element in window,"List 'Month View,  ...  2, 2022 12:00am' in Window 'Calendar - Email@Domain - Outlook'",Go to calendar to check date as per national holidays,Event_740
+9,Recording_163,Process_28,2021-12-15T08:49:41+00:00,Click UI element in window,"List 'Month View,  ...  2, 2022 12:00am' in Window 'Calendar - Email@Domain - Outlook'",Go to calendar to check date as per national holidays,Event_740
+10,Recording_163,Process_28,2021-12-15T08:49:49+00:00,Select menu option in window,Menu Item 'New Appointment' in Window 'Calendar - Email@Domain - Outlook',Schedule a date for trip,Event_741
+11,Recording_163,Process_28,2021-12-15T08:49:51+00:00,Click UI element in window,Document 'Subject' in Window 'Untitled - Appointment  ',Schedule a date for trip,Event_741
+12,Recording_163,Process_28,2021-12-15T08:49:53+00:00,Send keys,TextToSend:'{LShiftKey}(B)uisness {LShiftKey}(T)rip',Schedule a date for trip,Event_741
+13,Recording_163,Process_28,2021-12-15T08:50:01+00:00,Click UI element in window,Combo Box 'Location' in Window 'Untitled - Appointment  ',Schedule a date for trip,Event_741
+14,Recording_163,Process_28,2021-12-15T08:50:02+00:00,Send keys,TextToSend:'{LShiftKey}(D)elhi',Schedule a date for trip,Event_741
+15,Recording_163,Process_28,2021-12-15T08:50:13+00:00,Click UI element in window,Pane 'AfxWndW' in Window 'Buisness Trip - Appointment  ',Schedule a date for trip,Event_741
+16,Recording_163,Process_28,2021-12-15T08:50:17+00:00,Click UI element in window,Pane 'Afx:800:0:6:0',Schedule a date for trip,Event_741
+17,Recording_163,Process_28,2021-12-15T08:50:19+00:00,Click UI element in window,Pane 'AfxWndW' 2 in Window 'Buisness Trip - Appointment  ',Schedule a date for trip,Event_741
+18,Recording_163,Process_28,2021-12-15T08:50:23+00:00,Click UI element in window,Pane 'Afx:800:0:6:0',Schedule a date for trip,Event_741
+19,Recording_163,Process_28,2021-12-15T08:50:28+00:00,Press button in window,Button 'Save & Close' in Window 'Buisness Trip - Appointment  ',Schedule a date for trip,Event_741
+20,Recording_163,Process_28,2021-12-15T08:50:36+00:00,Press button in window,Google Chrome - 1 running window in Quick Launch Bar,Check weather for the desired location,Event_742
+21,Recording_163,Process_28,2021-12-15T08:50:40+00:00,Press button in window,Button 'New Tab' in Pane 'TalentHub 2.0 - Google Chrome - Person 1',Check weather for the desired location,Event_742
+22,Recording_163,Process_28,2021-12-15T08:50:48+00:00,Populate text field in window,Edit 'Address and search bar' in Pane 'TalentHub 2.0 - Google Chrome - Person 1'; Text:'msn weather',Check weather for the desired location,Event_742
+23,Recording_163,Process_28,2021-12-15T08:50:49+00:00,Send keys,TextToSend:'{Return}',Check weather for the desired location,Event_742
+24,Recording_163,Process_28,2021-12-15T08:50:53+00:00,Click UI element in window,Hyperlink ' Forecast  ...  › we-city' in Pane 'TalentHub 2.0 - Google Chrome - Person 1',Check weather for the desired location,Event_742
+25,Recording_163,Process_28,2021-12-15T08:50:59+00:00,Click UI element in window,Combo Box 'Search for location' in Pane 'TalentHub 2.0 - Google Chrome - Person 1',Check weather for the desired location,Event_742
+26,Recording_163,Process_28,2021-12-15T08:51:01+00:00,Send keys,TextToSend:'{LShiftKey}(D)elhi',Check weather for the desired location,Event_742
+27,Recording_163,Process_28,2021-12-15T08:51:13+00:00,Click UI element in window,"List Item 'Delhi, India' in Pane 'TalentHub 2.0 - Google Chrome - Person 1'",Check weather for the desired location,Event_742

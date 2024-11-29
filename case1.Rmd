@@ -1,0 +1,303 @@
+---
+title: "Week1"
+author: "GustavoAquino"
+date: "2024-01-02"
+output: html_document
+---
+Setup
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+rm(list = ls())
+require("knitr")
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(car)
+library(janitor)
+library(gridExtra)
+
+```
+
+Data loading and arrangements
+```{r}
+# Start by loading the data
+data <- read.csv(
+  header = TRUE,
+  file = here::here("case1/SPR.txt"),
+  sep = ''
+  ) %>% 
+  select(
+    -c(Cycle)
+  )
+
+detergent <- data %>% 
+  clean_names() %>%
+  mutate(
+    across(.cols = c('enzyme','det_stock','ca_stock'), ~as.factor(.x))
+  ) %>% 
+  select(-run_date)
+
+detergent_date <- data %>% 
+  clean_names() %>%
+  mutate(
+    across(.cols = c('run_date','det_stock','ca_stock'), ~as.factor(.x))
+  ) %>% 
+  filter(
+    enzyme_conc==0.0
+  ) %>% 
+  select(-c(enzyme, enzyme_conc))
+  
+detergent_plot <- data %>% 
+  mutate(
+    across(.cols = c('RunDate','Enzyme','DetStock','CaStock'), ~as.factor(.x))
+  ) %>% 
+  select(-RunDate)
+
+# Basic properties
+str(detergent)
+
+summary(detergent)
+
+pairs(detergent, panel=panel.smooth)
+pairs(detergent, col = detergent$enzyme)
+
+```
+
+Normality check
+```{r}
+# normality of response
+hist_response <- hist(detergent$response)
+x_range <- seq(min(detergent$response), max(detergent$response), length.out = 100)
+
+par(mfrow=c(1,2))
+qqPlot(detergent$response,
+     main = 'QQ-Plot',
+     ylab = 'Response (Catalytic activity)',
+     xlab = 'Norm quantiles')
+plot(ecdf(detergent$response),
+     main = 'ECDF(Response)',
+     ylab = 'Cumulativa Probability',
+     xlab = 'Response (Catalytic activity)', pch=20)
+lines(
+  x_range,
+  pnorm(x_range, mean(detergent$response), sd(detergent$response)),
+  lw = 3, col = "red"
+)
+abline(v=hist_response$breaks)
+
+shapiro.test(detergent$response)
+
+# simple model just to have an ideia, the transformations were arbitrary
+# bc2 <- boxCox(lm(response~., detergent), lambda = seq(-0.5, 2, by = 0.05))
+# bc2$x[ which.max(bc2$y) ]
+
+shapiro.test(log(detergent$response))
+shapiro.test(sqrt(detergent$response))
+shapiro.test((detergent$response)^(1/3))
+
+# sqrt chosen after some iterations
+detergent <- detergent %>% mutate(response = sqrt(response))
+# update values for new plots
+hist_response <- hist(detergent$response)
+x_range <- seq(min(detergent$response), max(detergent$response), length.out = 100)
+
+par(mfrow=c(1,2))
+qqPlot(detergent$response,
+     main = 'QQ-Plot',
+     ylab = 'Sqrt Response) ',
+     xlab = 'Norm quantiles')
+plot(ecdf(detergent$response),
+     main = 'ECDF(sqrt(Response))',
+     ylab = 'Cumulativa Probability',
+     xlab = 'Response (Catalytic activity)', pch=20)
+lines(
+  x_range,
+  pnorm(x_range, mean(detergent$response), sd(detergent$response)),
+  lw = 3, col = "red"
+)
+abline(v=hist_response$breaks)
+
+```
+
+Detergent influence
+```{r}
+means <- aggregate(response ~ det_stock + enzyme, data = detergent, FUN = mean)
+
+box_plot <- ggplot(detergent, aes(x = det_stock, y = response, fill = enzyme)) +
+  geom_boxplot() +
+  labs(
+    title = "",
+    x = "Detergent Stock",
+    y = "Sqrt Response",
+    fill = "Enzyme",
+    color = "Enzyme"
+    ) +
+  theme_minimal()
+
+line_plot <- ggplot(detergent, aes(x = det_stock, y = response, group = enzyme, color = enzyme)) +
+geom_line(
+    data = means,
+    size = 0.75
+  ) +
+  labs(
+    title = "",
+    x = "Detergent Stock",
+    y = "Response mean",
+    color = "Enzyme"
+  ) +
+  scale_x_discrete(expand = c(0.1, 0.1)) +
+  theme_minimal()
+
+grid.arrange(box_plot, line_plot, nrow=2)
+
+```
+
+Hardness influence
+```{r}
+means <- aggregate(response ~ ca_stock + enzyme, data = detergent, FUN = mean)
+
+box_plot <- ggplot(detergent, aes(x = ca_stock, y = response, fill = enzyme)) +
+  geom_boxplot() +
+  labs(
+    title = "",
+    x = "Hardness",
+    y = "Sqrt Response",
+    fill = "Enzyme",
+    color = "Enzyme"
+    ) +
+  theme_minimal()
+
+line_plot <- ggplot(detergent, aes(x = ca_stock, y = response, group = enzyme, color = enzyme)) +
+geom_line(
+    data = means,
+    linewidth = 0.75
+  ) +
+  labs(
+    title = "",
+    x = "Hardness",
+    y = "Response mean",
+    color = "Enzyme"
+  ) +
+  scale_x_discrete(expand = c(0.1, 0.1)) +
+  theme_minimal()
+
+grid.arrange(box_plot, line_plot, nrow=2)
+```
+
+Concentration influence
+```{r}
+# looking into enzyme concentration
+means <- aggregate(response ~ enzyme_conc + enzyme, data = detergent, FUN = mean)
+
+# visualization
+box_plot <- ggplot(detergent, aes(x = as.factor(enzyme_conc), y = response, fill = enzyme)) +
+  geom_boxplot() +
+  labs(
+    title = "",
+    x = "Concentration",
+    y = "Sqrt Response",
+    fill = "Enzyme",
+    color = "Enzyme"
+    ) +
+  theme_minimal()
+
+line_plot <- ggplot(detergent, aes(x = enzyme_conc, y = response, group = enzyme, color = enzyme)) +
+geom_line(
+    data = means,
+    linewidth = 0.75
+  ) +
+  labs(
+    title = "",
+    x = "Concentration",
+    y = "Response mean",
+    color = "Enzyme"
+  ) +
+  theme_minimal()
+
+grid.arrange(box_plot, line_plot, nrow=2)
+
+```
+
+Model testing
+```{r}
+# This models are too simple, there is no need to use them
+# Start with the one with 3 level iterations and go backwards from it
+# lm_t1 <- lm(response ~ ., detergent)
+# summary(lm_t1, correlation = TRUE)
+# Anova(lm_t1)
+# lm_t1b <- step(lm_t1)
+# Anova(lm_t1b)
+# 
+# lm_t2 <- lm(response ~ .^2, detergent)
+# summary(lm_t2)
+# Anova(lm_t2)
+# lm_t2b <- step(lm_t2)
+# Anova(lm_t2b)
+
+# detergent dataframe have the response in sqrt() transformation already 
+lm_t3 <- lm(response ~ .^3, detergent)
+summary(lm_t3)
+Anova(lm_t3)
+lm_t3b <- step(lm_t3)
+Anova(lm_t3b)
+lm_t3c <- update(lm_t3b, ~ .-enzyme:det_stock)
+Anova(lm_t3c)
+
+```
+
+Check assumptions
+```{r}
+par(mfrow=c(2,2))
+plot(lm_t3c)
+
+par(mfrow=c(1,1))
+boxCox(lm_t3c, lambda = seq(0.5, 1.5, by = 0.05))
+
+# Its to hard to do the graph with confidence and prediction interval because we have 3 variables on the model
+# Just use the plots from above to explain, should be enough
+```
+
+Systematical error due to date and enzyme 100% colinearity
+```{r}
+plot(sqrt(response)~run_date, detergent_date,
+     xlab = 'RunDate',
+     ylab = 'Sqrt Response')
+
+lm_date <- lm(sqrt(response) ~ .^3, detergent_date)
+Anova(lm_date)
+lm_date1 <- step(lm_date)
+Anova(lm_date1)
+
+lm_date2 <- lm(response ~ .^3, detergent_date)
+Anova(lm_date2)
+lm_date1 <- step(lm_date2)
+Anova(lm_date3)
+
+
+```
+
+Extra
+```{r}
+detergent_cbrt <- detergent %>% mutate(response =(response^2)^(1/3))
+qqPlot(detergent_cbrt$response)
+
+lm_cbrt <- lm(response ~ .^3, detergent_cbrt)
+lm_cbrt1 <- step(lm_cbrt)
+Anova(lm_cbrt1)
+lm_cbrt2 <- update(lm_cbrt1, ~ .-enzyme:det_stock)
+Anova(lm_cbrt2)
+
+# Assumptions
+par(mfrow=c(2,2))
+plot(lm_cbrt2)
+
+par(mfrow=c(1,1))
+boxCox(lm_cbrt2, lambda = seq(0.5, 2, by = 0.05))
+# doesn't include 1.0 in the interval
+
+
+```
+
+
+
+

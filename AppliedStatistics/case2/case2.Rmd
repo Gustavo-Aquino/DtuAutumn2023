@@ -1,0 +1,231 @@
+---
+title: "case2"
+author: "GustavoAquino"
+date: "2024-01-11"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+rm(list = ls())
+require("knitr")
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(car)
+library(janitor)
+library(gridExtra)
+library(outliers)
+library(EnvStats)
+library(tibble)
+library(reshape2)
+```
+
+# Padronized Data
+```{r}
+htk_base <- read.csv(
+  here::here("case2/merged_data.csv")
+) %>% 
+  mutate(
+    across(.cols=c("ID","date","dir","cond","fog","rain"), ~as.factor(.x)),
+    diff = 21-temp,
+    mapped_id = as.factor(as.integer(ID))
+  )
+
+htk_std <- htk_base
+htk_no_zero <- htk_base %>% filter(consumption != 0)
+
+htk_avg <- htk_no_zero %>% 
+  group_by(ID) %>%
+  mutate(
+    building_con = mean(consumption),
+    avg_con = consumption/building_con
+  ) %>% 
+  ungroup() %>% 
+  mutate()
+
+numeric_columns <- sapply(htk_base, is.numeric)
+numeric_columns_avg <- sapply(htk_avg, is.numeric)
+
+htk_std[numeric_columns] <- scale(htk_base[numeric_columns])
+htk_avg[numeric_columns_avg] <- scale(htk_avg[numeric_columns_avg])
+htk_no_zero[numeric_columns] <- scale(htk_no_zero[numeric_columns])
+
+# possible relation between workday/weekend and months
+# htk_avg$day <- format(as.Date(htk_avg$date),"%A")
+# htk_avg$month <- as.factor(format(as.Date(htk_avg$date),"%B"))
+# 
+# htk_avg <- htk_avg %>% 
+#   mutate(
+#     day = as.factor(if_else(day %in% c('Monday','Tuesday','Wednesday','Thursday'), 'workday','weekend'))
+#   )
+
+building_info <- readxl::read_xlsx(
+  here::here('case2/HTK_building_data_share.xlsx'),
+  col_names = c('ID','type','property_number','building_number','address','postnr','city','property_area','building_area'),
+  skip=1
+)
+
+
+```
+
+## Statistics
+Only on a basic level to have an understandig of the data and how it may behave in the model
+```{r}
+# understanding the data and it's general distribution
+summary(htk_base)
+
+```
+
+# Modelling
+## Basic and first iterations
+```{r}
+lm1 <- lm(consumption~(diff+mapped_id+diff:mapped_id), htk_base)
+
+par(mfrow = c(2,2))
+plot(lm1)
+
+# removing outliers from whole data
+lm2 <- lm(
+  consumption ~ diff+mapped_id+diff:mapped_id,
+  htk_base[-c(3282,3357), ]
+  )
+par(mfrow = c(2,2))
+plot(lm2)
+
+# removing zeros as they don't have significance
+lm3 <- lm(
+  consumption ~ diff+mapped_id+diff:mapped_id,
+  htk_no_zero
+  )
+par(mfrow = c(2,2))
+plot(lm3)
+
+# removing outliers from data without zero
+lm4 <- lm(
+  consumption ~ diff+mapped_id+diff:mapped_id,
+  htk_no_zero[-c(3337,3262), ]
+  )
+par(mfrow = c(2,2))
+plot(lm4)
+Anova(lm4)
+summary(lm4)
+```
+# Bad assumptions overall so new method
+Using observation/mean(building)
+Change the unit to have better comparison 
+```{r}
+# now taking the avg of the building into account
+# no zeros and removing the 2 outliers
+lm_avg <- lm(avg_con ~ mapped_id+diff+diff:mapped_id, htk_avg[-c(3337,3262),])
+
+par(mfrow = c(2,2))
+plot(lm_avg)
+Anova(lm_avg)
+summary(lm_avg)
+
+```
+
+# Improving the model
+Creating maximal model and scoping it down
+all parameters + all interactions of diff and parameters
+```{r}
+htk <- htk_avg %>% 
+  select(
+    -c(consumption, temp, mapped_id, building_con, date)
+  )
+
+htk <- htk[-c(3337,3262), ]
+
+# we dont use fog, rain, vis, dew_pt and dir (dew_pt is correlated to temp)
+lm_general <- lm(
+  avg_con ~ (.-vis-dew_pt-dir)+diff:(ID+wind_spd+hum+pressure+cond+fog+rain),
+  htk
+  )
+Anova(lm_general)
+alias(lm_general)
+# aliased coefficients
+lm_general1 <- update(lm_general,~.-diff:cond)
+Anova(lm_general1)
+lm_general2 <- update(lm_general1,~.-pressure:diff)
+Anova(lm_general2)
+lm_general3 <- update(lm_general2,~.-fog:diff)
+Anova(lm_general3)
+lm_general4 <- update(lm_general3,~.-rain:diff)
+Anova(lm_general4)
+
+```
+
+```{r}
+model <- summary(lm_general4, correlation = TRUE)
+  
+coef <- as.data.frame(model$coefficients)
+coef <- rownames_to_column(coef) %>% 
+  filter(grepl("diff", rowname))
+
+cov <- as.data.frame(model$cov.unscaled)
+cov <- rownames_to_column(cov) %>% 
+  filter(grepl("diff", rowname)) %>% 
+  select(matches("diff"))
+
+
+A <- cbind(diag(83), mean(htk$wind_spd), mean(htk$hum))
+A[,1] <- 1
+
+est <- as.matrix(A) %*% coef$Estimate
+
+var_est <- A %*% as.matrix(cov) %*% t(A) * model$sigma^2
+
+slopes <- data.frame(
+  ID=levels(htk$ID),
+  slope=est,
+  sd.error=sqrt(diag(var_est)),
+  weather='no_rain'
+)
+
+insulation <- slopes[order(slopes$slope, decreasing = TRUE),]
+
+worst4 <- insulation %>%
+  arrange(desc(slope)) %>%  # Arrange in descending order of slope
+  slice_head(n = 4) 
+
+insulation_plot <- ggplot(insulation, aes(x=reorder(ID,slope), y=slope))+
+  geom_point() +
+  geom_errorbar(aes(ymin=slope-sd.error, ymax=slope+sd.error))+
+  theme_minimal() +
+  labs(x = "Building", y = "Ua") +
+  theme(axis.text.x = element_blank())
+
+worst4_plot <- ggplot(worst4, aes(x=reorder(ID,slope), y=slope))+
+  geom_point() +
+  geom_errorbar(aes(ymin=slope-sd.error, ymax=slope+sd.error))+
+  theme_minimal() +
+  labs(x = "Building", y = "Ua")
+
+```
+
+
+```{r eval=FALSE}
+# Calculate the correlation matrix for numeric variables
+htk_cor <- htk %>% select(-avg_con)
+num_cols <- sapply(htk_cor, is.numeric)
+numeric_cor <- cor(htk_cor[num_cols])
+
+# Display numeric correlation matrix
+print("Numeric Correlation Matrix:")
+print(numeric_cor)
+
+cor_melted <- melt(numeric_cor)
+
+# Plot the heatmap using ggplot2
+ggplot(cor_melted, aes(Var1, Var2, fill = value)) +
+  geom_tile(color = "white") +
+  scale_fill_gradient2(low = "blue", mid = "white", high = "red", midpoint = 0, limit = c(-1, 1), space = "Lab") +
+  theme_minimal() +
+  labs(title = "Numeric Correlation Heatmap",
+       x = "Variables",
+       y = "Variables")
+```
+
+
+
